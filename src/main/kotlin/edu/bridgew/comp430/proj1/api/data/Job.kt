@@ -11,5 +11,6 @@ data class Job(
     val relatedLinks: List<Link>,
     val thumbnail: URI,
     val extensions: List<String>,
-    val detectedExtensions: List<String>
+    val detectedExtensions: List<String>,
+    val jobId: String
 )
