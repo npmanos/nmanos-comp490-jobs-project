@@ -1,9 +1,7 @@
 name: Run Gradle on every push
 on:
-  push:
-    branches: ["main", "develop", "release/*"]
-  pull_request:
-    branches: ["main", "develop"]
+  - push
+  - pull_request
 
 permissions:
   contents: write
