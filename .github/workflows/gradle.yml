@@ -14,7 +14,7 @@ jobs:
         distribution: temurin
         java-version: 21
     - name: Setup Gradle
-      uses: gradle/actions/setup-gradle@v3-beta
+      uses: gradle/actions/setup-gradle@v3
       with:
         dependency-graph: generate-and-submit
     - name: Execute Gradle build
