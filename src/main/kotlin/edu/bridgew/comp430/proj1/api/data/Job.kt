@@ -12,8 +12,8 @@ data class Job(
     val description: String,
     @Json(name = "job_highlights") val jobHighlights: List<JobHighlight>,
     @Json(name = "related_links") val relatedLinks: List<Link>,
-    val thumbnail: URI,
+    val thumbnail: String?, // TODO: convert to URI
     val extensions: List<String>,
-    @Json(name = "detected_extensions") val detectedExtensions: List<String>,
+    @Json(name = "detected_extensions") val detectedExtensions: Map<String, String>, //TODO: Map<Extension, String>,
     @Json(name = "job_id") val jobId: String
 )

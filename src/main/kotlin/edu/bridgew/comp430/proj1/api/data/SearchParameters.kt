@@ -8,5 +8,5 @@ data class SearchParameters(
     val q: String,
     val engine: String,
     @Json(name = "google_domain") val googleDomain: String,
-    val hl: String
+    val hl: String?
 )

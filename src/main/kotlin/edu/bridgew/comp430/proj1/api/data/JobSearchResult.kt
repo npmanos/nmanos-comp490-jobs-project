@@ -5,8 +5,8 @@ import com.squareup.moshi.JsonClass
 
 @JsonClass(generateAdapter = true)
 data class JobSearchResult(
-    @Json(name = "search_metadata") val searchMetadata: SearchMetadata,
-    @Json(name = "search_parameters") val searchParameters: SearchParameters,
-    @Json(name = "job_results") val jobResults: List<Job>,
-    val chips: List<Chip>
+    @Json(name = "search_metadata") val searchMetadata: SearchMetadata?,
+    @Json(name = "search_parameters") val searchParameters: SearchParameters?,
+    @Json(name = "jobs_results") val jobsResults: List<Job>?,
+    val chips: List<Chip>?
 )

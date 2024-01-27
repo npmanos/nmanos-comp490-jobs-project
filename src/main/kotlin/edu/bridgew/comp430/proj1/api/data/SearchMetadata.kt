@@ -8,11 +8,11 @@ import java.time.LocalDateTime
 @JsonClass(generateAdapter = true)
 data class SearchMetadata(
     val id: String,
-    val status: SearchStatus,
-    @Json(name = "json_endpoint") val jsonEndpoint: URI,
-    @Json(name = "created_at") val createdAt: LocalDateTime,
-    @Json(name = "processed_at") val processedAt: LocalDateTime,
-    @Json(name = "google_jobs_url") val googleJobsUrl: URI,
-    @Json(name = "raw_html_file") val rawHtmlFile: URI,
+//    val status: SearchStatus,
+    @Json(name = "json_endpoint") val jsonEndpoint: String, //TODO: convert to URI
+    @Json(name = "created_at") val createdAt: String, //TODO: convert to LocalDateTime
+    @Json(name = "processed_at") val processedAt: String, //TODO: convert to LocalDateTime
+    @Json(name = "google_jobs_url") val googleJobsUrl: String, //TODO: convert to URI
+    @Json(name = "raw_html_file") val rawHtmlFile: String, //TODO: convert to URI
     @Json(name = "total_time_taken") val totalTimeTaken: Double
 )

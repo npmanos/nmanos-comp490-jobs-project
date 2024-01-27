@@ -28,8 +28,11 @@ dependencies {
 
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
+
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
+
 }
 
 tasks.test {
