@@ -9,7 +9,8 @@ import java.time.ZonedDateTime
 @JsonClass(generateAdapter = true)
 data class SearchMetadata(
     val id: String,
-//    val status: SearchStatus,
+    val status: SearchStatus, //TODO: SearchStatus
+    val error: String?,
     @Json(name = "json_endpoint") val jsonEndpoint: String, //TODO: convert to URI
     @Json(name = "created_at") val createdAt: ZonedDateTime,
     @Json(name = "processed_at") val processedAt: ZonedDateTime,
