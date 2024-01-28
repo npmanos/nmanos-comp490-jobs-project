@@ -30,6 +30,9 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
 
+    implementation("org.ocpsoft.prettytime:prettytime:5.0.7.Final")
+    implementation("org.ocpsoft.prettytime:prettytime-nlp:5.0.7.Final")
+
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
 
