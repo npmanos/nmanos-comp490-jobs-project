@@ -32,9 +32,11 @@ dependencies {
 
     implementation("org.ocpsoft.prettytime:prettytime:5.0.7.Final")
     implementation("org.ocpsoft.prettytime:prettytime-nlp:5.0.7.Final")
+    implementation("org.slf4j:slf4j-nop:1.7.36")
 
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
+    testImplementation("org.slf4j:slf4j-nop:1.7.36")
 
 }
 
