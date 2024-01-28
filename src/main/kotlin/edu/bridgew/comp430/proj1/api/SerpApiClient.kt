@@ -1,5 +1,8 @@
 package edu.bridgew.comp430.proj1.api
 
+import com.squareup.moshi.Moshi
+import com.squareup.moshi.addAdapter
+import edu.bridgew.comp430.proj1.api.adapters.ExtensionJsonAdapter
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.Response
@@ -22,7 +25,15 @@ class SerpApiClient(private val apiKey: String) {
         private const val BASE_URL = "https://serpapi.com/"
     }
 
-    val client by lazy {
+    @OptIn(ExperimentalStdlibApi::class)
+    private val moshi by lazy {
+        Moshi.Builder()
+//            .add(ExtensionJsonAdapter())
+            .addAdapter(ExtensionJsonAdapter())
+            .build()
+    }
+
+    private val client by lazy {
         Retrofit.Builder()
             .client(OkHttpClient()
                 .newBuilder()
@@ -30,7 +41,7 @@ class SerpApiClient(private val apiKey: String) {
                 .build(),
             )
             .baseUrl(BASE_URL)
-            .addConverterFactory(MoshiConverterFactory.create())
+            .addConverterFactory(MoshiConverterFactory.create(moshi))
             .build()
     }
 

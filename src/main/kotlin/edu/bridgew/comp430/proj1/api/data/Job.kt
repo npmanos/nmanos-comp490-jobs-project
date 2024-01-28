@@ -2,7 +2,6 @@ package edu.bridgew.comp430.proj1.api.data
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
-import java.net.URI
 
 @JsonClass(generateAdapter = true)
 data class Job(
@@ -14,6 +13,6 @@ data class Job(
     @Json(name = "related_links") val relatedLinks: List<Link>,
     val thumbnail: String?, // TODO: convert to URI
     val extensions: List<String>,
-    @Json(name = "detected_extensions") val detectedExtensions: Map<String, String>, //TODO: Map<Extension, String>,
+    @Json(name = "detected_extensions") val detectedExtensions: List<Extension>,
     @Json(name = "job_id") val jobId: String
 )
