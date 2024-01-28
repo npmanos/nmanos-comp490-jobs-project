@@ -3,6 +3,7 @@ package edu.bridgew.comp430.proj1.api
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.addAdapter
 import edu.bridgew.comp430.proj1.api.adapters.ExtensionJsonAdapter
+import edu.bridgew.comp430.proj1.api.adapters.ZonedDateTimeAdapter
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.Response
@@ -28,7 +29,7 @@ class SerpApiClient(private val apiKey: String) {
     @OptIn(ExperimentalStdlibApi::class)
     private val moshi by lazy {
         Moshi.Builder()
-//            .add(ExtensionJsonAdapter())
+            .add(ZonedDateTimeAdapter())
             .addAdapter(ExtensionJsonAdapter())
             .build()
     }
