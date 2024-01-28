@@ -4,6 +4,6 @@ import com.squareup.moshi.JsonClass
 
 @JsonClass(generateAdapter = true)
 data class Link(
-    val link: String, // TODO: convert to URI
+    val link: String,
     val text: String
 )
