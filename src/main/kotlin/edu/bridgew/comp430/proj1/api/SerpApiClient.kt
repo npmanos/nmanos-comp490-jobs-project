@@ -36,7 +36,7 @@ class SerpApiClient(private val apiKey: String) {
             .build()
     }
 
-    private val client by lazy {
+    val retrofit by lazy {
         Retrofit.Builder()
             .client(OkHttpClient()
                 .newBuilder()
@@ -49,6 +49,6 @@ class SerpApiClient(private val apiKey: String) {
     }
 
     val jobSearchApi by lazy {
-        client.create(GoogleJobSearchService::class.java)
+        retrofit.create(GoogleJobSearchService::class.java)
     }
 }

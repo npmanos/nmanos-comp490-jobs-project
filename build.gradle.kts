@@ -12,17 +12,22 @@ repositories {
 }
 
 dependencies {
+    val retrofitVersion = "2.9.0"
+    val moshiSealedVersion = "0.25.1"
+    val prettytimeVersion = "5.0.7.Final"
+    val slf4jVersion = "1.7.36"
+    val mockkVersion = "1.13.9"
+
+
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
 
     ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
-    ksp("dev.zacsweers.moshix:moshi-sealed-codegen:0.25.1")
+    ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
 
     implementation("com.squareup.okhttp3:okhttp")
-    implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    implementation("com.squareup.retrofit2:converter-moshi:2.9.0")
-    implementation("dev.zacsweers.moshix:moshi-sealed-runtime:0.25.1")
-
-    implementation("com.github.serpapi:google-search-results-java:aff4a9caf3")
+    implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
+    implementation("com.squareup.retrofit2:converter-moshi:$retrofitVersion")
+    implementation("dev.zacsweers.moshix:moshi-sealed-runtime:$moshiSealedVersion")
 
     implementation("javax.annotation:javax.annotation-api:1.3.2")
 
@@ -30,13 +35,14 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
 
-    implementation("org.ocpsoft.prettytime:prettytime:5.0.7.Final")
-    implementation("org.ocpsoft.prettytime:prettytime-nlp:5.0.7.Final")
-    implementation("org.slf4j:slf4j-nop:1.7.36")
+    implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
+    implementation("org.ocpsoft.prettytime:prettytime-nlp:$prettytimeVersion")
+    implementation("org.slf4j:slf4j-nop:$slf4jVersion")
 
     testImplementation("com.squareup.okhttp3:mockwebserver")
+    testImplementation("io.mockk:mockk:${mockkVersion}")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
-    testImplementation("org.slf4j:slf4j-nop:1.7.36")
+    testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
 
 }
 
