@@ -51,4 +51,33 @@ class SearchStatusTest : JsonClassTestBase() {
             assertEquals(json, serializedContainer)
         }
     }
+
+    @Nested
+    @DisplayName("StatusSuccess tests")
+    inner class StatusSuccessTest {
+        private val json = "{\"status\":\"Success\"}"
+        private lateinit var adapter: JsonAdapter<Container>
+
+        @BeforeTest
+        fun setupContainer() {
+            adapter = moshi.adapter()
+        }
+
+        @Test
+        fun `StatusSuccess deserialize test`() {
+            val container = adapter.fromJson(json)
+
+            assertNotNull(container)
+            assertIs<StatusSuccess>(container.status)
+            assertSame(StatusSuccess, container.status)
+        }
+
+        @Test
+        fun `StatusSuccess serialize test`() {
+            val container = Container(StatusSuccess)
+            val serializedContainer = adapter.toJson(container)
+
+            assertEquals(json, serializedContainer)
+        }
+    }
 }
