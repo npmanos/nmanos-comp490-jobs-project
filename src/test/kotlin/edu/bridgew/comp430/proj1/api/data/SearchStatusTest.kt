@@ -12,12 +12,12 @@ import org.junit.jupiter.params.provider.MethodSource
 import kotlin.test.*
 
 @OptIn(ExperimentalStdlibApi::class)
-class SearchStatusTest : JsonClassTestBase() {
+class SearchStatusTest : JsonClassTestBase<SearchStatusTest.Container>() {
     override lateinit var moshi: Moshi
-    private lateinit var adapter: JsonAdapter<Container>
+    override lateinit var adapter: JsonAdapter<Container>
 
     @JsonClass(generateAdapter = true)
-    internal data class Container(val status: SearchStatus)
+    data class Container(val status: SearchStatus)
 
     @BeforeTest
     override fun setupMoshi() {
