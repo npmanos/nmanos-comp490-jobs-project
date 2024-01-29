@@ -12,6 +12,7 @@ import kotlin.test.*
 @OptIn(ExperimentalStdlibApi::class)
 class SearchStatusTest : JsonClassTestBase() {
     override lateinit var moshi: Moshi
+    private lateinit var adapter: JsonAdapter<Container>
 
     @JsonClass(generateAdapter = true)
     internal data class Container(val status: SearchStatus)
@@ -21,18 +22,14 @@ class SearchStatusTest : JsonClassTestBase() {
         moshi = Moshi.Builder()
             .add(SearchStatusAdapter())
             .build()
+
+        adapter = moshi.adapter()
     }
 
     @Nested
     @DisplayName("StatusProcessing tests")
     inner class StatusProcessingTest {
         private val json = "{\"status\":\"Processing\"}"
-        private lateinit var adapter: JsonAdapter<Container>
-
-        @BeforeTest
-        fun setupJsonAdapter() {
-            adapter = moshi.adapter()
-        }
 
         @Test
         fun `StatusProcessing deserialize test`() {
@@ -56,12 +53,6 @@ class SearchStatusTest : JsonClassTestBase() {
     @DisplayName("StatusSuccess tests")
     inner class StatusSuccessTest {
         private val json = "{\"status\":\"Success\"}"
-        private lateinit var adapter: JsonAdapter<Container>
-
-        @BeforeTest
-        fun setupContainer() {
-            adapter = moshi.adapter()
-        }
 
         @Test
         fun `StatusSuccess deserialize test`() {
@@ -75,6 +66,29 @@ class SearchStatusTest : JsonClassTestBase() {
         @Test
         fun `StatusSuccess serialize test`() {
             val container = Container(StatusSuccess)
+            val serializedContainer = adapter.toJson(container)
+
+            assertEquals(json, serializedContainer)
+        }
+    }
+
+    @Nested
+    @DisplayName("StatusError tests")
+    inner class StatusErrorTest {
+        private val json = "{\"status\":\"Error\"}"
+
+        @Test
+        fun `StatusError deserialize test`() {
+            val container = adapter.fromJson(json)
+
+            assertNotNull(container)
+            assertIs<StatusError>(container.status)
+            assertSame(StatusError, container.status)
+        }
+
+        @Test
+        fun `StatusError serialize test`() {
+            val container = Container(StatusError)
             val serializedContainer = adapter.toJson(container)
 
             assertEquals(json, serializedContainer)
