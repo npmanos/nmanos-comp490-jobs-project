@@ -116,7 +116,8 @@ class SearchStatusTest : JsonClassTestBase() {
                 "[]",
                 "[\"foo\", \"bar\"]",
                 "true",
-                "false"
+                "false",
+                "null"
             )
         }
 
