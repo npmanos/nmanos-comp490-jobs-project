@@ -33,5 +33,5 @@ jobs:
           VALIDATE_JSCPD: false
           DEFAULT_BRANCH: "develop"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EDITORCONFIG_FILE_NAME: ${{ env.GITHUB_WORKSPACE }}/.editorconfig
+          EDITORCONFIG_FILE_NAME: .editorconfig
 
