@@ -29,8 +29,6 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-moshi:$retrofitVersion")
     implementation("dev.zacsweers.moshix:moshi-sealed-runtime:$moshiSealedVersion")
 
-    implementation("javax.annotation:javax.annotation-api:1.3.2")
-
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
@@ -57,5 +55,5 @@ kotlin {
 }
 
 ksp {
-    arg("moshi.generated", "javax.annotation.Generated")
+    arg("moshi.generated", "javax.annotation.processing.Generated")
 }
