@@ -15,7 +15,7 @@ dependencies {
     val retrofitVersion = "2.9.0"
     val moshiSealedVersion = "0.25.1"
     val prettytimeVersion = "5.0.7.Final"
-    val slf4jVersion = "1.7.36"
+    val slf4jVersion = "2.0.11"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
