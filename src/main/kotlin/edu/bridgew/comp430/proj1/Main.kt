@@ -3,10 +3,8 @@ package edu.bridgew.comp430.proj1
 import edu.bridgew.comp430.proj1.api.ApiResult
 import edu.bridgew.comp430.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp430.proj1.api.SerpApiClient
-import edu.bridgew.comp430.proj1.api.data.UnknownExtension
 import edu.bridgew.comp430.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.asFlow
 import kotlinx.coroutines.flow.buffer
