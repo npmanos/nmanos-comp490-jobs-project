@@ -4,6 +4,7 @@ import edu.bridgew.comp430.proj1.api.data.Job
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
+import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.withContext
 import retrofit2.Retrofit
 import retrofit2.create
