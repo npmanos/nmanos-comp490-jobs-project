@@ -20,7 +20,7 @@ dependencies {
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
 
-    ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
+    ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.1")
     ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
 
     implementation("com.squareup.okhttp3:okhttp")
