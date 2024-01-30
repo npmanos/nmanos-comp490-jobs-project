@@ -1,9 +1,5 @@
 package edu.bridgew.comp430.proj1.api.data
 
-import com.squareup.moshi.Moshi
-import com.squareup.moshi.adapter
-import kotlin.math.roundToInt
-
 sealed class SearchStatus(val value: String)
 
 data object StatusProcessing : SearchStatus("Processing")
@@ -24,6 +20,6 @@ class StatusUnknown(value: String) : SearchStatus(value) {
     }
 
     override fun toString(): String {
-        return "${javaClass.name.substringAfterLast('.')}(value = ${value})"
+        return "${javaClass.name.substringAfterLast('.')}(value = $value)"
     }
 }

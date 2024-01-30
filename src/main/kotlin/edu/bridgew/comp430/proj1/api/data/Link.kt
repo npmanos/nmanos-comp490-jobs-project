@@ -5,5 +5,5 @@ import com.squareup.moshi.JsonClass
 @JsonClass(generateAdapter = true)
 data class Link(
     val link: String,
-    val text: String
+    val text: String,
 )

@@ -18,7 +18,6 @@ dependencies {
     val slf4jVersion = "1.7.36"
     val mockkVersion = "1.13.9"
 
-
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
 
     ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
@@ -38,11 +37,10 @@ dependencies {
     implementation("org.slf4j:slf4j-nop:$slf4jVersion")
 
     testImplementation("com.squareup.okhttp3:mockwebserver")
-    testImplementation("io.mockk:mockk:${mockkVersion}")
+    testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.1")
     testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
-
 }
 
 tasks.test {

@@ -14,5 +14,5 @@ data class SearchMetadata(
     @Json(name = "processed_at") val processedAt: ZonedDateTime,
     @Json(name = "google_jobs_url") val googleJobsUrl: String,
     @Json(name = "raw_html_file") val rawHtmlFile: String,
-    @Json(name = "total_time_taken") val totalTimeTaken: Double
+    @Json(name = "total_time_taken") val totalTimeTaken: Double,
 )

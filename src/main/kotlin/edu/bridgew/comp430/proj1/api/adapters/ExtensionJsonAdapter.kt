@@ -1,13 +1,16 @@
 package edu.bridgew.comp430.proj1.api.adapters
 
-import com.squareup.moshi.FromJson
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.JsonReader
 import com.squareup.moshi.JsonWriter
-import edu.bridgew.comp430.proj1.api.data.*
+import edu.bridgew.comp430.proj1.api.data.Extension
+import edu.bridgew.comp430.proj1.api.data.PostedAt
+import edu.bridgew.comp430.proj1.api.data.Salary
+import edu.bridgew.comp430.proj1.api.data.ScheduleType
+import edu.bridgew.comp430.proj1.api.data.UnknownExtension
+import edu.bridgew.comp430.proj1.api.data.WorkFromHome
 import org.ocpsoft.prettytime.PrettyTime
 import org.ocpsoft.prettytime.nlp.PrettyTimeParser
-import java.text.DateFormat
 import java.time.LocalDateTime
 import java.time.ZoneId
 
@@ -69,5 +72,4 @@ class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
 
         return@with
     }
-
 }

@@ -1,15 +1,23 @@
 package edu.bridgew.comp430.proj1.api.data
 
-import com.squareup.moshi.*
+import com.squareup.moshi.JsonAdapter
+import com.squareup.moshi.JsonClass
+import com.squareup.moshi.Moshi
+import com.squareup.moshi.adapter
+import com.squareup.moshi.addAdapter
 import edu.bridgew.comp430.proj1.api.adapters.SearchStatusAdapter
-//import edu.bridgew.comp430.proj1.api.adapters.SearchStatusAdapter
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.TestInstance
 import org.junit.jupiter.api.TestInstance.Lifecycle
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.MethodSource
-import kotlin.test.*
+import kotlin.test.BeforeTest
+import kotlin.test.Test
+import kotlin.test.assertEquals
+import kotlin.test.assertIs
+import kotlin.test.assertNotNull
+import kotlin.test.assertSame
 
 @OptIn(ExperimentalStdlibApi::class)
 class SearchStatusTest : JsonClassTestBase<SearchStatusTest.Container>() {
@@ -117,7 +125,7 @@ class SearchStatusTest : JsonClassTestBase<SearchStatusTest.Container>() {
                 "[\"foo\", \"bar\"]",
                 "true",
                 "false",
-                "null"
+                "null",
             )
         }
 

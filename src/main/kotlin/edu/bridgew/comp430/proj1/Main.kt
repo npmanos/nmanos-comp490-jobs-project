@@ -2,10 +2,9 @@ package edu.bridgew.comp430.proj1
 
 import edu.bridgew.comp430.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp430.proj1.api.SerpApiClient
-import edu.bridgew.comp430.proj1.api.data.Job
 import edu.bridgew.comp430.proj1.api.data.UnknownExtension
 import io.github.cdimascio.dotenv.dotenv
-import kotlinx.coroutines.*
+import kotlinx.coroutines.runBlocking
 
 private val dotenv = dotenv {
     ignoreIfMissing = false
@@ -31,7 +30,10 @@ fun main(args: Array<String>): Unit = runBlocking {
 
     val jobs = jobSearchClient.getJobsPages("software engineer", 2)
 
-    jobs.forEach { println(it); println() }
+    jobs.forEach {
+        println(it)
+        println()
+    }
 
     val unknownExtensions = jobs.flatMap { it.detectedExtensions.filterIsInstance<UnknownExtension>() }
     unknownExtensions.forEach { println(it) }

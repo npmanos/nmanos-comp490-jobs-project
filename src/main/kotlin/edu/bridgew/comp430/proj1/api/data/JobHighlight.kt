@@ -5,5 +5,5 @@ import com.squareup.moshi.JsonClass
 @JsonClass(generateAdapter = true)
 data class JobHighlight(
     val title: String?,
-    val items: List<String>
+    val items: List<String>,
 )

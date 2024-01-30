@@ -17,5 +17,4 @@ class ZonedDateTimeAdapter {
     fun toJson(dateTime: ZonedDateTime): String {
         return dateTime.format(formatter)
     }
-
 }

@@ -2,13 +2,14 @@ package edu.bridgew.comp430.proj1.api
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.addAdapter
-import edu.bridgew.comp430.proj1.api.adapters.*
+import edu.bridgew.comp430.proj1.api.adapters.ExtensionJsonAdapter
+import edu.bridgew.comp430.proj1.api.adapters.SearchStatusAdapter
+import edu.bridgew.comp430.proj1.api.adapters.ZonedDateTimeAdapter
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.Response
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
-
 
 class SerpApiClient(private val apiKey: String) {
     private class ApiKeyInterceptor(private val apiKey: String) : Interceptor {
@@ -36,10 +37,11 @@ class SerpApiClient(private val apiKey: String) {
 
     val retrofit by lazy {
         Retrofit.Builder()
-            .client(OkHttpClient()
-                .newBuilder()
-                .addInterceptor(ApiKeyInterceptor(apiKey))
-                .build(),
+            .client(
+                OkHttpClient()
+                    .newBuilder()
+                    .addInterceptor(ApiKeyInterceptor(apiKey))
+                    .build(),
             )
             .baseUrl(BASE_URL)
             .addConverterFactory(MoshiConverterFactory.create(moshi))

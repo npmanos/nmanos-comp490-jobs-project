@@ -14,5 +14,5 @@ data class Job(
     val thumbnail: String?,
     val extensions: List<String>,
     @Json(name = "detected_extensions") val detectedExtensions: List<Extension>,
-    @Json(name = "job_id") val jobId: String
+    @Json(name = "job_id") val jobId: String,
 )

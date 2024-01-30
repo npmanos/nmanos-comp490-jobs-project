@@ -1,9 +1,17 @@
 package edu.bridgew.comp430.proj1.api.data
 
-import com.squareup.moshi.*
+import com.squareup.moshi.JsonAdapter
+import com.squareup.moshi.JsonReader
+import com.squareup.moshi.Moshi
+import com.squareup.moshi.adapter
+import com.squareup.moshi.addAdapter
 import edu.bridgew.comp430.proj1.api.adapters.SearchStatusAdapter
 import edu.bridgew.comp430.proj1.api.adapters.ZonedDateTimeAdapter
-import io.mockk.*
+import io.mockk.CapturingSlot
+import io.mockk.every
+import io.mockk.slot
+import io.mockk.spyk
+import io.mockk.verify
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.TestInstance
@@ -12,7 +20,10 @@ import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.MethodSource
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter
-import kotlin.test.*
+import kotlin.test.BeforeTest
+import kotlin.test.Test
+import kotlin.test.assertEquals
+import kotlin.test.assertFails
 
 @OptIn(ExperimentalStdlibApi::class)
 class SearchMetadataTest : JsonClassTestBase<SearchMetadata>() {
@@ -47,7 +58,7 @@ class SearchMetadataTest : JsonClassTestBase<SearchMetadata>() {
         processedAt: String = "2024-01-28 21:37:38 UTC",
         googleJobsUrl: String = "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=10",
         rawHtmlFile: String = "https://serpapi.com/searches/7427a2a1d27a8477/65b6c9222f542e7e6d27389c.html",
-        totalTimeTaken: String = "1.32"
+        totalTimeTaken: String = "1.32",
     ): String {
         return """|{
         |    "id": "$id",
@@ -58,7 +69,8 @@ class SearchMetadataTest : JsonClassTestBase<SearchMetadata>() {
         |    "google_jobs_url": "$googleJobsUrl",
         |    "raw_html_file": "$rawHtmlFile",
         |    "total_time_taken": $totalTimeTaken
-        |}""".trimMargin()
+        |}
+        """.trimMargin()
     }
 
     private fun getJsonAndClass(
@@ -69,7 +81,7 @@ class SearchMetadataTest : JsonClassTestBase<SearchMetadata>() {
         processedAt: String = "2024-01-28 21:37:38 UTC",
         googleJobsUrl: String = "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=10",
         rawHtmlFile: String = "https://serpapi.com/searches/7427a2a1d27a8477/65b6c9222f542e7e6d27389c.html",
-        totalTimeTaken: String = "1.32"
+        totalTimeTaken: String = "1.32",
     ): Pair<String, SearchMetadata> {
         val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss zzz")
         val dtCreatedAt = ZonedDateTime.parse(createdAt, formatter)
@@ -169,7 +181,7 @@ class SearchMetadataTest : JsonClassTestBase<SearchMetadata>() {
                 "2024-01-27T22:55:12",
                 "2024-01-27",
                 "22:55:12",
-                "1706414112"
+                "1706414112",
             )
         }
 
