@@ -1,0 +1,3 @@
+# Ignore all output files, but keep the output directory in git
+*
+!.gitignore

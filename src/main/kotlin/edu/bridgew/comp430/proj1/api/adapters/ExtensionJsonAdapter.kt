@@ -1,6 +1,7 @@
 package edu.bridgew.comp430.proj1.api.adapters
 
 import com.squareup.moshi.JsonAdapter
+import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonReader
 import com.squareup.moshi.JsonWriter
 import edu.bridgew.comp430.proj1.api.data.Extension
@@ -9,29 +10,32 @@ import edu.bridgew.comp430.proj1.api.data.Salary
 import edu.bridgew.comp430.proj1.api.data.ScheduleType
 import edu.bridgew.comp430.proj1.api.data.UnknownExtension
 import edu.bridgew.comp430.proj1.api.data.WorkFromHome
-import org.ocpsoft.prettytime.PrettyTime
-import org.ocpsoft.prettytime.nlp.PrettyTimeParser
+import edu.bridgew.comp430.proj1.relativeTimeString
+import java.time.Duration
 import java.time.LocalDateTime
-import java.time.ZoneId
+import java.time.Period
+import java.time.temporal.TemporalAmount
 
 class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
 
     private companion object {
-        private val parser = PrettyTimeParser()
-        private val formatter = PrettyTime()
+//        @JvmStatic
+//        private val parser = PrettyTimeParser()
 
+        @JvmStatic
         private fun toLocalDateTime(relativeDateTime: String): LocalDateTime {
-            val parsedDates = parser.parse(relativeDateTime)
+            val (numOfUnitString, unit, _) = relativeDateTime.split(" ")
+            val numOfUnit = numOfUnitString.toIntOrNull() ?: throw JsonDataException("Unable to parse posted_at value to LocalDateTime: $relativeDateTime")
+            val period: TemporalAmount = when (unit) {
+                "hour", "hours" -> Duration.ofHours(numOfUnit.toLong())
+                "day", "days" -> Period.ofDays(numOfUnit)
+                "week", "weeks" -> Period.ofWeeks(numOfUnit)
+                "month", "months" -> Period.ofMonths(numOfUnit)
+                "year", "years" -> Period.ofYears(numOfUnit)
+                else -> throw JsonDataException("Unable to parse posted_at value to LocalDateTime: $relativeDateTime")
+            }
 
-            if (parsedDates.size != 1) throw IllegalArgumentException()
-
-            val date = parsedDates[0]
-
-            return date.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime()
-        }
-
-        private fun toRelativeTimeStr(dateTime: LocalDateTime): String {
-            return formatter.format(dateTime)
+            return LocalDateTime.now() - period
         }
     }
     override fun fromJson(reader: JsonReader): List<Extension> = with(reader) {
@@ -62,7 +66,7 @@ class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
         for (extension in value) {
             when (extension) {
                 is ScheduleType -> name("schedule_type").value(extension.type)
-                is PostedAt -> name("posted_at").value(toRelativeTimeStr(extension.date))
+                is PostedAt -> name("posted_at").value(extension.date.relativeTimeString)
                 is Salary -> name("salary").value(extension.salaryRange)
                 is WorkFromHome -> name("work_from_home").value(extension.isWFH)
                 is UnknownExtension -> name(extension.extension).value(extension.value)
