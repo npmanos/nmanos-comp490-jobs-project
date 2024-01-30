@@ -4,32 +4,38 @@ import edu.bridgew.comp430.proj1.api.ApiResult
 import edu.bridgew.comp430.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp430.proj1.api.SerpApiClient
 import edu.bridgew.comp430.proj1.api.data.UnknownExtension
+import edu.bridgew.comp430.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.asFlow
 import kotlinx.coroutines.flow.buffer
 import kotlinx.coroutines.flow.flatMapMerge
+import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.runBlocking
+import okio.Path.Companion.toPath
 
 private val dotenv = dotenv {
     ignoreIfMissing = false
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
-fun main(args: Array<String>): Unit = runBlocking {
+fun main(): Unit = runBlocking(Dispatchers.Default) {
+    val writer = JobsFileWriter("./output/jobs.txt".toPath())
     val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
-    val pages = 3
+    val pages = 2
 
-    (0..<3).asFlow()
+    val flows = (0..<3).asFlow()
         .flatMapMerge { page -> jobSearchClient.getJobs("software engineer", page) }
         .buffer(pages)
+        .onCompletion { writer.close() }
         .collect { result ->
             when (result) {
                 is ApiResult.Success -> {
                     result.body.forEach {
-                        println(it)
-                        println("===================================")
+                        println(it.title)
+                        writer.writeJob(it)
                     }
                 }
                 is ApiResult.Error -> println("ERROR! ${result.errorBody}")
