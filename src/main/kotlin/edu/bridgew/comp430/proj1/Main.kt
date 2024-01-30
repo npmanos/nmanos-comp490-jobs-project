@@ -20,13 +20,13 @@ private val dotenv = dotenv {
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
-fun main(): Unit = runBlocking(Dispatchers.Default) {
+fun main(): Unit = runBlocking {
     val writer = JobsFileWriter("./output/jobs.txt".toPath())
     val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
     val pages = 2
 
-    val flows = (0..<3).asFlow()
+    (0..<3).asFlow()
         .flatMapMerge { page -> jobSearchClient.getJobs("software engineer", page) }
         .buffer(pages)
         .onCompletion { writer.close() }
