@@ -24,7 +24,7 @@ fun main(): Unit = runBlocking {
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
     val pages = 2
 
-    (0..<3).asFlow()
+    (0 until pages).asFlow()
         .flatMapMerge { page -> jobSearchClient.getJobs("software engineer", page) }
         .buffer(pages)
         .onCompletion { writer.close() }
