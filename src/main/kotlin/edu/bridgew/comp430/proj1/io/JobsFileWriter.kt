@@ -42,6 +42,57 @@ class JobsFileWriter(path: Path) {
             }
         }
 
+        // Header
+        writeHeader(job, scheduleType, wfh)
+
+        // Location
+        buffer.writeLnUtf8(job.location.trimStart())
+
+        // Salary
+        if (salary != null) {
+            buffer.writeUtf8("Salary: ")
+            buffer.writeLnUtf8(salary!!.salaryRange)
+        }
+
+        // Posted at
+        if (postedAt != null) {
+            buffer.writeUtf8("Posted ")
+            buffer.writeLnUtf8(postedAt!!.date.relativeTimeString)
+        }
+        buffer.writeLnUtf8()
+
+        // Highlights
+        writeHighlights(job)
+
+        // Job Description
+        buffer.writeLnUtf8("Description")
+        buffer.writeLnUtf8(job.description)
+
+        // Two line separator (between jobs)
+        buffer.writeLnUtf8()
+        buffer.writeLnUtf8()
+    }
+
+    private fun writeHighlights(job: Job) {
+        job.jobHighlights.forEach { highlight ->
+            if (highlight.title != null) {
+                buffer.writeLnUtf8(highlight.title)
+            }
+
+            highlight.items.forEach {
+                buffer.writeUtf8(" - ")
+                buffer.writeLnUtf8(it)
+            }
+
+            buffer.writeLnUtf8()
+        }
+    }
+
+    private fun writeHeader(
+        job: Job,
+        scheduleType: ScheduleType?,
+        wfh: WorkFromHome?,
+    ) {
         // Job Header
         buffer.writeUtf8(job.title)
         buffer.writeUtf8(" - ")
@@ -63,44 +114,6 @@ class JobsFileWriter(path: Path) {
 
             buffer.writeUtf8(")")
         }
-        buffer.writeLnUtf8()
-
-        // Location
-        buffer.writeLnUtf8(job.location.trimStart())
-
-        // Salary
-        if (salary != null) {
-            buffer.writeUtf8("Salary: ")
-            buffer.writeLnUtf8(salary!!.salaryRange)
-        }
-
-        // Posted at
-        if (postedAt != null) {
-            buffer.writeUtf8("Posted ")
-            buffer.writeLnUtf8(postedAt!!.date.relativeTimeString)
-        }
-        buffer.writeLnUtf8()
-
-        // Highlights
-        job.jobHighlights.forEach { highlight ->
-            if (highlight.title != null) {
-                buffer.writeLnUtf8(highlight.title)
-            }
-
-            highlight.items.forEach {
-                buffer.writeUtf8(" - ")
-                buffer.writeLnUtf8(it)
-            }
-
-            buffer.writeLnUtf8()
-        }
-
-        // Job Description
-        buffer.writeLnUtf8("Description")
-        buffer.writeLnUtf8(job.description)
-
-        // Two line separator (between jobs)
-        buffer.writeLnUtf8()
         buffer.writeLnUtf8()
     }
 
