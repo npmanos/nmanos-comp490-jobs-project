@@ -142,3 +142,4 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+src/test/resources/edu/bridgew/comp430/proj1/api/responses/raw/*.json

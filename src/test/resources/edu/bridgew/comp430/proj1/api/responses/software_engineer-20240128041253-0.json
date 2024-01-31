@@ -1,0 +1,1175 @@
+{
+  "search_metadata": {
+    "id": "65b5d445f636fff62e9c225a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b5d445f636fff62e9c225a.json",
+    "created_at": "2024-01-28 04:12:53 UTC",
+    "processed_at": "2024-01-28 04:12:53 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b5d445f636fff62e9c225a.html",
+    "total_time_taken": 2.33
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer, Back End",
+      "company_name": "Jobs for Humanity",
+      "location": "  Columbus, GA   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\n77 West Wacker Dr (35012), United States of America, Chicago, Illinois\n\nSenior Software Engineer, Back End\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCNoJ",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEJhY2sgRW5kIiwiaHRpZG9jaWQiOiJmN2szc2ZaMndHRXdaMW9mQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGphek5IWkhRMVdISjZWVk5tYzJwR1MzcEplRmRhUnpCWFpIbHlSV2hUTUU1aGJWVmlZWHBWVVY5YVYwSlJUbFJRWlhJNE1YbE9VRU01VXpoS1ZXbzNjSFIzVTNNNGJWazFTbFJ3UW1aaGMzVjVZVW94Vm05UFNUbG9hRTlHT1VoNGFWZFNMVlJ5T0RSaVQzQmpTR0ZJUTFGMVVHUnhiWGt5Tkc0elducHlWWFI0T1V0TVNrbHpOVUkwZGpreVdVTm5WWFpwYWxST2VraFBNWFkyTm05YWRWcDZPVU5FZEdaT1dsSXhTVFZ3WW5oeWFHUjJRM05EV1ZGSE5sZGZjVzVQZEVwcFQwTm5YMVZNWVVWaVQwbDVXR2hsWjI1NlgzaEJWbTFVVVJJWFVuUlRNVnBsTFdaUVN6Sk1kMkpyVURsYWRVVnBRV3NhSWtGUVdHaHROV0p0U0RaME5ubExVVlZ1U0Uwd2NGWTFiazVWV0dkNlptMVhSSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWJhY2stZW5kLWF0LWpvYnMtZm9yLWh1bWFuaXR5LTM4MTI4MjIwMzQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Leidos",
+      "location": "  Huntsville, AL   ",
+      "via": "via Leidos Careers",
+      "description": "Description\n\nLeidos Defense Systems, a wholly owned subsidiary of Leidos, is seeking a talented Software Engineer to collaborate with a diverse team to create unique solutions for complex problems. With offices across the United States engaging in the defense, space, cyber and commercial fields, Dynetics provides responsive, cost-effective engineering, scientific and IT solutions...\n\nPrimary Responsibilities\n\nThe RF and EW Threat Systems Development Department is a group of engineers who specialize in foreign threat radar systems, RF software-in-the-loop (SIL) and hardware-in-the-loop (HWIL) simulators, and open-air radar development. The candidate selected for this position will support projects for the Defense Intelligence Community, Air Force, and large prime contractors.\n\nProject assignments could be focused in one or multiple of the following areas:\n• Development of C++ simulations of radar and missile systems in both software-based and hardware-in-the-loop configurations in a variety of environments including Windows, Linux, and hard real-time operating systems.\n• Development of C# or LAN web-based custom graphical user-interface tools to support simulation control and real-time visualization of simulation results.\n• Integration of simulations into customer software environments through software interface development and plugin development.\n• Creation of deployable professional software deliveries with supporting documentation including version descriptions, test results, and robust installation tools.\n• Development of continuous build and test toolsets to perform automated release candidate generation and verification.\n• Collaboration with external customers to elicit requirements and define project goals.\n\nBasic Qualifications\n• Candidate must possess a Bachelor's degree in Electrical Engineering, Software Engineering , Computer Engineering, or an equivalent degree from an ABET-accredited institution.\n• Must have two years of relevant experience or an MS degree in a relevant field in lieu of experience.\n• A background in C++ software development is required\n• Candidate must demonstrate relevant skills in one or more of the focus areas, have good interpersonal skills, and have the desire to work in a highly focused technical team.\n• Additional consideration will be given to candidates with a working knowledge of radar fundamentals.\n• Familiarity in any of the following tools is preferred but not required: Microsoft Visual Studio, MATLAB, Atlassian products (JIRA, Bitbucket, Bamboo, Confluence, HipChat), Git, and Jenkins\n\nCandidates must be a resident of the North Alabama area or willing to relocate to the Huntsville - North Alabama, AL area\n\nSecurity Requirements:\n\nCandidate must be a US Citizen and possess (and be able to maintain) a Final Secret Clearance or meet the eligibility to obtain (and maintain) a Secret Clearance.\n\nPay Range:\nPay Range $65,000.00 - $117,500.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nOriginal Posting Date:\n01/19/2024\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidate must possess a Bachelor's degree in Electrical Engineering, Software Engineering , Computer Engineering, or an equivalent degree from an ABET-accredited institution",
+            "Must have two years of relevant experience or an MS degree in a relevant field in lieu of experience",
+            "A background in C++ software development is required",
+            "Candidate must demonstrate relevant skills in one or more of the focus areas, have good interpersonal skills, and have the desire to work in a highly focused technical team",
+            "Additional consideration will be given to candidates with a working knowledge of radar fundamentals",
+            "Candidates must be a resident of the North Alabama area or willing to relocate to the Huntsville - North Alabama, AL area",
+            "Candidate must be a US Citizen and possess (and be able to maintain) a Final Secret Clearance or meet the eligibility to obtain (and maintain) a Secret Clearance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Development of C++ simulations of radar and missile systems in both software-based and hardware-in-the-loop configurations in a variety of environments including Windows, Linux, and hard real-time operating systems",
+            "Development of C# or LAN web-based custom graphical user-interface tools to support simulation control and real-time visualization of simulation results",
+            "Integration of simulations into customer software environments through software interface development and plugin development",
+            "Creation of deployable professional software deliveries with supporting documentation including version descriptions, test results, and robust installation tools",
+            "Development of continuous build and test toolsets to perform automated release candidate generation and verification",
+            "Collaboration with external customers to elicit requirements and define project goals"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $65,000.00 - $117,500.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.leidos.com/",
+          "text": "leidos.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Leidos&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCK0K",
+          "text": "See web results for Leidos"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiU3ZIYy1Id3Fja2NLMHZVMkFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYlZGRFUzSk1aVVZUWDFBM1FXZDNhbU42VTIxTFNVaFZjSE0yY1dsVVlrMDFaekpLTWpaNVJWZEVRa3BVV200NWFtZzRNVEZwT1hKR2IxWlBOblJyUWxSR05qVnFVV3BFYkhKSWFtUllabmxGUWpaUWVUWkpjVlppU25SalNETkpXR3BmVFVkRFZuUTFSM1Y1Y1hZdFJuSlFVMDFqTjBoNGNYa3RSVkYzVTNaU1lXRlJWVjlRV1ROVGREWTVhbFZ1UTA5RVJISmlZMVJLTUhaUGNHazBUR3RpYTJGcGRsWjJhR1o0VGpONlowSnpkVlF3YVhOdVIzTjZTbkpKWDNSd1lYcGFMVGcyRWhkU2RGTXhXbVV0WmxCTE1reDNZbXRRT1ZwMVJXbEJheG9pUVZCWWFHMDFXa1JtYVhOWWQwZEVjVEp6WkdSSVdFTnpTbXA2VTNSVFREbGlVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGVpZG9zIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmxlaWRvcy5jb20vam9icy8xMzg3MzE2Mi1zb2Z0d2FyZS1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer, Front-end – Aladdin Wealth Enterprise, Associate",
+      "company_name": "BlackRock",
+      "location": "  Atlanta, GA   ",
+      "via": "via Careers At BlackRock",
+      "description": "Description\n\nAbout this role...\n\nSoftware Engineer, Front-end, Aladdin Wealth Enterprise\n\nAladdin Wealth is a fast-growing FinTech business and our mission is to maximise the power of Aladdin’s analytics, technology, and data to give financial advisors the edge they need to build better portfolios and deliver better outcomes to their end customers. Our product is a B2B enterprise SaaS offering, and we generate direct revenues for the firm. We operate as one cohesive unit spanning client, product, and engineering, and we pride ourselves on getting things done and delivering new business value quickly and frequently. We are passionate about finding new ways to tackle real business problems in our industry using technology and data.\n\nWe are rapidly growing our engineering team and are looking for ambitious individuals who can quickly learn our codebase, write unit tests, respond to bugs, and feature requests in partnership with other developers in the team.\n\nRoles/Responsibilities:\n• Collaborate with cross-functional teams to define, design, and implement new software features.\n• Translate designs and wireframes into high quality code\n• Partner closely with API teams, product management teams, and external client relationship management teams to improve the product offering and drive-up user engagement and adoption.\n• Participate in our Agile ceremonies and help analyze and estimate effort for assigned tasks in partnership with other developers on the team.\n• Contribute to architectural discussions, decisions, and documentation.\n• Participate in peer code reviews to ensure code quality and shared knowledge.\n• Troubleshoot production issues affecting our client workflows.\n• Seek opportunities to expand technical knowledge and capabilities.\n• Beyond engineering, a successful candidate will always strive to learn the business context of their projects to quickly play a leading role in solving problems and driving decisions.\n\nBasic Qualifications:\n• BA/BS in Computer Science or equivalent practical experience\n• Hands-on experience in a software engineering role in a commercial capacity\n• Experience of working with React and the latest features of JavaScript\n• Good command of HTML5 and CSS3.\n• Strong Analytical and problem-solving skills.\n\nPreferred Qualifications:\n• Experience architecting and deploying sophisticated applications in a production capacity.\n• Experience with strongly typed languages, including Typescript.\n• Experience working with RESTful APIs.\n• Experience working with Git, ADO, and Agile methodologies.\n• Experience with Java or other JVM based language.\n• Excellent communicator, both written and verbal\n• Experience in the finance industry or knowledge of financial products/markets.\n\nOur benefits\n\nTo help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.\n\nOur hybrid work model\n\nBlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.\n\nAbout BlackRock\n\nAt BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.\n\nThis mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.\n\nFor additional information on BlackRock, please visit @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock\n\nBlackRock is proud to be an Equal Opportunity and Affirmative Action Employer. We evaluate qualified applicants without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, disability, protected veteran status, and other statuses protected by law.\n\nBlackRock will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the requirements of the law, including any applicable fair chance law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BA/BS in Computer Science or equivalent practical experience",
+            "Hands-on experience in a software engineering role in a commercial capacity",
+            "Experience of working with React and the latest features of JavaScript",
+            "Good command of HTML5 and CSS3",
+            "Strong Analytical and problem-solving skills"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Translate designs and wireframes into high quality code",
+            "Partner closely with API teams, product management teams, and external client relationship management teams to improve the product offering and drive-up user engagement and adoption",
+            "Participate in our Agile ceremonies and help analyze and estimate effort for assigned tasks in partnership with other developers on the team",
+            "Contribute to architectural discussions, decisions, and documentation",
+            "Participate in peer code reviews to ensure code quality and shared knowledge",
+            "Troubleshoot production issues affecting our client workflows",
+            "Seek opportunities to expand technical knowledge and capabilities"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.blackrock.com/",
+          "text": "blackrock.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=BlackRock&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCPwK",
+          "text": "See web results for BlackRock"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRnJvbnQtZW5kIOKAkyBBbGFkZGluIFdlYWx0aCBFbnRlcnByaXNlLCBBc3NvY2lhdGUiLCJodGlkb2NpZCI6IkpDVG43WWR4Q2lZamRlUjZBQUFBQUE9PSIsImZjIjoiRXVJQ0NxSUNRVTUxVjJoamJucFRNRmd3VEMxSlYxSklVbWRDU0VGeE0xQXlTbGxxUVZCWWVreFlRMlJrTVRSUGIxTnRSSFpKYm5Gdk1FUkxhVkpmVFRkRmIzcEhObmRETVd3MmRtOWFSMEk0Y205NWF6aFdPV3Q2T0dWT01ITmxTa05xYm1velNFWlRNR1ZCZDNCcFNHVnNXRUkwTjNCNmNUWlZVMFJLUzJOMWExVk1XRlJvU21ab1ZtVXlVV1V0WTA5a2EwdGhWWFYxTlhOT1FVMTRhSHBsU1ZGWlRrcDRkbEZMTXpaaFVWaGpkVkpSUVU1YWMxQlJTRGR4U2tKRFpsUm5Xak5UTURNd1RFRldVRW80Y1c0NGVHbFhURjg1YVdORWVWUmFVa1I1U3kxb1EzbEdVM0prWmpOUlJFSTFkSFU0VGpZNVVrWTJTRlU0VEhOU1VuazRaMHBEUlRSMFNHbExRWFYwVTNaNVYwbGZkbFZpVTBKdVgxSlFTVjlMUldwVFMyWXpTSGNTRjFKMFV6RmFaUzFtVUVzeVRIZGlhMUE1V25WRmFVRnJHaUpCVUZob2JUVmFlVGQ0TTJOV2RXcFNObWx6T0dZMU56WmhZa2xqTWxOSmExVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgQXQgQmxhY2tSb2NrIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5ibGFja3JvY2suY29tL2pvYi8xOTc5NzQ1Ni9zb2Z0d2FyZS1lbmdpbmVlci1mcm9udC1lbmQtYWxhZGRpbi13ZWFsdGgtZW50ZXJwcmlzZS1hc3NvY2lhdGUtYXRsYW50YS1nYS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer Lead – Lower Environments",
+      "company_name": "Macy's Jobs",
+      "location": "  Johns Creek, GA   ",
+      "via": "via Oracle",
+      "description": "About:\n\nMacy’s is proudly America’s Department Store. For more than 160 years, Macy’s has served generations at every stage of their lives. Customers come to us for fashion, value and celebration. Now is an exciting time to join Macy’s, Inc. The face of retail is changing, and change requires innovation...\n\nMacy’s Tech provides modern tools, platforms, and services to all parts of the business. Our team supports millions of customers in connected commerce across the technology hub at Macy’s Join our team to help shape the future of e-commerce and set the pace in retail technology. Whether focused on store technology, supply chain tech, application security, merchandising systems, or the mobile app – you’ll have opportunities to grow your career while finding meaningful ways to make a difference.\n\nPosition Overview: As the Lead Data Availability Engineer at Macy's, you will play a pivotal role in ensuring the availability, security, and quality of our data assets for our non-Prod environments. You will lead a team responsible for data provisioning, data masking, and the implementation of data as code practices. This role requires a deep understanding of data engineering, data security, and automation, along with the ability to lead and drive innovation in our data infrastructure.\n\nKey Responsibilities:\n• Data Provisioning: Lead the design and implementation of data provisioning pipelines, ensuring that data is available to stakeholders when and where it is needed.\n• Data Masking: Develop and maintain data masking strategies to protect sensitive information while maintaining data utility for testing and development purposes.\n• Data as Code: Champion the implementation of data as code principles, automating data infrastructure provisioning, configuration, and deployment.\n• Data Security: Collaborate with the cybersecurity team to establish and enforce data security policies, access controls, and encryption standards.\n• Automation: Implement automation tools and practices to streamline data provisioning, deployment, and monitoring processes.\n• Team Leadership: Manage and mentor a team of data engineers, providing guidance and support to achieve data availability and security goals.\n• Quality Assurance: Ensure data quality and integrity by implementing data validation and testing processes.\n• Data Run Books : Maintain comprehensive documentation of data provisioning, masking, and data as code procedures and best practices.\n• Collaboration: Collaborate with cross-functional teams, including data analysts, data scientists, and software developers, to understand their data requirements and provide efficient solutions.\n• Performance Optimization: Monitor and optimize data provisioning and masking processes for efficiency and scalability.\n\nQualifications:\n• Bachelor's degree in Computer Science, Information Technology, or a related field. Master's degree preferred.\n• We encourage candidates with either a bachelor’s degree or equivalent work experience in a related field to apply.\n• Minimum of 12 years of experience in data engineering, with a focus on data provisioning, data masking, and automation.\n• Proficiency in data engineering tools and languages, such as SQL, Python, Scala, or similar.\n• Service Virtualization experience is required, Hoverfly, GoMock or other\n• Experience with data provisioning technologies and platforms (e.g., Genrocket, Delphix, Talend, Informatica).\n• Knowledge of data masking techniques and tools (e.g., Delphix, Informatica Persistent Data Masking).\n• Familiarity with data as code concepts and tools (e.g., GitLab, infrastructure as code).\n• Strong understanding of data security best practices and compliance standards (e.g., GDPR, CCPA).\n• Excellent problem-solving skills and the ability to troubleshoot complex data engineering issues.\n• Leadership and project management skills with the ability to lead a team to success.\n\nTECH00",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Information Technology, or a related field"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Position Overview: As the Lead Data Availability Engineer at Macy's, you will play a pivotal role in ensuring the availability, security, and quality of our data assets for our non-Prod environments",
+            "You will lead a team responsible for data provisioning, data masking, and the implementation of data as code practices",
+            "This role requires a deep understanding of data engineering, data security, and automation, along with the ability to lead and drive innovation in our data infrastructure",
+            "Data Provisioning: Lead the design and implementation of data provisioning pipelines, ensuring that data is available to stakeholders when and where it is needed",
+            "Data Masking: Develop and maintain data masking strategies to protect sensitive information while maintaining data utility for testing and development purposes",
+            "Data as Code: Champion the implementation of data as code principles, automating data infrastructure provisioning, configuration, and deployment",
+            "Data Security: Collaborate with the cybersecurity team to establish and enforce data security policies, access controls, and encryption standards",
+            "Automation: Implement automation tools and practices to streamline data provisioning, deployment, and monitoring processes",
+            "Team Leadership: Manage and mentor a team of data engineers, providing guidance and support to achieve data availability and security goals",
+            "Quality Assurance: Ensure data quality and integrity by implementing data validation and testing processes",
+            "Data Run Books : Maintain comprehensive documentation of data provisioning, masking, and data as code procedures and best practices",
+            "Collaboration: Collaborate with cross-functional teams, including data analysts, data scientists, and software developers, to understand their data requirements and provide efficient solutions",
+            "Performance Optimization: Monitor and optimize data provisioning and masking processes for efficiency and scalability"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.macysinc.com/",
+          "text": "macysinc.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Macy%27s+Jobs&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCMsL",
+          "text": "See web results for Macy's Jobs"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyuFGSGZaKe8pSSuM_2Ud9K_JTbiBh89cL5kw&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBMZWFkIOKAkyBMb3dlciBFbnZpcm9ubWVudHMiLCJodGlkb2NpZCI6InBWY3FDYThhbWtvWTdIQTNBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJUVjVWVVJKYWw4eVlsTlJNMHhEYURoUGQwRlVMWGhSYURoMlpWcGtNbWx4VnpoUVNURlBaWFpmVXpocVJIRnNjMnR6VUhsNGN6QTRjSFJ4VlRaS1VUQmZialpuVFhSSE0ybDFVMXBrTUZaeFJWSkJXRkZ4TVZkbmVXNXdSR1ZxUVV3d1NtZHRPVFpCVXpodFRtOW5ibEZqZG1VMGMyWlVZbTFJY1VveVlXMUhZbkF4YUVGdVZFWjBhSEJSZURoNmRqRkdNRGROVlRGSGNIaFhNRVJ5TWt0ekxVdzNlSGhoYWtoMllUSmtZVWRpVkZSVlpteDZSVEUwUVd0RGVsQTFlVFZXYW1kd1dsRk5aekZvV1dRdGNscElVRGhhZWtSRGRYbHlTVTVuVW5wdmIxUkZMVlpyZEhZM1RFMTNXSGxoTVhWclozQlFOSFpQY1Y5SGFWQkZRWFJrWjBkclVoSVhVblJUTVZwbExXWlFTekpNZDJKclVEbGFkVVZwUVdzYUlrRlFXR2h0TlZvMGVuaHBjRGx1UmpsVVRVNHplbmhwVkdaa1EwUjBiMGhmWlZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBPcmFjbGUiLCJsaW5rIjoiaHR0cHM6Ly9lYndoLmZhLnVzMi5vcmFjbGVjbG91ZC5jb20vaGNtVUkvQ2FuZGlkYXRlRXhwZXJpZW5jZS9lbi9qb2IvNTQ0ODM/dXRtX21lZGl1bT1zZWFyY2grZW5naW5lXHUwMDI2dXRtX3NvdXJjZT1nb29nbGVcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer (DevSecOps) - Early Career",
+      "company_name": "Lockheed Martin",
+      "location": "  Huntsville, AL   ",
+      "via": "via Lockheed Martin",
+      "description": "Description:At Lockheed Martin, we believe that by applying the highest standards of business ethics and forward-thinking, everything is within our reach – and yours as a Lockheed Martin employee. We value your unique skills and expertise, and we aim to give back continuously by offering a wide variety of benefits and amenities to help our employees live flexible, balanced, and fulfilling lives... at, and outside of, work.\n\nLockheed Martin Rotary and Mission Systems has an opportunity in Huntsville, AL.\n\nDo you relish a challenge? Then you may want to collaborate as part of the C2BMC program’s DevSecOps team to develop the test, integration and delivery pipelines with Lockheed Martin.\n\nPosition Responsibilities performed under general supervision to complete milestones associated with specific projects:\n• In this role, you will work independently on large projects, and at other times, will be working in a collaborative team environment with other DevSecOps engineers and other program development and deployment teams.\n• Provide security in DevSecOps, up-to-date knowledge of threat modeling, risk assessment techniques, code reviews, current best practices and the latest cybersecurity threats\n• Choose and deploy the appropriate automated application security testing tools\n• Bring awareness to users of how to make the most of application security features\nBasic Qualifications:\nBachelors degree from an accredited college in a related discipline, or equivalent experience/combined education.\n• *Must be a US Citizen; this position will require a government security clearance. This position is located at a facility that requires special access**\n\n- Must be able to obtain CompTIA Security+ (or equivalent) DoD 8 570.01-M IAT Level II Certification within 60 days\n\n- Familiarization with Linux or Windows System Administration\n\n- Scripting skills in languages such as bash or PowerShell\n\n- Familiarization with automation concepts.\nDesired Skills:\n- Knowledge of DevSecOps principles\n- Experience with Ansible Automation Platform, including Ansible Tower\n- Experience with HashiCorp Packer and Vault\n- Experience with Gitlab CI/CD\n- Experience with Nexus\n- Experience in virtualization technology, including, but not limited to, VMware\n- Understanding of HP server configuration\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nLockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nJoin us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.\n\nAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.\nExperience Level: 4 yr and up College\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: Software Engineering\nType: Full-Time\nShift: First",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors degree from an accredited college in a related discipline, or equivalent experience/combined education",
+            "Must be able to obtain CompTIA Security+ (or equivalent) DoD 8 570.01-M IAT Level II Certification within 60 days",
+            "Familiarization with Linux or Windows System Administration",
+            "Scripting skills in languages such as bash or PowerShell",
+            "Familiarization with automation concepts",
+            "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration",
+            "Experience Level: 4 yr and up College"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Position Responsibilities performed under general supervision to complete milestones associated with specific projects:",
+            "In this role, you will work independently on large projects, and at other times, will be working in a collaborative team environment with other DevSecOps engineers and other program development and deployment teams",
+            "Provide security in DevSecOps, up-to-date knowledge of threat modeling, risk assessment techniques, code reviews, current best practices and the latest cybersecurity threats",
+            "Choose and deploy the appropriate automated application security testing tools",
+            "Bring awareness to users of how to make the most of application security features"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+            "Relocation Available: Possible"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.lockheedmartin.com/",
+          "text": "lockheedmartin.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Lockheed+Martin&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCJkM",
+          "text": "See web results for Lockheed Martin"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoRGV2U2VjT3BzKSAtIEVhcmx5IENhcmVlciIsImh0aWRvY2lkIjoiTW5FRHRsa29NSXYwMlBpb0FBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYlRoNlRISTBTMW81T0VjM09YTmtRbFl0YlhKc1pWZGZZMUZNVTNwMlJFWTFRVWhWWW1SeWVVaHRXVlpLZG5aME5YUlVNV0Y0TjA0d1lsbDNielF0V0ZwYVRYbENaVFYyZUhsVVEwSXpVR3QwUjB4RWNIcExibXBNTUhOcGIwMVpVVGhuZW5OYWFVTnpiVTlhZGtKZlRHSnNWM0l6YUc5NWNVUmZWWGgxWVc0MVNISjZNbFV0VmxkcVEwTXlUemxyVkhvMVlsOXdTelpYWmpKUWIzbHNOV1IzT0U5alZWRk1aUzFQUldoeGFYUmtlSFZzTFRjeVoyOVVVMFJSWVhrNVQyOVRXamh4ZVZKVU5VWmxjRWRzWTFGWVQwcFVObWRVWkhaV2NqSlNTR1JVUTJONldVVlpjVlZNZW5obWRIcGFWV2RTTTJJMlV6aDVUamh6VVVsRlR6TTVlVzl2TmhJWFVuUlRNVnBsTFdaUVN6Sk1kMkpyVURsYWRVVnBRV3NhSWtGUVdHaHROV0p6V1RReE1sbExhVTlrTm1oVU0yOU9TVTFRYmxoRmJWaElWMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExvY2toZWVkIE1hcnRpbiIsImxpbmsiOiJodHRwczovL3d3dy5sb2NraGVlZG1hcnRpbmpvYnMuY29tL2pvYi9odW50c3ZpbGxlL3NvZnR3YXJlLWVuZ2luZWVyLWRldnNlY29wcy1lYXJseS1jYXJlZXIvNjk0LzU2NjAzNjIwMDE2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer Manager",
+      "company_name": "SAIC Career Site",
+      "location": "  Huntsville, AL   ",
+      "via": "via SAIC Careers",
+      "description": "Description\n\nSAIC has an immediate need for a Software Engineering Manager to support the Multiple Launch Rocket System (MLRS) team onsite at S3I/Redstone Arsenal in Huntsville, Alabama...\n\nMultiple Launch Rocket System (MLRS) is a highly mobile rocket artillery system that fires surface-to-surface rockets for the US Army\n\nTechnical Job Responsibilities:\n• Oversee one or more software development teams, providing technical leadership throughout the software development lifecycle of requirements, design, code and testing of the system\n• Act as Product Owner for 2-3 teams to track cross-team dependencies and resolve barriers\n• Facilitate Defect Triage meetings and manage the Issue Analysis process\n• Conduct key formal peer reviews, collect key metrics to facilitate a learning organization\n• Ensure Definition-of-Ready and Definition-of-Done criteria being met\n• Facilitate common software requirements analysis across multiple projects\n• Assist Chief Software Engineer and Technical Program Managers with overall continuous technical process improvements\n• Perform workforce management and training for the software development team, including recruitment, hiring, training, mentoring, career development, and performance management\n\nLeadership and Management Responsibilities:\n• Manages subordinate management and/or experienced specialist employees who exercise significant latitude and independence.\n• Experience leading multiple related projects in various stages of lifecycle through a rigorous engineering process\n• Develop schedules to plan, execute, and monitor software development activities\n• Experience interfacing with other functional leads from Systems and Test Engineering\n• Experience with Agile Toolsets for managing teams, tasks, user stories, and epics\n• Experience adapting/tailoring processes to Agile/Lean principles\n\nQualifications\n\nRequired Education and Experience:\n• Bachelors degree with fourteen (14) plus years of experience; four (4) years of experience accepted in lieu of degree.\n\nRequired Clearance:\n• Must be able to obtain an Interim Secret Clearance prior to employment; must be able to obtain a Secret Security Clearance to maintain employment.\n\nRequired Skills:\n• In-depth Software engineering experience, preferably with C++ and other Object Oriented Languages\n• Object Oriented Design methods and practices\n• Knowledge of and experience in Agile technical practices\n• Experience with various development environments, versioning tools, and Source Code Managment (SCM)\n• Knowledge of Software Architecture and Safety concerns\n• Attention to detail and assertive communication skills\n• Systems thinker who views engineering organizations and the SDLC holistically from a system perspective with inputs and outputs\n\nDesired Skills:\n• Experience with Distributed Embedded Systems\n• Azure DevOps Services\n• Automated testing methodologies and tooling\n\nCovid Policy: SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors degree with fourteen (14) plus years of experience; four (4) years of experience accepted in lieu of degree",
+            "Must be able to obtain an Interim Secret Clearance prior to employment; must be able to obtain a Secret Security Clearance to maintain employment",
+            "In-depth Software engineering experience, preferably with C++ and other Object Oriented Languages",
+            "Object Oriented Design methods and practices",
+            "Knowledge of and experience in Agile technical practices",
+            "Experience with various development environments, versioning tools, and Source Code Managment (SCM)",
+            "Knowledge of Software Architecture and Safety concerns",
+            "Attention to detail and assertive communication skills",
+            "Systems thinker who views engineering organizations and the SDLC holistically from a system perspective with inputs and outputs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Oversee one or more software development teams, providing technical leadership throughout the software development lifecycle of requirements, design, code and testing of the system",
+            "Act as Product Owner for 2-3 teams to track cross-team dependencies and resolve barriers",
+            "Facilitate Defect Triage meetings and manage the Issue Analysis process",
+            "Conduct key formal peer reviews, collect key metrics to facilitate a learning organization",
+            "Ensure Definition-of-Ready and Definition-of-Done criteria being met",
+            "Facilitate common software requirements analysis across multiple projects",
+            "Assist Chief Software Engineer and Technical Program Managers with overall continuous technical process improvements",
+            "Perform workforce management and training for the software development team, including recruitment, hiring, training, mentoring, career development, and performance management",
+            "Manages subordinate management and/or experienced specialist employees who exercise significant latitude and independence",
+            "Experience leading multiple related projects in various stages of lifecycle through a rigorous engineering process",
+            "Develop schedules to plan, execute, and monitor software development activities",
+            "Experience interfacing with other functional leads from Systems and Test Engineering",
+            "Experience with Agile Toolsets for managing teams, tasks, user stories, and epics",
+            "Experience adapting/tailoring processes to Agile/Lean principles"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=SAIC+Career+Site&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCOsM",
+          "text": "See web results for SAIC Career Site"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBNYW5hZ2VyIiwiaHRpZG9jaWQiOiI5V1FqVVIwSGhUN0R3T0FNQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpia3R5VTBzdE1UVjFORVJyUVZSclJFOTJjVEJwWVRWbFZFbzRSMmRrV0dGNFJrSnhURkl3VldaUldGSktXSE5NV0dWVlpYaHlaR1JGZG14WFdGVXpja1ZaWDJSSUxXOUpaMlpPYkd3MVdYSnRWMkp0U0Vsd00wbHNSa2xsWkVjeFRqSXlWR295UmxWSU1scE9XRVJrTVVOZlJrVmFSRnBNYkU5NFgwOWpabTV1UVdWQ1ZrSkZWSEJ0VUhSVmVEZFVjREJvVTJOVVZWRmxkR05ZYTFNdFJYaGpOMUpsUlRCeGIwOTVURmxqVVhoME9VMHdNMGd4U1ZoNWNHSlRjbWh4Y1hVMmJFbDRkRE5yUjI1MmIyMU9kVGRJWjFSRlJXTTVjbWc1ZHhJWFVuUlRNVnBsTFdaUVN6Sk1kMkpyVURsYWRVVnBRV3NhSWtGUVdHaHROVmxtWW1jeGVFRmtVVXhmV1Zab1dVRmZja056VWxoNFRXZEhZbWMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTQUlDIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnNhaWMuY29tL2pvYnMvMTM4OTA4MTItc29mdHdhcmUtZW5naW5lZXItbWFuYWdlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "BAE Systems",
+      "location": "  Huntsville, AL   ",
+      "via": "via BAE Systems Jobs",
+      "description": "Job Description Because this role involves a combination of collaborative/in-person and independent work, it will take the form of a hybrid work format, with the majority of your time working onsite along with some remote activities when possible.\nDo you want to be part of a team that designs and writes software that really matters?\nDo you want to contribute to bringing America’s warfighters home... safely?\nDo you want to be a part of a cause greater than yourself?\nThen, we need to talk!\n\nOur engineers are the lifeblood of our company, and we are more than 5,000 strong. With our robust offering of educational and career development opportunities, your chances to grow are limitless.\n\nIn Precision Strike & Sensing Solutions (PS) we design, develop, and manufacture state-of-the-art systems and technology that enable our customers to execute their mission. We are thought leaders in the application of seeker, guidance, and control technologies, and we have a place for you as a Principal Software Engineer at our Huntsville, Alabama facility.Job Overview and Opportunities\nWe are looking for a talented Principal Software Engineer to help us create the world’s most advanced solutions in the area of precision guided munitions and missiles. We develop and incorporate algorithms utilizing a multi-processor architecture that also incorporates GPUs. Our software implementations transform both radar and infrared gathered signals to enable weapons to precisely find their target and keep our warfighters safe as they execute their missions.\nIn this exciting role, you will enjoy opportunities to take on diverse and challenging work assignments, flexible scheduling with every other Friday off, an inviting and supportive culture, competitive compensation, and an excellent benefits package that includes tuition reimbursement for advanced degrees.\nWe will provide you opportunities to advance your career while both leveraging our current technologies and incorporate new technologies that you will bring to this role. You will be valued as a technical professional within our engineering organization.Job Environment\nIn this role, you will be collaborating with Systems, Hardware, and Test engineers in one or more aspects of our solutions. You will be an integral part of a dynamic software development team performing analysis, design, implementation, and integration of typically C++ based embedded software in a Linux development environment utilizing a DevSecOps Software Factory approach.\nIf you desire more, you can grow into a subject matter expert, execution leader, or chief engineer in our organization where you can mentor, guide, and lead a development project along with having opportunities to present your craft and technical designs to our customers.\n\nWe put our customers first – exemplified by our mission: “We Protect Those Who Protect Us®.”\nPlease note that pursuant to a government contract, this specific position requires US citizenship status.Required Education, Experience, & Skills\n• Secret level clearance (active within the last two years)\n• Bachelor's Degree in computer science, computer engineering, or related field, and minimum of 6 years work experience or equivalent experience\n• Background in embedded and/or application software development in C++\n• Foundation in modern design and implementation principles\n• Experience with software and systems engineering processes, methodologies, and tools\n• Experience performing software testing, validation, and verification activities\n• Linux and real-time operating system exposure\nPreferred Education, Experience, & Skills\n• Proficiency in Real-time embedded development\n• Full Life-Cycle Software development\n• Software automated test development and execution in a DevSecOps based Software Factory\n• Software algorithm development\n• Designing and/or implementing software algorithms\n• Experience in project leadership\n\nPay Information\nFull-Time Salary Range: $102200 - $173700\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve.\n\nOur Commitment to Diversity, Equity, and Inclusion:\nAt BAE Systems, we work hard every day to nurture an inclusive culture where employees are valued and feel like they belong. We are conscious of the need for all employees to see themselves reflected at every level of the company and know that in order to unlock the full potential of our workforce, everyone must feel confident being their best, most sincere self and be equipped to thrive. We provide impactful professional development experiences to our employees and invest in social impact partnerships to uplift communities and drive purposeful change. Here you will find significant opportunities to do meaningful work in an environment intentionally designed to be one where you will learn, grow and belong",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Secret level clearance (active within the last two years)",
+            "Bachelor's Degree in computer science, computer engineering, or related field, and minimum of 6 years work experience or equivalent experience",
+            "Background in embedded and/or application software development in C++",
+            "Foundation in modern design and implementation principles",
+            "Experience with software and systems engineering processes, methodologies, and tools",
+            "Experience performing software testing, validation, and verification activities",
+            "Linux and real-time operating system exposure"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will be collaborating with Systems, Hardware, and Test engineers in one or more aspects of our solutions",
+            "You will be an integral part of a dynamic software development team performing analysis, design, implementation, and integration of typically C++ based embedded software in a Linux development environment utilizing a DevSecOps Software Factory approach",
+            "If you desire more, you can grow into a subject matter expert, execution leader, or chief engineer in our organization where you can mentor, guide, and lead a development project along with having opportunities to present your craft and technical designs to our customers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In this exciting role, you will enjoy opportunities to take on diverse and challenging work assignments, flexible scheduling with every other Friday off, an inviting and supportive culture, competitive compensation, and an excellent benefits package that includes tuition reimbursement for advanced degrees",
+            "We will provide you opportunities to advance your career while both leveraging our current technologies and incorporate new technologies that you will bring to this role",
+            "Full-Time Salary Range: $102200 - $173700",
+            "Please note: This range is based on our market pay structures",
+            "Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being",
+            "Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance",
+            "We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance",
+            "Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave",
+            "Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.baesystems.com/",
+          "text": "baesystems.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=BAE+Systems&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCMEN",
+          "text": "See web results for BAE Systems"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InpCVWo0MU1UYXlmTXRyX0FBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamExZzRSSGxOUlhKWU1rNTJNUzF1VDJKeWIxQTNXVFppUmpkVkxWOTBhMkZrTjFCaVozWm9PVVJ1UjBKTlR6aEVjMjlYV1ZscFZWa3hkVVIyUm1jMVMwbFBXWGR1ZUZJNFJXUjZZakF5UjFNMVlsUmlZVXhFVWpCcFNqUlhhWHA0YzFrNVMxZHZWRzE1UTA1VloyWjNaVmN5YjFkWU4xWnVhbXBLVVdSQlkyaG1ZVEZwZVRWZlFWTklNV3BUZG5sR01HTXhVbkI1ZUdOVWNWVlpOemt4YVdSV00yOUZlbEpuTUdsM1ZGSnllR3BTUlRCUmRqWmtjVlphUldkSFFtaFZaVWt0ZGtkTFFtMWtWbXBPTFc1RlVtdFdkMUJ2ZEY5aGVrYzRkeElYVW5SVE1WcGxMV1pRU3pKTWQySnJVRGxhZFVWcFFXc2FJa0ZRV0dodE5XRnNhbEIyZEVOdFJXbHliRTU1VUdsYVUydDZhVTF0Y1d0NWIzYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJBRSBTeXN0ZW1zIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmJhZXN5c3RlbXMuY29tL2dsb2JhbC9lbi9qb2IvOTgzNTdCUi9QcmluY2lwYWwtU29mdHdhcmUtRW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full stack software engineer - 2 (Java, Spring Boot, React)",
+      "company_name": "U.S. Bank National Association",
+      "location": "  Atlanta, GA   ",
+      "via": "via US Bank Careers",
+      "description": "A leader in the payments industry, Elavon provides end-to-end payment processing solutions and services to more than one million merchants around the world. Elavon is an equal opportunity employer committed to creating a diverse workforce. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or... veteran status, among other factors.\n\nJob Description\n\nBe a part of transformational change where integrity matters, success inspires, and great teams collaborate and innovate. As the fifth-largest bank in the United States, we’re one of the country's most respected, innovative, ethical, and successful financial institutions. We’re looking for people who want more than just a job – they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journey.\n\nThis position will be responsible for the analysis, design, testing, development and maintenance of best-in-class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles.\n\nEssential Responsibilities:\n\n-Ability to translate diverse requirements into unique solutions that will transform U.S. Bank customer experience\n\n-Design and build solutions that are aligned with U.S. Bank enterprise technology strategy.\n\n· Experience providing technical leadership and educating other developers for best practices on application design and development\n\n· Manage relationships with business lines, architects, and engineering managers\n\n· Build consensus around solutions that benefit the organization\n\nBasic Qualifications\n- Bachelor’s degree, or equivalent work experience\n- Three to five years of relevant experience\n\nPreferred Skills/Experience\n\n· Experience with Functional Programming practices\n\n· A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design\n\n· Technical expertise in the design, development, coding, testing, and debugging of software.\n\n· 5+ years of software development experience\n\n· Ability to build complex apps using React.\n\n· Hands on programing experience with Java/J2EE, JavaScript, Spring Boot, Spark / Scala, HTML, CSS\n\n· Excellent communication skills to collaborate with cross-functional partners and independently drive projects and decisions.\n\n· Strong experience in API design, patterns and best-practices in REST, JSON, Microservices, etc.\n\n· Knowledge of data management principles.\n\n· Experience working with the following cloud platforms – AWS and Azure\n\n· Experience working with relational databases (Oracle).\n\n· Knowledge in agile methodologies and software development life cycle\n\nIf there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants.\n\nLearn how the way we work at U.S. Bank drives meaningful relationships with our customers and collaboration across the company.\n\nBenefits:\n\nOur approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following (some may vary based on role, location or hours):\n• Healthcare (medical, dental, vision)\n• Basic term and optional term life insurance\n• Short-term and long-term disability\n• Pregnancy disability and parental leave\n• 401(k) and employer-funded retirement plan\n• Paid vacation (from two to five weeks depending on salary grade and tenure)\n• Up to 11 paid holiday opportunities\n• Adoption assistance\n• Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law\n\nEEO is the Law\n\nU.S. Bank is an equal opportunity employer committed to creating a diverse workforce. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, among other factors. Applicants can learn more about the company’s status as an equal opportunity employer by viewing the federal KNOW YOUR RIGHTS EEO poster.\n\nE-Verify\n\nU.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program.\n\nThe salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, US Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401k contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $91,290.00 - $107,400.00 - $118,140.00\n\nThis is an Elavon posting. Elavon is a part of the U.S. Bank family.\n\nJob postings typically remain open for approximately 20 days of the posting date listed above, however the job posting may be closed earlier should it be determined the position is no longer required due to business need. Job postings in areas with a high volume of applicants, such as customer service, contact center, and Financial Crimes investigations, remain open for approximately 5 days of the posting listed date",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree, or equivalent work experience",
+            "Three to five years of relevant experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position will be responsible for the analysis, design, testing, development and maintenance of best-in-class software experiences",
+            "The candidate will be adept with the agile software development lifecycle and DevOps principles",
+            "Ability to translate diverse requirements into unique solutions that will transform U.S. Bank customer experience",
+            "Design and build solutions that are aligned with U.S. Bank enterprise technology strategy",
+            "Experience providing technical leadership and educating other developers for best practices on application design and development",
+            "Manage relationships with business lines, architects, and engineering managers",
+            "Build consensus around solutions that benefit the organization"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work",
+            "That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind",
+            "Healthcare (medical, dental, vision)",
+            "Basic term and optional term life insurance",
+            "Short-term and long-term disability",
+            "Pregnancy disability and parental leave",
+            "401(k) and employer-funded retirement plan",
+            "Paid vacation (from two to five weeks depending on salary grade and tenure)",
+            "Up to 11 paid holiday opportunities",
+            "Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law",
+            "In addition to salary, US Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401k contribution and pension (all benefits are subject to eligibility requirements)",
+            "Pay Range: $91,290.00 - $107,400.00 - $118,140.00"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.usbank.com/",
+          "text": "usbank.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=U.S.+Bank+National+Association&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCJEO",
+          "text": "See web results for U.S. Bank National Association"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIHN0YWNrIHNvZnR3YXJlIGVuZ2luZWVyIC0gMiAoSmF2YSwgU3ByaW5nIEJvb3QsIFJlYWN0KSIsImh0aWRvY2lkIjoiaWJXbEhFanBsa0NPcEYxekFBQUFBQT09IiwiZmMiOiJFdmNDQ3JjQ1FVNTFWMmhqYmpkT2RXZzFNR3hEWDFZMVdVOVZVbGg1U0d4V2FHeEdRbVZKYzB0M056QklTbU0yZEZoRWNtSkJibVpqVVhVNGJEQk5lbEpSTmpRMVMya3ROMDlwZFhSb2ExaFRjRkpIUmpJM1JreDNaR2RETjFCWmJrTm9TMGx2VFRJNU5ubDVjVTgzUlhCZlpFUlJRV28xWWxKSlUzRlRkM2RqWWsxMVpVMHRiVVpmVjBoSldIVnpSalUxY1hFeFdYRjBUV3RXVG1sTFlrSkpRVGxVYzJwSVpVUk9XV0pvTlV0M1NURlpVRk5mZUZveFYxRXlMVlk1TUZCNmVVNXVkek5vU0dSRFVFdzNRV3hLYVY5c1NYZHRSRXQ2YVV4d2FHVmtVbmhQYkhRdGJreHRhVFZ2WW5wWFRYaG9hbWR0ZUVGVExUTnBlWGRIVVZCRFVGbFBUV3RaWTJwTWRIbFBRMU14VVhSMFVXMHhXRzR0YkVoQk5HUkpVM2xKYlhKamVqZHJXVmt6Y0VaM2NUTk9WVzQ0WmxsNk1HSjFaRkVTRjFKMFV6RmFaUzFtVUVzeVRIZGlhMUE1V25WRmFVRnJHaUpCVUZob2JUVmlVR1kxU1hwb1J6ZGZjemRqU25GT1gwSnRlbnBUV2s1clNIcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBVUyBCYW5rIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnVzYmFuay5jb20vZ2xvYmFsL2VuL2pvYi9VQk5BR0xPQkFMMjAyNDAwMDAzNzdFWFRFUk5BTEVOR0xPQkFML0Z1bGwtc3RhY2stc29mdHdhcmUtZW5naW5lZXItMi1KYXZhLVNwcmluZy1Cb290LVJlYWN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Equifax",
+      "location": "  Alpharetta, GA   ",
+      "via": "via Equifax Careers",
+      "description": "Equifax is seeking creative, high-energy and driven software engineers with hands-on development skills to work on a variety of meaningful projects. Our software engineering positions provide you the opportunity to join a team of talented engineers working with leading-edge technology. You are ideal for this position if you are a forward-thinking, committed, and enthusiastic software engineer who... is passionate about technology.\n\nWhat you’ll do\n• Design, develop, and operate high scale applications across the full engineering stack\n• Design, develop, test, deploy, maintain, and improve software.\n• Apply modern software development practices (serverless computing, microservices architecture, CI/CD, infrastructure-as-code, etc.)\n• Work across teams to integrate our systems with existing internal systems, Data Fabric, CSA Toolset.\n• Participate in technology roadmap and architecture discussions to turn business requirements and vision into reality.\n• Participate in a tight-knit, globally distributed engineering team.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on network, or service operations and quality.\n• Manage sole project priorities, deadlines, and deliverables.\n• Research, create, and develop software applications to extend and improve on Equifax Solutions\n• Collaborate on scalability issues involving access to data and information.\n• Actively participate in Sprint planning, Sprint Retrospectives, and other team activity\n\nWhat experience you need\n• Bachelor's degree or equivalent experience\n• 5+ years of software engineering experience\n• 5+ years experience writing, debugging, and troubleshooting code in mainstream Java, SpringBoot, TypeScript/JavaScript, HTML, CSS\n• 5+ years experience with Cloud technology: GCP, AWS, or Azure\n• 5+ years experience designing and developing cloud-native solutions\n• 5+ years experience designing and developing microservices using Java, SpringBoot, GCP SDKs, GKE/Kubernetes\n• 5+ years experience deploying and releasing software using Jenkins CI/CD pipelines, understand infrastructure-as-code concepts, Helm Charts, and Terraform constructs\n• What could set you apart\n• Self-starter that identifies/responds to priority shifts with minimal supervision.\n• Experience designing and developing big data processing solutions using Dataflow/Apache Beam, Bigtable, BigQuery, PubSub, GCS, Composer/Airflow, and others\n• UI development (e.g. HTML, JavaScript, Angular and Bootstrap)\n• Experience with backend technologies such as JAVA/J2EE, SpringBoot, SOA and Microservices\n• Source code control management systems (e.g. SVN/Git, Github) and build tools like Maven & Gradle.\n• Agile environments (e.g. Scrum, XP)\n• Relational databases (e.g. SQL Server, MySQL)\n• Atlassian tooling (e.g. JIRA, Confluence, and Github)\n• Developing with modern JDK (v1.7+)\n• Automated Testing: JUnit, Selenium, LoadRunner, SoapUI",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree or equivalent experience",
+            "5+ years experience writing, debugging, and troubleshooting code in mainstream Java, SpringBoot, TypeScript/JavaScript, HTML, CSS",
+            "5+ years experience with Cloud technology: GCP, AWS, or Azure",
+            "5+ years experience designing and developing cloud-native solutions",
+            "5+ years experience designing and developing microservices using Java, SpringBoot, GCP SDKs, GKE/Kubernetes",
+            "5+ years experience deploying and releasing software using Jenkins CI/CD pipelines, understand infrastructure-as-code concepts, Helm Charts, and Terraform constructs",
+            "Self-starter that identifies/responds to priority shifts with minimal supervision",
+            "Experience designing and developing big data processing solutions using Dataflow/Apache Beam, Bigtable, BigQuery, PubSub, GCS, Composer/Airflow, and others",
+            "UI development (e.g. HTML, JavaScript, Angular and Bootstrap)",
+            "Experience with backend technologies such as JAVA/J2EE, SpringBoot, SOA and Microservices",
+            "Source code control management systems (e.g. SVN/Git, Github) and build tools like Maven & Gradle",
+            "Agile environments (e.g",
+            "Scrum, XP)",
+            "Relational databases (e.g. SQL Server, MySQL)",
+            "Atlassian tooling (e.g",
+            "Automated Testing: JUnit, Selenium, LoadRunner, SoapUI"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, develop, and operate high scale applications across the full engineering stack",
+            "Design, develop, test, deploy, maintain, and improve software",
+            "Apply modern software development practices (serverless computing, microservices architecture, CI/CD, infrastructure-as-code, etc.)",
+            "Work across teams to integrate our systems with existing internal systems, Data Fabric, CSA Toolset",
+            "Participate in technology roadmap and architecture discussions to turn business requirements and vision into reality",
+            "Participate in a tight-knit, globally distributed engineering team",
+            "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on network, or service operations and quality",
+            "Manage sole project priorities, deadlines, and deliverables",
+            "Research, create, and develop software applications to extend and improve on Equifax Solutions",
+            "Collaborate on scalability issues involving access to data and information",
+            "Actively participate in Sprint planning, Sprint Retrospectives, and other team activity"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Equifax&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCOcO",
+          "text": "See web results for Equifax"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoic29BMHJKQlpkOHdJbDNzREFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYld4M04yeElka1JMWDJ0aE9ERTNXalJKTTFCeWJ5MVdMVkJmZUdzeE9WaDBibUZFTkRkSFVVMDViemxUWTIwMVpYSTRlREZ3VEVkNU5GUlFSR1F0VEZWU2FtdFllazl3V0c5ME56aEhkVWRIYTIxTmNrUTFiM2xRTFRZd2VscGtkMVE1YUdSU1NrOTRkVTV5VlRKQlgyOTVZMlpLVmxSWVF6QlpWR3AxYm5oTE9HNURPVlk1TUVwclJuRnhUWFJpVGpBelVrWXdhMHByVW5veWJXVTVOUzFETW5neldXeFpiamQyYUZKTmVqUnNXa3hGWTBSQlowMTNVR0pvYkRreVZUazVYMHRLTXpsd2JreExWMGd4V0RaUmFXVjZTRGRIV2xjM2R4SVhVblJUTVZwbExXWlFTekpNZDJKclVEbGFkVVZwUVdzYUlrRlFXR2h0TlZwM1YxbEtWaTFmWVZGVFYyZEhTWHBMVVhjNFRsSnhTVm96UVhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRXF1aWZheCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5lcXVpZmF4LmNvbS9wdC92YWdhcy9qMDAxNTU4Mjkvc29mdHdhcmUtZW5naW5lZXIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Development Engineer in Test 100% Remote",
+      "company_name": "Steris Corporation",
+      "location": "  Birmingham, AL   ",
+      "via": "via STERIS Careers",
+      "description": "At STERIS, we help our Customers create a healthier and safer world by providing innovative healthcare and life science product and service solutions around the globe.\n\nPosition Summary...\n\nIMS is currently offering an exciting opportunity for a position as a \"Software Development Engineer in Test\" to join our development team. The selected candidate will work side-by-side with other members of the IT staff, developing and maintaining .NET web applications. Applications consist of company intranet and customer facing web applications. This is an excellent opportunity for a recent graduate or a software developer with less than five years of experience.\n\nDuties\n• Designs, develops, codes, tests, debugs and documents programming applications to satisfy requirements of one or more user areas.\n• Develop, maintain, and execute automated test scripts to ensure the quality and stability of our software applications.\n• Perform functional, integration, regression, and performance testing as necessary.\n• Identify, document, and track software defects, ensuring issues are resolved in a timely manner.\n• Work with end users to determine needs\n• Provides comprehensive technical consultation to business unit and IT management and staffs\n\nDuties continues.\n• Works closely with the Applications Systems Analyst to identify and specify complex business requirements and processes to develop or modify existing systems to support the business\n• Researches and evaluates alternative solutions and makes recommendations\n• Provides resource and reference to technical support staff regarding any issues involving programming applications.\n\nRequired Experience\n• Bachelor's degree from an accredited four-year college or university and two or more years of experience in a development environment; or equivalent combination of education and experience\n• Must have development experience through college classes or recent work experience\n• The ability to work collectively with software engineers and managers\n• The ability to work with end users\n• Oracle PL/SQL experience is preferred\n• Familiarity with C#, ASP.NET, Oracle, SQL, PL/SQL, AJAX, Web Services, jQuery, JSON, XML, MS Test, and NUNIT.\n\nWhat STERIS Offers:\n\nThe opportunity to join a company that will invest in you for the long-term. STERIS couldn’t be where it is today without our incredible people. That’s why we share in our success together by rewarding you for your hard work. Hiring people who are in it for the long run with STERIS is our ultimate goal. We do this by providing competitive salaries, healthcare benefits, tuition assistance, paid time off, holidays, matching 401(k), annual merit, and incentive plans. Join us and help write our next chapter.\n\n#LI-HS1\n\nSTERIS is a leading global provider of products and services that support patient care with an emphasis on infection prevention. WE HELP OUR CUSTOMERS CREATE A HEALTHIER AND SAFER WORLD by providing innovative healthcare, life sciences and dental products and services. STERIS is a $5 billion, publicly traded (NYSE: STE) company with approximately 17,000 associates and Customers in more than 100 countries.\n\nIf you need assistance completing the application process, please call 1 (440) 392.7047. This contact information is for accommodation inquiries only and cannot be used to check application status.\n\nSTERIS is an Equal Opportunity Employer. We are committed to equal employment opportunity and the use of affirmative action programs to ensure that persons are recruited, hired, trained, transferred and promoted in all job groups regardless of race, color, religion, age, disability, national origin, citizenship status, military or veteran status, sex (including pregnancy, childbirth and related medical conditions), sexual orientation, gender identity, genetic information, and any other category protected by federal, state or local law. We are not only committed to this policy by our status as a federal government contractor, but also we are strongly bound by the principle of equal employment opportunity.\n\nThe full affirmative action program, absent the data metrics required by § 60-741.44(k), shall be available to all employees and applicants for employment for inspection upon request. The program may be obtained at your location’s HR Office during normal business hours",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is an excellent opportunity for a recent graduate or a software developer with less than five years of experience",
+            "Bachelor's degree from an accredited four-year college or university and two or more years of experience in a development environment; or equivalent combination of education and experience",
+            "Must have development experience through college classes or recent work experience",
+            "The ability to work collectively with software engineers and managers",
+            "The ability to work with end users",
+            "Familiarity with C#, ASP.NET, Oracle, SQL, PL/SQL, AJAX, Web Services, jQuery, JSON, XML, MS Test, and NUNIT"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The selected candidate will work side-by-side with other members of the IT staff, developing and maintaining .NET web applications",
+            "Designs, develops, codes, tests, debugs and documents programming applications to satisfy requirements of one or more user areas",
+            "Develop, maintain, and execute automated test scripts to ensure the quality and stability of our software applications",
+            "Perform functional, integration, regression, and performance testing as necessary",
+            "Identify, document, and track software defects, ensuring issues are resolved in a timely manner",
+            "Work with end users to determine needs",
+            "Provides comprehensive technical consultation to business unit and IT management and staffs",
+            "Works closely with the Applications Systems Analyst to identify and specify complex business requirements and processes to develop or modify existing systems to support the business",
+            "Researches and evaluates alternative solutions and makes recommendations",
+            "Provides resource and reference to technical support staff regarding any issues involving programming applications"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The opportunity to join a company that will invest in you for the long-term",
+            "We do this by providing competitive salaries, healthcare benefits, tuition assistance, paid time off, holidays, matching 401(k), annual merit, and incentive plans"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.steris.com/",
+          "text": "steris.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=7002102899f21eb8&q=Steris+Corporation&sa=X&ved=0ahUKEwjv2uDym_-DAxWtRTABHfUNAZEQmJACCLsP",
+          "text": "See web results for Steris Corporation"
+        }
+      ],
+      "extensions": [
+        "29 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "29 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciBpbiBUZXN0IDEwMCUgUmVtb3RlIiwiaHRpZG9jaWQiOiItRzNHc1VCWDhKMURZLXJQQUFBQUFBPT0iLCJmYyI6IkV1SUNDcUlDUVU1MVYyaGphMGxvTjNCdFNYRk9OMlZMZWt4TFZYTjRNV1JZUzJGT1IyaG1la00wZFVsbmNWTkdkazVTUlhOcFpsWkRSRE5RYkVrM2RHZ3diblpXUm5FMFJqaEhMVmRPVEVrNFl6RnRSV2gwYmtkSlZHOTNjekl4ZDJkSWJHSXhia04zWkRoNWVEZE5iVVZ3YUhSS1pWQnRTbmRNUVdsdmVXbzRRbnBJYW5oWmJEaFNjRXByZGtSTmRHZGhWbVJ2Y2xCSU1rbENWRGg0TVdreVFYbHdYMGhTVTJGbFUxUmhNR1kxTWt0dmIwcHhVbDlIWlZScGVETkdXVGhuVkhsSFREaFVjazkwZGtsUk16WkZaMlIzWTBoYVF6aG5aRmxGYzJJNVZsazNNVVF4U1U5VVZtSjJWWEp0Ym5WRGFIYzFiWFoyVmtkUVYwVnVjV3cyTlVwMVdIQlBTMUJDU1VSVU9Fa3hNM0pNV0ZCNlluQlpRV3AyUkdkZmQwVlZhaTFMVDJjU0YxSjBVekZhWlMxbVVFc3lUSGRpYTFBNVduVkZhVUZyR2lKQlVGaG9iVFZaYTIwMVUzVk1WR3RsTjFWblVtaGhUMXBIYjJWcGMxQjRUMDFCIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU1RFUklTIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnN0ZXJpcy5jb20vam9iL0Jpcm1pbmdoYW0tU29mdHdhcmUtRGV2ZWxvcG1lbnQtRW5naW5lZXItaW4tVGVzdC0xMDAtUmVtb3RlLUFMLTM1MjIyLzEwOTQwMTcwMDAvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Advisory",
+          "value": "advisory"
+        },
+        {
+          "text": "Engineer manager",
+          "value": "engineer manager"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Advisor",
+          "value": "advisor"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "Computer",
+          "value": "computer"
+        },
+        {
+          "text": "Security engineer",
+          "value": "security engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Senior staff",
+          "value": "senior staff"
+        },
+        {
+          "text": "Student",
+          "value": "student"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        },
+        {
+          "text": "Technical specialist",
+          "value": "technical specialist"
+        },
+        {
+          "text": "Transportation",
+          "value": "transportation"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Atlanta, GA",
+          "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+        },
+        {
+          "text": "Huntsville, AL",
+          "value": "jYmizWdrYohrVgTIiX4smg=="
+        },
+        {
+          "text": "Birmingham, AL",
+          "value": "07-FWN8RiYjOVLrqCXRQJQ=="
+        },
+        {
+          "text": "Greenville, SC",
+          "value": "BRH6YmaPV4iWdiW_d52q2A=="
+        },
+        {
+          "text": "Alpharetta, GA",
+          "value": "N_XFaJ909YhOTGUoYdUSwQ=="
+        },
+        {
+          "text": "Augusta, GA",
+          "value": "QaoLFpfQ-YjkC6rj_YrnPg=="
+        },
+        {
+          "text": "Tallahassee, FL",
+          "value": "U0sSh1GK7Ij4sf3Uegfu6w=="
+        },
+        {
+          "text": "Chattanooga, TN",
+          "value": "heeDikBgYIiqKIeJHyZxJA=="
+        },
+        {
+          "text": "Dunwoody, GA",
+          "value": "8atB5MgB9YgRG0RZMhu81Q=="
+        },
+        {
+          "text": "Johns Creek, GA",
+          "value": "eaE4GjCf9YgBvUB-qNZGPQ=="
+        },
+        {
+          "text": "Montgomery, AL",
+          "value": "-YHUsJSBjoj_hUI1HVEbjg=="
+        },
+        {
+          "text": "Pensacola, FL",
+          "value": "u6rLrEW_kIh8ZXkxbprGpw=="
+        },
+        {
+          "text": "Dublin, GA",
+          "value": "BwNQPw4g8YjlAvOBmuepgg=="
+        },
+        {
+          "text": "Duluth, GA",
+          "value": "o3Wlch2Y9Yjj2OI8isAmhQ=="
+        },
+        {
+          "text": "Marietta, GA",
+          "value": "XQZHhpYQ9YiB6Y4yxlaHsQ=="
+        },
+        {
+          "text": "Mobile, AL",
+          "value": "qfhM8R1Omoganol3VA7oTA=="
+        },
+        {
+          "text": "Niceville, FL",
+          "value": "0R-zLnRpkYjscKsMN2e-Kw=="
+        },
+        {
+          "text": "Alcoa, TN",
+          "value": "dQgpsfYgXIgQk-LhgeyNiw=="
+        },
+        {
+          "text": "Brunswick, GA",
+          "value": "aYAXMZTX5Ihe6Y2Tx5idNg=="
+        },
+        {
+          "text": "Columbus, GA",
+          "value": "9TE1WBvNjIhhA-HuqVCMcg=="
+        },
+        {
+          "text": "Dothan, AL",
+          "value": "jaXCA1SNkoivJ8HDvbIvLg=="
+        },
+        {
+          "text": "Easley, SC",
+          "value": "uw2ueA5IWIiuft9af6rU4Q=="
+        },
+        {
+          "text": "Fort Walton Beach, FL",
+          "value": "fTigqtIWkYjHZ548D62m4w=="
+        },
+        {
+          "text": "Grovetown, GA",
+          "value": "HU8FWhDW-Yi6tjq5gA15iA=="
+        },
+        {
+          "text": "Harlem, GA",
+          "value": "ZTCxnHF794j3Pbw95hyrfA=="
+        },
+        {
+          "text": "Kennesaw, GA",
+          "value": "obC2WeU_9YiSWBaDwT-rmw=="
+        },
+        {
+          "text": "La Vergne, TN",
+          "value": "EfyBrikNZIivC1O4T9g5wg=="
+        },
+        {
+          "text": "Madison, AL",
+          "value": "D42VzuAUYog4sTdabJgAvw=="
+        },
+        {
+          "text": "Murfreesboro, TN",
+          "value": "QQEXWw74Y4j2d7XWKrkMhQ=="
+        },
+        {
+          "text": "Panama City Beach, FL",
+          "value": "lYU6x2qMk4gsxQw92LEh0g=="
+        },
+        {
+          "text": "Shalimar, FL",
+          "value": "Ey6TSFUZkYi5OOFcNCwydA=="
+        },
+        {
+          "text": "Singleton, MS",
+          "value": "/f2/Singleton, MS"
+        },
+        {
+          "text": "Smyrna, GA",
+          "value": "5xP6dT0M9YijBPXE7gRhmQ=="
+        },
+        {
+          "text": "Spain, GA",
+          "value": "B__rbQ957oinxn-1nsHh6w=="
+        },
+        {
+          "text": "Trinity, AL",
+          "value": "TfuYX9-aYogCIHAkLdrjTg=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Restaurant",
+          "value": "/business/naics2007/722"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        },
+        {
+          "text": "Business Support",
+          "value": "/business/naics2007/5614"
+        },
+        {
+          "text": "Textiles & Apparel",
+          "value": "/business/naics2007/313"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": ".z1Kipd{flex:none}.NuDVRb{color:#1a73e8}",
+          "value": "e"
+        },
+        {
+          "text": "Mastercard",
+          "value": "/m/021b7r"
+        },
+        {
+          "text": "Intuit",
+          "value": "/m/04fdd3"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Microsoft",
+          "value": "/m/04sv4"
+        },
+        {
+          "text": "Block",
+          "value": "/m/0by16yq"
+        },
+        {
+          "text": "The Home Depot",
+          "value": "/m/01zj1t"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Chick-fil-A, Inc.",
+          "value": "/m/02cctq"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Emory University",
+          "value": "/m/0bqxw"
+        },
+        {
+          "text": "Macy's Jobs",
+          "value": "/m/01pf21"
+        },
+        {
+          "text": "PNC",
+          "value": "/m/04nfwb"
+        },
+        {
+          "text": "Regions",
+          "value": "/m/09hssh"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "State Farm",
+          "value": "/m/03dnbx"
+        },
+        {
+          "text": "Travelers",
+          "value": "/m/065d4n"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        },
+        {
+          "text": "BlackRock",
+          "value": "/m/06qnpn"
+        },
+        {
+          "text": "BlueCross BlueShield of Tennessee",
+          "value": "/m/0dmbxg"
+        },
+        {
+          "text": "Boeing",
+          "value": "/m/0178g"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Capgemini",
+          "value": "/m/03vlk0"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "CohesionForce, Inc.",
+          "value": "/g/11g9mmdc2k"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11c52t1pn4"
+        },
+        {
+          "text": "FanDuel",
+          "value": "/m/0j6638f"
+        },
+        {
+          "text": "GROUNDFLOOR",
+          "value": "/g/11gy24tz40"
+        },
+        {
+          "text": "Georgia Tech Research Institute",
+          "value": "/m/0c1l_f"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Salesforce",
+          "value": "/m/07btr5"
+        },
+        {
+          "text": "Sirius XM",
+          "value": "/m/02pljbm"
+        },
+        {
+          "text": "Steris Corporation",
+          "value": "/m/02w4fwp"
+        },
+        {
+          "text": "TriNet",
+          "value": "/m/05b3vxn"
+        },
+        {
+          "text": "WARNERMEDIA",
+          "value": "/m/0l8sx"
+        },
+        {
+          "text": "Workday",
+          "value": "/m/02rf_68"
+        },
+        {
+          "text": "AI Signal Research, Inc.",
+          "value": "/g/11g9n2rd8p"
+        },
+        {
+          "text": "ARA",
+          "value": "/g/11hd5fbpwz"
+        },
+        {
+          "text": "ASRC Federal",
+          "value": "/g/11v0b75xg4"
+        },
+        {
+          "text": "ASRC Federal Holding Company",
+          "value": "/g/11fy267f2r"
+        },
+        {
+          "text": "ASTRION, INC.",
+          "value": "/g/11f00ys_0f"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1296 @@
+{
+  "search_metadata": {
+    "id": "65b753f12ff42181c3594a31",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b753f12ff42181c3594a31.json",
+    "created_at": "2024-01-29 07:29:53 UTC",
+    "processed_at": "2024-01-29 07:29:53 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b753f12ff42181c3594a31.html",
+    "total_time_taken": 3.05
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Arrow Search Partners",
+      "location": "  Miami, FL   ",
+      "via": "via LinkedIn",
+      "description": "About The Company\n\nOur client is a global investment management firm with over $57 billion in AUM. The Software Engineer will be part of the Fixed Income and Commodities Order Execution Technology team and will be responsible for designing and implementing systems that support their execution platform, dealing with reference data, market data, and data captured for analysis. This position will... sit in Miami, Florida and they will provide relocation.\n\nResponsibilities\n• Participate in the design of new systems and services features\n• Implement and maintain software built in Java and Python\n• Minor role in supporting UI changes built in React/Angular\n• Answer to support queries\n• Collaborate with the development team, Quality Assurance, and Support\n\nRequirements\n• Bachelor’s degree or higher degree in mathematics, physics, computer science, computer engineering, or other quantitative related degree\n• 5-7 years of programming experience in Java\n• Experience creating, maintaining, and using web services\n• Experience with messaging systems (Tibco, Solace, Aeron, Kafka, etc)\n• Experience with version control (Git) and build (Maven) systems\n\nPluses\n• Working experience with low latency systems\n• Background in financial services, knowledge in Equities, futures or treasury markets\n• 3+ years Spring Framework (Boot, IoC, data mappings, etc) experience\n• Experience programming in Python\n\nSalary Range\n\n$200,000 – $300,000",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree or higher degree in mathematics, physics, computer science, computer engineering, or other quantitative related degree",
+            "5-7 years of programming experience in Java",
+            "Experience creating, maintaining, and using web services",
+            "Experience with messaging systems (Tibco, Solace, Aeron, Kafka, etc)",
+            "Experience with version control (Git) and build (Maven) systems",
+            "Working experience with low latency systems",
+            "Background in financial services, knowledge in Equities, futures or treasury markets",
+            "3+ years Spring Framework (Boot, IoC, data mappings, etc) experience",
+            "Experience programming in Python"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Engineer will be part of the Fixed Income and Commodities Order Execution Technology team and will be responsible for designing and implementing systems that support their execution platform, dealing with reference data, market data, and data captured for analysis",
+            "This position will sit in Miami, Florida and they will provide relocation",
+            "Participate in the design of new systems and services features",
+            "Implement and maintain software built in Java and Python",
+            "Minor role in supporting UI changes built in React/Angular",
+            "Answer to support queries",
+            "Collaborate with the development team, Quality Assurance, and Support"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$200,000 – $300,000"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Arrow+Search+Partners&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCNMJ",
+          "text": "See web results for Arrow Search Partners"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6WhBekGlTaVEBZamYdcjKxwn9dCLvZn_0CCqUnM&s",
+      "extensions": [
+        "14 hours ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "14 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiN3JjTGZoeGVrdExDd25hZEFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYkRsMWNrWlplbDlSWkZFMFVFcEdNRk5SYjJWM1MwUnFjakp4WDNWNU0yZE1NRTV0Y2pGMFdGVlVWREZJVVRWVFRqWnRkVXB5ZWxjMU1IcFlNMUkxVWpGNVZXaEZNR1J5UkV0amVHdDVjRmMwVlZONlZYWnNibkZ5VVhGZmFqQkROVXhVYUdOT2IxbE1NVFJEU2pKNWNVTnRSRzFPYVcwMFYzQjJkSGhMVmpoNWMweHpORVZRVFhveU1GTnFXbEpOZUdaQ1ptRk5ZbXgyVmtOdFh6RlJhVlZaV2xGVVRGRk5hRWsyVlhOQlJHSlpSRzU2ZDFCT1l6VTBUbGxLTTJWbkxXczNjMk5IRWhjNE1VOHpXbUpEWkVKUVh6ZDNZbXRRYlhWNVYyOUJXUm9pUVZCWWFHMDFZVzV2WWxwMVdqWTBkMWMwT1hOamNVUkRWMHBIYzFCeE1tRnpkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zb2Z0d2FyZS1lbmdpbmVlci1hdC1hcnJvdy1zZWFyY2gtcGFydG5lcnMtMzgxNjU2NjYzNj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Cloud Software Group",
+      "location": "  Fort Lauderdale, FL   ",
+      "via": "via Careers - Cloud Software Group",
+      "description": "Role Overview :\n\nInnovation, creativity and a passion for ever-improving performance drive our company and our people forward. We empower the original mobile device: YOU! Come join and help power our industry leading Secure Private Access & Zero Trust Network Access technologies. We need a FullStack software development engineer with experience in React JS, GoLang, Java and/or C# who is also... familiar with Cloud environments like AWS, Azure or Google Cloud Platform. Your focus will be to develop fullStack end to end Cloud based web service. As well as developing and maintaining related dependencies such as a backend database and message queues.\n\nJob Description/Responsibilities:\n• Integration of user-facing elements with server-side logic.\n• Building reusable code and libraries for future use.\n• Optimization of the application for maximum speed and scalability.\n• Implementation of security and data protection.\n• Design and implementation of data storage solutions.\n• Interface with Product Managers, Support, and Operations to understand requirements for developing proof of concepts (prototypes) and final product features.\n• Compose and maintain design specifications and component documents.\n• Design alongside a team of engineers focusing on 'design first' thinking, incorporating different end user personas.\n• Embrace Agile development methodologies (SCRUM, Kanban, etc.).\n\nYour Qualification include :\n• Minimum of 5 - 7 years of work experience in a One or more Object-Oriented Programming Languages as React JS, GoLang, Java.\n• Experience working with Cloud environments like AWS, Azure or Google Cloud Platform.\n• Management of hosting environment, including database administration and scaling an application to support load changes.\n• Integration of multiple data sources and databases into one system.\n\nPreferred Qualification/Skills:\n• Familiarity with automated testing systems and libraries, such as Jest, TestNG or JUnit.\n• Comfortable with continuous integration and continuous deployment practices.\n• Proficient knowledge of a back-end programming language, such as GoLang, Java or C# and good understanding of UI development with React or Angular.\n• Creating database schemas that represent and support business processes.\n• Familiarity with Agile practices.\n• Proficient understanding of code versioning tools, such as Git.\n\nAbout Us:\n\nCitrix and TIBCO recently merged to create Cloud Software Group, now one of the world’s largest cloud solution providers, serving more than 100 million users around the globe. When you join Cloud Software Group, you are making a difference for real people, each of whom count on our suite of cloud-based products to get work done — from anywhere. Members of our team will tell you that we value diverse lived experiences, passion for technology, and the courage to take risks. Everyone is empowered to learn, dream, and build the future of work. We are on the brink of another Cambrian leap -- a moment of immense evolution and growth. And we need your expertise and experience to do it. Now is the perfect time to move your skills to the cloud.\n\nCloud Software Group is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination. All qualified applicants will receive consideration for employment without regard to age, race, color, creed, sex or gender, sexual orientation, gender identity, gender expression, ethnicity, national origin, ancestry, citizenship, religion, genetic carrier status, disability, pregnancy, childbirth or related medical conditions (including lactation status), marital status, military service, protected veteran status, political activity or affiliation, taking or requesting statutorily protected leave and other protected classifications.\n\nIf you need a reasonable accommodation due to a disability during any part of the application process, please contact us at (800) 424-8749 or email us at AskHR@cloud.com for assistance",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We need a FullStack software development engineer with experience in React JS, GoLang, Java and/or C# who is also familiar with Cloud environments like AWS, Azure or Google Cloud Platform",
+            "Minimum of 5 - 7 years of work experience in a One or more Object-Oriented Programming Languages as React JS, GoLang, Java",
+            "Management of hosting environment, including database administration and scaling an application to support load changes",
+            "Integration of multiple data sources and databases into one system"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your focus will be to develop full",
+            "Stack end to end Cloud based web service",
+            "As well as developing and maintaining related dependencies such as a backend database and message queues",
+            "Building reusable code and libraries for future use",
+            "Optimization of the application for maximum speed and scalability",
+            "Implementation of security and data protection",
+            "Design and implementation of data storage solutions",
+            "Interface with Product Managers, Support, and Operations to understand requirements for developing proof of concepts (prototypes) and final product features",
+            "Compose and maintain design specifications and component documents",
+            "Design alongside a team of engineers focusing on 'design first' thinking, incorporating different end user personas"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tibco.com/",
+          "text": "tibco.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Cloud+Software+Group&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCKUK",
+          "text": "See web results for Cloud Software Group"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYB44wR01kofGvhSanxSwWl83X-qe-Ux2vbYLxOU&s",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlMtS0hjeUNraVJyVU53ckxBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJIUlhTamhxVWpscmJIWTJSVVkyTFMxTVUzaGZaR0ZvZVU1NFVXNTZVblpNT1dkNVZHZG1UM2xGYjBSSVlscFhWa2xyZVY5TUxXVmpWMkp2U0Vwbk1GbG1jemxxY2t3emEwbFhWRXB2T0dacWF6aG5OR2xmTFZKMGRtY3dhV2N3Ym5oMWRHYzFjWEJoWVZaTk4yRlBRMlUxU0ZwNVRUaGFVbVJPWlVjMGREVlZiR3h1TnpSa00xaEhaR05QUVVwa2RHZHZUa2xOYld4YVQyNW9XbGMxTWtkcmVrMWxTa0pCTjFsNE5WOVBhSGhFY0c1blFqRk5TR1l4ZVUxS09FcHRlWGgwY0ZSNFNITm1aMWczYURCUk5HaEtkRVpNTFd4T2EzQmlPV1ZLZFhJd2RUUmhWV2RwWTBkNVNrWk1kV2h0WXhJWE9ERlBNMXBpUTJSQ1VGODNkMkpyVUcxMWVWZHZRVmthSWtGUVdHaHROV0k1VmtodWRFdFJNV3hQT1VFMFptbHJRbmc1YmpkTFltdE1YMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgLSBDbG91ZCBTb2Z0d2FyZSBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY2xvdWQuY29tL2pvYnMvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWZ0LWxhdWRlcmRhbGUtZmxvcmlkYS11bml0ZWQtc3RhdGVzLTBiMmNhZDdkLThiYjgtNDRmOS1hNDI1LWZjNzBhMDhhZmFlOD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Arrow Search Partners",
+      "location": "  Miami, FL   ",
+      "via": "via LinkedIn",
+      "description": "About The Company\n\nOur client is a global investment management firm with over $57 billion in AUM. They are looking to hire a Software Engineer in Testing to join their Algo Development team who is responsible for developing, enhancing, and maintaining internal suite of algorithmic trading systems. This position can either sit in NYC or Miami, Florida and can pay for... relocation.\n\nResponsibilities\n• Work in full life cycle of algorithmic trading system testing developing a fully automated test platform to ensure high quality products and improve teams time to market\n• Participate in business and software requirement discussions and provide early feedback with focus on testability, recoverability and supportability\n• Write and review automated component and integration test cases\n• Develop and maintain testing platform for algo trading systems\n• Build and maintain automated pipelines for various testing phases including integration test, performance test, and end-to-end test\n• Collaborate with various teams to understand infrastructure and inter application dependencies to automate deployments\n• Design and develop testing strategy’s and provide cross function coordination and collaboration; establish and promote industry leading test practices\n\nRequirements\n• 2-4 years of Java server-side development\n• Unix/Linux experience\n• Proficiency in building out custom Java frameworks\n• Ability to perform testing\n\nPluses\n• Working experience with financial order/execution data, positions data or market data\n• Knowledge/understanding of equities, options, VWAP, algo trading platforms, etc\n• Experience with Jenkins and AWS\n• Experience with Docker/Kubernetes and Ansible\n• Programming capabilities with C++\n\nSalary Range\n\n$200,000-$350,000",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2-4 years of Java server-side development",
+            "Unix/Linux experience",
+            "Proficiency in building out custom Java frameworks",
+            "Ability to perform testing",
+            "Working experience with financial order/execution data, positions data or market data",
+            "Knowledge/understanding of equities, options, VWAP, algo trading platforms, etc",
+            "Experience with Jenkins and AWS",
+            "Experience with Docker/Kubernetes and Ansible",
+            "Programming capabilities with C++"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Work in full life cycle of algorithmic trading system testing developing a fully automated test platform to ensure high quality products and improve teams time to market",
+            "Participate in business and software requirement discussions and provide early feedback with focus on testability, recoverability and supportability",
+            "Write and review automated component and integration test cases",
+            "Develop and maintain testing platform for algo trading systems",
+            "Build and maintain automated pipelines for various testing phases including integration test, performance test, and end-to-end test",
+            "Collaborate with various teams to understand infrastructure and inter application dependencies to automate deployments",
+            "Design and develop testing strategy’s and provide cross function coordination and collaboration; establish and promote industry leading test practices"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Arrow+Search+Partners&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCPEK",
+          "text": "See web results for Arrow Search Partners"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6WhBekGlTaVEBZamYdcjKxwn9dCLvZn_0CCqUnM&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiZzFzYU9OQ3ZlMHd0UWN4RUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYm1rNGJuRkNNWFpJYVhCNldEWXdNek5DVVdwUVp6WnlNbGRuWVdWZlJtbFZibFptU1d0cVZVbENiVlJUZEVNMFVIUkhheTF2YTFsVGN6aERhMEZGWjFReFV6bFdRa0ZyWkROdU15MHhTa2RQZEdkbWVuaHRka2gyVURsamVYVklhbmN5WlRCamVXMUpNV1pEVEU5aVdIVnJjRFEzWkhSSlNFbHVNVzgyYVRZNFRYTlhiWFJJTlZab1R6VTJOakZsUVVKWVRtbE1TRVpITjNKeWEzSllPQzFaYUhkeldqTkJkR0o2UTNoclRGZFJhQzFNY205aVVIcDZXRTVUUVZSdVkxTmxNR0pORWhjNE1VOHpXbUpEWkVKUVh6ZDNZbXRRYlhWNVYyOUJXUm9pUVZCWWFHMDFXVTFxUWs5WFNua3dibmRHYUhsbldtTlBhR0psUWtGMmFYcHBVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zb2Z0d2FyZS1lbmdpbmVlci1hdC1hcnJvdy1zZWFyY2gtcGFydG5lcnMtMzgxNTU3NTkwOD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Entry Level Software Engineer",
+      "company_name": "Motorola Solutions",
+      "location": "  Plantation, FL   ",
+      "via": "via Getting Hired",
+      "description": "Company Overview\n\nMotorola Solutions is there for our customers when everything is on the line. In extreme moments — when a hurricane lands or when a fire breaks out. And in everyday moments — when a package arrives just in time for the holiday or when a child doesn’t miss the school bus home...\n\nWe unify voice, data, video and analytics in one integrated ecosystem to enable individuals, businesses and communities to work together in more powerful ways. To help people make better decisions, act confidently and be their best in the moments that matter. Bring your passion, potential and talents to Motorola Solutions and connect with a career that matters.\n\nDepartment Overview\nMotorola Solutions creates innovative, mission-critical communication solutions and services that help public safety and commercial customers build safer cities and thriving communities around the world.We look for the most advanced problems solvers - like you - to help us create technologies that rise to the challenges of our customers. To connect firemen to policemen to emergency responders to nurses to specialists to lives saved. To protect communities, grow businesses and make work safer and more efficient.Motorola Solutions is looking for a self motivated individuals to help drive the next generation public safety experience, and to work with a team of top experienced professionals to enable mission critical services and solutions.\nJob Description\n\nWe’re looking for a skilled web developer to join our team of innovative engineers who are consistently raising the bar on creativity and user experiences. As a web developer, you will be responsible for the design, development, testing, and deployment of applications that enable our customers to deliver mission critical software to their fleet of mission critical first responders. The ideal candidate is talented with extensive technical expertise who can work alongside a team and independently.\n\nProficiency in JavaScript, HTML, CSS, Angular, TypeScript and other web services and program applications is essential to succeeding in this role. The web developer will have an immediate effect on our brand and that of our clients, as well as an ongoing impact in solidifying our industry-wide reputation for mission critical communication over voice & data.\n\nWhat you will do:\n• Work collaboratively with multiple agile teams to help deliver end-to-end products and features, seeing them through from conception to delivery\n• Implement automation strategies, effective monitoring, and real-time telemetry\n• Deploy and maintain the CI/CD pipelines required for our applications\n• Move quickly and intelligently - Iterate on best practices to increase software quality & team velocity\n• Sustain and improve the process of knowledge sharing throughout the engineering team\n• Have on call responsibilities in rotation with other engineering team members\n\nWhat will help you succeed in this role:\n• Familiarity with modern web application design patterns and web languages (Javascript, Angular, Typescript, CSS, HTML\n• A drive towards automating repetitive tasks (e.g. scripting via Powershell, Bash, Python, etc)\n• Experience working within Azure and it’s managed products\n• Version control system experience (e.g. Git)\n• Experience with CI/CD fundamentals (e.g. Jenkins, TravisCI, Azure Pipelines)\n• Bachelor degree in Computer Science or Computer Engineering, or equivalent practical experience\n• Ability to learn and apply new technologies through self-learning\n\nBasic Requirements\n\nBS in Computer Engineering or Computer Science or a related field\n\nVaccine Requirement\n\nMotorola Solutions has implemented a voluntary COVID-19 vaccination policy. We strongly encourage all employees to be fully vaccinated. Any employee who is not vaccinated must wear a mask at all times when at a Motorola Solutions site or otherwise meeting with other Motorola Solutions employees or customers. Employees who have submitted proof of vaccination must follow site-specific or local mask requirements. Additionally, certain local governments or Motorola Solutions' customers may have vaccine requirements that apply to some of our employees.\n\nTravel Requirements\nUnder 10%\nRelocation Provided\nDomestic\nPosition Type\nNew Grad\nReferral Payment Plan\nYes\n\nOur U.S. Benefits include:\n• Incentive Bonus Plans\n• Medical, Dental, Vision benefits effective Day 1\n• 401K with Company Match and Day 1 vesting\n• 9 Paid Holidays\n• Generous Paid Time Off Packages\n• Employee Stock Purchase Plan\n• Paid Parental & Family Leave\n• and more!\n\nEEO Statement\n\nMotorola Solutions is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran's status, or, any other protected characteristic",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate is talented with extensive technical expertise who can work alongside a team and independently",
+            "Proficiency in JavaScript, HTML, CSS, Angular, TypeScript and other web services and program applications is essential to succeeding in this role",
+            "Familiarity with modern web application design patterns and web languages (Javascript, Angular, Typescript, CSS, HTML",
+            "A drive towards automating repetitive tasks (e.g. scripting via Powershell, Bash, Python, etc)",
+            "Experience working within Azure and it’s managed products",
+            "Version control system experience (e.g",
+            "Git)",
+            "Experience with CI/CD fundamentals (e.g",
+            "Jenkins, TravisCI, Azure Pipelines)",
+            "Bachelor degree in Computer Science or Computer Engineering, or equivalent practical experience",
+            "Ability to learn and apply new technologies through self-learning",
+            "BS in Computer Engineering or Computer Science or a related field"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a web developer, you will be responsible for the design, development, testing, and deployment of applications that enable our customers to deliver mission critical software to their fleet of mission critical first responders",
+            "The web developer will have an immediate effect on our brand and that of our clients, as well as an ongoing impact in solidifying our industry-wide reputation for mission critical communication over voice & data",
+            "Work collaboratively with multiple agile teams to help deliver end-to-end products and features, seeing them through from conception to delivery",
+            "Implement automation strategies, effective monitoring, and real-time telemetry",
+            "Deploy and maintain the CI/CD pipelines required for our applications",
+            "Move quickly and intelligently - Iterate on best practices to increase software quality & team velocity",
+            "Sustain and improve the process of knowledge sharing throughout the engineering team",
+            "Have on call responsibilities in rotation with other engineering team members"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Referral Payment Plan",
+            "Incentive Bonus Plans",
+            "Medical, Dental, Vision benefits effective Day 1",
+            "401K with Company Match and Day 1 vesting",
+            "9 Paid Holidays",
+            "Generous Paid Time Off Packages",
+            "Employee Stock Purchase Plan",
+            "Paid Parental & Family Leave"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.motorolasolutions.com/",
+          "text": "motorolasolutions.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Motorola+Solutions&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCMAL",
+          "text": "See web results for Motorola Solutions"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcotGoYFmAi2lB1ZmZguEbJ82iz4KddAQ6yw1KCs&s",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiUU9mS3FjWnp4UUcyWFpOVUFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYTJoa2VUazRiMHhPYUZkMFNXOVVaWGxvTkU5TlRscGxPVm8xYVhBM1oyRlVVRlJrVld4T2EzWTRObTFrYkcxdmNqSmxPR3A0VTBKU1JXczJTWFU1UlcxNVdWRXRkbk01ZGxkNlUzaG5NMUJDYWxodVFqUjVTWEIwVDNWWFVuZHVSbkY2VVdKUVRUbE9jR1k1VWxoTU9VOHdTak51ZUZCM1lVMDVlVUpUZUU1aGNsWkJUMnR4U1dzdFVrMU1Wa2hCVVVsT1oyNXBha2hGWVZObmJUTnlSM3BxYjI0d1ExQm9UV1JHTldkRFYzaDJaRkJaYjJKVFEwdHdZekpRU0VkeVdHSTFhR1JUT1VKd1lsOU9VMDVuVG5RM2QxaHRURGMyVFU1TE0wVTBSSEY2VTNOM1Z6aGpYMXB0V1dsRVRIaE1RUklYT0RGUE0xcGlRMlJDVUY4M2QySnJVRzExZVZkdlFWa2FJa0ZRV0dodE5XRjRNVTlTTUhWUGVXSkhjbTgyUlU5YU5HMDFkbkV4TFhaVWMzYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gR2V0dGluZyBIaXJlZCIsImxpbmsiOiJodHRwczovL3d3dy5nZXR0aW5naGlyZWQuY29tL2pvYi9hcmNoaXRlY3R1cmUtYW5kLWVuZ2luZWVyaW5nL2FsbC8xMDgzMDgyNC9lbnRyeS1sZXZlbC1zb2Z0d2FyZS1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Aroma360",
+      "location": "  Miami, FL   ",
+      "via": "via LinkedIn",
+      "description": "This position is located onsite in Miami. Only local candidates will be considered.\n\nAroma360 is a boutique Scent Marketing and Branding company that specializes in providing the highest-quality essential oil-based scenting solutions to businesses and individuals all around the world. As the only full-service scent company, Aroma360 guides clients from concept and development to strategic... implementation while priding themselves on exceptional customer service every step of the way. Aroma360 is continuously raising the bar for healthy scenting solutions in the industry!\n\nWe are looking for a talented Junior Software Engineer who thrives on creative problem-solving, takes initiative, and enjoys the process of software development and maintenance. While familiarity with Salesforce is a plus, you will have the opportunity to work with a diverse range of technologies, including GCT, Cloud Functions, web development, and API designs for integrating with third-party services. Collaboration with fellow engineers and developers across various infrastructure layers is a key aspect of this role, necessitating a commitment to collaborative problem-solving, thoughtful design, and the creation of high-quality products.\n\nResponsibilities\n• Developing and maintaining custom software solutions\n• Working with different technologies, including GCP (primarily Cloud Functions) and web development\n• Designing, coding, implementing, and testing applications\n• Employing Agile and DevOps methodologies\n• Creating documentation and ensuring the security and integrity of software applications\n• Automating business processes through custom code\n• Integrating software systems by leveraging API documentation\n• Perform other duties as assigned\n\nRequirements\n• Bachelor's Degree in computer science or equivalent experience\n• Previous experience in application and software development\n• Proficiency in coding algorithms, object-oriented programming, systems, and design\n• Strong command of SQL queries, JavaScript, and relevant frameworks\n• Excellent communication skills and a willingness to learn new technologies\n• Project management abilities with a track record of meeting deadlines\n• Nice to have knowledge in one or more programming languages such as Python, PHP, Java, C++, or C#\n• Experience with software development beyond the Salesforce ecosystem is a plus\n\nNice To Have Experience Or Familiarity With\n• MuleSoft, VisualForce, Git, Cloud Function, GCP, Grafana, NetSuite\n• Integration of marketing platforms and Pardot (not required)\n\nJoining our team comes with a range of exciting benefits to support your health, well-being, and professional growth, including:\n• Comprehensive health coverage, including dental and vision insurance, to ensure you and your family are taken care of.\n• Life insurance provides peace of mind for you and your loved ones.\n• Paid time off, allowing you to recharge and enjoy life outside of work.\n• Access to a 401(k) plan to help you plan for a secure financial future.\n• Employee discount to take advantage of great deals on our products and services.\n• Opportunities for paid training to develop your skills and advance your career.\n• Fun and exciting company events.\n\nOur organization is an equal opportunity employer and does not discriminate against any candidate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or any other legally protected characteristics. We are committed to promoting diversity, equity, and inclusion in our workplace and welcome candidates from all backgrounds to apply for any open positions",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in computer science or equivalent experience",
+            "Previous experience in application and software development",
+            "Proficiency in coding algorithms, object-oriented programming, systems, and design",
+            "Strong command of SQL queries, JavaScript, and relevant frameworks",
+            "Excellent communication skills and a willingness to learn new technologies",
+            "Project management abilities with a track record of meeting deadlines",
+            "Nice to have knowledge in one or more programming languages such as Python, PHP, Java, C++, or C#",
+            "Nice To Have Experience Or Familiarity With",
+            "MuleSoft, VisualForce, Git, Cloud Function, GCP, Grafana, NetSuite",
+            "Integration of marketing platforms and Pardot (not required)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Developing and maintaining custom software solutions",
+            "Working with different technologies, including GCP (primarily Cloud Functions) and web development",
+            "Designing, coding, implementing, and testing applications",
+            "Employing Agile and DevOps methodologies",
+            "Creating documentation and ensuring the security and integrity of software applications",
+            "Automating business processes through custom code",
+            "Integrating software systems by leveraging API documentation",
+            "Perform other duties as assigned"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Comprehensive health coverage, including dental and vision insurance, to ensure you and your family are taken care of",
+            "Life insurance provides peace of mind for you and your loved ones",
+            "Paid time off, allowing you to recharge and enjoy life outside of work",
+            "Access to a 401(k) plan to help you plan for a secure financial future",
+            "Employee discount to take advantage of great deals on our products and services",
+            "Opportunities for paid training to develop your skills and advance your career",
+            "Fun and exciting company events"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.aroma360.com/",
+          "text": "aroma360.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Aroma360&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCJkM",
+          "text": "See web results for Aroma360"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3yEwJC_fXvY2y0OWYqW0pFc_TUUQC97WBIxSGT4&s",
+      "extensions": [
+        "21 hours ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "21 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiaUc2ZjdKYm9WZ1lUNHM3TUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkhodGRFRkpiMGhPV1hscU1sSmFWV3hmYkVSdWEzbDZkQzFRY0RSTWNGOXJaalpKYlc5QmJVWkxibkU0WmpWaVdFRjVkRzVNWkdOcFZIZHFiVWx4Y1RGU1pqQkpMVUpmUmtoS01EaEtabkJTYTE4dFR6WkpaRVZzUlRrMVkxSTVMV2hsVm1SVk9WOHljVXd3YlZSTFFVZEhWa3BCUnpGT1V6SlRkMUJMV2twZk1GSlBYMXBZTnpGV1MxTmpSbmhuU1ZWTk9YWllhekJWTFY5VFpWSm1SazVPTTBZMGMwRndhMDVmVHkxdWVXTldUbVJDWTFSTFpHZFRWakZyTjNjeWVHZHJPR3c1VTFaMmNXRXRXREYzVkdkWlJtTlVVMFJhY2xVNVFSSVhPREZQTTFwaVEyUkNVRjgzZDJKclVHMTFlVmR2UVZrYUlrRlFXR2h0TlZsVmFWOVVSMVZIT0d3MlgyRmlTM0JuTFZoWlVucE5hVVpoY0VFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3NvZnR3YXJlLWVuZ2luZWVyLWF0LWFyb21hMzYwLTM3NTg3NDY3MTY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer- QE",
+      "company_name": "Subway",
+      "location": "  Miami, FL   ",
+      "via": "via Glassdoor",
+      "description": "Region: Miami-Office Remote - USA\n\nReady for a fresh, new career? Look no further because one of the world’s most iconic brands can help you get there...\n\nWhy Join Us?\n\nAt Subway, “better” is baked into our DNA. We are a brand that believes in continued improvement … in our lives, our businesses, and our planet. From the handshake that started our very first sandwich shop to earning our position as one of the world’s leading restaurant brands, we’ve always embraced change and the path ahead. And today, we're making better living way easier.\n\nOur purpose is about more than the food we serve in our restaurants. It’s centered on fueling healthy businesses and healthier lives. It is one of the most exciting times to join the Subway team and contribute to our transformational journey.\n\nAbout the Role:\n\nWe have an exciting opportunity to support our Technology team as a Software Engineer - QE based in the USA. The Software Engineer (SE) performs analysis, design, creating and implementation of software applications to meet current and future business requirements. The SE analyzes business and technical requirements, proposes design alternatives, codes, and tests, troubleshoots and optimizes business critical applications in collaboration with Solution Partners. The SE will monitor one or more project efforts with Solution Partner developers to successful completion while maintaining scope within time and budget constraints. QE - performs analysis, design, creating and implementation of manual and automation test plans. Reviews business requirement documents, software design/solution documents to understand business logic implementation and test cases to be performed.\n\nIf you feel that this is the role for you, and you are successful with your application, be ready to be Bold, Empowered, Accountable, and ready to have Fun in a fast paced and agile working environment.\n\nResponsibilities include but are not limited to:\n• Designs and develops complex software components in collaboration with Solution Partners or an individual team member. Solutions are designed and developed for high performance, high availability, low maintenance, and easy diagnosis of problems.\n• Analyzes and understands business and functional requirements. Collaborates with teams to design and implement reusable software solutions with consistent design patterns for internal and external use under the direction of senior team members.\n• Advises developers on best methods of software development and code creation. Provides design and implementation guidance to team members and solution partners. Performs code reviews to reinforce coding standards for solution partners.\n• Monitors and modifies development work to make sure resulting software meets established goals and delivery dates. Provides tier 2 user support on a scheduled basis. Produces support documentations and presentations as required.\n• Supports, maintains and modifies existing systems post-deployment during hypercare. Plans and coordinates transition of application support to operations by ensuing properly documented and monitored software components are deployed in production.\n• Reviews requirements, specifications and technical design documents providing the knowledge required to create the various testing artifacts and processes.\n• Responsible for In-Sprint Testing of features and integration testing with the rest of the ecosystem of a release artifact. Find and document any bugs/issues in collaboration with the development and product team. Prevents defects in Production by catching all issues before artifacts are released.\n• Creates detailed, comprehensive and well-structured test plans and test cases. Estimates, prioritizes, plans and coordinates QE activities. Performs regression testing after various stages in the software cycle. Design, develop and execute automation test plans using various tools/platforms.\n• Stays up to date with best practices in software testing and test strategies. Identify opportunities for improvement of current testing processes.\n\nQualifications (some examples listed below):\n• Bachelor's degree in Computer Science, Math, Science, or Engineering (Required)\n• Minimum of 3-5 years’ experience in in software engineering design, implementation, testing, deployment and support.\n• Expert knowledge and production-proven application of main stream development methodologies\n• Ability to drive sound design, and implementation through hands-on development. Understands and implements architectural vision for performance, extensibility, and availability.\n• Sets high standards of performance for self and/or others; assumes responsibility for work objectives; initiates, focuses, and monitors the efforts of self and/or others toward the accomplishment goals; proactively takes action and goes beyond what is required.\n• Identifies and understands issues, problems, and opportunities; obtains and compares information from different sources to draw conclusions, develops and evaluates alternatives and solutions, solves problems, and chooses a course of action.\n• Proven work experience testing software components in Windows platforms, Cloud Platforms, WEB Platforms, Mobile Platforms and other hardware including POS and Payments.\n• Strong knowledge of Software QA methodologies, processes and tools.\n• Experience testing solutions deployed to AWS Cloud, performance testing, security testing, is a plus.\n\nWhat do we Offer?\n• Insurance Plans (Medical/Life)\n• Pension/401K/RSP (country specific)\n• Competitive Bonus\n• Mobility Allowance\n• Tuition Reimbursement\n• Company Holidays\n• Employee Resource Groups\n• Volunteering time\n• And Many More…..\n\nThe Company is only considering applicants who are currently authorized to work in the country the position is based. AA/EOE/M/F/D/V\n\nActual pay is determined based on a number of job-related factors including skills, education, training, credentials, qualifications, scope and complexity of role responsibilities, geographic location, performance, and working conditions",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Math, Science, or Engineering (Required)",
+            "Minimum of 3-5 years’ experience in in software engineering design, implementation, testing, deployment and support",
+            "Expert knowledge and production-proven application of main stream development methodologies",
+            "Ability to drive sound design, and implementation through hands-on development",
+            "Understands and implements architectural vision for performance, extensibility, and availability",
+            "Strong knowledge of Software QA methodologies, processes and tools"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Engineer (SE) performs analysis, design, creating and implementation of software applications to meet current and future business requirements",
+            "The SE analyzes business and technical requirements, proposes design alternatives, codes, and tests, troubleshoots and optimizes business critical applications in collaboration with Solution Partners",
+            "The SE will monitor one or more project efforts with Solution Partner developers to successful completion while maintaining scope within time and budget constraints",
+            "QE - performs analysis, design, creating and implementation of manual and automation test plans",
+            "Reviews business requirement documents, software design/solution documents to understand business logic implementation and test cases to be performed",
+            "Designs and develops complex software components in collaboration with Solution Partners or an individual team member",
+            "Solutions are designed and developed for high performance, high availability, low maintenance, and easy diagnosis of problems",
+            "Analyzes and understands business and functional requirements",
+            "Collaborates with teams to design and implement reusable software solutions with consistent design patterns for internal and external use under the direction of senior team members",
+            "Advises developers on best methods of software development and code creation",
+            "Provides design and implementation guidance to team members and solution partners",
+            "Performs code reviews to reinforce coding standards for solution partners",
+            "Monitors and modifies development work to make sure resulting software meets established goals and delivery dates",
+            "Provides tier 2 user support on a scheduled basis",
+            "Produces support documentations and presentations as required",
+            "Supports, maintains and modifies existing systems post-deployment during hypercare",
+            "Plans and coordinates transition of application support to operations by ensuing properly documented and monitored software components are deployed in production",
+            "Reviews requirements, specifications and technical design documents providing the knowledge required to create the various testing artifacts and processes",
+            "Responsible for In-Sprint Testing of features and integration testing with the rest of the ecosystem of a release artifact",
+            "Find and document any bugs/issues in collaboration with the development and product team",
+            "Prevents defects in Production by catching all issues before artifacts are released",
+            "Creates detailed, comprehensive and well-structured test plans and test cases",
+            "Estimates, prioritizes, plans and coordinates QE activities",
+            "Performs regression testing after various stages in the software cycle",
+            "Design, develop and execute automation test plans using various tools/platforms",
+            "Stays up to date with best practices in software testing and test strategies",
+            "Identify opportunities for improvement of current testing processes",
+            "Sets high standards of performance for self and/or others; assumes responsibility for work objectives; initiates, focuses, and monitors the efforts of self and/or others toward the accomplishment goals; proactively takes action and goes beyond what is required",
+            "Identifies and understands issues, problems, and opportunities; obtains and compares information from different sources to draw conclusions, develops and evaluates alternatives and solutions, solves problems, and chooses a course of action"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Insurance Plans (Medical/Life)",
+            "Pension/401K/RSP (country specific)",
+            "Competitive Bonus",
+            "Mobility Allowance",
+            "Tuition Reimbursement",
+            "Company Holidays",
+            "Employee Resource Groups",
+            "Volunteering time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.subway.com/",
+          "text": "subway.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Subway&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCO4M",
+          "text": "See web results for Subway"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnTZk1JZNKyavJKHEJqEvnRPjjB7If-nZctsahBc&s",
+      "extensions": [
+        "12 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlci0gUUUiLCJodGlkb2NpZCI6IlhmTWJjYTBmRnBwQ3lRUFJBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJrcDVUelp5VDJaUVJsQTRVRmhQUTJkbFNGQmxTVFE1WWs1aU1EWkljMFI1VFRsdWIwaEJiVlowUjBaNGNucHRTbU5mYlRkdWVsTlZORmN5U1dVMVRFZExSMDlIUjBwdVgwaEZXV1IzWkVVMmQyWTVXa1pRTFZkRFdWTlZSMk5RWVY5MVIwNVFNakZ3V21Gc1IxZEJkbWhzWlZwQmR6RjNaazFhU1VOd1kyOUVlbFZJYVd4bldGVlFhMDV6ZVhNMWVucG5NSGx6VVVsYVdWQmxlR1V3UjA5TFF5MXdOblJzYUd0RlIydElNMUIyY0ZrMFdGVmhiMkUyTlhsaGNqbDJZelE1TVRseEVoYzRNVTh6V21KRFpFSlFYemQzWW10UWJYVjVWMjlCV1JvaVFWQllhRzAxV21OMlEzQXpjVjlLU25sMFRrYzVWV1ZXTlRkV2NtTndaMjlhVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEdsYXNzZG9vciIsImxpbmsiOiJodHRwczovL3d3dy5nbGFzc2Rvb3IuY29tL2pvYi1saXN0aW5nL3NvZnR3YXJlLWVuZ2luZWVyLXFlLXN1YndheS1KVl9JQzExNTQxNzBfS08wLDIwX0tFMjEsMjcuaHRtP2psPTEwMDkwNzkwMTc1MzVcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "company_name": "University of Miami",
+      "location": "  Miami, FL   ",
+      "via": "via SimplyHired",
+      "description": "Current Employees:\n\nIf you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position using the Career worklet, please review this tip sheet ...\n\nThe Sylvester Comprehensive Cancer Center & the Department of Molecular and Cellular Pharmacology are actively seeking a full-time Senior Software Engineer to work on the UHealth campus. The Senior Software Engineer will design, build, and maintain web applications as part of Sylvester’s internal end-user biomedical data analytics platform. The candidate will be performing their activities within an interdisciplinary team of research scientists, data engineers and other full-stack developers and will be using state-of-the-art software development practices. The ideal candidate should have a passion for the integration of software development with data science and be comfortable with building production-ready solutions that will accelerate the research activities of the university’s members.\n\nResponsibilities\n• Develop and maintain web applications using Node.js and React, ensuring high performance and responsiveness.\n• Collaborate with cross-functional teams, including designers and product managers, to define, design, and ship new features.\n• Write clean, reusable, and efficient code following industry best practices and coding standards.\n• Build and optimize server-side components and APIs for seamless integration with front-end applications.\n• Implement and maintain data storage solutions, such as databases and blob storage.\n• Conduct thorough testing and debugging of applications to identify and resolve any issues or bugs.\n• Work with version control systems to manage code repositories and facilitate team collaboration.\n• Optimize applications for maximum speed and scalability, considering factors like load time and user experience.\n• Participate in code reviews to ensure code quality, improve performance, and share knowledge with team members.\n• Stay up-to-date with the latest trends and technologies in full stack development, particularly related to Node.js and React.\n• Troubleshoot and resolve technical problems reported by users and provide timely support.\n• Collaborate with the UI/UX team to implement visually appealing and user-friendly interfaces.\n• Continuously improve the development process and identify opportunities for automation and optimization.\n• Document technical specifications, system architectures, and development processes for future reference.\n• Mentor and guide junior developers, providing technical expertise and assisting in their professional growth.\n\nRequirements / Minimum Qualifications\n• Minimum 4 years of relevant experience\n• Bachelor's degree in Computer Science, Software Engineering, or a related field. In some cases, equivalent practical experience may be accepted.\n• Proven experience as a Full Stack Developer, specifically working with Node.js and React, either through professional work or personal projects.\n• Strong understanding of web development principles, including client-side and server-side technologies.\n• Proficiency in Typescript, JavaScript, HTML, CSS, and related web technologies.\n• Experience with server-side frameworks and libraries, such as Express.js, Nest.js or Loopback.js.\n• Familiarity with front-end frameworks like React, along with React context state management.\n• Knowledge of RESTful APIs and experience in integrating them into web applications.\n• Proficiency in working with databases, both SQL and NoSQL, and understanding of data modeling principles.\n• Familiarity with version control systems, such as Git, and experience with collaborative development workflows.\n• Ability to write clean, modular, and maintainable code following best practices and coding standards.\n• Strong problem-solving skills and ability to debug and troubleshoot technical issues efficiently.\n• Excellent communication and collaboration skills, with the ability to work effectively in a team environment.\n• Self-motivated and proactive, with a passion for continuous learning and staying updated with new technologies and trends in full stack development.\n• Strong organizational skills and ability to manage multiple tasks and priorities effectively.\n• A portfolio or examples of previous projects demonstrating proficiency in full stack development would be a plus.\n\nPreferred Qualifications\n• Master's degree in Computer Science, Software Engineering, or a related field.\n• Experience with other programming languages, such as Python, R, Java, Rust.\n• Experience with other front-end frameworks, such as Angular or Vue.js.\n• Experience with cloud platforms like AWS, Azure, or Google Cloud Platform.\n• Knowledge of containerization technologies like Docker and container orchestration platforms like Kubernetes.\n• Experience with testing frameworks and methodologies, such as Jest, or Cypress.\n• Understanding of performance optimization techniques for web applications.\n• Knowledge of GraphQL and experience in implementing GraphQL APIs.\n• Familiarity with DevOps practices, continuous integration, and deployment pipelines.\n• Experience with microservices architecture and designing scalable and distributed systems.\n• Familiarity with Agile/Scrum methodologies and experience working in an Agile development environment.\n• Understanding of security best practices in web application development and experience in implementing security measures.\n• Knowledge of data visualization libraries and frameworks like D3.js or Plotly.js.\n• Strong understanding of user experience (UX) principles and ability to translate design wireframes into functional interfaces.\n• Active participation in the developer community, contributions to open-source projects, and attendance at tech conferences or meetups.\n\n#LI-YC1\n\nThe University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more.\n\nUHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for.\n\nPatient safety is a top priority. As a result, during the Influenza (\"the flu\") season (September through April), the University Of Miami Miller School Of Medicine requires all employees who provide ongoing services to patients, work in a location (all Hospitals and clinics) where patient care is provided, or work in patient care or clinical care areas, to have an annual influenza vaccination. Failure to meet this requirement will result in rescinding or termination of employment.\n\nThe University of Miami is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities are encouraged to apply. Applicants and employees are protected from discrimination based on certain categories protected by Federal law. Click here for additional information.\n\nJob Status:\n\nFull time\n\nEmployee Type:\n\nStaff\n\nPay Grade:\n\ni107",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum 4 years of relevant experience",
+            "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "In some cases, equivalent practical experience may be accepted",
+            "Proven experience as a Full Stack Developer, specifically working with Node.js and React, either through professional work or personal projects",
+            "Strong understanding of web development principles, including client-side and server-side technologies",
+            "Proficiency in Typescript, JavaScript, HTML, CSS, and related web technologies",
+            "Experience with server-side frameworks and libraries, such as Express.js, Nest.js or Loopback.js",
+            "Familiarity with front-end frameworks like React, along with React context state management",
+            "Knowledge of RESTful APIs and experience in integrating them into web applications",
+            "Proficiency in working with databases, both SQL and NoSQL, and understanding of data modeling principles",
+            "Familiarity with version control systems, such as Git, and experience with collaborative development workflows",
+            "Ability to write clean, modular, and maintainable code following best practices and coding standards",
+            "Strong problem-solving skills and ability to debug and troubleshoot technical issues efficiently",
+            "Excellent communication and collaboration skills, with the ability to work effectively in a team environment",
+            "Self-motivated and proactive, with a passion for continuous learning and staying updated with new technologies and trends in full stack development",
+            "Strong organizational skills and ability to manage multiple tasks and priorities effectively"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Senior Software Engineer will design, build, and maintain web applications as part of Sylvester’s internal end-user biomedical data analytics platform",
+            "The candidate will be performing their activities within an interdisciplinary team of research scientists, data engineers and other full-stack developers and will be using state-of-the-art software development practices",
+            "Develop and maintain web applications using Node.js and React, ensuring high performance and responsiveness",
+            "Collaborate with cross-functional teams, including designers and product managers, to define, design, and ship new features",
+            "Write clean, reusable, and efficient code following industry best practices and coding standards",
+            "Build and optimize server-side components and APIs for seamless integration with front-end applications",
+            "Implement and maintain data storage solutions, such as databases and blob storage",
+            "Conduct thorough testing and debugging of applications to identify and resolve any issues or bugs",
+            "Work with version control systems to manage code repositories and facilitate team collaboration",
+            "Optimize applications for maximum speed and scalability, considering factors like load time and user experience",
+            "Participate in code reviews to ensure code quality, improve performance, and share knowledge with team members",
+            "Stay up-to-date with the latest trends and technologies in full stack development, particularly related to Node.js and React",
+            "Troubleshoot and resolve technical problems reported by users and provide timely support",
+            "Collaborate with the UI/UX team to implement visually appealing and user-friendly interfaces",
+            "Continuously improve the development process and identify opportunities for automation and optimization",
+            "Document technical specifications, system architectures, and development processes for future reference",
+            "Mentor and guide junior developers, providing technical expertise and assisting in their professional growth"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.miami.edu/",
+          "text": "miami.edu"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=University+of+Miami&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCLgN",
+          "text": "See web results for University of Miami"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcCggrlr_zurJ8D3eZZ_2pTLRQMt5BggA292TnvQ&s",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InVkd1Z5d0FpODZaU2cwMjdBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJGUjJPVTVsY20xcWJrVjBaRXh4YTJnMFlWbGpVV3hYWlZCZk4wSnpWR3RvYlMxM01HZGxURGxRWkdsblVrTjBSakpaWlVKaVRGOURTR3BHYW5sWU0ybENSbnBQY3paRGMxaHRWR3htTlVaUWFGSTBYMTlaWDBabFkxWkdORkowWWxscVVYWlJlR3RDWmtNemVUVmZNMlJHVm05T0xVZGpUMUpZVFhkaGMwTmlaMlZhT1VoaVR6VnpXV3RXTTB0SWVuSTJiR2xWVTJ0cVRXZG1ZbVJCZGxKVk1EQndSR1pGY3pFdE4wWmFhVnBHY25oQ1lWZFJjM3BKVUhSeVZGTnFRbTlmY0VkemJGSldOblJ3YlVWM1lUVlFXRmR3TTJrME5EUk1VUklYT0RGUE0xcGlRMlJDVUY4M2QySnJVRzExZVZkdlFWa2FJa0ZRV0dodE5XSkVjREIxVUhwck1UQkdUMHR1UVUwdFowUktZV3hyTkZoWWFtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNpbXBseUhpcmVkIiwibGluayI6Imh0dHBzOi8vd3d3LnNpbXBseWhpcmVkLmNvbS9qb2IvRnEtMTNUdnNlb2x2NGtTMmFDZHd2bkxYMFdQNFdJNlFtNGJSMzFGT0xMLTJLeHZQWm5GdlZBP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Principal, Software Engineer, Graphics",
+      "company_name": "Magic Leap, Inc.",
+      "location": "  Plantation, FL   ",
+      "via": "via Greenhouse",
+      "description": "A new paradigm of computing\n\nMagic Leap is a pioneer in spatial computing, developing groundbreaking augmented reality technology that seamlessly blends digital content with the real world. As the creator of the next computing platform, our mixed reality devices unlock new possibilities for how people interact with and experience their surroundings...\n\nMagic Leap could be your place if you want to be part of a united team where everyone is empowered and trusted to make an impact. At Magic Leap, you can explore innovative solutions and use your talents to solve real-world problems. Working alongside industry experts, you can grow your skills and amplify human potential at the intersection of the physical and digital worlds. We know that successful change and progress accelerate diverse perspectives. As we shape our future, everyone's voice matters. Together, we can reimagine the world of work and, with our bold partners, make the impossible possible.\n\nThe opportunity\n\nThe Product Development and Engineering job family is the core of Magic Leap’s revolutionary AR capabilities. These highly collaborative teams are responsible for our organization's engineering and technical operations, performing cutting-edge and complex scientific research and development that is 'defined as we build' to create new AR products, features, and marketplaces. Activities include undertaking research, design, development, and implementation activities to improve Magic Leap’s AR products and services; designing, constructing, testing, and operating equipment; ensuring that standards of quality, cost, safety, reliability, timeliness, and performance are met in production processes; interpreting plans, drawings, and specifications; and collaborating across all Magic Leap teams to ensure our AR product and features provide a high-quality, immersive experience, meeting and exceeding our customer’s needs and our business objectives.\n\nAs Principal Software Engineer within our Graphics team, you will focus on Augmented Reality graphics system design and forward-looking research and development. You will work closely with both hardware engineers and other cross-platform software engineers to design, develop, debug and deploy many functional aspects of the rendering architecture, including the application interface to the display.\n\nWhat you’ll do\n• Serve in both a technical leadership role, and as a direct individual contributor.\n• Collaborate with the systems engineering, optical engineering, machine vision/perception, electrical engineering, SDK and human factors teams supporting organization-wide requirements elicitation, management, translation between disciplines and customers, and documentation.\n• Meet with key opinion leaders and end-users at luminary sites to understand their needs and support translation of business specifications into technical specifications.\n• Define system architecture, components, modules, interfaces, analysis, documentation and management to satisfy specified requirements.\n• Provide technical leadership to the development team distributed globally at various design centers.\n• Lead, advocate and enforce best practices in design, development and testing.\n• Collaborate with Product Management, Engineering Managers, Operations and Client Services teams to deliver reliable mission-critical solutions\n• Develop unique, novel, and innovative solutions to technical challenges with the implementation of new products; Documents and submits invention disclosures to protect Magic Leap intellectual property\n• Chair technical design reviews, and co-chair critical design reviews with the Program Manager representing the concerns of functional specialty on the product development team.\n\nThe experience you bring\n• 10+ years of software development experience with C, C++ and C#, with a strong track record of shipping production code.\n• Bachelor's Degree in Computer Science, Software Engineering or equivalent relevant experience in an applicable field. We are most interested in your total experience and professional achievements.\n• 10+ years of experience implementing and optimizing graphics algorithms with game engines such as Unity and Unreal using DirectX, OpenGL, or Vulkan.\n• Hands-on experience with design and implementation of modern 3D graphics applications using modern rendering APIs, like DirectX, OpenGL, and Vulkan.\n• Deep knowledge of rendering concepts for different rendering models (deferred, forward, forward+).\n• Proficient with writing vertex, fragment, and compute shaders using shading languages such as Cg, HLSL, GLSL, and SPIR-V.\n• Exceptional ability to write efficient, clean, maintainable and portable code.\n• Proven experience in implementing and deploying complex algorithms.\n\nIt’s exciting if you also have\n• Detailed knowledge of GPU Architectures and design.\n• Experience leading products for feature development.\n• Experience with GPU optimization for increased frame-rate and reduced latency.\n• Experience with development for augmented reality (AR), virtual reality (VR), or other forms of head mounted displays (HMDs).\n\nAdditional information\n• All your information will be kept confidential according to Equal Employment Opportunities guidelines\n\nAccommodations\n\nIf you need an accommodation during the application, interviewing, or hiring process, you may request an accommodation by emailing ApplicantAccommodation@magicleap.com. Magic Leap will reasonably accommodate qualified individuals with disabilities to the extent required by applicable law.\n\nPlease note that we do not accept any application documents via (e-)mail. Furthermore, we do not accept applications from recruitment agencies for this role",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "10+ years of software development experience with C, C++ and C#, with a strong track record of shipping production code",
+            "Bachelor's Degree in Computer Science, Software Engineering or equivalent relevant experience in an applicable field",
+            "We are most interested in your total experience and professional achievements",
+            "10+ years of experience implementing and optimizing graphics algorithms with game engines such as Unity and Unreal using DirectX, OpenGL, or Vulkan",
+            "Hands-on experience with design and implementation of modern 3D graphics applications using modern rendering APIs, like DirectX, OpenGL, and Vulkan",
+            "Deep knowledge of rendering concepts for different rendering models (deferred, forward, forward+)",
+            "Proficient with writing vertex, fragment, and compute shaders using shading languages such as Cg, HLSL, GLSL, and SPIR-V",
+            "Exceptional ability to write efficient, clean, maintainable and portable code",
+            "Proven experience in implementing and deploying complex algorithms",
+            "Detailed knowledge of GPU Architectures and design",
+            "Experience leading products for feature development",
+            "Experience with GPU optimization for increased frame-rate and reduced latency",
+            "Experience with development for augmented reality (AR), virtual reality (VR), or other forms of head mounted displays (HMDs)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As Principal Software Engineer within our Graphics team, you will focus on Augmented Reality graphics system design and forward-looking research and development",
+            "You will work closely with both hardware engineers and other cross-platform software engineers to design, develop, debug and deploy many functional aspects of the rendering architecture, including the application interface to the display",
+            "Serve in both a technical leadership role, and as a direct individual contributor",
+            "Collaborate with the systems engineering, optical engineering, machine vision/perception, electrical engineering, SDK and human factors teams supporting organization-wide requirements elicitation, management, translation between disciplines and customers, and documentation",
+            "Meet with key opinion leaders and end-users at luminary sites to understand their needs and support translation of business specifications into technical specifications",
+            "Define system architecture, components, modules, interfaces, analysis, documentation and management to satisfy specified requirements",
+            "Provide technical leadership to the development team distributed globally at various design centers",
+            "Lead, advocate and enforce best practices in design, development and testing",
+            "Collaborate with Product Management, Engineering Managers, Operations and Client Services teams to deliver reliable mission-critical solutions",
+            "Develop unique, novel, and innovative solutions to technical challenges with the implementation of new products; Documents and submits invention disclosures to protect Magic Leap intellectual property",
+            "Chair technical design reviews, and co-chair critical design reviews with the Program Manager representing the concerns of functional specialty on the product development team"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.magicleap.com/",
+          "text": "magicleap.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=Magic+Leap,+Inc.&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCIsO",
+          "text": "See web results for Magic Leap, Inc."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtJecrBR_fh9wFkunH32Q9jlZB0kjyS1FYTjBGe4&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwsIFNvZnR3YXJlIEVuZ2luZWVyLCBHcmFwaGljcyIsImh0aWRvY2lkIjoicG1KQzBtdlhmVDZQY0lrMUFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYTJoWU5IaERSalpyUmsxWGRtVk1lVWxWUm00dE0zRkpXVFpGTkhrNFRIQTNWbTltZUhFeE1uUlJUWGxCWkdGdVZrdEtTRmRWZG5OaU9YSXlaREJtUkdRdFdESkVkbVpGUkhsV1dIRm5kSEF3UjNaS1ZFWkpkMkp5VDFCeE1EaEJOVkZQTWpKSGVHeGxaVUpLUTBKQk0wTlhObTVDT0V0dk5XcEhWR293YkZZeVZGSXhRaTFmVDNoWlJVNUtkbFJDYzFaUmFTMHhNazlJTTB4VmFYTmxPRTltYzBRM2RVVjZhblZtYURSMWFVUnpjMFZMUTFwNVQwTnhhazFKY1ZOVE9GSnNha2R6Y2xNNWFUbDNaMFJITUdGQlVrdzRka2RWY2xSaE1HVlVSMVV5UjNCd05UaDVOVkZKVGpKcFRsSlhaVVJGVjA5c2JtWmlZVGxYWkhaU1ZYSnNka280UVJJWE9ERlBNMXBpUTJSQ1VGODNkMkpyVUcxMWVWZHZRVmthSWtGUVdHaHROVmxVVG1wMGJqUk9aakpPZVdKemRXMVBPWGRTU25WSlJrcHpUMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHcmVlbmhvdXNlIiwibGluayI6Imh0dHBzOi8vYm9hcmRzLmdyZWVuaG91c2UuaW8vbWFnaWNsZWFwaW5jL2pvYnMvNTUzMzc1Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "company_name": "OpenStore",
+      "location": "  Miami, FL   ",
+      "via": "via Jobs",
+      "description": "OpenStore is reimagining the future of e-commerce. Leveraging technology and our expertise in operating the most Shopify stores in the world, we acquire stores and offer managed services to Shopify entrepreneurs. In doing so, we’ve provided millions of dollars to entrepreneurs all over the country, helping them turn their stores into passive income and freeing up their time to start something... new.\n\nIn the near future, we’re bringing spontaneous discovery to online shopping through a consumer marketplace. Our company was started in 2021 by top investor and operator, Keith Rabois, and is backed with $150M+ from investors such as Atomic, Founders Fund, General Catalyst, Khosla Ventures and Lux Capital.\n\nABOUT THE OPPORTUNITY:\n\nJoin OpenStore as a Frontend Engineer where you'll play a crucial role in shaping and building our e-commerce platform. You will be immersed in ambitious projects that challenge and enhance your engineering craftsmanship and excellence. Collaborate with a team of exceptional engineers to define and execute the technical aspects of our vision. Work closely with engineers of all levels and contribute to building the best e-commerce engine in the world.\n\nWHAT YOU'LL DO:\n• Take initiative in identifying and exploiting opportunities that significantly benefit the company.\n• Design, develop, ship, and maintain complex systems independently and/or alongside other engineers as peers\n• Contribute to the future architecture of key systems and frameworks, balancing innovation and reliability.\n• Help develop a technical vision and roadmap that generate massive business value and optionality for our cross-functional teams and contribute to such across the entire company.\n• Identify and bring to life tools and over forms of leverage to be consumed by the company; including helping to decide when to build systems to increase our in-house leverage versus selecting from externally available 3rd party tools\n• Partner with and wear multiple hats across product, design, engineering and operations\n\nWHO YOU ARE:\n• You like to build and ship. You value iteration, speed and progress over perfection. You choose to be optimistic but have a plan. You think strategically about prioritization while constantly delivering to unlock feedback and new directions.\n• You thrive in fast-paced environments. You are highly self motivated to do right by those internal and external and foster a growth mentality to achieve both.\n• You are analytically rigorous. You have a bias towards using data and analyses to make decisions. You have interest in measuring the performance of your features and understanding their contribution to company KPIs.\n• You are collaborative, organized, and thoughtful. You actively solicit feedback and are flexible to getting things done individually or through teammates you influence. You embrace intellectual rigor as a feature of improvement, not a relationship bug.\n• You are curious: You possess a desire to learn and explore new ideas. You like to ask insightful questions and explore innovative solutions. You are not satisfied with surface-level answers, but like to uncover underlying principles and insights.\n• You are an owner: You take full responsibility for your work. You see challenges as opportunities and take initiative to drive results. Your focus is not only on fulfilling your role but also on contributing to the broader goals and success of the team. You proactively identify issues, propose solutions, and follow through to ensure successful outcomes.\n\nWHAT YOU HAVE:\n• 2-8+ years of prior software engineering experience\n• You strive for technical excellence in your domain\n• You have an interest and/or track record to building scaled systems that tackle difficult problems\n• You exemplify a winning team oriented mentality\n• Familiarity with or willingness to learn TypeScript and React stack\n• Familiarity with the Shopify ecosystem is a nice-to-have\n\nOpenStore is a proud Equal Opportunity Employer where we welcome and celebrate differences. We are committed to providing a workspace that is safe and inclusive, where everyone feels supported, connected, and inspired to do their best work. If you require any accommodations to participate in our recruitment process, please inform us of your needs when we contact you to schedule an interview",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You like to build and ship",
+            "You value iteration, speed and progress over perfection",
+            "You think strategically about prioritization while constantly delivering to unlock feedback and new directions",
+            "You thrive in fast-paced environments",
+            "You are highly self motivated to do right by those internal and external and foster a growth mentality to achieve both",
+            "You are analytically rigorous",
+            "You have a bias towards using data and analyses to make decisions",
+            "You have interest in measuring the performance of your features and understanding their contribution to company KPIs",
+            "You embrace intellectual rigor as a feature of improvement, not a relationship bug",
+            "You are curious: You possess a desire to learn and explore new ideas",
+            "You like to ask insightful questions and explore innovative solutions",
+            "2-8+ years of prior software engineering experience",
+            "You strive for technical excellence in your domain",
+            "You have an interest and/or track record to building scaled systems that tackle difficult problems",
+            "You exemplify a winning team oriented mentality",
+            "Familiarity with or willingness to learn TypeScript and React stack",
+            "Familiarity with the Shopify ecosystem is a nice-to-have"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be immersed in ambitious projects that challenge and enhance your engineering craftsmanship and excellence",
+            "Take initiative in identifying and exploiting opportunities that significantly benefit the company",
+            "Design, develop, ship, and maintain complex systems independently and/or alongside other engineers as peers",
+            "Contribute to the future architecture of key systems and frameworks, balancing innovation and reliability",
+            "Help develop a technical vision and roadmap that generate massive business value and optionality for our cross-functional teams and contribute to such across the entire company",
+            "Identify and bring to life tools and over forms of leverage to be consumed by the company; including helping to decide when to build systems to increase our in-house leverage versus selecting from externally available 3rd party tools",
+            "Partner with and wear multiple hats across product, design, engineering and operations",
+            "You proactively identify issues, propose solutions, and follow through to ensure successful outcomes"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://open.store/",
+          "text": "open.store"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=OpenStore&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCNoO",
+          "text": "See web results for OpenStore"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcu2xMnAfvd5MM3q2-mxO-noiztX5HGXqwm23yY8&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRnJvbnRlbmQiLCJodGlkb2NpZCI6Iko0aW1Pd2FKdlB0OUk5SEZBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJXZFZjRkJwVUhRNFYwbHhVakZEVUV4RFduaEhka2hWWkVSTFkyeG9aMjlvTlVKSmJFczFjbVY2ZUU4Mk9GVXdPRTF1Y0ZSdVZqaG5YeTA1Y0RkbFZXbHlaRmx2ZEVGQ2JqRTBaamREVEZjNFZVNHhaa0UyYjJwaWNDMVhTMjVtWmxSblMwdFlYelJyVGxOZmJEa3ROWHBsWmxoMU5FUnlkbk5MYkZSS2FtbFBWR2t6U2pkM09XOVZjRmMzYjFGZlEwcHJWR3BpTlRGWU1HWjFRbVZ3TXpOMVRXOXFRMU54V0hkaWFFNVpaVkpLUjNCb1oyNDFYMFV5YWxCSVNreHBWemxUTUhrMVZqQndiazV5ZFRSQlJuSnhaVE5TUWxsSlUxcFpRUklYT0RGUE0xcGlRMlJDVUY4M2QySnJVRzExZVZkdlFWa2FJa0ZRV0dodE5Wa3pZbFpKVkcxUU9YSkZZVU5vWmxObmFXZDJUV2QyVFdZM1RHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29tL29wZW5zdG9yZS81ZmMxMzkwMC05OTY3LTRmY2EtYmY2MS04YzQ5NGRhYjA4MDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": ".Net Software Engineer (Onsite)",
+      "company_name": "System Soft Technologies",
+      "location": "  Sunrise, FL   ",
+      "via": "via LinkedIn",
+      "description": "Job Description\n\nSenior C# Software Engineer...\n\nContract to Hire\n\nLocation: Sunrise, FL (1 day remote) à Relocation will not be provided\n\nHourly: $50\n\nNo C2C will be considered\n\nPosition Overview\n\nAs a Senior C# Software Engineer, you will be responsible for full-stack development using Agile and Waterfall methodologies. Your primary focus will be to analyze, design, implement, maintain, and support complex financial aid products for internal and external customers.\n\nResponsibilities\n• Full Stack Development: Develop web applications/services using Microsoft technologies with at least 5 years of hands-on experience.\n• Database and Data Skills: Utilize SQL expertise along with ETL and data warehouse development experience to optimize database and C# code.\n• Technical Proficiency: Apply technical expertise in FTP protocols, Internet Information Server (IIS) administration, Microsoft Azure, and DevOps to enhance project efficiency.\n• Agile Development Collaboration: Uphold Agile - Scrum Development Processes, fostering a collaborative and adaptive development environment.\n\nRequired\n• Minimum Education: Bachelor’s degree in computer science; additional degree and software development certificates preferred.\n• Technology Stack Mastery: Proficiency with ASP.NET C#, MVC, Entity Framework, OOP, Service Oriented Architecture (SOA), JavaScript, jQuery, jQuery Mobile, and multi-layer architecture design.\n• Database and Data Skills: Hands-on experience with SQL, ETL, data warehouse development, and database code optimization.\n• Technical Proficiency: Familiarity with FTP protocols, Internet Information Server (IIS) administration, Microsoft Azure, DevOps, Git, and Team Foundation Server (TFS) for source control.\n• Project Management Tools: Familiarity with Jira for effective project management.\n• Testing Expertise: Proficient in Unit Testing and Integration Testing methodologies.\n• Agile Development: In-depth understanding and hands-on experience with Agile - Scrum Development Processes.\n\nIf you are a proactive and experienced Senior C# Software Engineer looking for a dynamic role in a growing company, apply now to join our team",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Full Stack Development: Develop web applications/services using Microsoft technologies with at least 5 years of hands-on experience",
+            "Database and Data Skills: Utilize SQL expertise along with ETL and data warehouse development experience to optimize database and C# code",
+            "Technology Stack Mastery: Proficiency with ASP",
+            "NET C#, MVC, Entity Framework, OOP, Service Oriented Architecture (SOA), JavaScript, jQuery, jQuery Mobile, and multi-layer architecture design",
+            "Technical Proficiency: Familiarity with FTP protocols, Internet Information Server (IIS) administration, Microsoft Azure, DevOps, Git, and Team Foundation Server (TFS) for source control",
+            "Project Management Tools: Familiarity with Jira for effective project management",
+            "Testing Expertise: Proficient in Unit Testing and Integration Testing methodologies",
+            "Agile Development: In-depth understanding and hands-on experience with Agile - Scrum Development Processes",
+            "If you are a proactive and experienced Senior C# Software Engineer looking for a dynamic role in a growing company, apply now to join our team!"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior C# Software Engineer, you will be responsible for full-stack development using Agile and Waterfall methodologies",
+            "Your primary focus will be to analyze, design, implement, maintain, and support complex financial aid products for internal and external customers",
+            "Agile Development Collaboration: Uphold Agile - Scrum Development Processes, fostering a collaborative and adaptive development environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Hourly: $50"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=a94a1990071d69cd&sca_upv=1&q=System+Soft+Technologies&sa=X&ved=0ahUKEwjw4t7liYKEAxX_fTABHRq2BWQQmJACCKYP",
+          "text": "See web results for System Soft Technologies"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrYfn-0-DfrQTKaHuwRYm9orB5jVdDT_JDknI3vo&s",
+      "extensions": [
+        "3 days ago",
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiIuTmV0IFNvZnR3YXJlIEVuZ2luZWVyIChPbnNpdGUpIiwiaHRpZG9jaWQiOiJrQVc4alNqemRlLVkyaEtrQUFBQUFBPT0iLCJmYyI6IkVyY0NDdmNCUVU1MVYyaGpiQzEwTjBGU2FHbHRZMDU0ZEdNNE0xY3RaSFZTVkdrNWQweEthVWh0Y0dGemJrNWtTVGQ1ZFRsdFJWQnhNbHBWY1ZOU05Fd3hUM2hzUm1jeE9GQnlkMGxCYmtKUGNUUkhVRnBoVjNGNlJXYzBlbDl0Tm0xaGExcFdaRVpQVUZGWWVWWmFNSEp2YjI1TWFUSk1RM0JmUkhjMmFsZGtjelpyZG1oRGFVcHpVbVZ6WjBZdE0wZHJjelZ3T1VKeU5FRXRYMEY2TmpOVFVIZGZRbkZFV1ZSWlV6QkJjRFpZZG5VNGRUZEhhVEZTWlRCa1FYcGthWEUxTUVselNrSmZNMEZ6YlZCSlRUSXpabEZxVGpnM1FqaFpOQzFsVVVGdFVUaE5ZbmwzU2xOaWNpMWpNMUJvYUZCaWEzcFJVMWwzUnpBNGR4SVhPREZQTTFwaVEyUkNVRjgzZDJKclVHMTFlVmR2UVZrYUlrRlFXR2h0TlZsUU9HRXpkbHBWVDFKNVN6bEViVWR1WDNCZk4zSlJWM1JGZVVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9uZXQtc29mdHdhcmUtZW5naW5lZXItb25zaXRlLWF0LXN5c3RlbS1zb2Z0LXRlY2hub2xvZ2llcy0zODExMjkxNjk3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Engineer manager",
+          "value": "engineer manager"
+        },
+        {
+          "text": "Lead engineer",
+          "value": "lead engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sr specialist",
+          "value": "sr specialist"
+        },
+        {
+          "text": "Backend engineer",
+          "value": "backend engineer"
+        },
+        {
+          "text": "Field engineer",
+          "value": "field engineer"
+        },
+        {
+          "text": "Freelance",
+          "value": "freelance"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Prof",
+          "value": "prof"
+        },
+        {
+          "text": "Senior engineer",
+          "value": "senior engineer"
+        },
+        {
+          "text": "Senior principal",
+          "value": "senior principal"
+        },
+        {
+          "text": "Services",
+          "value": "services"
+        },
+        {
+          "text": "Sr. manager",
+          "value": "sr. manager"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        },
+        {
+          "text": "Systems engineering",
+          "value": "systems engineering"
+        },
+        {
+          "text": "Technical",
+          "value": "technical"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Orlando, FL",
+          "value": "d7zN_thz54iev6U8BrLDCg=="
+        },
+        {
+          "text": "Tampa, FL",
+          "value": "4dG5s4K3wohjtJaviRNfpw=="
+        },
+        {
+          "text": "Melbourne, FL",
+          "value": "TZlxRywO3oio0gypVLLNiw=="
+        },
+        {
+          "text": "Miami, FL",
+          "value": "EcHIDqKw2YhlT63dcfKW_w=="
+        },
+        {
+          "text": "Fort Lauderdale, FL",
+          "value": "9cr6ICcB2Yi-jr9Adb4Cdg=="
+        },
+        {
+          "text": "Clearwater, FL",
+          "value": "Gbt04v3xwoj7kjzS0d-pdQ=="
+        },
+        {
+          "text": "Boca Raton, FL",
+          "value": "J_s278Ij2YjJlWDK7qY-0g=="
+        },
+        {
+          "text": "Plantation, FL",
+          "value": "wxO77w8H2YgWec2NjYJ3XQ=="
+        },
+        {
+          "text": "Lakeland, FL",
+          "value": "BwAP37I43YgI1aK4DzLRKQ=="
+        },
+        {
+          "text": "Largo, FL",
+          "value": "Ww5jgqbxwohFXcVipi6_YQ=="
+        },
+        {
+          "text": "St. Petersburg, FL",
+          "value": "Qao6aWPmwoj_i9S8A0DMBA=="
+        },
+        {
+          "text": "Fort Myers, FL",
+          "value": "KVSoiQFC24iKJboKUwgpxg=="
+        },
+        {
+          "text": "Kennedy Space Center, FL",
+          "value": "WZPaH_Ww4IgAyGRkBvgerQ=="
+        },
+        {
+          "text": "Sunrise, FL",
+          "value": "QZ3rCDao2YiZ-7ZDLhz1JA=="
+        },
+        {
+          "text": "Palm Beach Gardens, FL",
+          "value": "pRdHOMzT3ohhwiWpMjqMZg=="
+        },
+        {
+          "text": "Sarasota, FL",
+          "value": "K8KyneY3w4jZFVcdHTQ14w=="
+        },
+        {
+          "text": "Titusville, FL",
+          "value": "J1g0uNJM54iOoRPoygUsow=="
+        },
+        {
+          "text": "Deerfield Beach, FL",
+          "value": "b_tKPZDi2IgXZjW_KiuY5Q=="
+        },
+        {
+          "text": "Hopewell, FL",
+          "value": "TZllNoEx3Yhp-WH5gButiw=="
+        },
+        {
+          "text": "Juno Beach, FL",
+          "value": "25mwVVIq34hDI2f6qSKz2A=="
+        },
+        {
+          "text": "Lake Buena Vista, FL",
+          "value": "Cadk6PF_3YjMpjzyxCRuWA=="
+        },
+        {
+          "text": "Lake Mary, FL",
+          "value": "sdb-KVFt54jLzyXzYNlsGg=="
+        },
+        {
+          "text": "Palm Bay, FL",
+          "value": "N7jtdDQN3ohOhC1NKoNWsg=="
+        },
+        {
+          "text": "South Venice, FL",
+          "value": "-8V60oRZw4gvR5y_Cbx7mw=="
+        },
+        {
+          "text": "Stuart, FL",
+          "value": "r1DUgjXc3oiDvHd1rTxl5w=="
+        },
+        {
+          "text": "Sydney, FL",
+          "value": "4bSZt0kz3Yh26CU4P5JUdQ=="
+        },
+        {
+          "text": "West Palm Beach, FL",
+          "value": "wa2VtczV2Ijea-EftcfvFQ=="
+        },
+        {
+          "text": "Cape Canaveral, FL",
+          "value": "m0xQOaul4Iie0VV69bALuw=="
+        },
+        {
+          "text": "Cape Coral, FL",
+          "value": "9RaA56dE24jyb5s6FqTRrw=="
+        },
+        {
+          "text": "Celebration, FL",
+          "value": "swGnatF43YjVh6BOsUG1eg=="
+        },
+        {
+          "text": "Coral Gables, FL",
+          "value": "IfoeFI632YjWqZVE3JMQUQ=="
+        },
+        {
+          "text": "Coral Springs, FL",
+          "value": "ZeB2GTQF2YgrICmRtbAHiQ=="
+        },
+        {
+          "text": "Dania Beach, FL",
+          "value": "tWMtIj2q2Yjih97UuFcD4A=="
+        },
+        {
+          "text": "Davenport, FL",
+          "value": "7WLP2TJx3YisU3wkYQA17A=="
+        },
+        {
+          "text": "De Leon Springs, FL",
+          "value": "MxshF8fi5ogjB89ffXPxRA=="
+        },
+        {
+          "text": "Delray Beach, FL",
+          "value": "42rskPzf2Ii4uG5TKAF4xw=="
+        },
+        {
+          "text": "Lutz, FL",
+          "value": "cVzC6aewwohB6-XR470JTg=="
+        },
+        {
+          "text": "Maitland, FL",
+          "value": "LXb8gUtw54gRZeHizdGFvg=="
+        },
+        {
+          "text": "Naples, FL",
+          "value": "rdfCc5vh2oiqmizXGFM_Zw=="
+        },
+        {
+          "text": "North Palm Beach, FL",
+          "value": "QfLYRCvV2Ij60JQVW0I9Fw=="
+        },
+        {
+          "text": "Odessa, FL",
+          "value": "8dpthrqVwogEFhWARcc35w=="
+        },
+        {
+          "text": "Oldsmar, FL",
+          "value": "lYo0vKTrwog1uOaz_xF6gA=="
+        },
+        {
+          "text": "Oviedo, FL",
+          "value": "N65FJo9p54jA9p-khgiE6A=="
+        },
+        {
+          "text": "PT CANAVERAL",
+          "value": "/f2/PT CANAVERAL"
+        },
+        {
+          "text": "Patrick Space Force Base, FL",
+          "value": "LQdj6UUb3ogdVZLTcatu0w=="
+        },
+        {
+          "text": "St. Cloud, FL",
+          "value": "STUVdReO3Yi_2uDRhiFkUw=="
+        },
+        {
+          "text": "Temple Terrace, FL",
+          "value": "bXrkGlTGwohgIxRgvSKTMg=="
+        },
+        {
+          "text": "Weston, FL",
+          "value": "R8dqkZGg2Yjol7kDQ7f0iQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Travel",
+          "value": "/business/naics2007/5615"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        },
+        {
+          "text": "Repair",
+          "value": "/business/naics2007/811"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Restaurant",
+          "value": "/business/naics2007/722"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "EA SPORTS",
+          "value": "/m/01n073"
+        },
+        {
+          "text": "Jacobs",
+          "value": "/m/0992r2"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "L3Harris Technologies",
+          "value": "/g/11fm6fqq8c"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Sirius XM",
+          "value": "/m/02pljbm"
+        },
+        {
+          "text": "NextEra Energy",
+          "value": "/m/0h1c7zs"
+        },
+        {
+          "text": "Northrop Grumman",
+          "value": "/m/01frpd"
+        },
+        {
+          "text": "Publix Super Markets",
+          "value": "/m/03p3081"
+        },
+        {
+          "text": "Royal Caribbean Cruises Ltd",
+          "value": "/m/04y5s49"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Emergent Software",
+          "value": "/m/09mjr27"
+        },
+        {
+          "text": "Epsilon Systems Inc",
+          "value": "/g/11f00wlcml"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Penske",
+          "value": "/m/04vsdk"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "Universal Parks & Resorts",
+          "value": "/m/04vfk3"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Boatsetter",
+          "value": "/g/11g9n7b4c8"
+        },
+        {
+          "text": "Boeing",
+          "value": "/m/0178g"
+        },
+        {
+          "text": "Booz Allen Hamilton",
+          "value": "/m/05jlg3"
+        },
+        {
+          "text": "Cloud Software Group",
+          "value": "/m/044qc6"
+        },
+        {
+          "text": "CyberCoders",
+          "value": "/g/11f0139r1n"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Magic Leap, Inc.",
+          "value": "/m/0125sydn"
+        },
+        {
+          "text": "Motorola Solutions",
+          "value": "/m/03dzwt_"
+        },
+        {
+          "text": "Peraton",
+          "value": "/g/11g9mq8fj6"
+        },
+        {
+          "text": "Shift4",
+          "value": "/m/0g1bsk"
+        },
+        {
+          "text": "Ultimate Software",
+          "value": "/m/03p3d52"
+        },
+        {
+          "text": "AEVEX Aerospace",
+          "value": "/g/11gxm980l5"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "Actabl",
+          "value": "/g/11tn6_t0wd"
+        },
+        {
+          "text": "Advanced Micro Devices, Inc",
+          "value": "/m/0z64"
+        },
+        {
+          "text": "Agoda",
+          "value": "/g/12nvpqwlt"
+        },
+        {
+          "text": "Aroma360",
+          "value": "/g/11dxptxy1d"
+        },
+        {
+          "text": "Ascensus",
+          "value": "/g/11c521x5ry"
+        },
+        {
+          "text": "Asure Software",
+          "value": "/m/0gxv8"
+        }
+      ]
+    }
+  ]
+}

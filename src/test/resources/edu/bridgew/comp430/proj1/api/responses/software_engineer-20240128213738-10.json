@@ -1,0 +1,1221 @@
+{
+  "search_metadata": {
+    "id": "65b6c9222f542e7e6d27389c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7427a2a1d27a8477/65b6c9222f542e7e6d27389c.json",
+    "created_at": "2024-01-28 21:37:38 UTC",
+    "processed_at": "2024-01-28 21:37:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=10",
+    "raw_html_file": "https://serpapi.com/searches/7427a2a1d27a8477/65b6c9222f542e7e6d27389c.html",
+    "total_time_taken": 1.32
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 10
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer 3 - AI Services",
+      "company_name": "Pacific Northwest National Laboratory",
+      "location": "  United States   ",
+      "via": "via PNNL Careers - Pacific Northwest National Laboratory",
+      "description": "Overview\n\nThe Computing and Information Technology Directorate works to re-imagine how digital technologies can simplify the research experience, enable data-driven insights for decision makers, and accelerate PNNL’s research missions. CIT helps connect staff to systems while enabling a broader research computing ecosystem to improve productivity and provide a sense of community...\n\nThe Computing and Information Technology Division (CITD) owns PNNL’s technical IT/OT strategy and provides the tools, data, devices, and infrastructure that PNNLers use to do their jobs every day. We partner with the research divisions to drive innovation and mission enablement while pushing the latest commercial offerings to creatively solve new problems in novel ways. We lead with design to drive simplicity and ease of use, engineering the systems that run the business, and innovating to transform our sponsor's business.\n\nThe Digital Platforms division of (CITD) works to re-imagine how digital technologies can simplify the research experience, enable data-driven insights for decision makers, and accelerate PNNL’s research missions. The team helps connect staff to systems while enabling a broader research computing ecosystem to improve productivity and provide a sense of community. Digital Platforms is combining profound domain expertise and creative integration of advanced hardware and software to deliver computational solutions that address complex data and analytic challenges. Our strengths are integrated across the data analytics lifecycle, from data acquisition & management, to analysis and decision support.\n\nResponsibilities\n\nAs a National Laboratory, we offer a unique blend of opportunities for the exceptional candidate. The Software Engineer - AI Services position focus encompasses the implementation and utilization of a procured Generative AI Platform. Your work will include maintaining and operating the platform, partnering with clients to define, build and deliver innovative solutions to complex business and scientific problems; working with effective teams from multiple disciplines; and recommending and implementing standards and best practices. As a member of a stable team, you are expected to develop knowledge of the goals of projects or clients you are supporting – and maintain a customer service focus commensurate with this position.\n\nYour key responsibilities and accountabilities would include:\n• Drive the implementation and use of cutting-edge solutions leveraging procured Generative AI Platform\n• Develop workflows and integrations, based on customers’ requirements, to deliver upon AI Chat solutions.\n• Stay current with AI Platform roadmap, and upcoming upgrades, to inform stakeholders on offerings and updates.\n• Be technical lead on AI Platform implementation, as well as triage and support resolution of technical issues reported.\n• Work collaboratively as part of an agile development team that delivers incremental features to a wide range of products.\n• Collaborate effectively on diverse teams (e.g., Portfolio / Project managers, domain experts, users, and software engineering team) to design and deploy innovative solutions across the enterprise.\n• Utilize software engineering best practices through the entire software development lifecycle and recommend changes in development, maintenance, and system standards.\n• Enhance personal technical and professional skills through active mentoring and training.\n• Assimilate knowledge quickly in a variety of domains.\n\nQualifications\n\nMinimum Qualifications:\n• BS/BA and 5+ years of relevant work experience -OR-\n• MS/MA and 3+ years of relevant work experience -OR-\n• PhD with 1+ year of relevant experience\n\nPreferred Qualifications:\n• Experience in leveraging Generative AI capabilities.\n• Experience with Azure OpenAI\n• Experience developing APIs and RESTful Web Services\n• Experience with JavaScript or TypeScript\n• Experience configuring cloud services with Azure, Amazon Web Services or Google Cloud\n• Knowledge of Search Engine configuration such as Elastic Search and/or Azure Cognitive Search\n• Knowledge of Large Language Models\n• Knowledge of Artificial Intelligence security principles.\n• Knowledge in machine learning and the finetuning of models.\n• Exceptional communicator with both technical and nontechnical audiences\n• Demonstrated ability to think strategically to deliver innovative solutions.\n• Deliver results with highest level of professionalism and integrity.\n\nHazardous Working Conditions/Environment\n\nNot applicable.\n\nAdditional Information\n\nDue to business needs and client space, US Citizenship is required.\n\nPacific Northwest National Laboratory is subject to the Department of Energy Unclassified Foreign Visits & Assignments Program site, information, technologies, and equipment access requirements.\n\n“Referral Eligible”\n\nTesting Designated Position\n\nThis is not a Testing Designated Position (TDP).\n\nAbout PNNL\n\nPacific Northwest National Laboratory (PNNL) is a world-class research institution powered by a highly educated, diverse workforce committed to the values of Integrity, Creativity, Collaboration, Impact, and Courage. Every year, scores of dynamic, driven people come to PNNL to work with renowned researchers on meaningful science, innovations and outcomes for the U.S. Department of Energy and other sponsors; here is your chance to be one of them!\n\nAt PNNL, you will find an exciting research environment and excellent benefits including health insurance, flexible work schedules and telework options. PNNL is located in eastern Washington State—the dry side of Washington known for its stellar outdoor recreation and affordable cost of living. The Lab’s campus is only a 45-minute flight (or ~3-hour drive) from Seattle or Portland, and is serviced by the convenient PSC airport, connected to 8 major hubs.\n\nCommitment to Excellence, Diversity, Equity, Inclusion, and Equal Employment Opportunity\n\nOur laboratory is committed to a diverse and inclusive work environment dedicated to solving critical challenges in fundamental sciences, national security, and energy resiliency. We are proud to be an Equal Employment Opportunity and Affirmative Action employer. In support of this commitment, we encourage people of all racial/ethnic identities, women, veterans, and individuals with disabilities to apply for employment.\n\nPacific Northwest National Laboratory considers all applicants for employment without regard to race, religion, color, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), protected veteran status, and any other status or characteristic protected by federal, state, and/or local laws.\n\nWe are committed to providing reasonable accommodations for individuals with disabilities and disabled veterans in our job application procedures and in employment. If you need assistance or an accommodation due to a disability, contact us at careers@pnnl.gov.\n\nDrug Free Workplace\n\nPNNL is committed to a drug-free workplace supported by Workplace Substance Abuse Program (WSAP) and complies with federal laws prohibiting the possession and use of illegal drugs.\n\nIf you are offered employment at PNNL, you must pass a drug test prior to commencing employment. PNNL complies with federal law regarding illegal drug use. Under federal law, marijuana remains an illegal drug. If you test positive for any illegal controlled substance, including marijuana, your offer of employment will be withdrawn.\n\nHSPD-12 PIV Credential Requirement\n\nIn accordance with Homeland Security Presidential Directive 12 (HSPD-12) and Department of Energy (DOE) Order 473.1A, new employees are required to obtain and maintain a HSPD-12 Personal Identity Verification (PIV) Credential. To obtain this credential, new employees must successfully complete and pass a Federal Tier 1 background check investigation. This investigation includes a declaration of illegal drug activities, including use, supply, possession, or manufacture within the last year. This includes marijuana and cannabis derivatives, which are still considered illegal under federal law, regardless of state laws.\n\nMandatory Requirements\n\nPlease be aware that the Department of Energy (DOE) prohibits DOE employees and contractors from having any affiliation with the foreign government of a country DOE has identified as a “country of risk” without explicit approval by DOE and Battelle. If you are offered a position at PNNL and currently have any affiliation with the government of one of these countries, you will be required to disclose this information and recuse yourself of that affiliation or receive approval from DOE and Battelle prior to your first day of employment.\n\nRockstar Rewards\n\nEmployees and their families are offered medical insurance, dental insurance, vision insurance, health savings account, flexible spending accounts, basic life insurance, disability insurance*, employee assistance program, business travel insurance, tuition assistance, supplemental parental bonding leave**, surrogacy and adoption assistance, and fertility support. Employees are automatically enrolled in our company funded pension plan* and may enroll in our 401k savings plan. Employees may accrue up to 120 vacation hours per year and may receive ten paid holidays per year.\n• Research Associates excluded.\n• *Once eligibility requirements are met.\n\nClick Here For Rockstar Rewards\n\nMinimum Salary\n\nUSD $124,700.00/Yr.\nMaximum Salary\n\nUSD $197,100.00/Yr",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BS/BA and 5+ years of relevant work experience -OR-",
+            "MS/MA and 3+ years of relevant work experience -OR-",
+            "PhD with 1+ year of relevant experience",
+            "Due to business needs and client space, US Citizenship is required",
+            "In accordance with Homeland Security Presidential Directive 12 (HSPD-12) and Department of Energy (DOE) Order 473.1A, new employees are required to obtain and maintain a HSPD-12 Personal Identity Verification (PIV) Credential",
+            "To obtain this credential, new employees must successfully complete and pass a Federal Tier 1 background check investigation",
+            "This investigation includes a declaration of illegal drug activities, including use, supply, possession, or manufacture within the last year"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Computing and Information Technology Directorate works to re-imagine how digital technologies can simplify the research experience, enable data-driven insights for decision makers, and accelerate PNNL’s research missions",
+            "Your work will include maintaining and operating the platform, partnering with clients to define, build and deliver innovative solutions to complex business and scientific problems; working with effective teams from multiple disciplines; and recommending and implementing standards and best practices",
+            "As a member of a stable team, you are expected to develop knowledge of the goals of projects or clients you are supporting – and maintain a customer service focus commensurate with this position",
+            "Drive the implementation and use of cutting-edge solutions leveraging procured Generative AI Platform",
+            "Develop workflows and integrations, based on customers’ requirements, to deliver upon AI Chat solutions",
+            "Stay current with AI Platform roadmap, and upcoming upgrades, to inform stakeholders on offerings and updates",
+            "Be technical lead on AI Platform implementation, as well as triage and support resolution of technical issues reported",
+            "Work collaboratively as part of an agile development team that delivers incremental features to a wide range of products",
+            "Collaborate effectively on diverse teams (e.g., Portfolio / Project managers, domain experts, users, and software engineering team) to design and deploy innovative solutions across the enterprise",
+            "Utilize software engineering best practices through the entire software development lifecycle and recommend changes in development, maintenance, and system standards",
+            "Enhance personal technical and professional skills through active mentoring and training",
+            "Assimilate knowledge quickly in a variety of domains"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "At PNNL, you will find an exciting research environment and excellent benefits including health insurance, flexible work schedules and telework options",
+            "Employees and their families are offered medical insurance, dental insurance, vision insurance, health savings account, flexible spending accounts, basic life insurance, disability insurance*, employee assistance program, business travel insurance, tuition assistance, supplemental parental bonding leave**, surrogacy and adoption assistance, and fertility support",
+            "Employees are automatically enrolled in our company funded pension plan* and may enroll in our 401k savings plan",
+            "Employees may accrue up to 120 vacation hours per year and may receive ten paid holidays per year",
+            "USD $124,700.00/Yr",
+            "USD $197,100.00/Yr"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.pnnl.gov/",
+          "text": "pnnl.gov"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Pacific+Northwest+National+Laboratory&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAII4Ak",
+          "text": "See web results for Pacific Northwest National Laboratory"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKvrbJmWEUDC7Dmn4-FXpDr7VeFrrkwAWP2m2&s=0",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAzIC0gQUkgU2VydmljZXMiLCJodGlkb2NpZCI6InVzbmhfbTBUdzhqMXRJQ2FBQUFBQUE9PSIsImZjIjoiRXVJQ0NxSUNRVTUxVjJoamJGUndSV3BtTlVsdlgyRjZWRlV0VEZoV2NWVjRWbmhxYmt4cVpFRkNORTlhWlVSblEwSnRaVWRrYVdaRFRsZ3RiMWRXVmkxUVN6RlhhMmhuTW1JdFNrZHpaR1pVZW5SS1RuWkhjMFYxY0VSblEwaDBVSGhmZFRGVVMwMVRRWGxoY0U1cFRuUnRVWGxLUm01MGRHdGlRbUpNYVMxMU4wRkhUblZ0WjNaV1NWTXlOVmhhUnkxVGJXRkVUMGxCVjNKdkxWRmZPSHBLZWpCWldFbDFiMDV6WjNkUGMwaHZhbTVKUmtaSFNWVTFiemxOWTJzeFRXcHBjV1Z2Tld4dFQwbDRlVzEzVlhOU2JrTk1lVWMyZDFGU01WQkpWRGN6YUhGWWNsQjRVRGhwUlVSWlEwZGhTMVZHVm5GR1NYZGFPWEV5YXpaT09YRnhjekpQWDI1SGEzWlVlbXBxWjJrdGNIbHpOM1ZwVUU4eFJrcDRXVWRyY0ZkTE0xaFVNM2NTRjBrNGJUSmFXbDkzUms5UWNXdDJVVkI1TmxNemMwRTBHaUpCVUZob2JUVmhiVXhJVDBZeFVEQkZaMDB0UjJ4S2FqWXlTMXBxZFZoc04wcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIFBOTkwgQ2FyZWVycyAtIFBhY2lmaWMgTm9ydGh3ZXN0IE5hdGlvbmFsIExhYm9yYXRvcnkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnBubmwuZ292L2pvYnMvODA1Mz9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Microsoft",
+      "location": " Anywhere ",
+      "via": "via LinkedIn",
+      "description": "Do you want to be part of a growing global team creating solutions to critical business problems across multiple application and service platforms? We are looking for a Senior Software Engineer and a Principal Software Engineer with a range of talents who will drive innovative, scalable & automated solutions, as well as delightful end user experiences as our organization expands.\n\nDynamics 365... Finance is one of the fastest growing applications in the Dynamics portfolio – the fastest growing SaaS Enterprise Resource Planning (ERP) portfolio in the world. We specialize in best-in-class solutions enabling businesses to run their end-to-end finance operations for the Dynamics 365 line of ERP software supporting a wide variety of industries. We have a mission to be the most innovative and trusted solution on the market incorporating the latest in artificial intelligence, automation and integrated analytics leveraging the breadth of Microsoft Azure, Office, Teams, Dynamics and the Power Platform to continually meet the growing needs of businesses in a fast-moving environment.\n\nWe are expanding our team in the US where we have team members in remote work settings, as well as office locations in Fargo, North Dakota and Redmond, Washington, giving you the flexibility to define your work location with us from one of our office locations or remote.\n\nResponsibilities\n• Drive feature development with focus on technical direction, quality, usability & performance leveraging data for making decisions\n• Participate in livesite operations with emphasis on timely response, delivery & satisfaction for stakeholders\n• Collaborate across internal & external stakeholders providing leadership and mentoring\n\nQualifications\n\nRequired Qualifications:\n• Bachelor's Degree in Computer Science, or related technical discipline AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python\n• OR equivalent experience.\n• 4+ years in building cloud-based SaaS applications\n\nPreferred Qualifications\n• Bachelor's Degree in Computer Science, or related technical discipline AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python\n• OR equivalent experience.\n• Knowledge of microservices principles\n• X++/C#/Java, JavaScript/TypeScript, SQL experience\n• Dynamics 365 Finance & Operations or other enterprise resource and planning (ERP) software experience\n• Proficient technical skills including understanding of object-oriented programming & design, algorithms, database concepts & performance, no-sql technologies and microservice architecture\n• Demonstrable coding, debugging, design, testing and problem-solving skills\n\nSoftware Engineering IC4 - The typical base pay range for this role across the U.S. is USD $112,000 - $218,400 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $145,800 - $238,600 per year.\n\nSoftware Engineering IC5 - The typical base pay range for this role across the U.S. is USD $133,600 - $256,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $173,200 - $282,200 per year.\n\nCertain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/v2/global/en/us-corporate-pay.html\n\n#AIERPJobs\n\nMicrosoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer Science, or related technical discipline AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python",
+            "OR equivalent experience",
+            "4+ years in building cloud-based SaaS applications"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Drive feature development with focus on technical direction, quality, usability & performance leveraging data for making decisions",
+            "Participate in livesite operations with emphasis on timely response, delivery & satisfaction for stakeholders",
+            "Collaborate across internal & external stakeholders providing leadership and mentoring"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Software Engineering IC4 - The typical base pay range for this role across the U.S. is USD $112,000 - $218,400 per year",
+            "There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $145,800 - $238,600 per year",
+            "Certain roles may be eligible for benefits and other compensation",
+            "Find additional benefits and pay information here: https://careers.microsoft.com/v2/global/en/us-corporate-pay.html"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.microsoft.com/",
+          "text": "microsoft.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Microsoft&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIIsgo",
+          "text": "See web results for Microsoft"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFFNNQU6biPwXraVkLSgT9XNjJJW-7pSZCvpNmCU&s",
+      "extensions": [
+        "1 day ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjlPc0NGb3pkWmN1YllFeWNBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJIRTRiMmhCV0VaVVNYTllSR2xrY2tRMGVuQXljV2x1ZUhrdE5XNHRWVFpRZFZBM1F5MDRNaTF4Y1RGWVVGcEhTbUpETm01MlVYSjVSa2xxT1haVVFVdERaRlpYYlMxbFJrczVPVWxNY0dWaVowOHdWMDgyUlRoRVkyOTNTMFZtT1daWlZHRjFNSFpXVUZGMmJHZE1aR0V5WjJST1RVcG5ZVUpaUldwak5FUkJPRE40Wm1aak5raHNMVmREYzFSM05XdG9iMHBmYmxKV0xVRmxiMncxTTJwU2FVWjFaWE5FTm5WMlpqa3pMVnBFUkRBNFpqZG9ObU5pTVRjeVIycGZZVGhIWW5WMEVoZEpPRzB5V2xwZmQwWlBVSEZyZGxGUWVUWlRNM05CTkJvaVFWQllhRzAxV2pSNlozTmlZWE5LVUZaemJVUnRaM1pMTnpsSWFqUnNhRFpaWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWF0LW1pY3Jvc29mdC0zODEyNjMzODQ0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer, Embedded",
+      "company_name": "Snap Inc.",
+      "location": " Anywhere ",
+      "via": "via Wd1.Myworkdaysite.com",
+      "description": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company’s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles. Snap Lab is home to our hardware products with a world-class research & development team. We are focused on pushing the boundaries of what a camera can be, specifically overlaying computing on the real world. Next Generation Spectacles are our first pair of glasses that bring augmented reality to life. We're looking for a Software Engineer to join the Snap Lab team! What you’ll do: Design and implementation of software in both prototype and... shipping consumer products Conduct design reviews and code review with peers and stakeholders to create reliable solutions Triage product or system issues and debug/track/resolve by analyzing the sources of issues Design and develop SW for Spectacle’s OS and Application Framework for AR devices Collaborate with Design, Product, and Engineering teams distributed across multiple offices Knowledge, Skills & Abilities: Ability to craft scalable solutions in a resource constraint environment with due considerations for memory, power, thermal tradeoffs Excellent analytical, programming and debugging skills Excellent interpersonal skills and ability to work with cross-functional teams Hands on experience developing camera software st Minimum Qualifications: Bachelor's Degree in a relevant technical field such as computer science or electrical engineering or equivalent years of experience 1+ years of experience with embedded software development and ARM architecture Proficiency programming in C++ and/or Kotlin/Java Experience in one or more of the following areas: Operating Systems, Android/Linux Embedded OS and Framework with a view towards writing performant and energy efficient solutions Preferred Qualifications: Advanced degree in a relevant field such as computer science or electrical engineering \"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week). At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success! Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $130,000-$190,000 annually. Zone B: The base salary range for this position is $124,000-$181,000 annually. Zone C: The base salary range for this position is $111,000-$162,000 annually. This position is eligible for equity in the form of RSUs. A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy",
+      "job_highlights": [
+        {
+          "items": [
+            "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company’s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles. Snap Lab is home to our hardware products with a world-class research & development team. We are focused on pushing the boundaries of what a camera can be, specifically overlaying computing on the real world. Next Generation Spectacles are our first pair of glasses that bring augmented reality to life. We're looking for a Software Engineer to join the Snap Lab team! What you’ll do: Design and implementation of software in both prototype and... shipping consumer products Conduct design reviews and code review with peers and stakeholders to create reliable solutions Triage product or system issues and debug/track/resolve by analyzing the sources of issues Design and develop SW for Spectacle’s OS and Application Framework for AR devices Collaborate with Design, Product, and Engineering teams distributed across multiple offices Knowledge, Skills & Abilities: Ability to craft scalable solutions in a resource constraint environment with due considerations for memory, power, thermal tradeoffs Excellent analytical, programming and debugging skills Excellent interpersonal skills and ability to work with cross-functional teams Hands on experience developing camera software st Minimum Qualifications: Bachelor's Degree in a relevant technical field such as computer science or electrical engineering or equivalent years of experience 1+ years of experience with embedded software development and ARM architecture Proficiency programming in C++ and/or Kotlin/Java Experience in one or more of the following areas: Operating Systems, Android/Linux Embedded OS and Framework with a view towards writing performant and energy efficient solutions Preferred Qualifications: Advanced degree in a relevant field such as computer science or electrical engineering \"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week). At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success! Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $130,000-$190,000 annually. Zone B: The base salary range for this position is $124,000-$181,000 annually. Zone C: The base salary range for this position is $111,000-$162,000 annually. This position is eligible for equity in the form of RSUs. A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.snap.com/",
+          "text": "snap.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Snap+Inc.&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAII7Qo",
+          "text": "See web results for Snap Inc."
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRW1iZWRkZWQiLCJodGlkb2NpZCI6IkFERFA4MlRNSVEwMzJYMXJBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJuWkNUVTAzZEZaYWRUbG5UbEJ5UTJOalZ6VTRSakpaTlVjeVltMUpOalp3WVVwRGNXaFRjVmhmYlRNNFVGRTRiVTAwZGxOemVsWXRRV0p3V2paMmFURXRSell0TFU1alVGWjBhazlOVTI5VlVuVnJaR3hNUkU1NVZWUk5Ra2R5Wm1ZeGVYWmxReTB3YmxFeFVWQTRaRVI2TjAxTlFuZG1hRGxVZUVWNVdHNW1UVmQ1WlhwWlVGOWxabmhvZGxvM1p6Z3lXRkF0TTJGaVlVNHhiRXRzY20xMVZYSkhObVJuTFV4emFFOXdkMVZqYnpkT1VHOWFjREpvZW5Wb01GZzNPVlJzVjFwcFQzSjBPVzFNZURKdmVITTBSbVUyY0RCa1dEVnlaeElYU1RodE1scGFYM2RHVDFCeGEzWlJVSGsyVXpOelFUUWFJa0ZRV0dodE5WcERPR0kwVGs5RVdIazJUbmxxWkdnMU5TMW9PVU5DZUVaalpsRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV2QxLk15d29ya2RheXNpdGUuY29tIiwibGluayI6Imh0dHBzOi8vd2QxLm15d29ya2RheXNpdGUuY29tL3JlY3J1aXRpbmcvc25hcGNoYXQvc25hcC9qb2IvTG9zLUFuZ2VsZXMtQ2FsaWZvcm5pYS9Tb2Z0d2FyZS1FbmdpbmVlci0tRW1iZWRkZWRfUjAwMzM4Mjk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer, Financial Platform",
+      "company_name": "Chime",
+      "location": "  United States   ",
+      "via": "via Chime Careers",
+      "description": "About the role\n\nWe are looking for a Software Engineer to help build our new financial platform that is highly reliable, scalable, and will serve as the backbone for Chime. This platform will power the most important financial activities that millions of Chime members undertake every day. You will ensure that we build the highest levels of trust with our members by making our platform... lightning-fast, available, secure, resilient and auditable. This is an exciting opportunity to be an invaluable member of a strategically important initiative for Chime.\n\nThe base salary offered for this role and level of experience will begin at $119,000 and up to $207,300 Full-time employees are also eligible for a bonus, competitive equity package, and benefits. The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience.\nIn this role, you can expect to\n• Design, develop, test, and deploy components of a new financial platform\n• Deliver secure, reliable, and high-performance infrastructure and APIs\n• Work with our infrastructure engineering team to minimize the operational overhead of production systems you deploy\n• Develop thoroughly tested code and conduct quality assurance on all new code alongside our QA team\n• Learn and execute on agile methodologies, follow test driven development approach\n• Be on an on-call rotation to address any issues with the platform\nTo thrive in this role, you\n• Must have experience in Go\n• Experience in additional backend languages such as Ruby, Java and Python is preferred\n• Have 4+ years of engineering experience\n• Have contributed to the development of backend systems\n• Experience in payment processing systems\n• Take a rigorous approach to testing backed development\n• Experience with AWS or other cloud platforms, Cloud Native technology, No-SQL Databases as a bonus!\n• Have an understanding of architectural patterns of large, mission-critical production services as a bonus!\n• Have worked in continuous integration/deployment environments as a bonus!\n\nA little about us\n\nAt Chime, we believe that everyone can achieve financial progress. We’re passionate about developing solutions and services to empower people to succeed. Every day, we start with empathy for our members and stay motivated by our desire to support them in ways that make a meaningful difference.\n\nWe created Chime—a financial technology company, not a bank*-- founded on the premise that basic banking services should be helpful, transparent, and fair. Chime helps unlock the access and ability our members need to overcome the systemic barriers that block them from moving forward. By providing members with access to liquidity, rewards, and credit building, our easy-to-use tools and intuitive platforms give members the ability to have more control over their money and to take action toward achieving their financial ambitions.\n\nSo far, we’re well-loved by our members and proud to have helped millions of people unlock financial progress, whether they started a savings account, bought their first car or home, opened a business, or went to college. Every day, we’re inspired by our members’ dreams and successes, big and small.\n\nWe’re uniting everyday people to unlock their financial progress—will you join us?\n• Chime partners with The Bancorp Bank and Stride Bank, N.A., Members FDIC, that power the bank accounts used by Chime Members.\n\nWhat we offer\n• 💰 Competitive salary based on experience\n• ✨ 401k match plus great medical, dental, vision, life, and disability benefits\n• 🏝 Generous vacation policy and company-wide Take Care of Yourself Days\n• 🫂 1% of your time off to support local community organizations of your choice\n• 🧠 Mental health support with therapy and coaching through Modern Health\n• 👶 16 weeks of paid parental leave for all parents and an additional 6-8 weeks for birthing parents\n• 👪 Access to Maven, a family planning tool, with up to $10k in reimbursement for egg freezing, fertility treatments, adoption, and more.\n• 💻 Hybrid work perks, like UrbanSitter and Kinside for backup child, elder and/or pet care, as well as a subsidized commuter benefit\n• 🏢 A thoughtful hybrid work policy that combines in-office days and trips to team and company-wide events depending on location to ensure you stay connected to your work and teammates, whether you’re local to one of our offices or remote\n• 🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!\n• 💚 A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help millions unlock financial progress\n\nWe know that great work can’t be done without a diverse team and inclusive environment. That’s why we specifically look for individuals of varying strengths, skills, backgrounds, and ideas to join our team. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.\n\nWe hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance, Cook County Ordinance, and consistent with Canadian provincial and federal laws. If you have a disability or special need that requires accommodation, please let us know.\n\nTo learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice.\n\n#LI-JL1",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must have experience in Go",
+            "Have 4+ years of engineering experience",
+            "Have contributed to the development of backend systems",
+            "Experience in payment processing systems",
+            "Take a rigorous approach to testing backed development",
+            "Experience with AWS or other cloud platforms, Cloud Native technology, No-SQL Databases as a bonus!",
+            "Have an understanding of architectural patterns of large, mission-critical production services as a bonus!",
+            "Have worked in continuous integration/deployment environments as a bonus!"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will ensure that we build the highest levels of trust with our members by making our platform lightning-fast, available, secure, resilient and auditable",
+            "Design, develop, test, and deploy components of a new financial platform",
+            "Deliver secure, reliable, and high-performance infrastructure and APIs",
+            "Work with our infrastructure engineering team to minimize the operational overhead of production systems you deploy",
+            "Develop thoroughly tested code and conduct quality assurance on all new code alongside our QA team",
+            "Learn and execute on agile methodologies, follow test driven development approach",
+            "Be on an on-call rotation to address any issues with the platform"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary offered for this role and level of experience will begin at $119,000 and up to $207,300 Full-time employees are also eligible for a bonus, competitive equity package, and benefits",
+            "The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience",
+            "✨ 401k match plus great medical, dental, vision, life, and disability benefits",
+            "🏝 Generous vacation policy and company-wide Take Care of Yourself Days",
+            "🫂 1% of your time off to support local community organizations of your choice",
+            "🧠 Mental health support with therapy and coaching through Modern Health",
+            "👶 16 weeks of paid parental leave for all parents and an additional 6-8 weeks for birthing parents",
+            "👪 Access to Maven, a family planning tool, with up to $10k in reimbursement for egg freezing, fertility treatments, adoption, and more",
+            "💻 Hybrid work perks, like UrbanSitter and Kinside for backup child, elder and/or pet care, as well as a subsidized commuter benefit",
+            "🏢 A thoughtful hybrid work policy that combines in-office days and trips to team and company-wide events depending on location to ensure you stay connected to your work and teammates, whether you’re local to one of our offices or remote",
+            "🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Chime&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIIwQs",
+          "text": "See web results for Chime"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRmluYW5jaWFsIFBsYXRmb3JtIiwiaHRpZG9jaWQiOiJpb2doTzc3ZW42QkpZZTNVQUFBQUFBPT0iLCJmYyI6IkVvd0NDc3dCUVU1MVYyaGpiR0pWVjBRMFJtZHhSM2xEVFZwTVZYVjJaR0ZMYVZwNFpXeG9lVGxCUTBjNE1VNXFibFpXVGpOUmRrNWFZM2czY1VjeU1FbHZlV00wVVRKWldUZHVaRkZYWWtNMmNqaGZWRmw1V0d4UWQyMURTMkU1TFc5S1ExSlRMVXgyZWpoMFdtZENlRFJRU1dKeFFVOUhiMFl3YWtGUFUwSldiM0pzYUhCZk9FSnZTRGROWW5aaVYyRjJNak5tUkhKZmIyWTJUbVJIUjJOWU5uaHpkbUZMUjNGUE9FODVWbFZTZWxCZk5rZEJVak50VDA1bWJETmhjRk5sVDJkQlZVWlNhamR1UlZKV2VFaFRFaGRKT0cweVdscGZkMFpQVUhGcmRsRlFlVFpUTTNOQk5Cb2lRVkJZYUcwMVdXdG9TalZGUVhScVZGQjVhVUpDZFdGbmIwZFROR1J3ZDAxTlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDaGltZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5jaGltZS5jb20vYnJvd3NlLWpvYnMvNjgwNzE1NTAwMi9zb2Z0d2FyZS1lbmdpbmVlci1maW5hbmNpYWwtcGxhdGZvcm0vP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer II",
+      "company_name": "Walmart",
+      "location": "  Bentonville, AR   ",
+      "via": "via Careers.Walmart.com",
+      "description": "Position Summary...\n\nWhat you'll do...\nCoding:\nRequires knowledge of:\nCoding standards and guidelines; Coding languages (E.g. JavaScript, Python, C# etc.), frameworks(E.g. ActiveX,.Net, Cocoa, Android application framework etc.), tools(E.g. Monday.com, Linx, Embold etc.) and Platforms (E.g. Microsoft Azure, Apple IOS etc.);Quality, Safety and Security (PCI etc.) standards; Emerging tools and technologies; Telemetry; CI / CD; Code Management Tools; SDLC; Secure SDL frameworks and tools\nTo adhere to all relevant coding guidelines (Ex: code review processes, code branching strategies, reusability etc.) while writing/configuring code. Create/configure minimalistic (Less Complex, Highly Robust and high quality) code for a component/module under guidance. Maintain records by documenting program development and revisions. Stay updated on the prevalent coding languages and frameworks in the industry outside the immediate scope of delivery. Identify repetitive and routine tasks in (Continuous Integration/Continuous Delivery) CI/CD, Testing or any other process that can be automated. Implement telemetry features as required under guidance. Apply security policy requirements to component/module during code development/configuration.\nTesting:\nRequires knowledge of:\nTest case preparation; Test Objectives; Test Strategy; Test types; Test tools (E.g. - Automation - Selenium, Agile - Jira, Mobile - Eggplant etc.); Test Environment; Root cause analysis; Code Coverage; Test Coverage.\nTo identify and create test cases for the task/story. Map test cases to business and functional requirements. Comprehend different types of testing and testing tools and can execute them under guidance. Execute test cases to test the code and detect errors and defects for the component/module under guidance by leveraging relevant test automation techniques.\nProgram Monitoring:\nRequires knowledge of:\nProgram metrics; Program Reporting, logging tools and processes; Continuous Integration/Continuous Deployment (CICD)\nTo ensure adherence to the project against approved milestones and timelines.\nDefect Management and Troubleshooting:\nRequires knowledge of:\nDefect life-cycle process, defect tracking tools and methodologies; Defect reporting; Regression testing; Root cause analysis; Root cause corrective action.\nTo evaluate test results against desired performance, standards, and usability outcomes. Detect and document defects, bugs and errors for the component/module and conduct analysis to determine source of error under guidance. Troubleshoot performance and availability bottlenecks for the application under guidance. Failovers in case of an issue.\nDevOps Orientation:\nRequires knowledge of:\nDifferent operating systems; Software maintenance tools and techniques; Application monitoring tools and techniques; Debugging tools; Mock screen; Pseudocodes; Reverse Engineering; Traceability matrix; System performance, security, integration; Data migration and accessibility; Design Methodologies; Telemetry.\nTo carry out routine maintenance of applications under guidance; Comprehend applicable application monitoring metrics (for example transaction time, system response, transaction volume etc.) and can track and analyze them under guidance; Assist in performing maintenance (corrective, adaptive, perfective) and re-engineering activities; Understand the concept to Maintenance Debt and implications on allied areas.\nDemonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales.\nProvides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities.\nModels compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices.\nLive our Values - Culture Champion - Models the Walmart values to foster our culture; holds oneself accountable; and supports Walmart's commitment to communities, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.\nLive our Values - Servant Leadership - Is consistently humble, self-aware, honest, and transparent.\nEmbrace Change - Curiosity & Courage - Demonstrates curiosity and a growth mindset; supports innovation and intelligent risk-taking; and exhibits resilience in the face of setbacks.\nEmbrace Change - Digital Transformation & Change - Implements and supports continuous improvements and willingly embraces new digital tools and ways of working.\nDeliver for the Customer - Customer Focus - Delivers results while putting the customer first and applying an omni merchant mindset and the EDLP and EDLC business models to all plans.\nDeliver for the Customer - Strategic Thinking - Adopts a broad perspective that considers data, analytics, customer insights, and different parts of the business when making plans.\nFocus on our Associates - Diversity, Equity & Inclusion - Embraces diversity in all its forms and actively supports diversity of ideas and perspectives, as well as diversity goal programs.\nFocus on our Associates - Collaboration & Influence - Builds strong and trusting relationships with team members and business partners; works collaboratively to achieve objectives; communicates with impact to a range of audiences; and demonstrates energy and positivity for own work.\nFocus on our Associates - Talent Management - Contributes to an environment allowing everyone to bring their best selves to work, demonstrates engagement and commitment to the team, and recognizes others' contributions and accomplishments.\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area.Option 2: 3 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertification in Security+, Network+, GISF, or GSEC\n\nPrimary Location...\n508 SW 8TH ST, BENTONVILLE, AR 72712, United States of America",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Coding standards and guidelines; Coding languages (E.g. JavaScript, Python, C# etc.), frameworks(E.g. ActiveX,.Net, Cocoa, Android application framework etc.), tools(E.g. Monday.com, Linx, Embold etc.) and Platforms (E.g. Microsoft Azure, Apple IOS etc.);Quality, Safety and Security (PCI etc.) standards; Emerging tools and technologies; Telemetry; CI / CD; Code Management Tools; SDLC; Secure SDL frameworks and tools",
+            "Different operating systems; Software maintenance tools and techniques; Application monitoring tools and techniques; Debugging tools; Mock screen; Pseudocodes; Reverse Engineering; Traceability matrix; System performance, security, integration; Data migration and accessibility; Design Methodologies; Telemetry",
+            "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area",
+            "Option 2: 3 years’ experience in software engineering or related area",
+            "Certification in Security+, Network+, GISF, or GSEC"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "To adhere to all relevant coding guidelines (Ex: code review processes, code branching strategies, reusability etc.)",
+            "while writing/configuring code",
+            "Create/configure minimalistic (Less Complex, Highly Robust and high quality) code for a component/module under guidance",
+            "Maintain records by documenting program development and revisions",
+            "Stay updated on the prevalent coding languages and frameworks in the industry outside the immediate scope of delivery",
+            "Identify repetitive and routine tasks in (Continuous Integration/Continuous Delivery) CI/CD, Testing or any other process that can be automated",
+            "Implement telemetry features as required under guidance",
+            "Apply security policy requirements to component/module during code development/configuration",
+            "To identify and create test cases for the task/story",
+            "Map test cases to business and functional requirements",
+            "Comprehend different types of testing and testing tools and can execute them under guidance",
+            "Execute test cases to test the code and detect errors and defects for the component/module under guidance by leveraging relevant test automation techniques",
+            "To ensure adherence to the project against approved milestones and timelines",
+            "Defect Management and Troubleshooting:",
+            "Defect life-cycle process, defect tracking tools and methodologies; Defect reporting; Regression testing; Root cause analysis; Root cause corrective action",
+            "To evaluate test results against desired performance, standards, and usability outcomes",
+            "Detect and document defects, bugs and errors for the component/module and conduct analysis to determine source of error under guidance",
+            "Troubleshoot performance and availability bottlenecks for the application under guidance",
+            "Failovers in case of an issue",
+            "To carry out routine maintenance of applications under guidance; Comprehend applicable application monitoring metrics (for example transaction time, system response, transaction volume etc.) and can track and analyze them under guidance; Assist in performing maintenance (corrective, adaptive, perfective) and re-engineering activities; Understand the concept to Maintenance Debt and implications on allied areas",
+            "Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales",
+            "Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities",
+            "Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices",
+            "Deliver for the Customer - Customer Focus - Delivers results while putting the customer first and applying an omni merchant mindset and the EDLP and EDLC business models to all plans",
+            "Deliver for the Customer - Strategic Thinking - Adopts a broad perspective that considers data, analytics, customer insights, and different parts of the business when making plans"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.walmart.com/",
+          "text": "walmart.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Walmart&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIIlww",
+          "text": "See web results for Walmart"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5FvH34ZOATLYnu5r4x6771B-yvvnvALrzttQHGCAW5FqQKRnaG-bXyo&s",
+      "extensions": [
+        "11 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "11 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSSIsImh0aWRvY2lkIjoiSXBoM0R0bnZBLW1CbHVRbUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYm5CQkxXOU9UR1ZFWHpKTFpFdHpPRzFuUW1oaVUyTjBXa1ZWWnpOM2NIZEpjelpEVVZOeVRsWnNZVnBoUjFkTlR6RlFZbFJGWDI1dVMwdGpVbWhOUjNSSFdrdHpSSGd0YkVweGVFbEdNMXB5WlhwQlZVUldPRmhYTlZwSlZHRlBiR1V6Vm5VMFUySmxVV3hPTFhOS1dGRkNVa0pVVFVWTVpHbDJaUzFsTUhwRk9XOXVlbDlQWVhoUmRsazVOREJhTUZZd05rdG5iMEpsUkd4alFYQlJTazgyVEdoUVpWRXlNRzV5U1VnMWVteEhSRTQzYlVKelFuUnZZa05aWVVkd2VqaHRTazUxYlVvME5uZFlXR0ZUYkhaWlVteG9MVUl3VEVsVGR4SVhTVGh0TWxwYVgzZEdUMUJ4YTNaUlVIazJVek56UVRRYUlrRlFXR2h0TldGWWQyWlRZMnRJZEhkb2JrVlpkRTl4WVUxSlVtSnBRVWN4Y0djIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXJlZXJzLldhbG1hcnQuY29tIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy53YWxtYXJ0LmNvbS91cy9qb2JzL1dEMTcxMDI5Ny1zb2Z0d2FyZS1lbmdpbmVlci1paT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "FlightSafety International",
+      "location": "  Broken Arrow, OK   ",
+      "via": "via FlightSafety International Careers",
+      "description": "About FlightSafety International\n\nFlightSafety International is the world’s premier professional aviation training company and supplier of flight simulators, visual systems and displays to commercial, government and military organizations. The company provides training for pilots, technicians and other aviation professionals from 167 countries and independent territories. FlightSafety operates... the world’s largest fleet of advanced full-flight simulators and award-winning maintenance training at Learning Centers and training locations in the United States, Canada, France and the United Kingdom.\n\nPurpose of Position\n\nEvaluates, selects, and applies appropriate engineering techniques and procedures using judgment in making required adaptations and modifications to affect an accurate operating system. Fully autonomous in performing most assignments. Receives assistance only on unusual problems.\n\nTasks and Responsibilities\n\nESSENTIAL FUNCTIONS AND RESPONSIBILITIES: The following duties are essential to the successful and satisfactory performance of this job. Other duties may be assigned. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n• Designs, creates, and modifies and maintains applications, development frameworks, and systems level software. Creation of some new applications.\n• Modifies and writes device drivers for interfacing with hardware.\n• Creates and modifies real-time executive and control software.\n• Designs, modifies, and creates mathematical support library, systems utilities, and debug packages under the direction of a more senior engineer.\n• Evaluates hardware and software to be installed on FSI-SS computer systems. Provides reports and recommendations.\n• Provides support to team leaders and project engineers in software requirements, design, and implementation.\n• Provides guidance to less senior engineers in the department. Provides recommendations for improvements.\n• Documents operating system, application and development software.\n• Works with fellow software engineers, hardware engineers and management to affect a smoothly integrated system.\n• Performs application design from research to testing phase with limited supervision.\n\nTasks and Responsibilities Continued\n• Interact within a cooperative environment through beneficial behavior, commitment to common goals, contribution to problem solving, communication of ideas and suggestions, and encouragement to other employees and departments.\n• Accountable for the control and distribution of documents and/or equipment subject to export control restrictions and the security of FSI materials, projects and business information regarding the methods and techniques used in the production and usage of FSI products.\\Accountable for the accuracy and completeness of assigned tasks.\n• Able to adhere to a work schedule including prompt and regular attendance.\n• Ability to work in a constant state of alertness and safe manner.\n\nTo perform the job successfully, an individual should demonstrate the following competencies:\n• Accountability - Shows up to work as scheduled, and follows instructions, policies, and procedures. Meets productivity standards, deadlines, and work schedules. Accepts full responsibility for quality of work, both independent and team projects.\n• Adaptability- Quickly modifies behavior to maintain effectiveness when experiencing major changes in work tasks or work environment. Approaches change as opportunities for learning and development.\n• Results Oriented - Focuses on results and desired outcomes and how best to achieve them by ensuring that they and others stay focused on the objective and perform in accordance with clear expectations.\n• Teamwork - Cooperates and collaborates with all teammates to achieve common goals by sharing information or expertise; working together to solve problems in a positive manner while valuing the contributions of others.\n\nMinimum Education and Experience\n\nLevel I - Bachelor's degree in Engineering, Computer Science, Information Systems, or related field; or equivalent combination of education and experience.\n\nLevel II – Bachelor’s degree in Engineering, Two years related experience; or equivalent combination of education and experience. Knowledge and expertise for this level usually results from internal progressive experience. However, selection for this position is based on the demonstrated ability of the person to successfully fulfill the requirements listed. C++ competency required.\n\nLevel III – Bachelor’s degree in Engineering, Four years related experience; or equivalent combination of education and experience. Knowledge and expertise for this level usually results from internal progressive experience. However, selection for this position is based on the demonstrated ability of the person to successfully fulfill the requirements listed. C++ competency required.\n\nLevel IV - Bachelor's degree in Engineering; and six years related experience preferably in simulation; or equivalent combination of education and experience. Knowledge and expertise for this level usually results from internal progressive experience. However, selection for this position is based on the demonstrated ability of the person to successfully fulfill the requirements listed. C++ competency required.\n\nLevel V – Bachelor’s degree in Engineering, Ten years related experience; or equivalent combination of education and experience. Knowledge and expertise for this level usually results from internal progressive experience. However, selection for this position is based on the demonstrated ability of the person to successfully fulfill the requirements listed. C++ competency required.\n\nKnowledge, Skills, Abilities\n\nSOFTWARE KNOWLEDGE AND SKILLS:\n\nStrong knowledge in Modern C++, or Strong C++, Windows/Unix, OS, C#, FORTRAN, Direct X, OpenGL, Dev Studio, Team Foundation Server, device drivers, and real-time computing.\n\nLANGUAGE SKILLS:\n\nFluency in English, through both verbal and written communications; Able to read, analyze, and interpret general business documents, technical procedures, or governmental regulations; Able to write reports, business correspondence, and procedure manuals; Able to effectively present information and respond to questions from groups of managers, clients and customers.\n\nMATHEMATICAL SKILLS:\n\nAble to work with mathematical concepts such as probability and statistical inference, and fundamentals of plane and solid geometry and trigonometry; Able to apply concepts such as fractions, percentages, ratios, and proportions to practical situations.\n\nREASONING ABILITY:\n\nAble to define problems, collect data, establish facts, and draw valid conclusions; Able to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.\n\nPhysical Demands and Work Environment\n• While performing the duties of this job, the employee is frequently required to sit; use hands to finger, handle, or feel; reach with hands and arms and talk or hear.\n• The employee is occasionally required to stand; walk; climb or balance.\n• Must work with keyboard, mouse, and monitor for long periods of time.\n• The employee must occasionally lift and/or move up to 30 pounds.\n• While performing the duties of this Job, the employee is occasionally exposed to moving mechanical parts; high, precarious places and fumes or airborne particles.\n• The noise level in the work environment is usually moderate.\n\nFlightSafety is an Equal Opportunity Employer/Vet/Disabled. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or disability.\n\nFlightSafety is an Equal Opportunity Employer/Vet/Disabled. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or disability",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Level I - Bachelor's degree in Engineering, Computer Science, Information Systems, or related field; or equivalent combination of education and experience",
+            "Knowledge and expertise for this level usually results from internal progressive experience",
+            "However, selection for this position is based on the demonstrated ability of the person to successfully fulfill the requirements listed",
+            "Level IV - Bachelor's degree in Engineering; and six years related experience preferably in simulation; or equivalent combination of education and experience",
+            "SOFTWARE KNOWLEDGE AND SKILLS:",
+            "Strong knowledge in Modern C++, or Strong C++, Windows/Unix, OS, C#, FORTRAN, Direct X, OpenGL, Dev Studio, Team Foundation Server, device drivers, and real-time computing",
+            "Fluency in English, through both verbal and written communications; Able to read, analyze, and interpret general business documents, technical procedures, or governmental regulations; Able to write reports, business correspondence, and procedure manuals; Able to effectively present information and respond to questions from groups of managers, clients and customers",
+            "Able to work with mathematical concepts such as probability and statistical inference, and fundamentals of plane and solid geometry and trigonometry; Able to apply concepts such as fractions, percentages, ratios, and proportions to practical situations",
+            "Able to define problems, collect data, establish facts, and draw valid conclusions; Able to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Evaluates, selects, and applies appropriate engineering techniques and procedures using judgment in making required adaptations and modifications to affect an accurate operating system",
+            "Fully autonomous in performing most assignments",
+            "Receives assistance only on unusual problems",
+            "ESSENTIAL FUNCTIONS AND RESPONSIBILITIES: The following duties are essential to the successful and satisfactory performance of this job",
+            "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions",
+            "Designs, creates, and modifies and maintains applications, development frameworks, and systems level software",
+            "Creation of some new applications",
+            "Modifies and writes device drivers for interfacing with hardware",
+            "Creates and modifies real-time executive and control software",
+            "Designs, modifies, and creates mathematical support library, systems utilities, and debug packages under the direction of a more senior engineer",
+            "Evaluates hardware and software to be installed on FSI-SS computer systems",
+            "Provides reports and recommendations",
+            "Provides support to team leaders and project engineers in software requirements, design, and implementation",
+            "Provides guidance to less senior engineers in the department",
+            "Provides recommendations for improvements",
+            "Documents operating system, application and development software",
+            "Works with fellow software engineers, hardware engineers and management to affect a smoothly integrated system",
+            "Performs application design from research to testing phase with limited supervision",
+            "Interact within a cooperative environment through beneficial behavior, commitment to common goals, contribution to problem solving, communication of ideas and suggestions, and encouragement to other employees and departments",
+            "Accountable for the control and distribution of documents and/or equipment subject to export control restrictions and the security of FSI materials, projects and business information regarding the methods and techniques used in the production and usage of FSI products.\\Accountable for the accuracy and completeness of assigned tasks",
+            "Able to adhere to a work schedule including prompt and regular attendance",
+            "Ability to work in a constant state of alertness and safe manner",
+            "Accountability - Shows up to work as scheduled, and follows instructions, policies, and procedures",
+            "Meets productivity standards, deadlines, and work schedules",
+            "Accepts full responsibility for quality of work, both independent and team projects",
+            "Adaptability- Quickly modifies behavior to maintain effectiveness when experiencing major changes in work tasks or work environment",
+            "Approaches change as opportunities for learning and development",
+            "Results Oriented - Focuses on results and desired outcomes and how best to achieve them by ensuring that they and others stay focused on the objective and perform in accordance with clear expectations",
+            "While performing the duties of this job, the employee is frequently required to sit; use hands to finger, handle, or feel; reach with hands and arms and talk or hear",
+            "The employee is occasionally required to stand; walk; climb or balance",
+            "Must work with keyboard, mouse, and monitor for long periods of time",
+            "The employee must occasionally lift and/or move up to 30 pounds",
+            "While performing the duties of this Job, the employee is occasionally exposed to moving mechanical parts; high, precarious places and fumes or airborne particles"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.flightsafety.com/",
+          "text": "flightsafety.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=FlightSafety+International&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAII6ww",
+          "text": "See web results for FlightSafety International"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytf1OWMArHpKsGNJvtZIzL5_nabuAkDoC7SbR&s=0",
+      "extensions": [
+        "17 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiUURBTG9OQVR6a1hQVWdCR0FBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYlVGUE5HbG1Vbmh2U1V4S2VHTkVWbEZzVmxaa2EwUkZTMmxUY1hwNVdYRkxXbnBSZFc5QlVuVkVWbFJQTjJoamIxVlZSMHR6YUVGUWNVcGlPWFoxWVhkblJ6VlVNVTVWTmpac01HMW9kVFJIZW5GTWQxTTJUbkZuYTNSS2MxcHpXSGt0ZFVONGVtVXpTbXh2UmpsSmJrNU5ZVFp0TldKWWN6WTVZWGhUWVZsQldWaHFiWGgyWTFod1dpMWZiVnB0VWtkbldXVk9RVmxvWTB4cVEycG1jbU5VVDFsVlJXOVZOakZ1Y25kT1MweGFhMmxNWkdoek16ZFZhMlJRTTBsUmRFNVZSREJMYmpGTk5uRkZWVXRXVlhBdFRHRjNWV2xoZW1SV2NWcE5jRXBuTkZwQlJFbDVkMEZhWDJ0b2RUZE1keElYU1RodE1scGFYM2RHVDFCeGEzWlJVSGsyVXpOelFUUWFJa0ZRV0dodE5WcDFNMGg2T0VsVlJHTmxZa2QxVjNoMExVSkNjRFk0YmtRd1pYYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZsaWdodFNhZmV0eSBJbnRlcm5hdGlvbmFsIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmZsaWdodHNhZmV0eS5jb20vam9iL0Jyb2tlbi1BcnJvdy1Tb2Z0d2FyZS1FbmdpbmVlci1PSy03NDAxMi8xMDQzODM2NzAwLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Staff Software Engineer (Back End)",
+      "company_name": "BP",
+      "location": "  United States   ",
+      "via": "via BP",
+      "description": "bp’s Innovation & Engineering (I&E) organization is the central organization for all software development. We build all the technology that powers bp’s businesses, from upstream energy production to downstream delivery of energy to our customers. We have a variety of teams depending on your areas of interest, including infrastructure and backend services through to customer-facing web and native applications. We encourage our teams to adapt quickly by using native AWS and Azure services, including serverless, and enable them to pick the best technology for a given problem. This is meant to empower our software engineers while allowing them to learn and develop themselves.",
+      "job_highlights": [
+        {
+          "items": [
+            "bp’s Innovation & Engineering (I&E) organization is the central organization for all software development. We build all the technology that powers bp’s businesses, from upstream energy production to downstream delivery of energy to our customers. We have a variety of teams depending on your areas of interest, including infrastructure and backend services through to customer-facing web and native applications. We encourage our teams to adapt quickly by using native AWS and Azure services, including serverless, and enable them to pick the best technology for a given problem. This is meant to empower our software engineers while allowing them to learn and develop themselves."
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.bp.com/",
+          "text": "bp.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=BP&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIIoQ0",
+          "text": "See web results for BP"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDGVlei6U7cJLC5mRugeYPFaV4F9Vk6y9sH3RQTjeGcbQrVDVCBX5oTQ&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBTb2Z0d2FyZSBFbmdpbmVlciAoQmFjayBFbmQpIiwiaHRpZG9jaWQiOiJYZnNaZ2hpaWVPc3IwejZzQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpibFJ5TkZsdmVGOW5jRnA0WlZNMFNuUmlRa3BPY1c5UFNWTXhiRjlHWXpoV2Jub3RTMjB6VWtSblQxVk9lbEZLYTBoWE4weEtWelpyVGtOQ1R6ZE9PRWxoYW1jMldVWTNXV054TUVWTUxVcFlTbEo0ZGsxbFdGWjJTVXhvUlVKT2FrdDVaR2hpZWpSbFpXSkhka04xZW10Mk5IQkVPRFZsWVRKWldtTXpSbE56TlZoaE4zUm5Xalk0VmtGcmRHaFBTVzlpYVhRMmVFWklMUzB4VWkxcE4xaGFjM05ZV2tweWFsWlFlVnBaUmxWVlpYWXdYMVZHZFRsbFoyRlFPRmQxUjNoMWVtaERlR3QwV1ZSUVZHWlRZVlZrVlVFME9VeEdlbm93VVJJWFNUaHRNbHBhWDNkR1QxQnhhM1pSVUhrMlV6TnpRVFFhSWtGUVdHaHROV0V3ZGxkR2VsaFNOMEY2VFZWV1gyMHpiWEJQVkRodFNETkVRMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCUCIsImxpbmsiOiJodHRwczovL3d3dy5icC5jb20vZW4vZ2xvYmFsL2NvcnBvcmF0ZS9jYXJlZXJzL2pvYnMtYXQtYnAvU3RhZmYtU29mdHdhcmUtRW5naW5lZXItQmFjay1FbmQtUlEwNTg4NzIuaHRtbD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer – React, Node, Azure, GraphQL - 100% Remote",
+      "company_name": "Radian",
+      "location": "  United States   ",
+      "via": "via Radian Jobs",
+      "description": "See yourself at Radian? We see you here too.\n\nAt Radian, we see you. For the person you are and the potential you hold. That’s why we’ve embraced a new way of working that lets our people across the country be themselves, be their best and be their boldest. Because when each of us is truly seen, each of us gives our best – and at Radian, we’ll give you our best right back...\n\nStudies have shown that job seekers may hesitate to apply for jobs unless they meet every single qualification listed. We strive to see the potential in each applicant, so if you’re excited about this role but your experience or education level doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.\n\nSee Yourself as a Software Engineer\n\nThe Software Engineer is responsible for working on Radian products. This includes proprietary, customized-off-the-shelf, and third-party solutions to enable business lines, service offerings, or other. Software Engineers are responsible for delivering high-quality, standardized, secure, and performant code for the value benefit of Radian and our customers.\n\nThe Software Engineer Responsibilities are an extension of the Associate Software Engineer position and has Impact on a Project or Product.\n\nSee the Primary Duties and Responsibilities\n• Develop features and improvements to the Radian products in a secure, well-tested, and performant way.\n• Work with Product Management and other stakeholders (Backend, UX, etc.) to iterate on new features.\n• Write code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.\n• Learn, collaborate, and teach other Software Engineers. Everyone can contribute something new to the team regardless of how long they’ve been in the industry.\n• Perform other duties as assigned or apparent.\n\nSee the Job Specifications\nKnowledge:\n• At least 3 years of professional experience with React, GraphQL, NodeJS, and Azure.\n• Experience with web application development.\n• A solid understanding in core web and browser concepts.\n• A solid understanding of HTML, CSS, and core JavaScript concepts.\n• A solid understanding of relational data and/or non-relational models.\n• Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems.\n\nSkills and Abilities:\n• Comfort working in a highly agile, intensely iterative software development process.\n• Ability to thrive in a geographically distributed organization.\n• Enterprise software company experience.\n• Product company experience.\n• Developer platform/tool industry experience.\n\nEducation, Certifications and Prior Work-Related Experience:\n• Degree Requirement: Bachelor's Degree or Equivalent Experience\n• Work Experience: 4 or more years of prior work-related experience\n\nSee Your Location\n\nRadian is committed to a flexible work environment for many of our roles. This is a *Work From Anywhere* role meaning you have the flexibility to work from home (or another designated workspace that fits your needs).\n\nThis role provides additional flexibility should you want to work on-site at a Radian office. Explore our office locations here and let your Talent Acquisition Partner know you would be interested in working on-site.\n• Work From Anywhere is subject to Radian’s Alternative Work Policy and business needs.\n\nSee Why You Should Work With Us\n• Competitive Compensation: anticipated base salary from $86,000 to $141,000 based on skills and experience. This position is eligible to participate in an annual incentive program.\n• Rest and Relaxation. This role is eligible for 25 days of paid time off annually, which is prorated in the year of hire based on hire date. In addition, based on your hire date, you will be eligible for 9 paid holidays + 2 floating holiday in support of our DEI culture. Parental leave is also offered as an opportunity for all new parents to embrace this exciting change in their lives.\n• Our Company Makes an Impact. We’ve been recognized by multiple organizations like Bloomberg’s Gender-Equality Index, HousingWire’s Tech 100, and The Forum of Executive Women’s Champion of Board Diversity. Radian has also pledged to PwC’s CEO Action for Diversity & Inclusion commitment.\n• Comprehensive Health Benefits. Multiple medical plan choices, including HSA and FSA options, dental, vision, and basic life insurance.\n• Prepare for your Future. 401(k) with a top of market company match (did we mention the company match is immediately vested?!) and an opportunity to participate in Radian’s Employee Stock Purchase Plan (ESPP).\n• Homebuyer Perks. Our Homebuyer Perks program helps employees navigate the home searching, buying, selling, and refinancing processes and provides valuable financial benefits to encourage, enable, and support home ownership.\n• Additional Benefits. To learn more about our benefits offerings, visit our Benefits Page.\n\n#LI-DS1\n\nSee More About Radian\n\nRadian is a fintech servicing the mortgage and real estate services industry. As a team, we pride ourselves on seeing the potential of every person, every idea and every day.\n\nSeeing each other at Radian goes far beyond our open, flexible culture. It means seeing our people’s potential – and creating inspiring career paths that help them get there. Or seeing new pathways and innovating for the future of our industry. It means seeing each other for all that we are. And it means seeing our purpose as one that extends beyond the bottom line – having an impact on communities across the country to help more people achieve the American Dream of homeownership.\n\nWe hope you’ll see yourself at Radian. See more about us at Radian.com.\n\nDefining Roles for Radian's Future\n\nUnderstanding the qualities and characteristics that define a Leader and an Employee is important to ​building our future-fit workforce. Radian's future is only as bright as its people. For that reason, our People Plan includes profiles to support the qualities and characteristics that each Leader as well as each Employee should embody upon hire or via development.\n\nEEO Statement\n\nRadian complies with all applicable federal, state, and local laws prohibiting discrimination in employment. All qualified applicants will receive consideration for employment without regard to gender, age, race, color, religious creed, marital status, gender identity, sexual orientation, national origin, ethnicity, ancestry, citizenship, genetic information, disability, protected veteran status or any other characteristic protected by applicable federal, state, or local law.\n\nEqual Opportunity Employer Details\n\nTo learn more about Radian’s Code of Conduct and Ethics and workplace conduct, please click [here]. Radian participates in E-Verify [Link] (en español [Link]). Learn more about your rights under immigration laws [Link] (en español [Link]). View the \"EEO is the Law\" poster [Link]. View the \"EEO is the Law\" Supplement [Link]. View Pay Transparency Nondiscrimination Provision [Link].\n\nAccommodation\n\nWhether you require an accommodation for the job application or interview process, Radian is dedicated to a barrier-free employment process and encourages a diverse workforce. If you have questions about the accommodation process, please e-mail careers@radian.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "At least 3 years of professional experience with React, GraphQL, NodeJS, and Azure",
+            "Experience with web application development",
+            "A solid understanding in core web and browser concepts",
+            "A solid understanding of HTML, CSS, and core JavaScript concepts",
+            "A solid understanding of relational data and/or non-relational models",
+            "Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems",
+            "Comfort working in a highly agile, intensely iterative software development process",
+            "Ability to thrive in a geographically distributed organization",
+            "Enterprise software company experience",
+            "Product company experience",
+            "Developer platform/tool industry experience",
+            "Education, Certifications and Prior Work-Related Experience:",
+            "Degree Requirement: Bachelor's Degree or Equivalent Experience",
+            "Work Experience: 4 or more years of prior work-related experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Engineer is responsible for working on Radian products",
+            "The Software Engineer Responsibilities are an extension of the Associate Software Engineer position and has Impact on a Project or Product",
+            "Develop features and improvements to the Radian products in a secure, well-tested, and performant way",
+            "Work with Product Management and other stakeholders (Backend, UX, etc.)",
+            "to iterate on new features",
+            "Write code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment",
+            "Maintain and advocate for these standards through code review",
+            "Learn, collaborate, and teach other Software Engineers",
+            "Everyone can contribute something new to the team regardless of how long they’ve been in the industry",
+            "Perform other duties as assigned or apparent"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive Compensation: anticipated base salary from $86,000 to $141,000 based on skills and experience",
+            "This position is eligible to participate in an annual incentive program",
+            "Rest and Relaxation",
+            "This role is eligible for 25 days of paid time off annually, which is prorated in the year of hire based on hire date",
+            "In addition, based on your hire date, you will be eligible for 9 paid holidays + 2 floating holiday in support of our DEI culture",
+            "Parental leave is also offered as an opportunity for all new parents to embrace this exciting change in their lives",
+            "Comprehensive Health Benefits",
+            "Multiple medical plan choices, including HSA and FSA options, dental, vision, and basic life insurance",
+            "401(k) with a top of market company match (did we mention the company match is immediately vested?!) and an opportunity to participate in Radian’s Employee Stock Purchase Plan (ESPP)",
+            "Our Homebuyer Perks program helps employees navigate the home searching, buying, selling, and refinancing processes and provides valuable financial benefits to encourage, enable, and support home ownership",
+            "Additional Benefits",
+            "To learn more about our benefits offerings, visit our Benefits Page"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.radian.com/",
+          "text": "radian.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Radian&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAII9w0",
+          "text": "See web results for Radian"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JK_k-FgbUb_2j2K7bopLD5ld2NNH8LcKPOGuBMM&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciDigJMgUmVhY3QsIE5vZGUsIEF6dXJlLCBHcmFwaFFMIC0gMTAwJSBSZW1vdGUiLCJodGlkb2NpZCI6IjVYcGhFVmk0c3dsOE85YjJBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamEzaDViR1V6VUdsNFowRnZWWGRSYURoT1RGSTFXRGx5U0RBdFoxcHNUVkZCYUdaRmJUVk5PV2RvYlRseGFIbEhVMFpFZGtkVk1WOW9jRVpEUkdnd2FuWnBaVTEyWW1ONGFsbG9NRlpZTjBKMFpITTNiR1ZNVUhoWFdqZHlWbGhqWVdoaGQxWTROWGQzTFc5WGFVRTNjR2N6Y2xadGJYZE5kbTVqYlhwV05YcE5TM1p3YVhZNVJtTmxiamxWZUcwdFMyVlFMVEJLVERVMmJGRk9jbFZOYXpCaWJGQnZWRk5NTFZsRFVHaE5RMFozY2xkMVZHRkxNVmROYkhOaVpqQjVTalpsV0hKRmIyUnZiMk5rTTBJMWFXMXZTbTFoTjA1ZlQyMDJSVWxTVjFONFUybDBSVzFTWWtNMk4wSk5NMWsyVkRWSkxUSkhTV3hxUjJwcVkyaG5WVXBKUmpJeU1oSVhTVGh0TWxwYVgzZEdUMUJ4YTNaUlVIazJVek56UVRRYUlrRlFXR2h0TlZsdFJVbGpTVFY1TTFKdFdFNUJjbGhVVlZkMVVWQm5kSGRUYmtFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmFkaWFuIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnJhZGlhbi5jb20vdXMvZW4vam9iL1IyMDIzMDI5Ni9Tb2Z0d2FyZS1FbmdpbmVlci1SZWFjdC1Ob2RlLUF6dXJlLUdyYXBoUUwtMTAwLVJlbW90ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "GE HEALTHCARE",
+      "location": "  United States   ",
+      "via": "via GE HealthCare Jobs",
+      "description": "Job Description Summary\nResponsible for programing a component, feature and or feature set. Works independently and contributes to the immediate team and to other teams across business. You will also contribute to design discussions\n...\nGE HealthCare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world.\n\nJob Description\nRoles and Responsibilities\n• Responsible for defining, developing, and evolving software in a fast paced and agile development environment using the latest software development technologies and infrastructure\n• Work with Product Line Leaders (PLLs) to understand product requirements & vision\n• Translate requirements / vision into prioritized list of user stories and deliver to required timelines and quality standards\n• Work with product line leaders and architects to develop multi generation software technology plans\n• Drive increased efficiency across the teams, eliminating duplication, leveraging product and technology reuse\n• Support process improvements which guide the development, sustaining & support activities\n• Work cross functionally with other business departments to align activities and deliverables\n• Drive world-class quality in the development and support of products\n• Ensure team receives consistent messages and has clear understanding of business direction, strategy and results\n• Engage subject matter experts in successful transfer of complex domain knowledge\n• Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques\n• Write code that meets standards and delivers desired functionality using the technology selected for the project\n• Understand performance parameters and assess application performance\n• Work on core data structures and algorithms and implement them using technology chosen\n• Proactively share information across the team, to the right audience with the appropriate level of detail and timeline\n\nQualifications\n• Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with minimum 4 years of experience\n\nDesired Characteristics\n\nTechnical Expertise:\n• Experience with .NETCore, C#, HTML, jQuery\n• Demonstrates knowledge on cloud computing\n• Basic experience with Angular/React\n• Experience working on software projects in the Healthcare IT domain\n• Demonstrates the initiative to explore alternate technology and approaches to solving problems\n• Aware of legacy technology like WCF, WPF\n• Skilled in breaking down problems, documenting problem statements and estimating efforts\n• Demonstrates awareness about competitors and industry trends\n• Ability to analyze impact of technology choices\n\nLeadership:\n• Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members\n• Ensures understanding of issues and presents clear rationale. Able to speak to mutual needs and win-win solutions. Uses two-way communication to influence outcomes and ongoing results\n• Identifies misalignments with goals, objectives, and work direction against the organizational strategy. Makes suggestions to course correct\n• Continuously measures deliverables of self and team against scheduled commitments. Effectively balances different, competing objectives\n\nWe expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership –always with unyielding integrity.\n\nOur total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration, and support.\n\n#LI-Remote\n\n#LI-SP1\n\nFor U.S. based positions only, the pay range for this position is $94,800.00-$142,200.00 Annual. It is not typical for an individual to be hired at or near the top of the pay range and compensation decisions are dependent on the facts and circumstances of each case. The specific compensation offered to a candidate may be influenced by a variety of factors including skills, qualifications, experience and location. In addition, this position may also be eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). GE HealthCare offers a competitive benefits package, including not but limited to medical, dental, vision, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, and tuition reimbursement.\n\nAdditional Information\n\nGE HealthCare offers a great work environment, professional development, challenging careers, and competitive compensation. GE HealthCare is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE HealthCare will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nWhile GE HealthCare does not currently require U.S. employees to be vaccinated against COVID-19, some GE HealthCare customers have vaccination mandates that may apply to certain GE HealthCare employees.\n\nRelocation Assistance Provided: No",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with minimum 4 years of experience",
+            "Experience with .NETCore, C#, HTML, jQuery",
+            "Demonstrates knowledge on cloud computing",
+            "Basic experience with Angular/React",
+            "Experience working on software projects in the Healthcare IT domain",
+            "Demonstrates the initiative to explore alternate technology and approaches to solving problems",
+            "Aware of legacy technology like WCF, WPF",
+            "Demonstrates awareness about competitors and industry trends",
+            "Ability to analyze impact of technology choices"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for programing a component, feature and or feature set",
+            "Works independently and contributes to the immediate team and to other teams across business",
+            "You will also contribute to design discussions",
+            "Responsible for defining, developing, and evolving software in a fast paced and agile development environment using the latest software development technologies and infrastructure",
+            "Work with Product Line Leaders (PLLs) to understand product requirements & vision",
+            "Translate requirements / vision into prioritized list of user stories and deliver to required timelines and quality standards",
+            "Work with product line leaders and architects to develop multi generation software technology plans",
+            "Drive increased efficiency across the teams, eliminating duplication, leveraging product and technology reuse",
+            "Support process improvements which guide the development, sustaining & support activities",
+            "Work cross functionally with other business departments to align activities and deliverables",
+            "Drive world-class quality in the development and support of products",
+            "Ensure team receives consistent messages and has clear understanding of business direction, strategy and results",
+            "Engage subject matter experts in successful transfer of complex domain knowledge",
+            "Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques",
+            "Write code that meets standards and delivers desired functionality using the technology selected for the project",
+            "Understand performance parameters and assess application performance",
+            "Work on core data structures and algorithms and implement them using technology chosen",
+            "Proactively share information across the team, to the right audience with the appropriate level of detail and timeline",
+            "Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members",
+            "Ensures understanding of issues and presents clear rationale",
+            "Uses two-way communication to influence outcomes and ongoing results",
+            "Identifies misalignments with goals, objectives, and work direction against the organizational strategy",
+            "Makes suggestions to course correct",
+            "Continuously measures deliverables of self and team against scheduled commitments"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration, and support",
+            "For U.S. based positions only, the pay range for this position is $94,800.00-$142,200.00 Annual",
+            "It is not typical for an individual to be hired at or near the top of the pay range and compensation decisions are dependent on the facts and circumstances of each case",
+            "The specific compensation offered to a candidate may be influenced by a variety of factors including skills, qualifications, experience and location",
+            "In addition, this position may also be eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "GE HealthCare offers a competitive benefits package, including not but limited to medical, dental, vision, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, and tuition reimbursement"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://gehealthcare.com/",
+          "text": "gehealthcare.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=GE+HEALTHCARE&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIIzA4",
+          "text": "See web results for GE HEALTHCARE"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1a-hxdBOVqqXBs9wLotbUa628rWVWhuFi9X91g&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6ImxSN3RqR0tZYWRtZ1FnY2lBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJrZFBSMkZwYzJKR1ZXRXhXazlyZG5oYVFXOTJUa0l0U0RaUGEwNUNSVGQwZHpKbVlsYzJibWd5TVRWUFVETldXRFZVUVZWT1QxQkxjMnREYmtnMWQxUkRRMGRPYzJSTVltMUdkMXBtY1RNeE5sVmtVbXRsU0RBMGRGSlRhM1ZqVW5keWJ5MXZPRmxqUkdrNVRsaFNkRGs1VUZONWJIWlhVa2wzYlhSTmVrVTJhR05tVGtKaVEwNHpNR1ZSVnpWUmVsTTBWekl5WnpBNFRtaG9kMkV3TURWNldVbEVWRkJ4VDNWcFZWSllOWGRuT1V4aVVFWmpNM0JMUWpKdFNteFphbkZ1YTFKNUVoZEpPRzB5V2xwZmQwWlBVSEZyZGxGUWVUWlRNM05CTkJvaVFWQllhRzAxWVVaeVpIVXliekZMTlUxM1kySkVNRnBYWDJSR1JEZHViRFJ0VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHRSBIZWFsdGhDYXJlIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmdlaGVhbHRoY2FyZS5jb20vZ2xvYmFsL2VuL2pvYi9HRVZHSExHTE9CQUxSNDAwMDExNkVYVEVSTkFMRU5HTE9CQUwvU2VuaW9yLVNvZnR3YXJlLUVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer III",
+      "company_name": "Paychex",
+      "location": "  United States   ",
+      "via": "via Paychex Careers",
+      "description": "Overview\n\nValidates requirements, performs analysis and design for system improvements and new applications. Represents the department by leading work and providing guidance to others...\n\nResponsibilities\n• Develop, test, deploy, maintain and improve software to meet requirements\n• Design and develop test automation code\n• Complete complex program changes; self-directed\n• Perform comprehensive analysis and design for broadly defined requirements\n• Make significant technical contributions; contribute to technical direction\n• Provide estimates required for user stories based on business requirements, specifications and designs\n• Comply with and contribute to SDLC standards and CD/CI procedures to ensure consistency; introduce new standards and opportunities for improvements\n• Monitor progress against task estimates to provide status\n• Provide technical support and troubleshooting for applications across environments, including high impact production issues\n• Maintain existing code base, monitoring for failures in non-prod environments\n• Support changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application\n• Share technical expertise; guide and mentor others to maximize team effectiveness and quality\n• Advanced skills in React, Java and SQL.\n\nQualifications\n• Bachelor's Degree in Computer related discipline or equivalent work experience\n• 3+ years of experience React, Java, SQL, Spring Framework, Python, Oracle (or any relational database SQL), Mongo DB (or any NoSQL)\n\nCompensation\n\nIn the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $93,500-147,070 + RSU awards annually. Please keep in mind that this range is the base pay only and does not consider other components that make up the total rewards package for the position. If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer related discipline or equivalent work experience",
+            "3+ years of experience React, Java, SQL, Spring Framework, Python, Oracle (or any relational database SQL), Mongo DB (or any NoSQL)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Validates requirements, performs analysis and design for system improvements and new applications",
+            "Represents the department by leading work and providing guidance to others",
+            "Develop, test, deploy, maintain and improve software to meet requirements",
+            "Design and develop test automation code",
+            "Complete complex program changes; self-directed",
+            "Perform comprehensive analysis and design for broadly defined requirements",
+            "Make significant technical contributions; contribute to technical direction",
+            "Provide estimates required for user stories based on business requirements, specifications and designs",
+            "Comply with and contribute to SDLC standards and CD/CI procedures to ensure consistency; introduce new standards and opportunities for improvements",
+            "Monitor progress against task estimates to provide status",
+            "Provide technical support and troubleshooting for applications across environments, including high impact production issues",
+            "Maintain existing code base, monitoring for failures in non-prod environments",
+            "Support changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application",
+            "Share technical expertise; guide and mentor others to maximize team effectiveness and quality",
+            "Advanced skills in React, Java and SQL"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $93,500-147,070 + RSU awards annually",
+            "If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.paychex.com/",
+          "text": "paychex.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=cd001f959442fb9e&q=Paychex&sa=X&ved=0ahUKEwjfjf60hYGEAxVjtYQIHUvSDeY4ChCYkAIInA8",
+          "text": "See web results for Paychex"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSUkiLCJodGlkb2NpZCI6IkNDci11LXQ1OHVfeHNjZndBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJsOUxVM1Z2VW5wZlJVdFhSbGR5VVdWNVpubHRTM0psTlRBdFRXTmtNRTV2VVVWQ01HRm1RMHRQY2pKMk0ySk1NMjlmUWpCcWNWQjZlVzgxYkVSME5GZFJXRVZ4Ykhkek5EY3lNbVZ6ZERGbFMwWkdVbGhYT0V0clRHaHFUVFJIY1ZKM1Vtd3lUelpKZEhORVVIQnNiRUZtUzNaVWFIZHBVVFF6Y1dzd09YZG5NMmxxVjNGWWRGWmtZbXA0TTFCbVRGVkVZazlsV0dGdVdXVXllV3R1WTBseVExTndSRkZWVDA5Q2VuUm9ibmd4ZVVSMVYyUTFRMW80TXpGeFlYVTJRMDVKZGpOREVoZEpPRzB5V2xwZmQwWlBVSEZyZGxGUWVUWlRNM05CTkJvaVFWQllhRzAxV1RSZlUwVklaVWszWVVSQ05qYzBkbDlaTW14bGNHNDVTMlpGVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBQYXljaGV4IENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnBheWNoZXguY29tL2pvYnMvMjI4MzM/bGFuZz1lbi11c1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Network services",
+          "value": "network services"
+        },
+        {
+          "text": "Science",
+          "value": "science"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Senior manager",
+          "value": "senior manager"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Oklahoma City, OK",
+          "value": "gdL4flSKrYedOk_RdBKiMw=="
+        },
+        {
+          "text": "Springdale, AR",
+          "value": "eYV1ArMUyYdavDvUreoxoQ=="
+        },
+        {
+          "text": "Kansas City, MO",
+          "value": "l5npr173wIeiUapq5iWFVQ=="
+        },
+        {
+          "text": "Olathe, KS",
+          "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+        },
+        {
+          "text": "Decatur, AR",
+          "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+        },
+        {
+          "text": "Farmington, AR",
+          "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+        },
+        {
+          "text": "Rogers, AR",
+          "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+        },
+        {
+          "text": "Tontitown, AR",
+          "value": "o_pMF5RyyYfEvqij54Opug=="
+        },
+        {
+          "text": "Broken Arrow, OK",
+          "value": "EU6rbj1itodcJqZGOKslKA=="
+        },
+        {
+          "text": "Cassville, MO",
+          "value": "OUvy21DQyIc6hF_OIVWVzg=="
+        },
+        {
+          "text": "Goshen, AR",
+          "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+        },
+        {
+          "text": "Overland Park, KS",
+          "value": "0zgmp1GVwIfI-UQ460_OJA=="
+        },
+        {
+          "text": "Pea Ridge, AR",
+          "value": "6xf8mywZyYe6kgw_pTHC3w=="
+        },
+        {
+          "text": "Wichita, KS",
+          "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+        },
+        {
+          "text": "Cave Springs, AR",
+          "value": "OQxJ3_MRyYe62iSa1sSt8w=="
+        },
+        {
+          "text": "Centerton, AR",
+          "value": "99IuBIgFyYehPLOyXut7XQ=="
+        },
+        {
+          "text": "Kansas City, KS",
+          "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+        },
+        {
+          "text": "Noel, MO",
+          "value": "j1H-t1pTyIfdC4IScI3jLA=="
+        },
+        {
+          "text": "Tulsa, OK",
+          "value": "jy7R3biStof3atkbyBBp5w=="
+        },
+        {
+          "text": "Anderson, MO",
+          "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+        },
+        {
+          "text": "Bartlesville, OK",
+          "value": "8b3HNk8St4c2oSjV4ALw3g=="
+        },
+        {
+          "text": "Benton, AR",
+          "value": "gwSnon5RzYfnX4QNNsNvtA=="
+        },
+        {
+          "text": "Columbia, MO",
+          "value": "yYKBu_Or3Icgb726LWkRoA=="
+        },
+        {
+          "text": "Elm Springs, AR",
+          "value": "weUZtbASyYc-0yhD2qMB6A=="
+        },
+        {
+          "text": "Fayetteville, AR",
+          "value": "nT61L3tvyYfPyLT8afAZRQ=="
+        },
+        {
+          "text": "Gravette, AR",
+          "value": "w8TGtmupyYfe37-QmZ2BFg=="
+        },
+        {
+          "text": "Huntsville, KS",
+          "value": "b4rO53ONpIcqxhYmgAxYVA=="
+        },
+        {
+          "text": "Independence, KS",
+          "value": "aXhEokUruIdHkOg2KXGhiw=="
+        },
+        {
+          "text": "Johnson, AR",
+          "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+        },
+        {
+          "text": "Lawton, OK",
+          "value": "RQ0hWeIerYdSTnLyxvosYQ=="
+        },
+        {
+          "text": "Lowell, AR",
+          "value": "S99nqxEUyYcglsAlyy4CBw=="
+        },
+        {
+          "text": "Mission, KS",
+          "value": "4Q3sAs7twIegN_6kDLgDHA=="
+        },
+        {
+          "text": "Paris, TX",
+          "value": "mysnFgZYSoZJ89MvZgm5yQ=="
+        },
+        {
+          "text": "Shawnee, KS",
+          "value": "_Vq7CyuSwIfjWKe3k3vwaQ=="
+        },
+        {
+          "text": "Springfield, MO",
+          "value": "P5jIRfdiz4egDWkes2z9aw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Management",
+          "value": "/business/naics2007/55"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Personal Services",
+          "value": "/business/naics2007/8129"
+        },
+        {
+          "text": "Professional Services",
+          "value": "/business/naics2007/5419"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Oracle",
+          "value": "/m/05njw"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Netflix",
+          "value": "/m/017rf_"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11bwf70g1f"
+        },
+        {
+          "text": "FlightSafety International",
+          "value": "/m/0bh8vr"
+        },
+        {
+          "text": "HubSpot",
+          "value": "/m/02yxmbc"
+        },
+        {
+          "text": "Paychex",
+          "value": "/m/026qjz"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "Insight Global",
+          "value": "/m/0b773zq"
+        },
+        {
+          "text": "NOV",
+          "value": "/m/0877gh"
+        },
+        {
+          "text": "NVIDIA",
+          "value": "/m/09rh_"
+        },
+        {
+          "text": "Sam's Club",
+          "value": "/m/02wqsl"
+        },
+        {
+          "text": "Shield AI",
+          "value": "/g/11jybkrw9b"
+        },
+        {
+          "text": "Sprout Social",
+          "value": "/g/11bzspfgc1"
+        },
+        {
+          "text": "TEKsystems",
+          "value": "/g/11b6g4bkv0"
+        },
+        {
+          "text": "The Browser Company",
+          "value": "/g/11y1f4h4qy"
+        },
+        {
+          "text": "1upHealth",
+          "value": "/g/11h3lglvf1"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "Accretive Technology Group",
+          "value": "/g/11c73_tb56"
+        },
+        {
+          "text": "Airbnb",
+          "value": "/m/010qmszp"
+        },
+        {
+          "text": "Akamai Technologies, Inc",
+          "value": "/m/02fqbt"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "Alignment Health",
+          "value": "/g/11f01fpptr"
+        },
+        {
+          "text": "Apartment List",
+          "value": "/g/11f018f5xw"
+        },
+        {
+          "text": "AppFolio",
+          "value": "/m/02yxdck"
+        },
+        {
+          "text": "Autobooks",
+          "value": "/g/11dxpw73n_"
+        },
+        {
+          "text": "Auxilius",
+          "value": "/g/11t396c1h0"
+        },
+        {
+          "text": "Axiom Exergy",
+          "value": "/g/11fy280sqv"
+        },
+        {
+          "text": "Axon",
+          "value": "/m/0cl_m7"
+        },
+        {
+          "text": "BP",
+          "value": "/m/0k5b5"
+        },
+        {
+          "text": "Backblaze",
+          "value": "/g/11fy1qndrz"
+        },
+        {
+          "text": "Banfield Pet Hospital",
+          "value": "/m/05b1c14"
+        },
+        {
+          "text": "Bectran, Inc.",
+          "value": "/g/11dym9v6zb"
+        },
+        {
+          "text": "Belcan",
+          "value": "/m/0kqjj_"
+        },
+        {
+          "text": "BlackLine",
+          "value": "/g/11c5rmrd61"
+        }
+      ]
+    }
+  ]
+}

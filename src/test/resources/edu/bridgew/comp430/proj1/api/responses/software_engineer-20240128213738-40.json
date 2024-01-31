@@ -1,0 +1,1137 @@
+{
+  "search_metadata": {
+    "id": "65b6c922681ebeeaf9c70fc8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6d39f4bb88193773/65b6c922681ebeeaf9c70fc8.json",
+    "created_at": "2024-01-28 21:37:38 UTC",
+    "processed_at": "2024-01-28 21:37:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=40",
+    "raw_html_file": "https://serpapi.com/searches/6d39f4bb88193773/65b6c922681ebeeaf9c70fc8.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 40
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer - Back End",
+      "company_name": "Sprout Social",
+      "location": " Anywhere ",
+      "via": "via Purpose Jobs",
+      "description": "Senior Software Engineer - Back End\n\nDescription...\n\nSprout Social is looking to hire a Senior Software Engineer to the Engineering team.\n\nWhy join Sprout’s Engineering team?\n\nWith collaborative cross-functional teams that span mobile, front-end, back-end, QA and site reliability engineering—the Sprout Engineering team is a place to sharpen your craft and solve hard problems with the smartest people in the industry. You’ll get to work on a “tech-giant” scale with smaller, supportive teams where every engineer has the chance to make an impact on our company, and our customers. The best part? In our industry, you often have to switch jobs or even companies to learn a new part of a tech stack or business. But at Sprout, our product is a suite, so you just need to move teams. You’re able to diversify your skills, which not only benefits your team—but also your career.\n\nWhat you’ll do\n• Ensure we build, scale, ship, and monitor our platform reliably.\n• Embed in one of our engineering squads to work on both product focused and infrastructural roles.\n\nWhat you’ll bring\n\nWe’re looking for a creative, collaborative, highly motivated, and inquisitive learner to help us deliver a great product to our customers. If you’re passionate about building and scaling reliable systems, we’d love to talk with you!\n\nThese are the minimum qualifications that our hiring team is looking for in this role:\n• 5+ years experience developing and supporting software in a production environment\n• 4+ years experience programming in object oriented languages such as Java, Python, or C++\n\nAdditionally, these are the preferred qualifications that would indicate a particularly strong candidate:\n• 4+ years experience developing and supporting scalable, distributed backend services\n• 4+ years experience working with databases\n\nHow you’ll grow\n\nWithin 1 month, you’ll plant your roots, including:\n• Completing Sprout’s New Hire training program alongside other new Sprout team members.\n• Deploying and making changes to our production systems.\n• Interacting with SQL or NoSQL data stores and NSQ messaging queues.\n• Collaborating regularly with product managers, QA engineers, and other product teams to deliver value to our users.\n• Getting regular team feedback on your work through code reviews and pairing.\n• Proactively monitoring the health of our services in production to ensure our customers always have a world-class experience\n\nWithin 3 months, you’ll start hitting your stride by:\n• Decomposing work into small, similarly sized units so that estimation is unnecessary.\n• Working with your squad to create and prioritize quarterly team goals.\n• Contributing to our Agile culture of continuous improvement through retrospective meetings and experimentation-oriented thinking.\n• Building connections with members from other teams through guild meetings and chapter outings.\n• Participating in technical design meetings with your teammates to walk through new feature ideas.\n• Working with product managers, UX developers, and front-end engineers to come up with the MVPs of new features.\n• Being the first line of defense against product outages and bugs while on support duty.\n• Maintaining, scaling, and building upon systems that handle hundreds of thousands of messages a day.\n\nWithin 6 months, you’ll be making a clear impact through:\n• Integrating and using monitoring and alerting tools to know about problems before our users.\n• Being “point person” on a project, including writing design documents, coordinating dependencies, and acting as domain owner.\n• Creating and managing concurrent, distributed systems.\n• Building your engineering skills by attending in-house presentations, workshops, and training sessions.\n• Forming a career growth plan with your manager and work towards it.\n• Partnering with the Infrastructure team to improve your team’s ability to deliver reliable, highly available services.\n\nWithin 12 months, you’ll make this role your own by:\n• Actively mitigating risk of failed delivery and missed deadlines through courageous, transparent communication with colleagues and stakeholders throughout a project life cycle.\n• Leading technical architecture meetings.\n• Identifying technical debt and performance bottlenecks within our systems, come up with a plan to improve the code, and get it pushed to production.\n• Mentoring junior engineers, helping them level up technically.\n• Building connections with members from other teams through active networking and community building.\n• Having opportunities to contribute to in-house technical presentations and workshops that share your expertise with large groups of Sprout engineers.\n• Surprise us! Use your unique ideas and abilities to change your team in beneficial ways that we haven’t even considered yet.\n\nOf course, what is outlined above is the ideal timeline, but things may shift based on business needs and other projects and tasks could be added at the discretion of your manager.\n\nOur Benefits Program\n\nWe’re proud to regularly be recognized for our team, product and culture. Our benefits program includes:\n• Insurance and benefit options that are built for both individuals and families\n• Progressive policies to support work/life balance, like our flexible paid time off and parental leave program\n• High-quality and well-maintained equipment—your computer will never prevent you from doing your best\n• Wellness initiatives to ensure both health and mental well-being of our team\n• Ongoing education and development opportunities via our Grow@Sprout program and employee-led diversity, equity and inclusion initiatives.\n• Growing corporate social responsibility program that is driven by the involvement and passion of our team members\n• Beautiful, convenient and state-of-the-art offices in Chicago’s Loop and downtown Seattle, for those who prefer an office setting\n\nWhenever possible, Sprout wants to provide our team with the flexibility to work in the location that makes the most sense for them. Sprout maintains a remote workforce in many places in the United States. However, we are not set up in all states, so please look at the drop-down box in our application to see whether your state is listed. Few roles require an office setting. If your position requires a physical presence in a Sprout office, it will be evident in the job listing and your offer letter.\n\nOur Benefits Program\n\nWe’re proud to regularly be recognized for our team, product and culture. Our benefits program includes:\n• Insurance and benefit options that are built for both individuals and families\n• Progressive policies to support work/life balance, like our flexible paid time off and parental leave program\n• High-quality and well-maintained equipment—your computer will never prevent you from doing your best\n• Wellness initiatives to ensure both health and mental well-being of our team\n• Ongoing education and development opportunities via our Grow@Sprout program and employee-led diversity, equity and inclusion initiatives.\n• Growing corporate social responsibility program that is driven by the involvement and passion of our team members\n• Beautiful, convenient and state-of-the-art offices in Chicago’s Loop and downtown Seattle, for those who prefer an office setting\n\nWhenever possible, Sprout wants to provide our team with the flexibility to work in the location that makes the most sense for them. Sprout maintains a remote workforce in many places in the United States. However, we are not set up in all states, so please look at the drop-down box in our application to see whether your state is listed. Few roles require an office setting. If your position requires a physical presence in a Sprout office, it will be evident in the job listing and your offer letter.\n\nIndividual base pay is based on various factors, including work location, relevant experience and skills, the responsibility of the role, and job duties/requirements. In the United States, we have two geographic pay zones. You can confirm the pay zone for your specific location with your recruiter during your interview process. For this role, our current base pay ranges for new hires in each zone are:\n• Zone 1: $165,000 to $185,000 USD annually\n• Zone 2: $155,000 to $175,000 USD annually\n\nSprout’s compensation ranges are intentionally broad to allow for our team members' growth within their role. These ranges were determined by a market-based compensation approach; we used data from trusted third-party compensation sources to set equitable, consistent, and competitive ranges. We also evaluate compensation bi-annually, identify any changes in the market and make adjustments to our ranges and existing employee compensation as needed.\n\nBase pay is only one element of an employee's total compensation at Sprout. Every Sprout team member has an opportunity to receive restricted stock units (RSUs) under Sprout’s equity plan. Employees (and their dependents) are covered by medical, dental, vision, basic life, accidental death, and dismemberment insurance, and Modern Health (a wellness benefit). Employees are able to enroll in Sprout’s company’s 401k plan, in which Sprout will match 50% of your contributions up to 6% with a maximum contribution. Sprout offers “Flexible Paid Time Off” and ten paid holidays. We have outlined the various components to an employee’s full compensation package here to help you to understand our total rewards package.\n\nSprout Social is proud to be an Equal Opportunity Employer and an Affirmative Action Employer. We do not discriminate based on identity- race, color, religion, national origin or ancestry, sex (including sexual identity), age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally recognized protected basis under federal, state, or local law. Learn more about our commitment to diversity, equity and inclusion in our latest DEI Report.\n\nIf you need a reasonable accommodation for any part of the employment process, please contact us by email at accommodations@sproutsocial.com and let us know the nature of your request and your contact information. We'll do all we can to ensure you're set up for success during our interview process while upholding your privacy, including requests for accommodation. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.\n\nFor more information about our commitment to equal employment opportunity, please click here (1) Equal Opportunity Employment Poster (2) Sprout Social's Affirmative Action Statement (3) Pay Transparency Statement.\n\nWhen you apply for employment with Sprout Social, we will process your job applicant data, including your employment and education history, transcript, writing samples, and references as necessary to consider your job application for open positions. Your personal data will be shared with Greenhouse Software, Inc., and Crosschq, Inc., cloud services providers located in the United States of America and engaged by Sprout Social to help manage its recruitment and hiring process on Controller’s behalf. Accordingly, if you are located outside of the United States, by clicking “Submit Application” on this site, you consent to the transfer of your personal data to the United States. For more information about our privacy practices please visit our Privacy Policy. California residents have additional rights and should review the Additional Disclosures for California Residents section in our Privacy Policy.\n\nAdditionally, Sprout Social participates in the E-Verify program in certain locations, as required by law.\n\n#LI-REMOTE",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years experience developing and supporting software in a production environment",
+            "4+ years experience programming in object oriented languages such as Java, Python, or C++"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Ensure we build, scale, ship, and monitor our platform reliably",
+            "Embed in one of our engineering squads to work on both product focused and infrastructural roles",
+            "Deploying and making changes to our production systems",
+            "Interacting with SQL or NoSQL data stores and NSQ messaging queues",
+            "Collaborating regularly with product managers, QA engineers, and other product teams to deliver value to our users",
+            "Getting regular team feedback on your work through code reviews and pairing",
+            "Proactively monitoring the health of our services in production to ensure our customers always have a world-class experience",
+            "Within 3 months, you’ll start hitting your stride by:",
+            "Working with your squad to create and prioritize quarterly team goals",
+            "Contributing to our Agile culture of continuous improvement through retrospective meetings and experimentation-oriented thinking",
+            "Building connections with members from other teams through guild meetings and chapter outings",
+            "Participating in technical design meetings with your teammates to walk through new feature ideas",
+            "Working with product managers, UX developers, and front-end engineers to come up with the MVPs of new features",
+            "Being the first line of defense against product outages and bugs while on support duty",
+            "Maintaining, scaling, and building upon systems that handle hundreds of thousands of messages a day",
+            "Integrating and using monitoring and alerting tools to know about problems before our users",
+            "Being “point person” on a project, including writing design documents, coordinating dependencies, and acting as domain owner",
+            "Creating and managing concurrent, distributed systems",
+            "Building your engineering skills by attending in-house presentations, workshops, and training sessions",
+            "Leading technical architecture meetings",
+            "Identifying technical debt and performance bottlenecks within our systems, come up with a plan to improve the code, and get it pushed to production",
+            "Mentoring junior engineers, helping them level up technically",
+            "Building connections with members from other teams through active networking and community building",
+            "Having opportunities to contribute to in-house technical presentations and workshops that share your expertise with large groups of Sprout engineers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Insurance and benefit options that are built for both individuals and families",
+            "Progressive policies to support work/life balance, like our flexible paid time off and parental leave program",
+            "High-quality and well-maintained equipment—your computer will never prevent you from doing your best",
+            "Wellness initiatives to ensure both health and mental well-being of our team",
+            "Ongoing education and development opportunities via our Grow@Sprout program and employee-led diversity, equity and inclusion initiatives",
+            "Growing corporate social responsibility program that is driven by the involvement and passion of our team members",
+            "Zone 1: $165,000 to $185,000 USD annually",
+            "Zone 2: $155,000 to $175,000 USD annually",
+            "Every Sprout team member has an opportunity to receive restricted stock units (RSUs) under Sprout’s equity plan",
+            "Employees (and their dependents) are covered by medical, dental, vision, basic life, accidental death, and dismemberment insurance, and Modern Health (a wellness benefit)",
+            "Employees are able to enroll in Sprout’s company’s 401k plan, in which Sprout will match 50% of your contributions up to 6% with a maximum contribution",
+            "Sprout offers “Flexible Paid Time Off” and ten paid holidays",
+            "We have outlined the various components to an employee’s full compensation package here to help you to understand our total rewards package"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.sproutsocial.com/",
+          "text": "sproutsocial.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Sprout+Social&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAII2Ak",
+          "text": "See web results for Sprout Social"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5waDfUKByNLmj2OtQLLiTrkLnwSP1LY5XGSyvjk&s",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBCYWNrIEVuZCIsImh0aWRvY2lkIjoiZ0U3VFJsbFQ2R1BnQUJoX0FBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYTFGUWNWUldNSFZXTjJWRlYyNDJUalJGVW10RlNGVmpSR1Y0TWxaSFRtUnVhVFZwYkhKUE5WWTVkREV3YjNZeWNsUXpXalJsWkZGQ2J6WlhRV0prYldGclUwNTFNVXgwU21OaU1HTjBUak5PZGsxR1NFZFVRM0ZrZEVWcU1VZzROalJoWTJOcE0yNVlWRXRSWldKTVZFSm5WbTA1Wms1U1lXVTJSR1YxWkhSemRURnBORXRqT1VKeWRHUkxhRzAwV2tGa1FtcHBUVVJ5WXpOd2IyRTBiVEJ3V1RnMWVtTmZkVXBFVFZOWGJWOUpjRGxOZEhwUk0zaHZaVUpuWmsxV1RIbDVlblZZYUdwR09VcDBNa3hNYjFOelNGOWhRbWh6VDJOb1FVeEtSVlJrWXkxZlRXZHBZM2RmVVhsclIybERUUklYU1hOdE1scFplbFJPY21sck1uSnZVREpOVTNjMFFWVWFJa0ZRV0dodE5WbFNTVmc0UjI1YU4xaFVjVkZ2WVROemVuaG9RbUpaWkU1bVFYYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gUHVycG9zZSBKb2JzIiwibGluayI6Imh0dHBzOi8vd3d3LnB1cnBvc2Uuam9icy9kaXNjb3Zlci9jb21wYW5pZXMvc3Byb3V0LXNvY2lhbC9qb2JzLzMxMzMyNzQwLXNlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1iYWNrLWVuZD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer-Endpoints",
+      "company_name": "iboss",
+      "location": "  United States   (+19 others)   ",
+      "via": "via Jobvite",
+      "description": "Company Overview\n\niboss is a cloud security company that enables the modern workforce to connect securely and directly to all applications from wherever they work. Built on a containerized cloud architecture, iboss delivers security capabilities such as SWG, malware defense, RBI, CASB and data loss prevention to all connections via the cloud, instantaneously and at scale. This eliminates the need... for traditional network security appliances, such as VPNs, firewalls and web gateway proxies, which are ineffective at protecting a cloud-first and mobile world. Leveraging a purpose-built cloud architecture backed by 230+ issued and pending patents and more than 100 points of presence globally, iboss processes over 150 billion transactions daily, blocking 4 billion threats per day. More than 4,000 global enterprises trust the iboss Cloud Platform to support their modern workforces, including a large number of Fortune 50 companies. To learn more, visit https://www.iboss.com/\n\nJob Description\n\nAs a Software Engineer- Endpoints at iboss, you’ll have the opportunity to work on multiple technologies. Our development scope extends from device-specific driver, service, and communication protocols to cloud scalable connectivity and big data processing through third-party analytics tool integration and customer enterprise UI creation for security policy management. The pace is fast. The process is agile. This is an excellent opportunity to become a core member of a rapidly growing software development team. There are many exciting projects on which to work. iboss software developers excel at solving tough problems, collaborating well, and working with customer teams to rapidly deploy solutions.\n\nThe work on this team involves developing software to run on several different types of user devices. The applications manage IP traffic flow into the iboss cloud and run on millions of devices every day. This is a prime opportunity to have a significant effect on the leading edge of security software development.\n\nResponsibilities\n• Ability to design and develop clean and maintainable code for deployment on Windows, iOS, Android, and macOS, and ChromeOS systems\n• Quickly understand and extend engineering architectural patterns\n• Independently solve tough software problems\n• Document engineering designs\n• Analyze and estimate development efforts\n\nQualifications\n• 5+ years of experience developing high-quality code in C/C++, Swift/Objective C or Java required\n• Experience focused in C/C++ networking-based applications on Windows, Mac, IOS, Android or Linux Operating Systems\n• 1+ years of experience working with endpoint development\n• Knowledge of security, networking, and handling of large datasets\n• TCP/IP and networking knowledge\n• Must have a good sense of engineering tradeoffs, within the contexts of extendibility, scalability, performance, and maintainability\n• Working knowledge of database technologies and SQL, especially PostgreSQL\n• Experience with OO design and design patterns\n• Comfortable working in a Unix environment\n• Strong knowledge of the full software development life cycle, with experience in an agile environment\n• Previous experience using Wireshark is a plus\n• Experience with software security is a plus\n• BS or MS in Computer Science or related engineering discipline\n\nBenefits\n• Health, Vision, Dental - open to domestic partners\n• 401K with company match\n• Paid Time Off (PTO)\n• Company-paid holidays\n• Optimistic, supportive, and fun work environment\n• Fantastic quarterly company events\n\nThe duties and responsibilities described above are essential functions of the job.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, status as a veteran, or as an individual with a disability.\n• This position is not eligible for sponsorship of work visas",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of experience developing high-quality code in C/C++, Swift/Objective C or Java required",
+            "Experience focused in C/C++ networking-based applications on Windows, Mac, IOS, Android or Linux Operating Systems",
+            "1+ years of experience working with endpoint development",
+            "Knowledge of security, networking, and handling of large datasets",
+            "TCP/IP and networking knowledge",
+            "Must have a good sense of engineering tradeoffs, within the contexts of extendibility, scalability, performance, and maintainability",
+            "Working knowledge of database technologies and SQL, especially PostgreSQL",
+            "Experience with OO design and design patterns",
+            "Comfortable working in a Unix environment",
+            "Strong knowledge of the full software development life cycle, with experience in an agile environment",
+            "BS or MS in Computer Science or related engineering discipline"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The work on this team involves developing software to run on several different types of user devices",
+            "Ability to design and develop clean and maintainable code for deployment on Windows, iOS, Android, and macOS, and ChromeOS systems",
+            "Quickly understand and extend engineering architectural patterns",
+            "Document engineering designs",
+            "Analyze and estimate development efforts"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health, Vision, Dental - open to domestic partners",
+            "401K with company match",
+            "Paid Time Off (PTO)",
+            "Company-paid holidays",
+            "Optimistic, supportive, and fun work environment",
+            "Fantastic quarterly company events"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.iboss.com/",
+          "text": "iboss.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=iboss&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIqQo",
+          "text": "See web results for iboss"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlci1FbmRwb2ludHMiLCJodGlkb2NpZCI6IjNKa3U2T05Ib2QxeE1SMUFBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJEVXRaMUF4UVZOUE4xbzBaRUl4V1U1RE4xZ3pZWEZNWjA1c01HbDJNWEZEZW1SWGIzZDFka05tTlRoRU1IcHpibFpwUkZGSlRreG9hVVJDY21SVU5UZ3liV0YxWTJ4SVdWSXlUMlIzTkhCelNXeE5WMDgyYzB3emNrNHdRVkJmV2pWUVVsSldSWEk1WW1GNlVWZE9VV2hOUW1aQlJESkVhRXg1ZDBKVU1VWnJUVGRtU1dkQk1WcFRhVUp3U2xKblRUaDZiSGRMUkhWelpEQXRjRXRLY1ZOeU16VlViREpRTTBWMlRIQkNSVVEzU0c5ZlVFTlBNbE5UYlVaZk9WTlhjMHhvYWpCMVdsQTVlVmxhVTA0dE1IYzRiMmh4WkhoMFdtVmpRUklYU1hOdE1scFplbFJPY21sck1uSnZVREpOVTNjMFFWVWFJa0ZRV0dodE5WcEtOR0Z0YW1WdWVrMUpiSEp4UnpJd2MxRm1kMmhuWkRjeWFtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9idml0ZSIsImxpbmsiOiJodHRwczovL2pvYnMuam9idml0ZS5jb20vaWJvc3Mvam9iL285S2VwZndnP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Visual Comfort & Co.",
+      "location": " Anywhere ",
+      "via": "via LinkedIn",
+      "description": "Summary\n\nThe Software Programmer/Analyst's role is to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements...\n\nEssential Functions and Responsibilities\n• Collaborate with developers, programmers, and designers in conceptualizing and developing new software programs and applications.\n• Analyze and assess existing business systems and procedures.\n• Assist in the definition, development, and documentation of software’s business requirements, objectives, deliverables, and specifications on a project-by-project basis in collaboration with internal users and departments.\n• Assist in defining software development project plans, including scoping, scheduling, and implementation.\n• Research, identify, analyze, and fulfill the requirements of all internal and external program users.\n• Liaise with vendors for efficient implementation of new software products or systems and for resolution of any adaptation issues.\n• Recommend, schedule, and perform software improvements and upgrades.\n• Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems.\n• Consistently write, translate, and code software programs and applications according to specifications. Write programming scripts to enhance functionality and/or performance of company applications as necessary.\n• Design, run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging.\n• Administer critical analysis of test results and deliver solutions to problem areas.\n• Generate statistics and write reports for management and/or team members on the status of the programming process.\n• Develop and maintain user manuals and guidelines.\n• Train end users to operate new or modified programs.\n• Install software products for end users as required.\n\nQualifications\n• 2+ years designing, developing, supporting applications in mid-size / larger company\n• 2+ years C# programming language and Visual Studio 2015 or later\n• 2+ years front-end technologies (HTML, JavaScript, CSS, etc.)\n• 2+ years SQL (SQL Server RDBMS and Management Studio, T-SQL, Stored Procedures, Functions, etc.)\n• Experience with .NET - based APIs a PLUS\n• Experience with AngularJS and React JavaScript Frameworks a BONUS\n• SSIS Development Experience is also a BONUS\n\nEqual Employment Opportunity\n• Qualified applicants are considered for employment, and employees are treated during employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, gender identity, or expression, genetic information, or any other legally protected status",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2+ years designing, developing, supporting applications in mid-size / larger company",
+            "2+ years C# programming language and Visual Studio 2015 or later",
+            "2+ years front-end technologies (HTML, JavaScript, CSS, etc.)",
+            "2+ years SQL (SQL Server RDBMS and Management Studio, T-SQL, Stored Procedures, Functions, etc.)",
+            "Experience with AngularJS and React JavaScript Frameworks a BONUS",
+            "SSIS Development Experience is also a BONUS"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Programmer/Analyst's role is to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements",
+            "Collaborate with developers, programmers, and designers in conceptualizing and developing new software programs and applications",
+            "Analyze and assess existing business systems and procedures",
+            "Assist in the definition, development, and documentation of software’s business requirements, objectives, deliverables, and specifications on a project-by-project basis in collaboration with internal users and departments",
+            "Assist in defining software development project plans, including scoping, scheduling, and implementation",
+            "Research, identify, analyze, and fulfill the requirements of all internal and external program users",
+            "Liaise with vendors for efficient implementation of new software products or systems and for resolution of any adaptation issues",
+            "Recommend, schedule, and perform software improvements and upgrades",
+            "Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems",
+            "Consistently write, translate, and code software programs and applications according to specifications",
+            "Write programming scripts to enhance functionality and/or performance of company applications as necessary",
+            "Design, run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging",
+            "Administer critical analysis of test results and deliver solutions to problem areas",
+            "Generate statistics and write reports for management and/or team members on the status of the programming process",
+            "Develop and maintain user manuals and guidelines",
+            "Train end users to operate new or modified programs",
+            "Install software products for end users as required"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.visualcomfort.com/",
+          "text": "visualcomfort.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Visual+Comfort+%26+Co.&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAII9wo",
+          "text": "See web results for Visual Comfort & Co."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7seNQeKm1dS8VjR-nC5UlqVzPcH9JQFUkdi8OCU&s",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiTUc3THVGaENLVlBadENsbUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYkVGc01rVnpabkUwZG1NNU1rUmtWMUozVjFWME5VRlVlSHBCYjNoNlJuZE5XRXBCVFhocU1XdDVkbVJ0Wm1oQ2MyZDRVWGhEVWtWT1EwRTRkVGM0TURSWU1HZEZkM1o2TlhwWlYxVTRkVEJ5VjFGdE5HTXdlV28yTVVRMVRYUlBZbTFsY0RRMlVIcE1SVnBXVG1wR1ExQnBWSGx2Vm5Oc1VGRmtlRmhNWWtRdFdHWjBkWEZWU0U1cU1XeFNUbTgxWWxKQ09GaFRaRk5vZDBkNFVqRXRSM1p5YXpSc2JEZEpNVEF6UVY5WFREZGZkWGgwTFRCcFZFdFZZVXAzVlhKR2JuTnVWelZoRWhkSmMyMHlXbGw2VkU1eWFXc3ljbTlRTWsxVGR6UkJWUm9pUVZCWWFHMDFXbFZ3YWtKVWIycFZkbUY0UzB3MmJrMXhORzh4U0ZGM1owRk1adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zb2Z0d2FyZS1lbmdpbmVlci1hdC12aXN1YWwtY29tZm9ydC1jby0zODEyNTM2NzgyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer II - Remote",
+      "company_name": "Akamai Technologies, Inc",
+      "location": " Anywhere ",
+      "via": "via Akamai Jobs",
+      "description": "Would you like to work on innovative solutions?\n\nAre you a Linux enthusiast seeking a new opportunity...\n\nJoin our Compute Team!\n\nThe Compute Team mission is to accelerate innovation by making computing simple, scalable, accessible, and affordable for all. We provide the infrastructure and services that enable developers to build next generation applications.\n\nPartner with the best\n\nOur System Software Engineers work with the hundreds of thousands of virtual machines that host petabytes of data for our customers around the world. In this role, You will help to bring new networking technologies into our infrastructure, identify and eliminate performance bottlenecks, and intimately understand the overall software stack that makes us tick.\n\n#Linode-Compute\n\nAs a System Software Engineer II , you will be responsible for:\n• Identifying and eliminating performance bottlenecks.\n• Becoming a Linux Kernel expert on the product development team.\n• Creating and maintaining integrations between our hardware and APIs.\n• Understanding the overall software stack that makes us tick.\n• Working in an environment that fosters innovative solutions, rapid development cycles, and open communication.\n\nDo what you love\n\nTo be successful in this role you will:\n• Have 3 years of relevant experience and a Bachelors degree in Computer Science or related field\n• Write efficient clean code with Perl.\n• Possess prior working experience in network software development and/or systems engineering\n• Demonstrate experience with QEMU, KVM nftables, and ebtables.\n\nWork in a way that works for you\n\nWe recognize that the way in which people want to work and deliver at their best can vary for each person.\n\nThis is a flexible role and may be performed at your home and/or the local Akamai office (in the country advertised). We are happy to discuss working options in this role and encourage you to speak with your recruiter in more detail when you apply.\n\nWorking with us\n\nAt Akamai, were curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.\n\nWorking for you\n\nAt Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:\n• Your health\n• Your finances\n• Your family\n• Your time at work\n• Your time pursuing other endeavors\n\nOur benefit plan options are designed to meet your individual needs and budget, both today and in the future.\n\nAbout us\n\nInnovating on a global scale, we deliver our customers a fast, smart and secure intelligent edge platform. Working against a backdrop of digital collaboration, our highly skilled teams build progressive solutions that have the scope to transform entertainment, business, and life in ways that we have yet to imagine.\n\nJoin us\n\nAre you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!\n\nAkamai Technologies is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, gender identity, sexual orientation, race/ethnicity, protected veteran status, disability, or other protected group status.\n\nCompensation\n\nAkamai is committed to fair and equitable compensation practices. The base salary for this position ranges from $93,656 - $140,803/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location. The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP). Akamai provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply.\n\n#LI-Remote",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Have 3 years of relevant experience and a Bachelors degree in Computer Science or related field",
+            "Write efficient clean code with Perl",
+            "Possess prior working experience in network software development and/or systems engineering",
+            "Demonstrate experience with QEMU, KVM nftables, and ebtables"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a System Software Engineer II , you will be responsible for:",
+            "Identifying and eliminating performance bottlenecks",
+            "Becoming a Linux Kernel expert on the product development team",
+            "Creating and maintaining integrations between our hardware and APIs",
+            "Understanding the overall software stack that makes us tick",
+            "Working in an environment that fosters innovative solutions, rapid development cycles, and open communication"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Your health",
+            "Your finances",
+            "Your time pursuing other endeavors",
+            "Akamai is committed to fair and equitable compensation practices",
+            "The base salary for this position ranges from $93,656 - $140,803/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location",
+            "The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP)",
+            "Akamai provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.akamai.com/",
+          "text": "akamai.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Akamai+Technologies,+Inc&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIzAs",
+          "text": "See web results for Akamai Technologies, Inc"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqZiBYQSLvrR3obd768jsHE3gc07yUCCmk6Pe&s=0",
+      "extensions": [
+        "11 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "11 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSSAtIFJlbW90ZSIsImh0aWRvY2lkIjoiZGUtLTBHOHVnRGxIRGQyUEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYmxsc00ybFJTMEV5YjJoRmVFaENkM053WkZOalNteHlVRkZQYXpCRGJqaERWRFZpUkRaUFduWlplWFU1TjAxb2JXSm9aVzVwYlcxSmQzVlpaa05PUmpOQ1pIQlhRWGs0Y0RoNk9YZGZUa2w1V1Y5NGRrMW9VRVZzWTNWUk1rWmxVMlEwTFhGek1tRjViekJMWmpWM2FHMXlURXQzUVU5QlJra3piVWQyTWxKMlJqQnVZazFwWVc5a1dIWmliek5OVjBObmFUVXdaMXB1T0hCdGEyeDJVV0pwYTE5b2FtZHNkbTB5WnpWTWJGTm5NRFp4TWt0ak1rNW1aWHBITUMxcFRTMURiRXBRUzBnMGNVVklXbTFVU2t4ME5uWmtNVVZ0VkdWeVVSSVhTWE50TWxwWmVsUk9jbWxyTW5KdlVESk5VM2MwUVZVYUlrRlFXR2h0TlZwRVdHRnRka3RoVkhkVU5tbHllbWh0YW1wWmNXTjJkWGxKYjJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBBa2FtYWkgSm9icyIsImxpbmsiOiJodHRwczovL2FrYW1haS5kZWpvYnMub3JnL3ZpcnR1YWwtdXNhL3NvZnR3YXJlLWVuZ2luZWVyLWlpLXJlbW90ZS9DNkMyODQyQTk2QkE0QjNGQUIwOTJCOEZGNUZCQzQyQy9qb2IvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Intrinsic",
+      "location": "  Oklahoma City, OK   ",
+      "via": "via Glassdoor",
+      "description": "Software Engineer\n\nOn Site Position...\n\nDo you want to work on leading edge technology? Are you ready to build products that revolutionize history? At Intrinsic you will! We are a modern software development company creating new product solutions across a variety of industries. We build the latest web applications, cloud microservice architectures, and modern simulation technology applications. Send us your info and let us discuss the opportunity!\n\nJob Description:\n\nIntrinsic is looking for skilled and self-motivated Software Engineers of various experience levels and skill sets that are passionate about building new products and love to exceed the expectations of clients. As a software engineer you will be supporting the development teams and capabilities of our company partners. Our engineers work closely with the most capable end users and software engineers on the planet. As a team member, you will:\n\nParticipate in team agile ceremonies and sprints\n\nWork closely with Client Product Directors, Chief Technology Officers, and your team Scrum Master to assure the platform is being delivered on time and exceeding client expectations\n\nAssure team cohesiveness in a “leadership by example” approach, building high-quality product features that exceed client expectations\n\nDesign, build, and push a new product to an emerging marketspace\n\nWork on a dynamic, adaptable, and high performing team\n\nDive in and rapidly grow your skills with the latest technology\n\nMinimum qualifications:\n\nBachelor's degree in Computer Science, or related engineering field\n\n2+ years of relevant experience on a diverse software development team\n\nExperience building applications\n\nKnowledge of web application and microservice architectures\n\nSoftware development experience with one or more general purpose programming languages: JavaScript, Typescript, C++, C#, Python, or Go\n\nExperience working with one or more from the following: web application development, information retrieval, developing new software applications, and/or secure software development\n\nPreferred qualifications:\n\nExperience building and shipping products\n\n3+ years of software development experience, with emphasis on backend application development\n\nExperience working with Agile, Lean and/or Continuous Delivery approaches and best practices, such as Extreme Programming (XP)\n\nInterest and ability to learn new technologies as needed\n\nJob Type: Full-time\n\nPay: $95,000.00 - $180,000.00 per year\n\nJob Type: Full-time\n\nPay: $95,000.00 - $180,000.00 per year\n\nBenefits:\n• 401(k)\n• 401(k) matching\n• Dental insurance\n• Flexible schedule\n• Health insurance\n• Paid time off\n• Vision insurance\n\nSchedule:\n• Monday to Friday\n\nEducation:\n• Bachelor's (Required)\n\nExperience:\n• C++: 1 year (Preferred)\n• JavaScript: 1 year (Preferred)\n\nSecurity clearance:\n• Secret (Preferred)\n\nAbility to Commute:\n• Oklahoma City, OK (Required)\n\nWork Location: In person",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, or related engineering field",
+            "2+ years of relevant experience on a diverse software development team",
+            "Experience building applications",
+            "Knowledge of web application and microservice architectures",
+            "Software development experience with one or more general purpose programming languages: JavaScript, Typescript, C++, C#, Python, or Go",
+            "Experience working with one or more from the following: web application development, information retrieval, developing new software applications, and/or secure software development",
+            "Experience building and shipping products",
+            "3+ years of software development experience, with emphasis on backend application development",
+            "Experience working with Agile, Lean and/or Continuous Delivery approaches and best practices, such as Extreme Programming (XP)",
+            "Interest and ability to learn new technologies as needed",
+            "Bachelor's (Required)",
+            "Oklahoma City, OK (Required)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Participate in team agile ceremonies and sprints",
+            "Work closely with Client Product Directors, Chief Technology Officers, and your team Scrum Master to assure the platform is being delivered on time and exceeding client expectations",
+            "Assure team cohesiveness in a “leadership by example” approach, building high-quality product features that exceed client expectations",
+            "Design, build, and push a new product to an emerging marketspace",
+            "Work on a dynamic, adaptable, and high performing team",
+            "Dive in and rapidly grow your skills with the latest technology"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay: $95,000.00 - $180,000.00 per year",
+            "401(k) matching",
+            "Dental insurance",
+            "Flexible schedule",
+            "Health insurance",
+            "Paid time off",
+            "Vision insurance",
+            "Monday to Friday"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Intrinsic&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIoAw",
+          "text": "See web results for Intrinsic"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFl3llYGF4EwDLTGp_7Q7m2MCR1ECPs62xrvMVAw&s",
+      "extensions": [
+        "12 days ago",
+        "95K–180K a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 days ago",
+        "schedule_type": "Full-time",
+        "salary": "95K–180K a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoieEo1dlJUOGQ4U0k3S3RScEFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYldKZk5XRmhkV0oyTTFSTk1tdFhTVXBwYWxjME9XSlJUV1paWlhoYVNHUjNPRlZ5ZUdFNExVOXNjemR0VUhOdFEwaDBhbFpZTTNsMlRuRlJVVTFtUWt4WldIZzBTamRwU1ZFNGVXSTBWRTlrTmpGdU0wRlViamhoU1RGa2MweEpja1JVYTNWR04wZ3lia2RNVEdsbVNGOVVWekZITjBNMVVtZzJTbXBFUlhGQ1FUaGxjVGRtZVd0dE9VUkVWazVUVWxST1pGOWFNemMxYmpWS1p6aGphWFE0YkhBM2JGOXpXWEpyUkZkV1JWcFNOSFF6VEhCclNsbENSRzkxY0U5TVZITmZSbDlYRWhkSmMyMHlXbGw2VkU1eWFXc3ljbTlRTWsxVGR6UkJWUm9pUVZCWWFHMDFZbXRJWWpSaGQySkZlRTl4WVhJMVRXZDVlakpVU0hOVVVITnNRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gR2xhc3Nkb29yIiwibGluayI6Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jb20vam9iLWxpc3Rpbmcvc29mdHdhcmUtZW5naW5lZXItaW50cmluc2ljLUpWX0lDMTEzNjk1MF9LTzAsMTdfS0UxOCwyNy5odG0/amw9MTAwOTA3OTIzNjgxM1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Director - Software Engineering - Real-Time Trading...",
+      "company_name": "Cboe Global Markets",
+      "location": "  Lenexa, KS   (+2 others)   ",
+      "via": "via CBOE Careers - Cboe Global Markets",
+      "description": "Job Description\n\nBuilding trusted markets — powered by our people...\n\nAt Cboe, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.\n\nWe’re building inclusive ways to support professional and personal development while strengthening the trust we’ve earned as a global market leader. Our teams are empowered to share ideas, actively pursue them and bring on a challenge. As champions of internal mobility and access to opportunity, we encourage our people to “go for it” and equip our managers with the training to coach their teams to the next level. Our Associate Resource Groups champion diversity, equity and inclusion, giving employees a safe space to network, share ideas and create opportunities.\n\nSound like the place for you? Join us!\n\nThe Software Engineering team is hiring for a Sr Director, Software Engineering.\n\nThe Sr Director of Software Engineering at Cboe for our Real-Time Trading, Analytics and Risk management Team (Cboe Silexx) will lead with both expertise and inspiration, fostering an environment where complex problem-solving and creative engineering flourish. You'll be:\n• Crafting Technical Strategies: Develop and communicate a clear vision of our technical future, ensuring alignment with business goals and market trends\n• Leading by Example: Demonstrate your deep understanding of C#, .NET, and a range of programming languages as well as financial technology solutions. Your hands-on approach will inspire your team as they develop cutting edge solutions in the domains of real-time trading, analytics and risk management.\n• Mentoring and Managing: Elevate your team through coaching, professional development, and leading by example in software craftsmanship.\n• Driving Innovation: Encourage a culture of innovation that balances cutting-edge development with practical, scalable solutions.\n• Enhancing Systems and Workflows: Oversee the design and optimization of systems for reliability, performance, and user experience.\n• Building Collaborative Relationships: Work closely with cross-functional teams to refine engineering processes, aligning them with business requirements and technical vision.\n• Technical Decision Making: Provide critical input in architecture, project planning, and business requirements analysis.\n• Hands-On Involvement: Stay engaged with the code and systems, maintaining an intimate understanding of the technologies we use and develop.\n\nYour responsibilities will be:\n• Guide architectural decisions and technical roadmap planning.\n• Play a pivotal role in project planning, scheduling, and requirement analysis.\n• Write and review high-quality, testable code, focusing on performance and scalability.\n• Ensure system availability, resilience, and maintainability.\n• Drive the refinement of engineering processes and practices.\n• Lead the hiring and training process for new team members, setting the standard for technical excellence.\n\nThe ideal candidate has:\n• Proven experience in a leadership role within software engineering, ideally in financial technology or similar high-stakes, high-volume environments.\n• A deep understanding of financial technology solutions, ideally in the areas of order and execution management solutions OMS/EMS\n• A track record of successful technical strategy development and execution.\n• Strong management and coaching skills, with experience in mentoring senior engineers and fostering a culture of continuous improvement and excellence.\n• Expertise in C#, .NET, SQL, JavaScript, Typescript, and familiarity with tools like Git, Jenkins, Jira, and Confluence.\n• Experience with real-time trading systems and a solid understanding of financial market dynamics.\n• A STEM background, coupled with a passion for financial markets and an appetite for tackling complex, distributed systems.\n• Bachelors Degree + 12+ years of experience. Or an advanced degree + 8+ years of experience.\n• Excellent communication skills, both in distilling complex concepts and in collaborative project management.\n\nBenefits and Perks\n\nWe value the total wellbeing of our people – including health, financial, personal and social wellness. We believe standard benefits like health insurance and fair pay are a given at any organization. Still, you should know we offer:\n• Fair and competitive salary and incentive compensation packages with an upside for overachievement\n• Generous paid time off, including vacation, personal days, sick days and annual community service days\n• Flexible, hybrid work environment, where you choose where and how you work\n• Health, dental and vision benefits, including access to telemedicine and mental health services\n• 2:1 401(k) match, up to 8% match immediately upon hire\n• Discounted Employee Stock Purchase Plan\n• Tax Savings Accounts for health, dependent and transportation\n• Employee referral bonus program\n• Volunteer opportunities to help you give back to your communities\n\nSome of our employees’ favorite benefits and perks include:\n• Complimentary lunch, snacks and coffee in any Cboe office\n• Paid Tuition assistance and education opportunities\n• Generous charitable giving company match\n• Paid parental leave and fertility benefits\n• On-site gyms and discounts to other fitness centers\n\n#LI-CP2\n\n#LI-Remote\n\nAs required by the New York City Human Rights Law, Cboe provides a reasonable range of minimum base salary for roles that may be performed in New York City. Actual compensation is influenced by a wide array of factors including but not limited to geographic location, skill set, level of experience, etc. For New York City only, the range of starting base salary for this role is $200,000-$330,000. Additional incentive compensation and benefits may be available.\n\nMore About Cboe\n\nWe’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.\n\nWe work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.\n\nLearn more about life at Cboe on our website and LinkedIn.\n\nEqual Employment Opportunity\n\nWe're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.\n\nAny communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Proven experience in a leadership role within software engineering, ideally in financial technology or similar high-stakes, high-volume environments",
+            "A deep understanding of financial technology solutions, ideally in the areas of order and execution management solutions OMS/EMS",
+            "A track record of successful technical strategy development and execution",
+            "Strong management and coaching skills, with experience in mentoring senior engineers and fostering a culture of continuous improvement and excellence",
+            "Expertise in C#, .NET, SQL, JavaScript, Typescript, and familiarity with tools like Git, Jenkins, Jira, and Confluence",
+            "Experience with real-time trading systems and a solid understanding of financial market dynamics",
+            "A STEM background, coupled with a passion for financial markets and an appetite for tackling complex, distributed systems",
+            "Bachelors Degree + 12+ years of experience",
+            "Or an advanced degree + 8+ years of experience",
+            "Excellent communication skills, both in distilling complex concepts and in collaborative project management"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Crafting Technical Strategies: Develop and communicate a clear vision of our technical future, ensuring alignment with business goals and market trends",
+            "Leading by Example: Demonstrate your deep understanding of C#, .NET, and a range of programming languages as well as financial technology solutions",
+            "Your hands-on approach will inspire your team as they develop cutting edge solutions in the domains of real-time trading, analytics and risk management",
+            "Mentoring and Managing: Elevate your team through coaching, professional development, and leading by example in software craftsmanship",
+            "Driving Innovation: Encourage a culture of innovation that balances cutting-edge development with practical, scalable solutions",
+            "Enhancing Systems and Workflows: Oversee the design and optimization of systems for reliability, performance, and user experience",
+            "Building Collaborative Relationships: Work closely with cross-functional teams to refine engineering processes, aligning them with business requirements and technical vision",
+            "Technical Decision Making: Provide critical input in architecture, project planning, and business requirements analysis",
+            "Hands-On Involvement: Stay engaged with the code and systems, maintaining an intimate understanding of the technologies we use and develop",
+            "Guide architectural decisions and technical roadmap planning",
+            "Play a pivotal role in project planning, scheduling, and requirement analysis",
+            "Write and review high-quality, testable code, focusing on performance and scalability",
+            "Ensure system availability, resilience, and maintainability",
+            "Drive the refinement of engineering processes and practices",
+            "Lead the hiring and training process for new team members, setting the standard for technical excellence"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We value the total wellbeing of our people – including health, financial, personal and social wellness",
+            "We believe standard benefits like health insurance and fair pay are a given at any organization",
+            "Fair and competitive salary and incentive compensation packages with an upside for overachievement",
+            "Generous paid time off, including vacation, personal days, sick days and annual community service days",
+            "Flexible, hybrid work environment, where you choose where and how you work",
+            "Health, dental and vision benefits, including access to telemedicine and mental health services",
+            "2:1 401(k) match, up to 8% match immediately upon hire",
+            "Discounted Employee Stock Purchase Plan",
+            "Tax Savings Accounts for health, dependent and transportation",
+            "Employee referral bonus program",
+            "Volunteer opportunities to help you give back to your communities",
+            "Some of our employees’ favorite benefits and perks include:",
+            "Complimentary lunch, snacks and coffee in any Cboe office",
+            "Paid Tuition assistance and education opportunities",
+            "Generous charitable giving company match",
+            "Paid parental leave and fertility benefits",
+            "On-site gyms and discounts to other fitness centers",
+            "For New York City only, the range of starting base salary for this role is $200,000-$330,000",
+            "Additional incentive compensation and benefits may be available"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.cboe.com/",
+          "text": "cboe.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Cboe+Global+Markets&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAII9ww",
+          "text": "See web results for Cboe Global Markets"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BWaJTd_r4jhgBL2m3NFwOqFBNOFka-ggrYfbcoE&s",
+      "extensions": [
+        "16 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "16 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGlyZWN0b3IgLSBTb2Z0d2FyZSBFbmdpbmVlcmluZyAtIFJlYWwtVGltZSBUcmFkaW5nIEFuYWx5dGljcyBhbmQgUmlzayBNYW5hZ2VtZW50ICguTkVUKSAtIFJlbW90ZSIsImh0aWRvY2lkIjoiSUxFSTBJWE5EVThLRmNfZkFBQUFBQT09IiwiZmMiOiJFcUlEQ3VJQ1FVNTFWMmhqYmpVeGRYRjZTa1pvVDFwMU4yMWxlbVZYWTNaeVIzRnFTak52VldOWVZqbDZaamszTVdOS1pXWTRaRTR3VjNKNk5GQTVhMEpUWlhaT1RYRktZa28wVWtkTmFVcE9SMkZOTVdOcE1qUk9SbVJmVWxSMk1IWldPWE5DTm1rNFluaHRXRWxwTFdONU9GOUxVazF4YTFScGEzTlNjR3g2Tm0xbk0yWm5TelJFY1ZRd2MyZG5VWEZzTm5OemFXdGllbWhqZVZodmExVkhSVmxqTFhCV01GWk1hR2xEUjNwYVZXTkxaWEo1VW5kRFFta3dRMHRWUW1zeGRVOVFUbkJtUmtvNFNrMURSVXRPZFc1TVoxcFpZMVprWDI4NVgxRldRa3B1VkhwbFowZHVaSFJ6WmxodmFXRk1VVFpxWXpWaVpGWjBiMHhxYzJGdWJYUk1NRGRUTTFWME5FMUZhM3A1TnpkeGJqSk1USFJIT1dSRlIxbHZhMlp6ZVZSRExWQXlUbEpwUkZkWlExZDVSVkYxVm5CRU5uUXlXakpoYlVwbWFXWm1hMjF4WkVKS1NIZHdWblJRVTNabFNYVldUbXhmT1hjME9UazFVbUZVUkZOSFZFcDNFaGRKYzIweVdsbDZWRTV5YVdzeWNtOVFNazFUZHpSQlZSb2lRVkJZYUcwMVdVMWtaMEprWjFCNFltVmlhWE5SZDNCeWNYZHpWM2RwVVd0SlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ0JPRSBDYXJlZXJzIC0gQ2JvZSBHbG9iYWwgTWFya2V0cyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY2JvZS5jb20vdXMvZW4vam9iL1ItMzMzMC9TZW5pb3ItRGlyZWN0b3ItU29mdHdhcmUtRW5naW5lZXJpbmctUmVhbC1UaW1lLVRyYWRpbmctQW5hbHl0aWNzLWFuZC1SaXNrLU1hbmFnZW1lbnQtTkVULVJlbW90ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "company_name": "HubSpot",
+      "location": " Anywhere ",
+      "via": "via General Catalyst Job Board",
+      "description": "Senior Software Engineer I\n\nEngineering...\n\nRemote - USA\n\nThe HubSpot Import/Export team plays a crucial role in developing features that empower users to efficiently import and export data into HubSpot. From importing new contacts after marketing events through to supporting complex data pipelines, our team is at the forefront of enabling seamless data integration for our users.\n\nWe are seeking a talented and experienced Senior Backend Engineer to join our Import/Export team. As a key member of this team, you will be responsible for developing features that enhance data import capabilities, ensuring a smooth and reliable experience for users across diverse use cases. In addition, you will play a pivotal role in collaborating with the Data Integration Group to contribute to the development of a comprehensive workspace for data integration.\n\nResponsibilities:\n• Design, implement, and maintain scalable and robust backend features for data import/export functionalities.\n• Collaborate with cross-functional teams to understand and address diverse user requirements for importing/exporting data.\n• Work closely with the Data Integration Group to contribute to the development of a comprehensive workspace for data integration.\n• Participate in code reviews, provide constructive feedback, and mentor junior team members.\n• Troubleshoot and resolve complex technical issues related to data import/export processes.\n• Stay updated on industry best practices and emerging technologies to drive continuous improvement.\n\nStack:\n• HubSpot standard stack (Java, Kafka etc.)\n\nCash compensation range: 165200-214800 USD Annually\n\nThis resource will help guide how we recommend thinking about the range you see. Learn more about HubSpot’s compensation philosophy from Katie Burke, HubSpot’s Chief People Officer.\n\nThe cash compensation above includes base salary, on-target commission for employees in eligible roles, and annual bonus targets under HubSpot’s bonus plan for eligible roles. In addition to cash compensation, all HubSpotters are eligible to participate in HubSpot’s equity plan to receive restricted stock units (RSUs). Some roles may also be eligible for overtime pay. Individual compensation packages are based on a few different factors unique to each candidate, including their skills, experience, qualifications and other job-related reasons.\n\nWe know that benefits are also an important piece of your total compensation package. To learn more about what’s included in total compensation, check out some of the benefits and perks HubSpot offers to help employees grow better.\n\nAt HubSpot, fair compensation practices isn’t just about checking off the box for legal compliance. It’s about living out our value of transparency with our employees, candidates, and community.\n\nWe know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates, so please don’t hesitate to apply — we’d love to hear from you.\n\nIf you need assistance or an accommodation due to a disability, please reach out to us using this form. This information will be treated as confidential and used only for the purpose of determining an appropriate accommodation for the interview process.\n\nGermany Applicants: (m/f/d) - link to HubSpot's Career Diversity page here.\n\nAbout HubSpot\n\nHubSpot (NYSE: HUBS) is a leading customer relationship management (CRM) platform that provides software and support to help businesses grow better. We build marketing, sales, service, and website management products that start free and scale to meet our customers’ needs at any stage of growth. We’re also building a company culture that empowers people to do their best work. If that sounds like something you’d like to be part of, we’d love to hear from you.\n\nYou can find out more about our company culture in the HubSpot Culture Code, which has more than 5M views, and learn about our commitment to creating a diverse and inclusive workplace, too. Thanks to the work of every employee globally, HubSpot was named the #2 Best Place to Work on Glassdoor in 2022, and has been recognized for award-winning culture by Great Place to Work, Comparably, Fortune, Entrepreneur, Inc., and more.\n\nHeadquartered in Cambridge, Massachusetts, HubSpot was founded in 2006. Today, thousands of employees work across the globe in HubSpot offices and remotely. Visit our careers website to learn more about culture and opportunities at HubSpot.\n\nBy submitting your application, you agree that HubSpot may collect your personal data for recruiting, global organization planning, and related purposes. HubSpot's Privacy Notice explains what personal information we may process, where we may process your personal information, our purposes for processing your personal information, and the rights you can exercise over HubSpot’s use of your personal information",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a key member of this team, you will be responsible for developing features that enhance data import capabilities, ensuring a smooth and reliable experience for users across diverse use cases",
+            "In addition, you will play a pivotal role in collaborating with the Data Integration Group to contribute to the development of a comprehensive workspace for data integration",
+            "Design, implement, and maintain scalable and robust backend features for data import/export functionalities",
+            "Collaborate with cross-functional teams to understand and address diverse user requirements for importing/exporting data",
+            "Participate in code reviews, provide constructive feedback, and mentor junior team members",
+            "Troubleshoot and resolve complex technical issues related to data import/export processes",
+            "Stay updated on industry best practices and emerging technologies to drive continuous improvement",
+            "HubSpot standard stack (Java, Kafka etc.)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Cash compensation range: 165200-214800 USD Annually",
+            "The cash compensation above includes base salary, on-target commission for employees in eligible roles, and annual bonus targets under HubSpot’s bonus plan for eligible roles",
+            "In addition to cash compensation, all HubSpotters are eligible to participate in HubSpot’s equity plan to receive restricted stock units (RSUs)",
+            "Some roles may also be eligible for overtime pay",
+            "Individual compensation packages are based on a few different factors unique to each candidate, including their skills, experience, qualifications and other job-related reasons",
+            "We know that benefits are also an important piece of your total compensation package",
+            "To learn more about what’s included in total compensation, check out some of the benefits and perks HubSpot offers to help employees grow better"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.hubspot.com/",
+          "text": "hubspot.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=HubSpot&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIyQ0",
+          "text": "See web results for HubSpot"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjf_yBHMP7I7zcrF9yJP7wsEujGyKbFYE9Sm9JfQ&s",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgSSIsImh0aWRvY2lkIjoiYWVsOElpbFlrbFNtMVJxZkFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkRJMldXNU5TRUZOZGxoSVpsQTNSWE55WlROclMxbFFOek5LYTNWb2NIZEdZVkJrZG1kRVoxbGhXa2hRU25wTFdGbGlRMTlpT1Rkd05WRndXWFpwWHpWdWRXaGZjMHhoWm5wVFlXWlNXa2h5YmxCQ05sbG5SblJqTjBwdFlrNTZVWEZpVWxac1RWQkxWbGt4YXpCM1pWSTRlbkZ3VVdoSWR6UTVWRnBoTTNodlZGRlFPRWhRVXpFemRqZHBaWEJtVm1aQmRGTXpUbUpTV0hac04wNXJkVFZzVjNNNU5sQm1hRXN0Vms5b1lUVkZSM1pCTTFGZlVGOW1PRXQzWVdWVFUxbDFZbVl6Tm04eGRsZFVha0ZVYjBaSVNIaFNOazFGV2xNd2R4SVhTWE50TWxwWmVsUk9jbWxyTW5KdlVESk5VM2MwUVZVYUlrRlFXR2h0TldGRldsRXpla0pxVVdGdFlVbG1ObWRpVEZGNWVUSk9MVk5RU1hjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR2VuZXJhbCBDYXRhbHlzdCBKb2IgQm9hcmQiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmdlbmVyYWxjYXRhbHlzdC5jb20vY29tcGFuaWVzL2h1YnNwb3Qvam9icy8zMTcxMzg3My1zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItaT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer Consumer Network Services",
+      "company_name": "NPR",
+      "location": " Anywhere ",
+      "via": "via Remote OK",
+      "description": "Each day you will work with a cross-functional team of brilliant professionals combining business, design, product, user experience and engineering expertise, working relentlessly to push the boundaries of what’s possible and paving the road for the future of news and entertainment media.\n\nThe Audience Technology group is looking for an experienced, talented and knowledgeable Software Engineer to join the Consumer/Network Services team responsible for developing, supporting and maintaining our microservices, core backend APIs, and systems that power donor/subscriber conversion experiences on NPR platforms . These are the API’s and services that drive innovation and engagement across NPR’s audience facing digital platforms and member station touch points.\n\nWe are looking for someone to help develop, support and maintain our audience revenue platforms which include donations and our premium podcast offering. Examples of technology you’ll work with include our payment proces\nApply now... and work remotely at NPR",
+      "job_highlights": [
+        {
+          "items": [
+            "Each day you will work with a cross-functional team of brilliant professionals combining business, design, product, user experience and engineering expertise, working relentlessly to push the boundaries of what’s possible and paving the road for the future of news and entertainment media.\n\nThe Audience Technology group is looking for an experienced, talented and knowledgeable Software Engineer to join the Consumer/Network Services team responsible for developing, supporting and maintaining our microservices, core backend APIs, and systems that power donor/subscriber conversion experiences on NPR platforms . These are the API’s and services that drive innovation and engagement across NPR’s audience facing digital platforms and member station touch points.\n\nWe are looking for someone to help develop, support and maintain our audience revenue platforms which include donations and our premium podcast offering. Examples of technology you’ll work with include our payment proces\nApply now... and work remotely at NPR"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.npr.org/",
+          "text": "npr.org"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=NPR&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIhA4",
+          "text": "See web results for NPR"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8r37oejfXxsPmatnOTdYTAYcTdr_-mYItTjm&s=0",
+      "extensions": [
+        "60K–110K a year",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "60K–110K a year",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBDb25zdW1lciBOZXR3b3JrIFNlcnZpY2VzIiwiaHRpZG9jaWQiOiJrWHRLYmtxMzROQTl3ai1pQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiRTVEZGt4bk5IRXhNa2hSY0VKNGVFaFBaMUIzZVdGSmJEWkhRMkZFYTE5VWVsSTRZbmhuTTA5QlZEaHZkRlUyYUdsWFZHTkNlakJtVkZBeFRXNVhSWGwxWXpNM1JrZ3hTMnhKVTNVNVFrVnBSRXhNVlhwNk1HcFVUREZKYlV4dVlqWmtNWGxHZG1GaFpXeGxMV0kzY0dGbGVFVkVkMUJKU2xCS2J5MHhTMmh1ZGpOc1JVTjJhbUo2V1V0V1VHeERUVmRLZFZaNGNIUlpXV1EzZFZGSU1YZHNNMmcwUmxOV1NYWkhNVmRFYTJob1NtSnFZblJwYkd4TWJuUmhSM042UTJsUFkyVlNlVUo2VG1OWlJsOTNhelpRVVRkZldYZzRlRnB3ZHhJWFNYTnRNbHBaZWxST2NtbHJNbkp2VURKTlUzYzBRVlVhSWtGUVdHaHROVmxYUzJSSFpsZEtabEJ5VWs1M1JHMDBZVkpqVjBaNmJEQTNSM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZW1vdGUgT0siLCJsaW5rIjoiaHR0cHM6Ly9yZW1vdGVvay5jb20vcmVtb3RlLWpvYnMvcmVtb3RlLXNvZnR3YXJlLWVuZ2luZWVyLWNvbnN1bWVyLW5ldHdvcmstc2VydmljZXMtbnByLTQ5MDg1NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "Westinghouse Electric Company, LLC",
+      "location": "  Huntsville, KS   ",
+      "via": "via Westinghouse Nuclear - Westinghouse Electric Company",
+      "description": "Are you interested in being part of an innovative team that supports Westinghouse’s mission to provide clean energy solutions? At Westinghouse, we recognize that our employees are our most valuable asset and we seek to identify, attract and recruit the most qualified talent while recognizing and encouraging the value of diversity in the global workplace.\n\nPrincipal Software Engineer...\n\nWe have a great opportunity for a responsible for developing, maintaining, and improving applications built upon the Windows platform to support innovative solutions created for the commercial nuclear sector of the energy market. The ideal candidate will have a solid working knowledge of C/C++ while employing SOLID design principles.\n\nYour Day to Day:\n• Design, develop, implement, support, and maintain nuclear applications based on\n• business requirements and customer specifications using approved technologies and\n• coding standards.\n• Design, develop, implement, support, and maintain software components and systems\n• to adhere to and satisfy engineering, scientific, regulatory, and manufacturing\n• requirements.\n• Act as a principal level in design development, coding, testing, and debugging new and\n• legacy applications.\n• Apply secure coding practices to prevent security vulnerabilities in code and apply\n• object-oriented principles when implementing solutions.\n• Maintain code quality through unit testing and solid documentation.\n• Communicate with business partners to gather accurate specifications for new\n• enhancements and applications.\n• Maintain knowledge of application security best practices and modern vulnerabilities\n\nWhat we’d like to see from you:\n• B.S. in Computer Science, Computer Engineering or equivalent\n• 10+ years of experience in software development\n• C/C++ programing experience\n• Experience writing requirements specifications, test procedures, user’s guides\n• and test reports.\n• Excellent verbal and written communication skills\n• Experience in Modbus/OPC protocols desired\n• Familiarity with Cisco switch configuration desired\n• Experience with Windows socket programming.\n• Experience with Wireshark troubleshooting desired.\n\nWhy Westinghouse?\n\nWestinghouse Electric Company is the global nuclear energy industry’s first choice for safe, clean, and efficient energy solutions. We enable our delivery of this vision by living our value system:\n• Safety and Quality\n• Integrity and Trust\n• Customer Focus and Innovation\n• Speed and Passion to Win\n• Teamwork and Accountability\n\nWestinghouse offers competitive benefits to all our employees around the globe to keep them healthy and enhance their well-being. In the U.S. the following are representative of what we offer:\n• Competitive Salary\n• Comprehensive Health, Wellness and Income Protection Benefits\n• 401(k) Savings Plan with Company Match\n• Paid Vacations and Holidays\n• Opportunities for Flexible Work Arrangements\n• Educational Reimbursement Program\n• Employee Referral Program\n\nWhile our Global Headquarters are located in Cranberry Township, PA, we have over 9,000 employees working at locations in 19 different countries. You can learn more by visiting http://www.westinghousenuclear.com.\n\nEOE of Minorities / Females / Vets / Disability.\n\nGet connected with Westinghouse on social media:\n\nTwitter | Facebook | LinkedIn| YouTube",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "B.S. in Computer Science, Computer Engineering or equivalent",
+            "10+ years of experience in software development",
+            "C/C++ programing experience",
+            "Experience writing requirements specifications, test procedures, user’s guides",
+            "Excellent verbal and written communication skills",
+            "Experience with Windows socket programming",
+            "Integrity and Trust",
+            "Customer Focus and Innovation",
+            "Speed and Passion to Win"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, develop, implement, support, and maintain nuclear applications based on",
+            "business requirements and customer specifications using approved technologies and",
+            "coding standards",
+            "Design, develop, implement, support, and maintain software components and systems",
+            "to adhere to and satisfy engineering, scientific, regulatory, and manufacturing",
+            "Act as a principal level in design development, coding, testing, and debugging new and",
+            "legacy applications",
+            "Apply secure coding practices to prevent security vulnerabilities in code and apply",
+            "object-oriented principles when implementing solutions",
+            "Maintain code quality through unit testing and solid documentation",
+            "Communicate with business partners to gather accurate specifications for new",
+            "enhancements and applications",
+            "Maintain knowledge of application security best practices and modern vulnerabilities"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Teamwork and Accountability",
+            "Competitive Salary",
+            "Comprehensive Health, Wellness and Income Protection Benefits",
+            "401(k) Savings Plan with Company Match",
+            "Paid Vacations and Holidays",
+            "Opportunities for Flexible Work Arrangements",
+            "Educational Reimbursement Program",
+            "Employee Referral Program"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.westinghousenuclear.com/",
+          "text": "westinghousenuclear.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Westinghouse+Electric+Company,+LLC&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAII0w4",
+          "text": "See web results for Westinghouse Electric Company, LLC"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0CRgLj4XaS2X-9N0jMp54Lun37Xzf8X8Qyu3&s=0",
+      "extensions": [
+        "20 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "20 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjQyd2x0eU1tZFhJNHBWWTlBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamEwUkpORzVwV0VwdGFTMUxkemhUZGtwVVozcG9UblkzV0dZMmJXZDNhSGxHWmxFNVZ6Uk1aV2t3U1RWbWEzQXphblpTYlUwdFVUVjNlbEY1U1ZwMWIwb3hXbm93WnpCVlJYVnZWRk5QVjBseFlsOXpNbEJJTlRjeVNWVnJTMU51UVdjMk5ucG1ZM28zUkdvNGRGY3hiVGRZYkdObFZubzFlRk5ITldGaFVUQm9NMU5SV2tKNldrNVhhR1pyVHpOek4xaDBaVmN4TFZSbFpVWkljR1UwYlhGaVoycEtNMkkwT1dSNUxXRkhia3d3WWxSblMzTTNhamRtYTJkelp6VjNObmhQWVdKMlRucG9la1JqVUd4Q2VHbHhhMWx1YVdaS2JUVllPRmgxVlV4d1dXZHhaV2RrVTNwb2NGaFBObTF4VUhvM01UWk5NRm80YmsxWmJVcHRVR1J1YUZGTFV4SVhTWE50TWxwWmVsUk9jbWxyTW5KdlVESk5VM2MwUVZVYUlrRlFXR2h0TlZwNlNtRTFVV28yTTFOSVpsRkVhbXR1WlROb2IxRlJRMUJaTTBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV2VzdGluZ2hvdXNlIE51Y2xlYXIgLSBXZXN0aW5naG91c2UgRWxlY3RyaWMgQ29tcGFueSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vam9iL0h1bnRzdmlsbGUtUHJpbmNpcGFsLVNvZnR3YXJlLUVuZ2luZWVyLUtTLzExMTY2OTA3MDAvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Sr. Software Engineer (Data Platform)",
+      "company_name": "Icario",
+      "location": "  United States   ",
+      "via": "via Icario Careers - Pinpoint",
+      "description": "Sr. Software Engineer (Data Platform)\n\nDepartment: R&D Engineering...\n\nEmployment Type: Full Time\n\nLocation: Remote\n\nReporting To: Tom Ho\n\nCompensation: $136,800 - $177,900 / year\nDescription\nAbout Us\nHealthcare today is nothing short of amazing. Yet all of it only works when people connect with it. And too often, they don’t. Healthcare can be impersonal. Confusing. All elbows. The record scratch at life’s party. We’re here to help connect healthcare with the people who need it. Which is everyone. How? By listening. Collaborating. And inspiring.\n\nIcario is the leading health action company that deeply understands people, giving our clients the data and tools they need to reach further, overcome barriers, personalize outreach, and connect with people like they’re human. Using whole person data, behavioral science, and digital-first omnichannel pathways, we build long-term value for our customers by helping them put people first and deliver better outcomes faster. This is healthcare that knows us, meets us where we are, has a relationship with us, anticipates our needs, and smoothly and consistently connects us with the right care. This is healthcare that helps everyone live better. Ultimately, our mission is to help move people to do things that are good for them! We’re excited about the path ahead—are you ready to make the world a healthier place, one person at a time?\n\nAbout the Role\nWe are seeking a skilled, motivated, and collaborative Software Engineer II to join our technology team! We are open to both local Minneapolis, Minnesota or Bay Area, California based candidates and candidates based out of state, but within the U.S. without the need for employer sponsorship. For positions offering remote flexibility, please keep in mind all Icario employees must live within the United States full time. All employee work conducted for Icario must be performed within the United States.\n\nYou will be responsible for building software features, from inception through delivery to production. In this position, you will have a direct impact on our success by helping to build the tools that get the right message to the right person at the right time to help people take action to improve their health and wellbeing.\n\nWhy We Need You\n• Design and implement Icario Data Platform, data product templates, microservices, and support data product creation\n• Connect with other technical members across Icario to ensure you are using existing technologies where possible and that we are collaborating with their systems appropriately\n• Evangelize and drive adoption of the new platform to meet business goals\n• Introduce tools to facilitate greater automation and operability of platform services\n• Embody Icario’s values\n\nWhat We'll Love About You\nAt Icario, we’re not looking for the impossible, just the exceptional. If you meet a combination of the listed skills below, we encourage you to apply!\n• BS/CS, MS/CS or equivalent\n• 5+ years of experience in platform development\n• Experience building robust services at scale. Build and maintain high volume / low latency platform\n• Strong foundation in algorithms and data structures and their real-world use cases\n• Experience with distributed systems, databases, and streaming frameworks\n• Experience building and shipping services around Kubernetes, Cloud Native, and Cloud Service Providers. Experience collaborating with teams to write software to support cloud services.\n• Experience with backend systems and software engineering. Programming experience in Java or other JVM-based languages\n• Understanding of standard approaches to software engineering, software architecture, and design. Ability to document software and services. Break down projects into practical tasks.\n• Understanding of standard approaches to software engineering, software architecture, and design. Ability to document software and services. Break down projects into practical tasks.\n\nWhat You'll Love About Us\n• 4+ weeks PTO, Summer PTO, and unlimited Health & Wellness PTO\n• Competitive benefits package including: medical, dental, vision, disability, FSA, HSA, pet insurance, and more\n• Generous 401k program with company match\n• Company paid parental leave\n• Work-life harmony\n• $1,000 employee referral bonus program\n• Hybrid working model with office locations in Minneapolis, MN & Birmingham, AL\n• The list goes on, apply to learn more!\n\nJOIN US\n\nWant to learn more about us? Visit us at icariohealth.com.\n\nIcario is committed to fostering a welcoming, accessible, respectful, and inclusive environment that ensures equal access and participation for people with disabilities. Please let us know if you require any accommodations by emailing careers@icariohealth.com\n\nIcario is an Equal Employment Opportunity/Affirmative Employer. Women, minorities, veterans, and individuals with disabilities as well as all other qualified individuals are encouraged to apply. We strive to empower an inclusive workplace culture that maximizes every employee’s contribution, widens the leadership pipeline, and ultimately increases the quality of our ideas, products, and our collective mindset. The intersection of opinions and experiences is made stronger by the power of diverse voices, ideas, and perspectives. By championing diversity and inclusion in our workforce and workplace culture, we’re helping ensure we can meet the challenges of the future. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BS/CS, MS/CS or equivalent",
+            "5+ years of experience in platform development",
+            "Experience building robust services at scale",
+            "Experience with distributed systems, databases, and streaming frameworks",
+            "Experience building and shipping services around Kubernetes, Cloud Native, and Cloud Service Providers",
+            "Experience collaborating with teams to write software to support cloud services",
+            "Experience with backend systems and software engineering",
+            "Programming experience in Java or other JVM-based languages",
+            "Understanding of standard approaches to software engineering, software architecture, and design"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be responsible for building software features, from inception through delivery to production",
+            "In this position, you will have a direct impact on our success by helping to build the tools that get the right message to the right person at the right time to help people take action to improve their health and wellbeing",
+            "Design and implement Icario Data Platform, data product templates, microservices, and support data product creation",
+            "Evangelize and drive adoption of the new platform to meet business goals",
+            "Understanding of standard approaches to software engineering, software architecture, and design"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $136,800 - $177,900 / year",
+            "4+ weeks PTO, Summer PTO, and unlimited Health & Wellness PTO",
+            "Competitive benefits package including: medical, dental, vision, disability, FSA, HSA, pet insurance, and more",
+            "Generous 401k program with company match",
+            "Company paid parental leave",
+            "Work-life harmony",
+            "$1,000 employee referral bonus program",
+            "Hybrid working model with office locations in Minneapolis, MN & Birmingham, AL"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.icariohealth.com/",
+          "text": "icariohealth.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602202052&q=Icario&sa=X&ved=0ahUKEwiM7OK0hYGEAxU4klYBHVgiDFw4KBCYkAIIqA8",
+          "text": "See web results for Icario"
+        }
+      ],
+      "extensions": [
+        "137K–178K a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "137K–178K a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIgKERhdGEgUGxhdGZvcm0pIiwiaHRpZG9jaWQiOiJ6ZWRWMFJjc05tYWx1WHZtQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiRE0xTlc5MFRXNDNkMGd4VTA5VUxXcE1ia1ozUzNGTE5UQlhZWE5hVm1ORU1YaGhkbmxKTTA1RGMzSlJlRlpUY25KVloxUmlVV1U0ZVZOTlpXMWFXV2hzVkRka1VTMHRkMmd6YlhneGFISlZXWGRzYW14cGVFTnJRa3h5U21GcllVODRTUzFDYUZneU1EUmZOMjB3YWxkM2VXWnBNMUZRYzNnNGMyOUliMXBSVHpsNVlrUXdUa1p0VGxwV2RrcEVjVE0xUzBFeWFEVk5iaTFOTkZWZlUxcDFNRVo2Y1V0bFdGaHhXVEpLVjFCbGNsRkhjVVZUTVZwaFVIQjZWVlV5ZDJsMVRVWTBObXByYmpsb2VYVTNOekpwZUZRMVptcGhiM2hwWnhJWFNYTnRNbHBaZWxST2NtbHJNbkp2VURKTlUzYzBRVlVhSWtGUVdHaHROVmxTWDJSek9HbzNaWGxNZEV0NVQydFVkVlE0TUdkdlpIZzBMVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBJY2FyaW8gQ2FyZWVycyAtIFBpbnBvaW50IiwibGluayI6Imh0dHBzOi8vaWNhcmlvLnBpbnBvaW50aHEuY29tL2VuL3Bvc3RpbmdzL2QyMzkzM2UwLTA5ZTEtNDg5MS05YTU4LWUxMmNmNWI0ZjNjZD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Network services",
+          "value": "network services"
+        },
+        {
+          "text": "Science",
+          "value": "science"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Kansas City, MO",
+          "value": "l5npr173wIeiUapq5iWFVQ=="
+        },
+        {
+          "text": "Oklahoma City, OK",
+          "value": "gdL4flSKrYedOk_RdBKiMw=="
+        },
+        {
+          "text": "Olathe, KS",
+          "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+        },
+        {
+          "text": "Broken Arrow, OK",
+          "value": "EU6rbj1itodcJqZGOKslKA=="
+        },
+        {
+          "text": "Wichita, KS",
+          "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+        },
+        {
+          "text": "Overland Park, KS",
+          "value": "0zgmp1GVwIfI-UQ460_OJA=="
+        },
+        {
+          "text": "Bartlesville, OK",
+          "value": "8b3HNk8St4c2oSjV4ALw3g=="
+        },
+        {
+          "text": "Benton, AR",
+          "value": "gwSnon5RzYfnX4QNNsNvtA=="
+        },
+        {
+          "text": "Columbia, MO",
+          "value": "yYKBu_Or3Icgb726LWkRoA=="
+        },
+        {
+          "text": "Decatur, AR",
+          "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+        },
+        {
+          "text": "Huntsville, KS",
+          "value": "b4rO53ONpIcqxhYmgAxYVA=="
+        },
+        {
+          "text": "Independence, KS",
+          "value": "aXhEokUruIdHkOg2KXGhiw=="
+        },
+        {
+          "text": "Kansas City, KS",
+          "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+        },
+        {
+          "text": "Mission, KS",
+          "value": "4Q3sAs7twIegN_6kDLgDHA=="
+        },
+        {
+          "text": "Rogers, AR",
+          "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+        },
+        {
+          "text": "Springfield, MO",
+          "value": "P5jIRfdiz4egDWkes2z9aw=="
+        },
+        {
+          "text": "Tulsa, OK",
+          "value": "jy7R3biStof3atkbyBBp5w=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Personal Services",
+          "value": "/business/naics2007/8129"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Oracle",
+          "value": "/m/05njw"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Netflix",
+          "value": "/m/017rf_"
+        },
+        {
+          "text": "FlightSafety International",
+          "value": "/m/0bh8vr"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "HubSpot",
+          "value": "/m/02yxmbc"
+        },
+        {
+          "text": "Akamai Technologies, Inc",
+          "value": "/m/02fqbt"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11bwf70g1f"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "Sprout Social",
+          "value": "/g/11bzspfgc1"
+        },
+        {
+          "text": "The Browser Company",
+          "value": "/g/11y1f4h4qy"
+        },
+        {
+          "text": "1upHealth",
+          "value": "/g/11h3lglvf1"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Accretive Technology Group",
+          "value": "/g/11c73_tb56"
+        },
+        {
+          "text": "Airbnb",
+          "value": "/m/010qmszp"
+        },
+        {
+          "text": "Apartment List",
+          "value": "/g/11f018f5xw"
+        },
+        {
+          "text": "Auxilius",
+          "value": "/g/11t396c1h0"
+        },
+        {
+          "text": "Axiom Exergy",
+          "value": "/g/11fy280sqv"
+        },
+        {
+          "text": "Axon",
+          "value": "/m/0cl_m7"
+        },
+        {
+          "text": "B3 Insight",
+          "value": "/g/11vb4bf05f"
+        },
+        {
+          "text": "BP",
+          "value": "/m/0k5b5"
+        },
+        {
+          "text": "Backblaze",
+          "value": "/g/11fy1qndrz"
+        },
+        {
+          "text": "Belcan",
+          "value": "/m/0kqjj_"
+        },
+        {
+          "text": "BlackLine",
+          "value": "/g/11c5rmrd61"
+        },
+        {
+          "text": "COFENSE",
+          "value": "/g/11g9mt3zv2"
+        },
+        {
+          "text": "Caffeine",
+          "value": "/g/11g9mtls_4"
+        },
+        {
+          "text": "Cambridge Blockchain",
+          "value": "/g/11g700r4cl"
+        },
+        {
+          "text": "Cboe Global Markets",
+          "value": "/g/11g7nmd1v5"
+        },
+        {
+          "text": "CentML",
+          "value": "/g/11l246l7n3"
+        },
+        {
+          "text": "Center for Open Science",
+          "value": "/m/0w7ngkq"
+        },
+        {
+          "text": "Change.org",
+          "value": "/g/11bw1yrthb"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Citadel",
+          "value": "/m/08vx4k"
+        },
+        {
+          "text": "Color",
+          "value": "/g/11dx8h8hq1"
+        },
+        {
+          "text": "Conservice",
+          "value": "/g/11g9n0dqc5"
+        }
+      ]
+    }
+  ]
+}

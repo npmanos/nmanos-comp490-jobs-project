@@ -1,0 +1,1173 @@
+{
+  "search_metadata": {
+    "id": "65b60c2c9bddf72630265b38",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2f2d6aa9cfb386e5/65b60c2c9bddf72630265b38.json",
+    "created_at": "2024-01-28 08:11:24 UTC",
+    "processed_at": "2024-01-28 08:11:24 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=3",
+    "raw_html_file": "https://serpapi.com/searches/2f2d6aa9cfb386e5/65b60c2c9bddf72630265b38.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 3
+  },
+  "jobs_results": [
+    {
+      "title": "MTS1 Software Engineer, Backend - Refurb",
+      "company_name": "eBay",
+      "location": "  San Jose, CA   ",
+      "via": "via EBay Jobs - EBay Inc.",
+      "description": "Company Overview:\n\nLooking for a company that inspires passion, courage, and creativity? Want to shape the future of global commerce and how millions of people buy, sell, connect, and share around the world? If you’re interested in joining a purpose-driven community that is dedicated to building an ambitious and inclusive work environment, join eBay—a company you can be proud to be with...\n\nTeam Overview:\n\nThis role is specifically with eBay’s Focused Categories team as an MTS1 Software Engineer, Backend for Refurbished. In the US alone, a refurbished product is purchased from eBay every 4 seconds. The Refurbished Product & Engineering team is on a mission to serve these consumers, making eBay the #1 trusted global marketplace to buy as good as new products. We believe giving electronics and hard goods a second chance and using products as long as possible is how we ALL protect the planet and benefit from a circular economy. Consumers spend less, Sellers gain more, and our planet can become free of e-waste forever.\n\nTeam Role:\n\nWe are looking for an experienced MTS1 Software Engineer, Backend to join the Refurbished team to help us redefine the way millions of people buy and sell as good as new products around the globe.\n\nResponsibilities:\n• Develop and maintain a functional domain to design cross-data center, distributed, fault-tolerant, highly available and performant web services and web applications by applying software architecture design, OOA/D skills in addition to exceptional analytical and problem solving skills\n• Contribute to major projects and features from design phase to coding, testing, deployment and support\n• Estimate engineering efforts, plan implementation, and rollout system changes. Identify project technical risks and make recommendations to mitigate\n• Collaborate with architects in defining the technical charter for eBay’s Zero Trust Architecture products\n• Work with partners to clarify requirements and deliver business solutions\n• Implement RESTFul APIs\n\nJob Requirements:\n• 5 to 8 years of hands-on experience in web development, Back end JAVA, Kotlin, Spring, Javascript, CSS, HTML5, SQL/NoSQL\n• 2+ years of experience working on a high volume scalable, secure, fast, reliable, accessible web application\n• 2+ years’ experience with microservices architecture, preferably REST.\n• Deep expertise in developing highly available, scalable and excellent performance systems.\n• Deep architectural understanding of system design and lead project to completion.\n• Must have good analytical, problem solving skills, verbal and written communication skills.\n• Proficiency in a programming language such as Java and / or Kotlin, strong foundation in data structures, algorithms and a strong understanding of multithreading, synchronization, concurrent programming.\n• Must have a solid knowledge and experiences of relational database (oracle) and / or noSQL data technologies (MongoDB, ) and related toolset.\n\nBenefits:\n\nBenefits are an essential part of your total compensation for the work you do every day. Whether you’re single, in a growing family, or nearing retirement, eBay offers a variety of comprehensive and competitive benefit programs to meet your needs. Including maternal & paternal leave, paid sabbatical, and plans to help ensure your financial security today and in the years ahead because we know feeling financially secure during your working years and through retirement is important.\n\nHere at eBay, we love creating opportunities for others by connecting people from widely diverse backgrounds, perspectives, and geographies. So, being diverse and inclusive isn’t just something we strive for, it is who we are, and part of what we do each and every single day. We want to ensure that as an employee, you feel eBay is a place where, no matter who you are, you feel safe, included, and that you have the opportunity to bring your unique self to work. To learn about eBay’s Diversity & Inclusion click here: https://www.ebayinc.com/company/diversity-inclusion/\n\n#LI-Hybrid\n\nThe pay range for this position at commencement of employment in California, Washington, or New York is expected in the range below.\n$135,200 - $205,700\n\nBase pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.\n\nIf hired, employees will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.\n\neBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.\n\nJobs posted with location as \"Remote - United States (Excludes: HI, NM)\" excludes residents of Hawaii and New Mexico.\n\nThis website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5 to 8 years of hands-on experience in web development, Back end JAVA, Kotlin, Spring, Javascript, CSS, HTML5, SQL/NoSQL",
+            "2+ years of experience working on a high volume scalable, secure, fast, reliable, accessible web application",
+            "2+ years’ experience with microservices architecture, preferably REST",
+            "Deep expertise in developing highly available, scalable and excellent performance systems",
+            "Deep architectural understanding of system design and lead project to completion",
+            "Must have good analytical, problem solving skills, verbal and written communication skills",
+            "Proficiency in a programming language such as Java and / or Kotlin, strong foundation in data structures, algorithms and a strong understanding of multithreading, synchronization, concurrent programming",
+            "Must have a solid knowledge and experiences of relational database (oracle) and / or noSQL data technologies (MongoDB, ) and related toolset"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop and maintain a functional domain to design cross-data center, distributed, fault-tolerant, highly available and performant web services and web applications by applying software architecture design, OOA/D skills in addition to exceptional analytical and problem solving skills",
+            "Contribute to major projects and features from design phase to coding, testing, deployment and support",
+            "Estimate engineering efforts, plan implementation, and rollout system changes",
+            "Identify project technical risks and make recommendations to mitigate",
+            "Collaborate with architects in defining the technical charter for eBay’s Zero Trust Architecture products",
+            "Work with partners to clarify requirements and deliver business solutions",
+            "Implement RESTFul APIs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits are an essential part of your total compensation for the work you do every day",
+            "Whether you’re single, in a growing family, or nearing retirement, eBay offers a variety of comprehensive and competitive benefit programs to meet your needs",
+            "Including maternal & paternal leave, paid sabbatical, and plans to help ensure your financial security today and in the years ahead because we know feeling financially secure during your working years and through retirement is important",
+            "$135,200 - $205,700",
+            "Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience",
+            "The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as PTO and parental leave)",
+            "If hired, employees will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.ebay.com/",
+          "text": "ebay.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=eBay&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAII4wk",
+          "text": "See web results for eBay"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-8tHK9ERvBNC8AvmO_O0OrdwH4jhOxGRm8pR&s=0",
+      "extensions": [
+        "1 day ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNVFMxIFNvZnR3YXJlIEVuZ2luZWVyLCBCYWNrZW5kIC0gUmVmdXJiIiwiaHRpZG9jaWQiOiJrNTNXTExjZVVROFhENWZPQUFBQUFBPT0iLCJmYyI6IkVyY0NDdmNCUVU1MVYyaGpiRWx2YzJGQ2FGcEpUVGRTTFV0WE56aHdORTFLUWxselNEUjRMV0V0TlhCaFYydGZjRTA1UkROR2R5MXVhemh3T1ZsTVYxbG5RbUZTUzNBM1VXeEliR1ZMVlVsdVpFeERNVFZxVTBvelRuWmZZMFZpWW5WS01WTXRhMFV4WDNadFpYa3laVXhzYmpndGQxUXdhMU55V1ROdWNqVjBPSGN4ZURabGFGWTROMDVXU1ZSMVJsbzJSemR6VkU1d1gyTkVNa1ozTFVGM09IZE9ORVI2TWxCMlNGcHBUMEl0VWtwUlQyTnlRVXBEWlVjMFpYbHZaMjVmZEhwa1gxVmhTVXRGWm1ORU1XOVFiakpTUlVrelpucGtRMmN4TTJsVlFWQm9TRFZMVEZadE9ERklhREpGUlVzMlRtRmtkMEZaWkdRMldSSVhURUY1TWxwaFRFMVBObGhLYTFCSlVESnhTMDE1UVZrYUlrRlFXR2h0TldFMmVqbFllazl6TFZGWmNVSktRblZxTkRWc2IzZHlPRFptUkdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBFQmF5IEpvYnMgLSBFQmF5IEluYy4iLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmViYXlpbmMuY29tL3VzL2VuL2pvYi9SMDA2MTcwMi9NVFMxLVNvZnR3YXJlLUVuZ2luZWVyLUJhY2tlbmQtUmVmdXJiP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer (Full Stack)",
+      "company_name": "Abbott Laboratories",
+      "location": "  Oakland, CA   (+2 others)   ",
+      "via": "via Abbott Jobs",
+      "description": "Meet Lingo, a new biosensing technology that provides users a window into their body. Lingo tracks key biomarkers – such as glucose, ketones, and lactate – to help people make better decisions about their health and nutrition. Biowearable technology will digitize, decentralize and democratize healthcare, enabling consumers to take control of their own health\n\nAt Abbott, you can do work that... matters, grow, and learn, care for yourself and family, be your true self and live a full life. You’ll also have access to:\n• Career development with an international company where you can grow the career you dream of .\n• Free medical coverage for employees* via the Health Investment Plan (HIP) PPO\n• An excellent retirement savings plan with high employer contribution\n• Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree.\n• A company recognized as a great place to work in dozens of countries around the world and named one of the most admired companies in the world by Fortune.\n• A company that is recognized as one of the best big companies to work for as well as a best place to work for diversity, working mothers, female executives, and scientists.\n\nThe opportunity\nPersonalized healthcare is the future. Working on Lingo, you will help build a next-generation technology that enables individuals to make decisions about how to improve energy, lose weight or enhance athletic performance. The Lingo team embodies a start-up culture and mindset with the backing of Abbott, a company with a rich history of healthcare innovation. Join us and grow your career as you help Abbott shape the future of healthcare.\n\nThis Senior (Full Stack) Software Engineer position works out of Alameda, CA location.\n\nAs a Senior (Full Stack) Software Engineer, you will be responsible for designing and developing web and mobile applications that provide a seamless user experience. You will work closely with the design and development teams to bring our product vision to life.\n\nWhat you’ll do\n• Design and develop the business logic and product’s backend systems\n• Translate software requirements into stable, working, high-performance software\n• Ensure coding, testing, and documentation tasks are successfully performed for new application development and enhancements to existing system functionality\n• Work closely with front-end developers to design and develop functional, performing, and complete APIs or GraphQL\n• Define initiatives to improve quality and/or productivity, such as implementing automated test tools or new development methodologies within the team\n• Perform code reviews and prepare (or guide) technical documentation\n• Define standards and processes to be followed during the software development lifecycle\n• Challenge ideas and opinions to avoid pitfalls and inefficient solutions\n• Design and implement front-end components using React, ensuring a seamless user experience for web and mobile applications.\n• Develop back-end components using Node.js, writing scalable and efficient code.\n• Collaborate with UX/UI designers to implement user-friendly and visually appealing interfaces for web and mobile applications.\n• Write clean, scalable, and maintainable code using best practices and modern software development methodologies.\n• Implement automated testing and continuous integration/continuous deployment (CI/CD) practices.\n• Participate in code and design reviews, ensuring high quality and efficient code.\n• Stay up-to-date with new technologies and industry developments.\n\nQualifications\n• Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.\n• 8+ years of experience in full-stack software development with a strong focus on React and Node.js.\n• Strong knowledge of HTML, CSS, and JavaScript.\n• In-depth experience with React and Node.js, including building and consuming RESTful APIs.\n• Strong experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra).\n• Experience with cloud platforms such as AWS, Google Cloud, or Microsoft Azure.\n• Good understanding of software development methodologies such as Agile, Scrum, or Kanban.\n• Experience with mobile app development using React Native or similar technologies is a plus.\n• Excellent communication, teamwork, and problem-solving skills.\n• Participants who complete a short wellness assessment qualify for FREE coverage in our HIP PPO medical plan. Free coverage applies in the next calendar year.\n\nLearn more about our health and wellness benefits, which provide the security to help you and your family live full lives: www.abbottbenefits.com\n\nFollow your career aspirations to Abbott for diverse opportunities with a company that can help you build your future and live your best life. Abbott is an Equal Opportunity Employer, committed to employee diversity.\n\nConnect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews and @AbbottGlobal\n\nThe base pay for this position is $109,300.00 – $218,500.00. In specific locations, the pay range may vary from the range posted",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field",
+            "8+ years of experience in full-stack software development with a strong focus on React and Node.js",
+            "Strong knowledge of HTML, CSS, and JavaScript",
+            "In-depth experience with React and Node.js, including building and consuming RESTful APIs",
+            "Strong experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra)",
+            "Experience with cloud platforms such as AWS, Google Cloud, or Microsoft Azure",
+            "Good understanding of software development methodologies such as Agile, Scrum, or Kanban",
+            "Excellent communication, teamwork, and problem-solving skills",
+            "Participants who complete a short wellness assessment qualify for FREE coverage in our HIP PPO medical plan"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will work closely with the design and development teams to bring our product vision to life",
+            "Design and develop the business logic and product’s backend systems",
+            "Translate software requirements into stable, working, high-performance software",
+            "Ensure coding, testing, and documentation tasks are successfully performed for new application development and enhancements to existing system functionality",
+            "Work closely with front-end developers to design and develop functional, performing, and complete APIs or GraphQL",
+            "Define initiatives to improve quality and/or productivity, such as implementing automated test tools or new development methodologies within the team",
+            "Perform code reviews and prepare (or guide) technical documentation",
+            "Define standards and processes to be followed during the software development lifecycle",
+            "Challenge ideas and opinions to avoid pitfalls and inefficient solutions",
+            "Design and implement front-end components using React, ensuring a seamless user experience for web and mobile applications",
+            "Develop back-end components using Node.js, writing scalable and efficient code",
+            "Collaborate with UX/UI designers to implement user-friendly and visually appealing interfaces for web and mobile applications",
+            "Write clean, scalable, and maintainable code using best practices and modern software development methodologies",
+            "Implement automated testing and continuous integration/continuous deployment (CI/CD) practices",
+            "Participate in code and design reviews, ensuring high quality and efficient code",
+            "Stay up-to-date with new technologies and industry developments"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Career development with an international company where you can grow the career you dream of",
+            "Free medical coverage for employees* via the Health Investment Plan (HIP) PPO",
+            "An excellent retirement savings plan with high employer contribution",
+            "Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree",
+            "Free coverage applies in the next calendar year",
+            "The base pay for this position is $109,300.00 – $218,500.00",
+            "In specific locations, the pay range may vary from the range posted"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.abbott.com/",
+          "text": "abbott.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Abbott+Laboratories&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIItQo",
+          "text": "See web results for Abbott Laboratories"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3DEWNWz3H-zwjB1dK8vQjSOw3h-0-HKdB9U3b2w&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKEZ1bGwgU3RhY2spIiwiaHRpZG9jaWQiOiJReHpFNVdJcGxCeWlZa3ZjQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpiVGd6ZFVNd2VVNXZXalJpYzFGbFUwNWxhVU5WVm1ZMGFWaHFZVTlwVmxSbVluUlFhMmxpZVVVelRuRndaVE5uYkdSaVVEWkhTbVYxYm1WWVJEaGlNRTAyYkVaaFVXZFhUbGxTTTBZMVJGWk9TVUl5VGxGV1dUQnVjVkZVVVhrM1IySXhlSGRJVkdrd2VFcDJNSGN5UjBoMVVGZzJWbkZtV25BNE1tZE1NSGhmUlZwTmNEWnliVTV5T0cxRmVVdEVlamRDVVVoQ2VWRTNUbEZKTVdabGJEQnhTREpZVkVabFpXNTNTR1UxU0hOclJXRjZiVGhvWm1wWlNtRlNSRTE1UVhOSlFtbHhPRUpZUWt0UFJGSkliR2xxYkRJeU9HeEJSbDlMZFUwM1RsQnRXa00zZEU5cGVHbHFjeTFqVWtOT1ZHVTRWbWt3TUhoa01WTTRTVzFCVVVaVlIwcG1PQklYVEVGNU1scGhURTFQTmxoS2ExQkpVREp4UzAxNVFWa2FJa0ZRV0dodE5XRkxVM2xJUkRoZlVUTlFSa3B3VG5KeFVXZHBZVlp0Y2t4S1UxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQWJib3R0IEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuam9icy5hYmJvdHQvdXMvZW4vam9iLzMxMDc2NzEzL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci1GdWxsLVN0YWNrP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company_name": "Wells Fargo",
+      "location": "  Concord, CA   ",
+      "via": "via Wells Fargo",
+      "description": "Job Description:\n\nAt Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.\n\nHelp us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.\n\nWells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.\n\nWells Fargo Bank N.A. seeks a Lead Software Engineer in Concord, CA.\n\nJob Role and Responsibility: Wells Fargo Bank, N.A., is hiring a Lead Software Engineer to lead complex technology initiatives including those that are... companywide with broad impact; Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines; Design, code, test, debug, and document for projects and programs; Conduct brainstorming session with the team to solve business problems based on existing requirements; Apply software engineering principles to analyze and problem solve, and design and solution; Monitor system performance and perform predictive maintenance; Assess new technologies before adoption and implementation; Perform system risk and reliability analysis; Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code; Remain current on new technologies and available vendor packages, evaluate, and make recommendations as necessary; Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factors; Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives; Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals. Telecommuting is permitted up to 3 days a week. Position must appear in person to the location listed as the work address.\n\nTravel required: None\n\nRequired Qualifications: Bachelor’s degree in Computer Science, Engineering, Management Information Systems, Information Technology, or related technical field. Position requires 5 years of experience in the job offered or in a related role involving software engineering and software development.\n\nSpecific skills required:\n\nPosition requires the following:\n• 5 years of experience with Docker, Java, JSON, Oracle, React, UNIX, Bootstrap, Junit, Microservices, REST, Splunk, Apache, Kafka, Jenkins, MongoDB, Apache Tomcat\n• 5 years of experience with Code Development Tools: Eclipse, STS, Intellij\n• 5 years of experience with Scripting/Markup Languages: HTML/HTML5, CSS/CSS3, JavaScript\n• 5 years of experience with Version Controlling Tool GIT; Web Services SOAP and REST\n• 5 years of experience with the following methodologies: Agile, Waterfall, Scrum\n• 2 years of experience with Cloud Services AWS or Azure\n\nQualified applicants send resume to: recruiter_inbox@wellsfargo.com and reference Requisition #001695 in the subject line.\n\nSalary: $133,300- $237,100\n\nPay Range\n$0.00 - $0.00\n\nBenefits\n\nWells Fargo provides all eligible full- and part-time employees with a comprehensive set of benefits designed to protect their physical and financial health and to help them make the most of their financial future. Visit Benefits - Wells Fargo Careers for an overview of the following benefit plans and programs offered to employees.\n• 401(k) Plan\n• Paid Time Off\n• Parental Leave\n• Critical Caregiving Leave\n• Discounts and Savings\n• Health Benefits\n• Commuter Benefits\n• Tuition Reimbursement\n• Scholarships for dependent children\n• Adoption Reimbursement\n\nPosting End Date:\n8 Feb 2024\n• Job posting may come down early due to volume of applicants.\n\nWe Value Diversity\n\nAt Wells Fargo, we believe in diversity, equity and inclusion in the workplace; accordingly, we welcome applications for employment from all qualified candidates, regardless of race, color, gender, national origin, religion, age, sexual orientation, gender identity, gender expression, genetic information, individuals with disabilities, pregnancy, marital status, status as a protected veteran or any other status protected by applicable law.\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.\n\nCandidates applying to job openings posted in US: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.\n\nApplicants with Disabilities\n\nTo request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.\n\nDrug and Alcohol Policy\n\nWells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more",
+      "job_highlights": [
+        {
+          "items": [
+            "Job Description:\n\nAt Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.\n\nHelp us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.\n\nWells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.\n\nWells Fargo Bank N.A. seeks a Lead Software Engineer in Concord, CA.\n\nJob Role and Responsibility: Wells Fargo Bank, N.A., is hiring a Lead Software Engineer to lead complex technology initiatives including those that are... companywide with broad impact; Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines; Design, code, test, debug, and document for projects and programs; Conduct brainstorming session with the team to solve business problems based on existing requirements; Apply software engineering principles to analyze and problem solve, and design and solution; Monitor system performance and perform predictive maintenance; Assess new technologies before adoption and implementation; Perform system risk and reliability analysis; Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code; Remain current on new technologies and available vendor packages, evaluate, and make recommendations as necessary; Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factors; Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives; Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals. Telecommuting is permitted up to 3 days a week. Position must appear in person to the location listed as the work address.\n\nTravel required: None\n\nRequired Qualifications: Bachelor’s degree in Computer Science, Engineering, Management Information Systems, Information Technology, or related technical field. Position requires 5 years of experience in the job offered or in a related role involving software engineering and software development.\n\nSpecific skills required:\n\nPosition requires the following:\n• 5 years of experience with Docker, Java, JSON, Oracle, React, UNIX, Bootstrap, Junit, Microservices, REST, Splunk, Apache, Kafka, Jenkins, MongoDB, Apache Tomcat\n• 5 years of experience with Code Development Tools: Eclipse, STS, Intellij\n• 5 years of experience with Scripting/Markup Languages: HTML/HTML5, CSS/CSS3, JavaScript\n• 5 years of experience with Version Controlling Tool GIT; Web Services SOAP and REST\n• 5 years of experience with the following methodologies: Agile, Waterfall, Scrum\n• 2 years of experience with Cloud Services AWS or Azure\n\nQualified applicants send resume to: recruiter_inbox@wellsfargo.com and reference Requisition #001695 in the subject line.\n\nSalary: $133,300- $237,100\n\nPay Range\n$0.00 - $0.00\n\nBenefits\n\nWells Fargo provides all eligible full- and part-time employees with a comprehensive set of benefits designed to protect their physical and financial health and to help them make the most of their financial future. Visit Benefits - Wells Fargo Careers for an overview of the following benefit plans and programs offered to employees.\n• 401(k) Plan\n• Paid Time Off\n• Parental Leave\n• Critical Caregiving Leave\n• Discounts and Savings\n• Health Benefits\n• Commuter Benefits\n• Tuition Reimbursement\n• Scholarships for dependent children\n• Adoption Reimbursement\n\nPosting End Date:\n8 Feb 2024\n• Job posting may come down early due to volume of applicants.\n\nWe Value Diversity\n\nAt Wells Fargo, we believe in diversity, equity and inclusion in the workplace; accordingly, we welcome applications for employment from all qualified candidates, regardless of race, color, gender, national origin, religion, age, sexual orientation, gender identity, gender expression, genetic information, individuals with disabilities, pregnancy, marital status, status as a protected veteran or any other status protected by applicable law.\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.\n\nCandidates applying to job openings posted in US: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.\n\nApplicants with Disabilities\n\nTo request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.\n\nDrug and Alcohol Policy\n\nWells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.wellsfargo.com/",
+          "text": "wellsfargo.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Wells+Fargo&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAII9Qo",
+          "text": "See web results for Wells Fargo"
+        }
+      ],
+      "extensions": [
+        "5 days ago",
+        "Full-time and Part-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJuaE1Fb3Q3SmN3bUt3OXlMQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiVnBXUkdsVE1YZFVYMGh2Vms5aVRtUXdNRGhQUTNCYVR6SnROR2Q0WVUxTFVDMUhSVUpRZFdwTGNUQTRjRmRrWW5WVGRIY3lWVmQwTjNFd1ZuTlNVSGhpZW1oc2NreFpWR2x1ZFVGcFIzSkNOVGhtZDFGcFoxVkxOMjlzTTJOMk5IUlZVMjFOY1hoV1pUWkpNME5GYm5wRFVrRjVTekF0VmpaeWVsaHlZMVJ6ZG1wUGJuTldSakk0VGpkc1NtazViRWhzYTFSSk5tSmFVM3B2VlZSSFJ6TlRlSEV0TTJ0aVFTMXVUMjk1TURoQ1RXSTNXWGwwVVVJMVRuUlFWV3R6VTI1alJYbzNVVU5FVDBGV1YzUlBjbU5sY2kxcFpWaHNVVWhIVVJJWFRFRjVNbHBoVEUxUE5saEthMUJKVURKeFMwMTVRVmthSWtGUVdHaHROV0ZyT0VOMVZqVnlPVEZZVUdoT1MyWldYMGt0UVhaWWRrVlJaSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdlbGxzIEZhcmdvIiwibGluayI6Imh0dHBzOi8vd3d3LndlbGxzZmFyZ29qb2JzLmNvbS9lbi9qb2JzL3ItMzM2MzM5L2xlYWQtc29mdHdhcmUtZW5naW5lZXIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer, Back End",
+      "company_name": "People Center",
+      "location": "  San Francisco, CA   ",
+      "via": "via Capital One Careers",
+      "description": "201 Third Street (61049), United States of America, San Francisco, California\n\nSenior Software Engineer, Back End...\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nTeam Description: We are a passionate, agile and hands-on backend team innovating solutions for Capital One U.S. Credit Card Tech. The team is on an ambitious and pioneering journey to build and maintain backend APIs to support virtual credit cards. Our Tech stack is housed in the public cloud and uses the latest serverless patterns and application architectures.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer\n\nSan Francisco, California (Hybrid On-Site): $174,900 - $199,700 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "New York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=People+Center&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIIxAs",
+          "text": "See web results for People Center"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEJhY2sgRW5kIiwiaHRpZG9jaWQiOiJ2VnFFS2RDWHVZQ3VadkFlQUFBQUFBPT0iLCJmYyI6IkVyY0NDdmNCUVU1MVYyaGphMkZKVHpCdFNHMHlhVk5wUldoSk9UVTBjMDUyZEZsWVR6ZHNOVXROTTBabWRHZFNaRWhpZUUxbmJsVnRSemhGUTFwWFVuSmlVRkl5WVhSM2NIcDZaRkpLVjNWWFZYbGFNV3N5Vm5OMldYVnhaM0pOV0ZSQ05tcEtkM2xOYlhsbUxWQmlORFpIUVhoWGNGZDJkeTFyVkd0bVZUQkhUemx3WlZwclNHbzRRMjF1YmtRelV6SjFUMUF0TUVaUE9VUnJjV0oxTjNSNVRuRjVaRkJvVW5WNFZUWk1kVE0wVEV0SFgwZEdVV2w1VkVKNVIwTmFSbkJyWjNadlduZHpTRGxaVmpCc1lWOXROMEptYWxsaE1HeGFkMnRwTm1WWk4yYzNWV1JNWm5WbGVtSlhTVXRHZWpGQ1lWSTVYM1ZIZFRsVk9CSVhURUY1TWxwaFRFMVBObGhLYTFCSlVESnhTMDE1UVZrYUlrRlFXR2h0TldJNUxUaEZhREJLZGxSZlluZFJaRGxrVHkxbU1YcHVOVzgzU2tFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXBpdGFsIE9uZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LmNhcGl0YWxvbmVjYXJlZXJzLmNvbS9qb2Ivc2FuLWZyYW5jaXNjby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItYmFjay1lbmQvMTczMi82MDQ3MjgzMTcxMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr Software Engineer, ML Systems Engineering",
+      "company_name": "Apple",
+      "location": "  Cupertino, CA   ",
+      "via": "via Careers At Apple",
+      "description": "Summary\nPosted: Dec 11, 2023\nWeekly Hours: 40...\nRole Number:200527946\n\nApple products bring together amazing hardware paired with incredible software to create phenomenal experiences for our customers. This is your opportunity to be part of an outstanding software engineering team shipping features to surprise and delight customers on the iPhone, Mac, Apple Watch, iPad, and more!\n\nThe Machine Learning Personalization team in Proactive Intelligence provides personalized machine learning on device without compromising user privacy. We are seeking exceptional software engineers to help with training, deploying, serving, and monitoring machine learning models on resource-constrained edge devices.\n\nKey Qualifications\n\nKey Qualifications\n• Comfortable building production software systems and components in large software projects\n• Hands-on experience with one or more compiled languages\n• Attention to detail and drive to achieve excellence\n• Excellent written and verbal communication skills\n\nDescription\n\nDescription\nYou will design and implement tools and frameworks primarily to support state of the art on-device ML in Apple’s products; deploy those algorithms and establish scalable, efficient, automated processes for validation and monitoring; communicate advanced ideas to our cross-functional team; and develop innovative tools and metrics that change the way we look at problems. Join us to enhance the lives of hundreds of millions of people around the world!\n\nOur team values creating and maintaining an inclusive environment prioritizing learning and growth. You’ll learn to use new technologies, work with various cross-functional teams, and exercise your creativity to improve our team and our products.\n\nEducation & Experience\n\nEducation & Experience\nMS in Computer Science or equivalent practical experience\n\nAdditional Requirements\n\nAdditional Requirements\n• Bonus Qualifications\n• Experience with production machine learning systems\n• Experience developing for resource constrained platforms, especially mobile devices\n\nPay & Benefits\n\nPay & Benefits\n• At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Comfortable building production software systems and components in large software projects",
+            "Hands-on experience with one or more compiled languages",
+            "Attention to detail and drive to achieve excellence",
+            "Excellent written and verbal communication skills",
+            "MS in Computer Science or equivalent practical experience",
+            "Experience with production machine learning systems",
+            "Experience developing for resource constrained platforms, especially mobile devices"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are seeking exceptional software engineers to help with training, deploying, serving, and monitoring machine learning models on resource-constrained edge devices",
+            "You will design and implement tools and frameworks primarily to support state of the art on-device ML in Apple’s products; deploy those algorithms and establish scalable, efficient, automated processes for validation and monitoring; communicate advanced ideas to our cross-functional team; and develop innovative tools and metrics that change the way we look at problems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay & Benefits",
+            "At Apple, base pay is one part of our total compensation package and is determined within a range",
+            "The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location",
+            "You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition",
+            "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.apple.com/",
+          "text": "apple.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Apple&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIImAw",
+          "text": "See web results for Apple"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGv1mwjAAcRpCBNFJqhHUrLDBCojde7VFUsuc87k&s",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBTb2Z0d2FyZSBFbmdpbmVlciwgTUwgU3lzdGVtcyBFbmdpbmVlcmluZyIsImh0aWRvY2lkIjoieklUdTdqWVpUUUJLZjVjMkFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYTB0Nk0yYzNSM2xMWVU5SVMxRXhWbVZMVDNZNWNtMXFVbXBGZDBsRWRWWnFOR1oyV21kbWRTMXRTVkoyV1dkNVFWaG9XSEJEWWsxb1UwaGtlWGhuTms5YVIxaGFOalZwV0RCUFFUVkhUV3hSYmtOVWVHcFNUSFJ1ZW1KWFZHbHBiMWhmUkRCTVpYUXRTMjVDUldOMk9Hd3haekEwVm10blJFUkRiekV0ZUZSMk16aDBlbk5OY2tkWlNVeDJTRk42ZWxnNFRsZERWM1JzT1ZCSllVdG1lVjlZYW5STmNrOVVSVTlEVEVOc1JsUTVaV3RWUkdobWNrWXlhVWRGVFhwRk1rVlhlV1V0WkRsWFNWVjBTV3BhUjAwM2J6QllibWN6UlRsU1JGbHVRMEpPV1cxbFRrbFpVRXBJVDFwNlFXTnBTUklYVEVGNU1scGhURTFQTmxoS2ExQkpVREp4UzAxNVFWa2FJa0ZRV0dodE5XRjNXbWw1VVRaa2IzbFVlR051TVVWblRsbEdiVWxXYWpGSkxXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBBcHBsZSIsImxpbmsiOiJodHRwczovL2pvYnMuYXBwbGUuY29tL2VuLXVzL2RldGFpbHMvMjAwNTI3OTQ2L3NyLXNvZnR3YXJlLWVuZ2luZWVyLW1sLXN5c3RlbXMtZW5naW5lZXJpbmc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer Intern, Communication Platform",
+      "company_name": "Chime",
+      "location": "  San Francisco, CA   ",
+      "via": "via Chime Careers",
+      "description": "About the role\n\nIn the Communication Platform team, we are dedicated to creating scalable systems that facilitate member communications across various channels, including email, push notifications, SMS, and in-app messaging. As a small and nimble team, each person has a profound impact on the experience of each of our millions of users...\n\nIn this role, your responsibilities would encompass full-stack development. This involves not only constructing the backend infrastructure but also shaping the user interface for both our end users and internal content creators.\n\nThis role is structured as a 3 month engagement. The starting hourly rate offered for this role and target level of experience will begin at $34 and up to $49. The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience.\nIn this role, you can expect to\n• Design, develop, test, release, and scale changes to our mobile and backend architecture\n• Collaborate effectively with the cross functional team to solve complex problems within the team domain\n• Develop thoroughly tested code and conduct quality assurance on all new code\n• Work in a team as well as independently to deliver on goals to accelerate development velocity while delivering the best experience to our members\nTo thrive in this role, you have\n• Experience in backend development and frameworks (Bonus: GraphQL, Ruby)\n• Experience in mobile development and frameworks (Bonus: React Native)\n• Experience working cross functionally and collaborating well with team members\n• Understanding of architectural patterns of large production services built for scale. Ability to safely make changes without disrupting and introducing regressions to millions of users.\n• A passion for learning and sharing knowledge alongside teammates, with self-motivation and keen attention to detail\n• A strong empathy for the users of the products you create\n\nA little about us\n\nAt Chime, we believe that everyone can achieve financial progress. We’re passionate about developing solutions and services to empower people to succeed. Every day, we start with empathy for our members and stay motivated by our desire to support them in ways that make a meaningful difference.\n\nWe created Chime—a financial technology company, not a bank*-- founded on the premise that basic banking services should be helpful, transparent, and fair. Chime helps unlock the access and ability our members need to overcome the systemic barriers that block them from moving forward. By providing members with access to liquidity, rewards, and credit building, our easy-to-use tools and intuitive platforms give members the ability to have more control over their money and to take action toward achieving their financial ambitions.\n\nSo far, we’re well-loved by our members and proud to have helped millions of people unlock financial progress, whether they started a savings account, bought their first car or home, opened a business, or went to college. Every day, we’re inspired by our members’ dreams and successes, big and small.\n\nWe’re uniting everyday people to unlock their financial progress—will you join us?\n• Chime partners with The Bancorp Bank and Stride Bank, N.A., Members FDIC, that power the bank accounts used by Chime Members.\n\nPerks once Full-Time\n• 🏢 A thoughtful hybrid work policy that combines in-office days and trips to team and company-wide events depending on location to ensure you stay connected to your work and teammates, whether you’re local to one of our offices or remote\n• 💻 Hybrid work perks, like UrbanSitter and Kinside for backup child, elder and/or pet care, as well as a subsidized commuter benefit\n• 💰 Competitive salary based on experience\n• ✨ 401k match plus great medical, dental, vision, life, and disability benefits\n• 🏝 Generous vacation policy and company-wide Take Care of Yourself Days\n• 🫂 1% of your time off to support local community organizations of your choice\n• 🧠 Mental health support with therapy and coaching through Modern Health\n• 👶 16 weeks of paid parental leave for all parents and an additional 6-8 weeks for birthing parents\n• 👪 Access to Maven, a family planning tool, with up to $10k in reimbursement for egg freezing, fertility treatments, adoption, and more.\n• 🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!\n• 💚 A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help millions unlock financial progress\n\nWe know that great work can’t be done without a diverse team and inclusive environment. That’s why we specifically look for individuals of varying strengths, skills, backgrounds, and ideas to join our team. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.\n\nWe hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance, Cook County Ordinance, and consistent with Canadian provincial and federal laws. If you have a disability or special need that requires accommodation, please let us know.\n\nTo learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience in backend development and frameworks (Bonus: GraphQL, Ruby)",
+            "Experience in mobile development and frameworks (Bonus: React Native)",
+            "Experience working cross functionally and collaborating well with team members",
+            "Understanding of architectural patterns of large production services built for scale",
+            "Ability to safely make changes without disrupting and introducing regressions to millions of users",
+            "A passion for learning and sharing knowledge alongside teammates, with self-motivation and keen attention to detail",
+            "A strong empathy for the users of the products you create"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, your responsibilities would encompass full-stack development",
+            "This involves not only constructing the backend infrastructure but also shaping the user interface for both our end users and internal content creators",
+            "This role is structured as a 3 month engagement",
+            "Design, develop, test, release, and scale changes to our mobile and backend architecture",
+            "Collaborate effectively with the cross functional team to solve complex problems within the team domain",
+            "Develop thoroughly tested code and conduct quality assurance on all new code",
+            "Work in a team as well as independently to deliver on goals to accelerate development velocity while delivering the best experience to our members",
+            "To thrive in this role, you have"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The starting hourly rate offered for this role and target level of experience will begin at $34 and up to $49",
+            "The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience",
+            "Perks once Full-Time",
+            "🏢 A thoughtful hybrid work policy that combines in-office days and trips to team and company-wide events depending on location to ensure you stay connected to your work and teammates, whether you’re local to one of our offices or remote",
+            "💻 Hybrid work perks, like UrbanSitter and Kinside for backup child, elder and/or pet care, as well as a subsidized commuter benefit",
+            "💰 Competitive salary based on experience",
+            "✨ 401k match plus great medical, dental, vision, life, and disability benefits",
+            "🏝 Generous vacation policy and company-wide Take Care of Yourself Days",
+            "🫂 1% of your time off to support local community organizations of your choice",
+            "🧠 Mental health support with therapy and coaching through Modern Health",
+            "👶 16 weeks of paid parental leave for all parents and an additional 6-8 weeks for birthing parents",
+            "👪 Access to Maven, a family planning tool, with up to $10k in reimbursement for egg freezing, fertility treatments, adoption, and more",
+            "🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Chime&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAII7Qw",
+          "text": "See web results for Chime"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time and Internship",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time and Internship"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJbnRlcm4sIENvbW11bmljYXRpb24gUGxhdGZvcm0iLCJodGlkb2NpZCI6IlQwdVc3S3BGaUJKQ0F0VmlBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJHdEJhMFJDWmpkYVJYUk5SMDR3VHpkUFlVNVFRMGR1TTI5bVVYSTFPVlZUVFZKR2NEbFRla3A2TVZSQ09XNVFkWEJMYkV0a1RtY3RlRkZxYzE5d1pEbFNNVFZOV1RsQ1EyNUNUM0ZDU1VKTGIzRkVhbVJtVjJaMWVIUjRZa1ZUU0c1NE1rbzJTQzFLYmtsdGFqRnhkVlZNUVVsWU9XSXhhVlJ2VDNOWU1UaFdhSGx6TUZvdFZsOVBVMEppV1drMk4zZGZaQzF3Y1hCSVNIWklNazFKYVZKbFMxTnhNWE5zV0hCM1RWQmpjVzlsWTNabWFYVk5TbTV3Y3pkamVscGtVRlpoU1doNk5uZGpiekZEUVdoVGFreHJRVWhGT0ZwSWEyeGtXbE5CUzAxSmVWTjNNblJVY1RoVFdWbFBaRzFSYXhJWFRFRjVNbHBoVEUxUE5saEthMUJKVURKeFMwMTVRVmthSWtGUVdHaHROV0Z5YW01aVNERXdORlEyTWxWQ1dXZGFPVFJDTVRSVVpVWklRVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDaGltZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5jaGltZS5jb20vYnJvd3NlLWpvYnMvNzEwODMyODAwMi9zb2Z0d2FyZS1lbmdpbmVlci1pbnRlcm4tY29tbXVuaWNhdGlvbi1wbGF0Zm9ybS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "(USA) Senior, Software Engineer",
+      "company_name": "Walmart",
+      "location": "  San Bruno, CA   ",
+      "via": "via Walmart Careers",
+      "description": "Position Summary...\n\nWhat you'll do...\n\nWe are looking for a Senior Software Engineer with expertise in Android platform and full stack experience to join Acquisition and Discovery Engineering team. This is a hands-on role requires expert coding skills, strong architecture and design, deep focus and experience on operational excellence, and the ability to guide and mentor a small team of engineers. You will play a critical role in leading, designing, and developing business and technology initiatives that solve mission critical business problems for Walmart customers.\n\nAbout Team: Acquisition and Discovery Engineering\nOur team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization. The Acquisition and Discovery Engineering team at Walmart is dedicated to providing a seamless and delightful shopping experience to millions of shoppers worldwide. As a Senior Software Engineer in this team, you will have the opportunity to work on top of the funnel shopping experience – Homepage, Content Pages for SEO and SEM, Search & Browse experiences, Deals and Item pages across mobile and web platforms. This collaborative team made up of Engineering, UX, Product Management, Business and Analytics is rapidly iterating on new products and site features at scale. We deliver high performing solutions on our next generation front-end platform. Virtual Try-On, Gen AI integration, personalized complete-the-look, Video shopping, etc are just a few examples of the features developed by this team in collaboration with many other teams. Continuous experimentation, innovation and feedback by millions of customers makes this work even more exciting!\n\nWhat you'll do:\n• To design, develop and deliver multiple Business or Technology driven projects with small to medium sized teams to support new functionalities and user experiences.\n• Play a pivotal role in shaping architectural decisions, championing scalable and efficient solutions to meet present and future needs.\n• Serve as a Subject Matter Expert to provide technical leadership and mentorship to your teammates, other teams and engineers.\n• Drive Availability, Quality, Performance, and Resiliency related goals with your team.\n• Collaborate with cross-functional teams, including product, UX and designers, to grasp the requirements and deliver top-tier software product.\n• Identify and drive improvements to mobile SDE frameworks, components and tooling for the Walmart developer community.\n• Contribute to and enhance mobile platform architecture to implement high-tech ideas for next generation retail. This involves technologies related to AR/VR, Gen AI, Automation/Robotics, Telemetry, Code-injection technologies, etc.\n\nWhat you'll bring:\n\n· Ideally 5+ years of experience designing and developing software for Android platform as well as larger frontend stack.\n\n· Experience developing and testing Server-side APIs for mobile and web clients using Node.js, Java, Go, etc. GQL is a plus.\n\n· Experience in mobile architectures including Model View Controller (MVC), Model View View-Model (MVVM), and VIPER. Experience publishing and managing dependencies using Maven and Gradle build systems.\n\n· Advanced knowledge of complex software design, distributed system design, design patterns, data structures, and algorithms.\n\n· Excellent technical debugging and production support skills.\n\n· Experience with monitoring mobile app performance, stability, success rate and leveraging data to improve the same.\n\n· Improve code quality through writing unit tests, automation, and performing code reviews.\n\n· Familiarity with public cloud technologies such as Azure OR Google Cloud Platform.\n\n· Excellent decision-making skills with the ability to balance conflicting interests in a complex and fast-paced environment.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nAt Walmart, we offer competitive pay as well as performance-based incentive awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices .\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms. For information about benefits and eligibility, see One.Walmart at https://bit.ly/3iOOb1J .\n\nThe annual salary range for this position is $117,000.00-$234,000.00\n\nAdditional compensation includes annual or quarterly performance incentives.\n\nAdditional compensation for certain positions may also include:\n\n- Regional Pay Zone (RPZ) (based on location)\n\n- Stock equity incentives\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.Option 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.\n\nPrimary Location...\n850 Cherry Avenue, San Bruno, CA 94066-3031, United States of America",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is a hands-on role requires expert coding skills, strong architecture and design, deep focus and experience on operational excellence, and the ability to guide and mentor a small team of engineers",
+            "Ideally 5+ years of experience designing and developing software for Android platform as well as larger frontend stack",
+            "Experience developing and testing Server-side APIs for mobile and web clients using Node.js, Java, Go, etc",
+            "Experience in mobile architectures including Model View Controller (MVC), Model View View-Model (MVVM), and VIPER",
+            "Experience publishing and managing dependencies using Maven and Gradle build systems",
+            "Advanced knowledge of complex software design, distributed system design, design patterns, data structures, and algorithms",
+            "Excellent technical debugging and production support skills",
+            "Familiarity with public cloud technologies such as Azure OR Google Cloud Platform",
+            "Excellent decision-making skills with the ability to balance conflicting interests in a complex and fast-paced environment",
+            "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+            "Option 2: 5 years’ experience in software engineering or related area"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will play a critical role in leading, designing, and developing business and technology initiatives that solve mission critical business problems for Walmart customers",
+            "To design, develop and deliver multiple Business or Technology driven projects with small to medium sized teams to support new functionalities and user experiences",
+            "Play a pivotal role in shaping architectural decisions, championing scalable and efficient solutions to meet present and future needs",
+            "Serve as a Subject Matter Expert to provide technical leadership and mentorship to your teammates, other teams and engineers",
+            "Drive Availability, Quality, Performance, and Resiliency related goals with your team",
+            "Collaborate with cross-functional teams, including product, UX and designers, to grasp the requirements and deliver top-tier software product",
+            "Identify and drive improvements to mobile SDE frameworks, components and tooling for the Walmart developer community",
+            "Contribute to and enhance mobile platform architecture to implement high-tech ideas for next generation retail",
+            "This involves technologies related to AR/VR, Gen AI, Automation/Robotics, Telemetry, Code-injection technologies, etc",
+            "Experience with monitoring mobile app performance, stability, success rate and leveraging data to improve the same"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+            "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+            "At Walmart, we offer competitive pay as well as performance-based incentive awards and other great benefits for a happier mind, body, and wallet",
+            "Health benefits include medical, vision and dental coverage",
+            "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+            "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+            "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+            "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+            "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+            "Tuition, books, and fees are completely paid for by Walmart",
+            "The annual salary range for this position is $117,000.00-$234,000.00",
+            "Additional compensation includes annual or quarterly performance incentives",
+            "Additional compensation for certain positions may also include:",
+            "Regional Pay Zone (RPZ) (based on location)",
+            "Stock equity incentives"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.walmart.com/",
+          "text": "walmart.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Walmart&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIIxg0",
+          "text": "See web results for Walmart"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5FvH34ZOATLYnu5r4x6771B-yvvnvALrzttQHGCAW5FqQKRnaG-bXyo&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time and Part-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiIoVVNBKSBTZW5pb3IsIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJLZ29mUmN4alNjN1picHlfQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiVEJEVG1ObFZFaDRSMGwwTjA1cVgzSXdlVWxNYjJ4M2VVSk1jbVZtV0ZKQlJsOXJaV1F5U0hZNGVHcEZja2MyVmpORmNqUmhOMHhLYTB4WlNGa3hVMnQ2TUVaUlZscDVhRTh5YlZkaGRrVk9WMFpsTldFd1EyUnVTRmxsYlVkT00wMHhOMGxHWTFsbmVuWlhXSEY1VlVjeVlXOXNNamR2VlRkaWVWcFRhbWRSZEV4MlZIRXdlamx6ZEV3eU5FUjZibUpEWkdOallVUk5lbU5FWmpCcVJtNXRSMVZoVlZwdFowNWxUVzlUUTBWSlNEQk5VMUkyVlVwT01tNTRkR2hrV0ZVelpWbzRXbE0xT1UwNU9HaFpaMk5YUW5Gak5ISjJUakUwUVJJWFRFRjVNbHBoVEUxUE5saEthMUJKVURKeFMwMTVRVmthSWtGUVdHaHROV0p6UkhwYWRYSjZWV2MzTjFGS2EwcFlVekkzV2pOS1gyUndZM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXYWxtYXJ0IENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLndhbG1hcnQuY29tL3VzL2pvYnMvV0QxNzI5NjI0LXVzYS1zZW5pb3Itc29mdHdhcmUtZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer IV",
+      "company_name": "Robert Half",
+      "location": "  San Ramon, CA   ",
+      "via": "via Careers At Robert Half",
+      "description": "Robert Half, Inc. seeks Software Engineer IV in San Ramon, CA:\n\nJob Duties: Develop software code for end-user applications and design business solutions. Implement SDLC documentation and procedures for all phases of the software development lifecycle. Develop and modify individual modules and components within the larger system architecture utilizing programming and scripting languages. Interact... with users to define system requirements and modifications. Support launched applications in the production environment. Develop complex modules and components of larger system designs. Code middleware and front-end applications and performing code reviews. Engage in design reviews, analyze, and resolve production issues, and provide feedback for process improvements. Perform unit tests, planning, and execution for software code validation, as well as review unit test plans and results. Utilize approval authority for unit and integration test strategies and plans. Analyze and resolve significant production interruptions classified as SWAT production issues. Analyze and resolve highly complex production issues defining approach and guidelines as required to resolve the issue. Define the integration test strategy, planning and analyzing, and resolving complex production issues. Telecommuting permitted: work may be performed from anywhere in the U.S.\n\nMinimum Requirements: Bachelor’s degree, or foreign equivalent, in Computer Science, Engineering, or a closely related field plus three years of experience in the job offered or a related occupation.\n\nSpecial Skill Requirements:\n\n3 years of experience in implementation and support of PeopleSoft applications. Core HR, Recruiting, Benefits, Time & Absence Management, Payroll, GL, Talent/Performance Management. Customize/Develop PeopleSoft Objects in the areas of HCM using People Tools objects (Pages, Records, Menus, Application Packages, PeopleCode) and perform support activities for system testing, integration testing and performance testing of the build. Build, enhance and fix issues in the PeopleSoft application, process, integrations, interfaces (internal and vendor interfaces) using SQR and Application Engine. Web Services (SOAP and REST) and Object-Oriented languages, including XML, SQL and PL/SQL for data processing. Experience in Data Conversion strategy, planning, development, and testing between different ERP systems.\n\nTelecommuting permitted: work may be performed from anywhere in the U.S. Any offer of employment is contingent upon successful completion of a background check. This position is eligible for our company’s Employee Referral Program.\n\nBase Salary: $147,368-181,272 per annum. 40 hours per week; M-F, 9:00 a.m. to 5:00 p.m.\n\nTo apply, please send your cover letter and resume, referencing Job ID JR-252211, to corporaterecruiting@roberthalf.com.\n\nBenefits are available to contract/temporary professionals, including medical, vision, and dental, and life and disability insurance. Hired contract/temporary professionals are also eligible to enroll in our company 401(k) plan. Visit roberthalf.gobenefits.net for more information.\n\nRobert Half Inc. is an Equal Opportunity Employer. M/F/Disability/Veteran\n\nAs part of Robert Half’s Corporate Services facility employment process, any offer of employment is contingent upon successful completion of a background check.\n\nRobert Half is committed to being an equal employment employer offering opportunities to all job seekers, including individuals with disabilities. If you believe you need a reasonable accommodation in order to search for a job opening or to apply for a position, please contact us by sending an email to HRSolutions@roberthalf.com or call 1.855.744.6947 for assistance.\n\nIn your email please include the following:\n• The specific accommodation requested to complete the employment application.\n• The location(s) (city, state) to which you would like to apply",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum Requirements: Bachelor’s degree, or foreign equivalent, in Computer Science, Engineering, or a closely related field plus three years of experience in the job offered or a related occupation",
+            "3 years of experience in implementation and support of PeopleSoft applications",
+            "Experience in Data Conversion strategy, planning, development, and testing between different ERP systems"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Job Duties: Develop software code for end-user applications and design business solutions",
+            "Implement SDLC documentation and procedures for all phases of the software development lifecycle",
+            "Develop and modify individual modules and components within the larger system architecture utilizing programming and scripting languages",
+            "Interact with users to define system requirements and modifications",
+            "Support launched applications in the production environment",
+            "Develop complex modules and components of larger system designs",
+            "Code middleware and front-end applications and performing code reviews",
+            "Engage in design reviews, analyze, and resolve production issues, and provide feedback for process improvements",
+            "Perform unit tests, planning, and execution for software code validation, as well as review unit test plans and results",
+            "Utilize approval authority for unit and integration test strategies and plans",
+            "Analyze and resolve significant production interruptions classified as SWAT production issues",
+            "Analyze and resolve highly complex production issues defining approach and guidelines as required to resolve the issue",
+            "Define the integration test strategy, planning and analyzing, and resolving complex production issues",
+            "Customize/Develop PeopleSoft Objects in the areas of HCM using People Tools objects (Pages, Records, Menus, Application Packages, PeopleCode) and perform support activities for system testing, integration testing and performance testing of the build",
+            "Build, enhance and fix issues in the PeopleSoft application, process, integrations, interfaces (internal and vendor interfaces) using SQR and Application Engine",
+            "Web Services (SOAP and REST) and Object-Oriented languages, including XML, SQL and PL/SQL for data processing"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base Salary: $147,368-181,272 per annum",
+            "40 hours per week; M-F, 9:00 a.m. to 5:00 p.m",
+            "Benefits are available to contract/temporary professionals, including medical, vision, and dental, and life and disability insurance",
+            "Hired contract/temporary professionals are also eligible to enroll in our company 401(k) plan"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.rhi.com/",
+          "text": "rhi.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Robert+Half&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIIlQ4",
+          "text": "See web results for Robert Half"
+        }
+      ],
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJViIsImh0aWRvY2lkIjoiYkVnV3gxcUc4SmtnSHV1dEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkc5RlpYQmpWV2RUZG10WFJYUkZXRXd6Vlc1NVFXdHJiMWczYW1FMk4yMVVPSFJwU0RVMFltUnVWR2RyV1hWcmVGUjNaR015U25aTmMwVkJla1JYVTBwSmVHYzJhMjUyWW5sT2NuVlRabmhQTjJKSE5rWmpTVEk0VUZKeE1uUjBWWEF0Y0RSS1dsUmZRMnBFWldWdWRFNTZSWFZyYW1kM1VteEpkWE5YZG1waU4ydHVkVEF6UVdaMmRHaDFVMGxZVDJSTGEwcE9SbEJVZDJsYVltbDBiSFkwUkdkTVFrMUVhemhyU2xwaU4xRkZTVmM0YTFOSE5rWjBUREprYld0eFNVaFpNamwwY2pCWFEycFBlbEZSWWxKTk0zTTVabmxUVXpreWR4SVhURUY1TWxwaFRFMVBObGhLYTFCSlVESnhTMDE1UVZrYUlrRlFXR2h0TlZrMll6bFlaakp5VGxkTVRtTk1TMHhZVGpGU01qTjNMV05PYkVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBSb2JlcnQgSGFsZiIsImxpbmsiOiJodHRwczovL2NhcmVlcnMucm9iZXJ0aGFsZi5jb20vZ2xvYmFsL2VuL2pvYi9KUi0yNTIyMTEvU29mdHdhcmUtRW5naW5lZXItSVY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineering Manager, Admin Experience",
+      "company_name": "Snowflake",
+      "location": "  San Mateo, CA   ",
+      "via": "via Snowflake Careers",
+      "description": "Build the future of data. Join the Snowflake team.\n\nAbout the team...\n\nThe Admin Experience (AX) team at Snowflake develops seamless products for our Admin users, enabling efficient management of Snowflake's services. We cater to essential user journeys including cost and workload optimization, data governance and security, and organizational management.\n\nWhat you’ll do\n\nWe are looking for an experienced engineering leader to shape the vision and craft the strategy for the AX team. By partnering closely with product management and design teams you will deliver experiences that delight our customers and empower them to leverage Snowflake in their organizations.\n\nYou will foster the development of the team by providing coaching, support, and creating clarity. You will grow your team by owning recruiting and staffing to meet the needs of the business. You will foster a safe, highly transparent, high-performance culture. You will ensure that the team is executing towards serving the current needs of its customers, while also ensuring that we stay ahead of technological trends and future demands.\n\nResponsibilities\n• Develop the long term vision and strategy for the Admin Experience engineering team\n• In partnership with Product Management and Design, prioritize and execute on a roadmap that delivers value for customers and enables the organization to scale\n• Partner closely with backend counterparts to define interfaces and ship seamless and performant full stack products\n• Attract amazing talent in partnership with Snowflake recruiting\n• Help engineers grow and advance in their career\n• Contribute to Snowflake-wide engineering initiatives\n\nWho you are\n• 5+ years of engineering management experience\n• Customer obsessed\n• A strong track record of recruiting, leading and growing technical teams\n• Ability to thrive in a fast paced, ambiguous environment\n• Extensive experience in building large scale web applications\n• A proven ability to work cross-functionally to influence and align partner teams towards a common goal and vision\n• A reputation for delivering quality, great product instincts and relentless drive for delivering great user experiences\n• A strategic mindset and strong sense of what to prioritize for maximum impact\n• Excellent interpersonal communication skills\n• Outstanding written and oral English language skills\n• Ability to work on-site at our San Mateo, CA office\n• Proficient in Typescript, React, and SQL\n\nThe following represents the expected range of compensation for this role:\n• The estimated base salary range for this role is $214,000 - $327,750.\n• Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.\n\nThe successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of engineering management experience",
+            "Customer obsessed",
+            "A strong track record of recruiting, leading and growing technical teams",
+            "Ability to thrive in a fast paced, ambiguous environment",
+            "Extensive experience in building large scale web applications",
+            "A proven ability to work cross-functionally to influence and align partner teams towards a common goal and vision",
+            "A reputation for delivering quality, great product instincts and relentless drive for delivering great user experiences",
+            "A strategic mindset and strong sense of what to prioritize for maximum impact",
+            "Excellent interpersonal communication skills",
+            "Outstanding written and oral English language skills",
+            "Ability to work on-site at our San Mateo, CA office",
+            "Proficient in Typescript, React, and SQL"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We cater to essential user journeys including cost and workload optimization, data governance and security, and organizational management",
+            "By partnering closely with product management and design teams you will deliver experiences that delight our customers and empower them to leverage Snowflake in their organizations",
+            "You will foster the development of the team by providing coaching, support, and creating clarity",
+            "You will grow your team by owning recruiting and staffing to meet the needs of the business",
+            "You will foster a safe, highly transparent, high-performance culture",
+            "You will ensure that the team is executing towards serving the current needs of its customers, while also ensuring that we stay ahead of technological trends and future demands",
+            "Develop the long term vision and strategy for the Admin Experience engineering team",
+            "In partnership with Product Management and Design, prioritize and execute on a roadmap that delivers value for customers and enables the organization to scale",
+            "Partner closely with backend counterparts to define interfaces and ship seamless and performant full stack products",
+            "Attract amazing talent in partnership with Snowflake recruiting",
+            "Help engineers grow and advance in their career",
+            "Contribute to Snowflake-wide engineering initiatives"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The estimated base salary range for this role is $214,000 - $327,750",
+            "Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan",
+            "The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location",
+            "This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.snowflake.com/",
+          "text": "snowflake.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Snowflake&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAII6w4",
+          "text": "See web results for Snowflake"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3BbOx8XhgAfnYvaoh3fjKS-EKQFqctO_xzRNZR4&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyBNYW5hZ2VyLCBBZG1pbiBFeHBlcmllbmNlIiwiaHRpZG9jaWQiOiJreTlTWlhRa0dsY2pxeVE2QUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpiREJuUTNCSFVHdFdTbUZMT0U1SVdXRnNhVzFWVTFOWE1EVjNla1o0YkhWV2QzcG9hM3B0T1d4a1pHRXdWbHBJWlVScmIwdHJla3RFZG5wR1JsTkxaRmRYWVhaVGQwNU9TVGxXVTBFNGNVTmpaa2RRV1dKT1ZWcEdkMkZKYzJ4WExYZzRVMkpZTlRGalNVWm5WV0pqU0hNd2NXdDFPWGt0VTBoTGNYQm1kRjkwTnpWVlRHbEpUeTE2VEhOeVpYbzFSSEI1YUZsd05teFZaRkZ5UzJsTmVHWk5aRmxrTUhOSmF6TnFNRlZ1TkZCVVgycHFWVUpJWm5KblZuSklYMnhQTTBsUWRIWkpaa3AwUkZSV2EwMHpRemhWV0dWSFRWTndjWGRMT1ZZMWRXeGZaM0JKVDJkU2NFSmZhbGR5U25KQlNGbDFSalV3UzJGdk4ySlRVRWxIU0dKdFJsbHJPQklYVEVGNU1scGhURTFQTmxoS2ExQkpVREp4UzAxNVFWa2FJa0ZRV0dodE5WcFlkR1ZOT1ZJd1F6RTJkMlpoUzJoeWRXbDNSVVl0YVdSbmEyYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNub3dmbGFrZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5zbm93Zmxha2UuY29tL3VzL2VuL2pvYi83MTExOTg0MDAyL1NvZnR3YXJlLUVuZ2luZWVyaW5nLU1hbmFnZXItQWRtaW4tRXhwZXJpZW5jZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr. Software Engineer, Test Engineering & Developer Productivity",
+      "company_name": "DocuSign",
+      "location": "  San Francisco, CA   (+2 others)   ",
+      "via": "via DocuSign Careers",
+      "description": "Company Overview\n\nDocuSign helps organizations connect and automate how they agree. Our flagship product, eSignature, is the world’s #1 way to sign electronically on practically any device, from virtually anywhere, at any time. Today, more than a million customers and a billion users in over 180 countries use DocuSign to accelerate the process of doing business and simplify people’s lives...\n\nWhat you'll do\n\nDocuSign is looking for a highly motivated Sr. Software Engineer to join our Product Led Growth team under the Marketing vertical. The Sr. Software Engineer will execute all aspects of the software development lifecycle, including design, development, testing, deployment, and maintenance, to deliver on the vision of a true CI/CD environment maximizing development productivity and product quality.\n\nYou enjoy fast-paced entrepreneurial environments where you can solve difficult problems using current technologies and tools. You collaborate well with other team members when brainstorming, designing, and implementing new solutions. You enjoy helping the team succeed by thinking about ways to improve processes, suggesting ways to make the team more effective, mentoring and modeling engineering standard methodologies.\n\nThis position is an individual contributor role reporting to the Director, Engineering.\n\nResponsibility\n• Write high-quality test framework code, primarily in TypeScript, that is easy to consume, extend, and maintain\n• Build a world-class infrastructure for test automation and CI/CD\n• Write maintainable, stable, and efficient automated tests\n• Participate in an Agile environment using Scrum software development practices, automated unit testing, CI/CD, code reviews, and version control systems (GIT)\n• Create test strategies for assigned features, covering functional, usability, security, compatibility, and performance quality aspects\n• Collaborate with the rest of engineering to improve the overall software development process, quality, and efficiency using the latest industry trends and best practices in software testing and automation\n\nJob Designation\n\nHybrid: Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)\n\nPositions at DocuSign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within DocuSign. DocuSign reserves the right to change a position's job designation depending on business needs and as permitted by local law.\n\nWhat you bring\n\nBasic\n• BS degree in CS or equivalent work experience\n• 8+ years of professional experience building test frameworks, tools, or advanced automation using object-oriented design and programming skills\n• 5+ years of experience in improving product quality and maximizing developer productivity\n\nPreferred\n• Experience writing maintainable, performant, and reusable code for CI/CD components\n• Experience with continuous integration systems\n• Experience with programming languages such as JavaScript, Typescript, Ruby, or C#\n• Experience with end-to-end automation tools, such as Playwright and Puppeteer\n\nWage Transparency\n\nBased on applicable legislation, the below details pay ranges in the following locations:\n\nCalifornia: $146,800.00 - $235,025.00 base salary\n\nIllinois and Colorado: $139,800.00 - $197,400.00 base salary\n\nWashington and New York (including NYC metro area): $139,800.00 - $207,325.00 base salary\n\nThis role is also eligible for bonus, equity and benefits.\n\nGlobal benefits provide options for the following:\n• Paid Time Off: earned time off, as well as paid company holidays based on region\n• Paid Parental Leave: take up to six months off with your child after birth, adoption or foster care placement\n• Full Health Benefits Plans: options for 100% employer paid and minimum employee contribution health plans from day one of employment\n• Retirement Plans: select retirement and pension programs with potential for employer contributions\n• Learning and Development: options for coaching, online courses and education reimbursements\n• Compassionate Care Leave: paid time off following the loss of a loved one and other life-changing events\n\nLife at DocuSign\n\nWorking here\n\nDocuSign is committed to building trust and making the world more agreeable for our employees, customers and the communities in which we live and work. You can count on us to listen, be honest, and try our best to do what’s right, every day. At DocuSign, everything is equal.\n\nWe each have a responsibility to ensure every team member has an equal opportunity to succeed, to be heard, to exchange ideas openly, to build lasting relationships, and to do the work of their life. Best of all, you will be able to feel deep pride in the work you do, because your contribution helps us make the world better than we found it. And for that, you’ll be loved by us, our customers, and the world in which we live.\n\nAccommodation\n\nDocuSign provides reasonable accommodations for qualified individuals with disabilities in job application procedures. If you need such an accommodation, including if you need accommodation to properly utilize our online system, you may contact us at accommodations@docusign.com.\n\nIf you experience any technical difficulties or issues during the application process, or with our interview tools, please reach out to us at taops@docusign.com for assistance.\n\nApplicant and Candidate Privacy Notice\n\nStates Not Eligible for Employment\n\nThis position is not eligible for employment in the following states: Alaska, Hawaii, Maine, Mississippi, North Dakota, South Dakota, Vermont, West Virginia and Wyoming.\n\nEqual Opportunity Employer\n\nIt's important to us that we build a talented team that is as diverse as our customers and where all employees feel a deep sense of belonging and thrive. We encourage great talent who bring a range of perspectives to apply for our open positions. DocuSign is an Equal Opportunity Employer and makes hiring decisions based on experience, skill, aptitude and a can-do approach. We will not discriminate based on race, ethnicity, color, age, sex, religion, national origin, ancestry, pregnancy, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, registered domestic partner status, caregiver status, marital status, veteran or military status, or any other legally protected category.\n\nEEO Know Your Rights poster\n\n#LI-Hybrid",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BS degree in CS or equivalent work experience",
+            "8+ years of professional experience building test frameworks, tools, or advanced automation using object-oriented design and programming skills",
+            "5+ years of experience in improving product quality and maximizing developer productivity"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Software Engineer will execute all aspects of the software development lifecycle, including design, development, testing, deployment, and maintenance, to deliver on the vision of a true CI/CD environment maximizing development productivity and product quality",
+            "You collaborate well with other team members when brainstorming, designing, and implementing new solutions",
+            "You enjoy helping the team succeed by thinking about ways to improve processes, suggesting ways to make the team more effective, mentoring and modeling engineering standard methodologies",
+            "This position is an individual contributor role reporting to the Director, Engineering",
+            "Write high-quality test framework code, primarily in TypeScript, that is easy to consume, extend, and maintain",
+            "Build a world-class infrastructure for test automation and CI/CD",
+            "Write maintainable, stable, and efficient automated tests",
+            "Participate in an Agile environment using Scrum software development practices, automated unit testing, CI/CD, code reviews, and version control systems (GIT)",
+            "Create test strategies for assigned features, covering functional, usability, security, compatibility, and performance quality aspects",
+            "Collaborate with the rest of engineering to improve the overall software development process, quality, and efficiency using the latest industry trends and best practices in software testing and automation",
+            "(Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "California: $146,800.00 - $235,025.00 base salary",
+            "Illinois and Colorado: $139,800.00 - $197,400.00 base salary",
+            "Washington and New York (including NYC metro area): $139,800.00 - $207,325.00 base salary",
+            "This role is also eligible for bonus, equity and benefits",
+            "Paid Time Off: earned time off, as well as paid company holidays based on region",
+            "Paid Parental Leave: take up to six months off with your child after birth, adoption or foster care placement",
+            "Full Health Benefits Plans: options for 100% employer paid and minimum employee contribution health plans from day one of employment",
+            "Retirement Plans: select retirement and pension programs with potential for employer contributions",
+            "Learning and Development: options for coaching, online courses and education reimbursements",
+            "Compassionate Care Leave: paid time off following the loss of a loved one and other life-changing events"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.docusign.com/",
+          "text": "docusign.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=DocuSign&sa=X&ved=0ahUKEwiikqWa0f-DAxWlJEQIHVoRA2k4AxCYkAIIvg8",
+          "text": "See web results for DocuSign"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAggY2rrnbfy2ldiYsj3s0RZgxv3GXD521veLn&s=0",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIsIFRlc3QgRW5naW5lZXJpbmcgXHUwMDI2IERldmVsb3BlciBQcm9kdWN0aXZpdHkiLCJodGlkb2NpZCI6IjBPMUNBaVpQSXZrSUhrM2FBQUFBQUE9PSIsImZjIjoiRXVJQ0NxSUNRVTUxVjJoamJtSmlXSEZZUzFwWGFWQlVjVmMwWjI5UVQwaDVVREpDZHpSblZuVXhZVXRwT1dsaU0wd3pVM3BFWTFkVmRrd3hVUzAxVjI5UlUyWXhVV056VVhodFpHUlNNVFpLVEhoWU4yZGhabkpEWTFjM1lscEZhbWRyZVhRNU9HTlpiVTlpYlVWa1IzWk1NbmRoVm1rdFdHcGFRWEYzTVdOR1prcHBhR3MyYW1zNFNuZGtNME41YUd0TWJsRndYekp3TUhOUVkya3dWSE5DU2xkeExWUnVPV1EwVUc4elpqQjJjVk15VW5kbWNta3dWbEJVVlV0U1pGWTVkMDlzTTI4eGNXTlpVMnczV0ZOSlRUaElXSG8yZVRSalJtZHZiM05zZHpaRFprTTVaVTlRYWxSdldsRkhSa2RMV1VoSWVtNWtSVk5PWVVOSk1rUlBiV1ZZVjNkNGFqZEpRbTlNTFhvd1l6UmlObFp0VjJkV1EzSktRVFZQVlRKdlNqQnVTa0VTRjB4QmVUSmFZVXhOVHpaWVNtdFFTVkF5Y1V0TmVVRlpHaUpCVUZob2JUVmFSRVowYzJaQ2RXWlFVSHBVU1c5TVZURlJRVWxzYW1KaE1UVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBEb2N1U2lnbiBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5kb2N1c2lnbi5jb20vam9icy8yMzY1NT9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Senior manager",
+          "value": "senior manager"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "End engineer",
+          "value": "end engineer"
+        },
+        {
+          "text": "Graduate",
+          "value": "graduate"
+        },
+        {
+          "text": "Infrastructure",
+          "value": "infrastructure"
+        },
+        {
+          "text": "New grad",
+          "value": "new grad"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Principal engineer",
+          "value": "principal engineer"
+        },
+        {
+          "text": "Production engineer",
+          "value": "production engineer"
+        },
+        {
+          "text": "Program manager",
+          "value": "program manager"
+        },
+        {
+          "text": "Staff engineer",
+          "value": "staff engineer"
+        },
+        {
+          "text": "Sw engineer",
+          "value": "sw engineer"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "San Francisco, CA",
+          "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+        },
+        {
+          "text": "San Mateo, CA",
+          "value": "RVWp72Cej4CnG8wt9PyO_Q=="
+        },
+        {
+          "text": "Sunnyvale, CA",
+          "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+        },
+        {
+          "text": "Santa Clara, CA",
+          "value": "k8EIXIG3j4DAv8CjfKR15A=="
+        },
+        {
+          "text": "San Jose, CA",
+          "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+        },
+        {
+          "text": "Cupertino, CA",
+          "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+        },
+        {
+          "text": "Mountain View, CA",
+          "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+        },
+        {
+          "text": "Palo Alto, CA",
+          "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+        },
+        {
+          "text": "Redwood City, CA",
+          "value": "4V7zUzmgj4BtaqoLm3vkuA=="
+        },
+        {
+          "text": "Alameda, CA",
+          "value": "lRXP8tiAj4AUbwFgz5n_Zg=="
+        },
+        {
+          "text": "Fremont, CA",
+          "value": "98rot0a_j4DUiNiJOzHaig=="
+        },
+        {
+          "text": "Menlo Park, CA",
+          "value": "_4ByEbGmj4CrifJdjpm_6w=="
+        },
+        {
+          "text": "Pleasanton, CA",
+          "value": "X3W6YaLpj4AWferhR2irsw=="
+        },
+        {
+          "text": "Foster City, CA",
+          "value": "MbBm1NCYj4B975CYDB2wrQ=="
+        },
+        {
+          "text": "Reno, NV",
+          "value": "naCSkq5AmYCH9zh0zsXFQA=="
+        },
+        {
+          "text": "San Bruno, CA",
+          "value": "OSmpLuR5j4DS72A5yKQd2g=="
+        },
+        {
+          "text": "Richmond, CA",
+          "value": "KYxc8eBlhYD0vxXaMxYQsw=="
+        },
+        {
+          "text": "South San Francisco, CA",
+          "value": "7-z-QwV5j4BdM1bneXU6-A=="
+        },
+        {
+          "text": "Concord, CA",
+          "value": "hczEaaxghYDv_x-WBGBBDg=="
+        },
+        {
+          "text": "Emeryville, CA",
+          "value": "s44f6hR-hYAHcbCoMRgdSA=="
+        },
+        {
+          "text": "Oakland, CA",
+          "value": "A-2qKIt9hYBnk3U11RW0cQ=="
+        },
+        {
+          "text": "San Leandro, CA",
+          "value": "3WY6BH-Fj4CyV9faDUmq5Q=="
+        },
+        {
+          "text": "San Rafael, CA",
+          "value": "L3oJNmeXhYBUJuLmIE0Bvg=="
+        },
+        {
+          "text": "San Ramon, CA",
+          "value": "T6zq_3ztj4CtPiX5u-5i9Q=="
+        },
+        {
+          "text": "Santa Cruz, CA",
+          "value": "SdU2fBtEjoCF-dcqSxDKUg=="
+        },
+        {
+          "text": "Santa Rosa, CA",
+          "value": "10fmNsk7hIBJSE_Fa2XNXA=="
+        },
+        {
+          "text": "West Menlo Park, CA",
+          "value": "azzCQbCkj4C1s7_bSIxDpA=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Snowflake",
+          "value": "/g/11b8krtt2g"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        },
+        {
+          "text": "Adobe",
+          "value": "/m/0vlf"
+        },
+        {
+          "text": "Palo Alto Networks",
+          "value": "/m/02n9v53"
+        },
+        {
+          "text": "EBay",
+          "value": "/m/0z90c"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Microsoft",
+          "value": "/m/04sv4"
+        },
+        {
+          "text": "DocuSign",
+          "value": "/m/0cp08cw"
+        },
+        {
+          "text": "Intuitive Surgical",
+          "value": "/m/0b221y"
+        },
+        {
+          "text": "Broadcom",
+          "value": "/m/0gvtfy"
+        },
+        {
+          "text": "Figma",
+          "value": "/g/11fy1pwqvr"
+        },
+        {
+          "text": "Meta",
+          "value": "/m/0hmyfsv"
+        },
+        {
+          "text": "Rivian",
+          "value": "/m/0gj8vdm"
+        },
+        {
+          "text": "Uber",
+          "value": "/m/0gx0wlr"
+        },
+        {
+          "text": "Zoox",
+          "value": "/g/11h033q71g"
+        },
+        {
+          "text": "Amplitude",
+          "value": "/g/11fy1sr2q5"
+        },
+        {
+          "text": "ByteDance",
+          "value": "/g/11ghnfr0sv"
+        },
+        {
+          "text": "Chan Zuckerberg Initiative",
+          "value": "/g/11bx56h2yz"
+        },
+        {
+          "text": "Cohesity",
+          "value": "/g/11cs1sx5yl"
+        },
+        {
+          "text": "Databricks",
+          "value": "/m/0120wgnc"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Epitec Inc.",
+          "value": "/g/11fy1wk6f2"
+        },
+        {
+          "text": "Fiserv",
+          "value": "/m/069qq1"
+        },
+        {
+          "text": "GRAIL",
+          "value": "/g/11m_gx35t8"
+        },
+        {
+          "text": "General Motors",
+          "value": "/g/11h4q93lm7"
+        },
+        {
+          "text": "Muon Space",
+          "value": "/g/11p61tg2rn"
+        },
+        {
+          "text": "Neuralink",
+          "value": "/g/11dxl6v_ff"
+        },
+        {
+          "text": "OpenAI",
+          "value": "/g/11bxc656v6"
+        },
+        {
+          "text": "Roblox",
+          "value": "/m/0kytjpp"
+        },
+        {
+          "text": "Snorkel AI",
+          "value": "/g/11jj_414pn"
+        },
+        {
+          "text": "Veeva",
+          "value": "/g/11cnwjsbmh"
+        },
+        {
+          "text": "Wells Fargo",
+          "value": "/m/01kdws"
+        },
+        {
+          "text": "Writer",
+          "value": "/g/11h6rzj7dh"
+        },
+        {
+          "text": "Hims & hers",
+          "value": "/g/11fkypmfp7"
+        },
+        {
+          "text": "Airwallex",
+          "value": "/g/11g9n98d0y"
+        },
+        {
+          "text": "Applied Materials",
+          "value": "/m/02fj4b"
+        },
+        {
+          "text": "Aurora Innovation",
+          "value": "/g/11g9m_n626"
+        },
+        {
+          "text": "BillionToOne",
+          "value": "/g/11f014_lrh"
+        }
+      ]
+    }
+  ]
+}
