@@ -115,6 +115,7 @@ class JobsFileWriter(path: Path) {
             buffer.writeUtf8(")")
         }
         buffer.writeLnUtf8()
+        buffer.flush()
     }
 
     fun close() {

@@ -3,6 +3,7 @@ package edu.bridgew.comp430.proj1
 import edu.bridgew.comp430.proj1.api.ApiResult
 import edu.bridgew.comp430.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp430.proj1.api.SerpApiClient
+import edu.bridgew.comp430.proj1.api.data.UnknownExtension
 import edu.bridgew.comp430.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -14,7 +15,8 @@ import kotlinx.coroutines.runBlocking
 import okio.Path.Companion.toPath
 
 private val dotenv = dotenv {
-    ignoreIfMissing = false
+    ignoreIfMissing = true
+    ignoreIfMalformed = true
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
@@ -22,7 +24,7 @@ fun main(): Unit = runBlocking {
     val writer = JobsFileWriter("./output/jobs.txt".toPath())
     val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
-    val pages = 2
+    val pages = 1
 
     (0 until pages).asFlow()
         .flatMapMerge { page -> jobSearchClient.getJobs("software engineer", page) }
@@ -33,6 +35,8 @@ fun main(): Unit = runBlocking {
                 is ApiResult.Success -> {
                     result.body.forEach {
                         println(it.title)
+                        it.detectedExtensions.filterIsInstance<UnknownExtension>().forEach { println("${it.extension}: ${it.value}") }
+                        println()
                         writer.writeJob(it)
                     }
                 }

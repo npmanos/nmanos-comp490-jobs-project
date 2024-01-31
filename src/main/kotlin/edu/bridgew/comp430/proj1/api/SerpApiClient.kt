@@ -5,11 +5,18 @@ import com.squareup.moshi.addAdapter
 import edu.bridgew.comp430.proj1.api.adapters.ExtensionJsonAdapter
 import edu.bridgew.comp430.proj1.api.adapters.SearchStatusAdapter
 import edu.bridgew.comp430.proj1.api.adapters.ZonedDateTimeAdapter
+import edu.bridgew.comp430.proj1.api.debug.DebugSearchInterceptor
+import io.github.cdimascio.dotenv.dotenv
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.Response
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
+
+private val dotenv = dotenv {
+    ignoreIfMissing = true
+    ignoreIfMalformed = true
+}
 
 class SerpApiClient(private val apiKey: String) {
     private class ApiKeyInterceptor(private val apiKey: String) : Interceptor {
@@ -35,14 +42,21 @@ class SerpApiClient(private val apiKey: String) {
             .build()
     }
 
+    private val okHttp by lazy {
+        val builder = OkHttpClient().newBuilder()
+
+        if ((dotenv["JOBSPROJ_DEBUG_API"] ?: "false").toBoolean()) {
+            builder.addInterceptor(DebugSearchInterceptor())
+        } else {
+            builder.addInterceptor(ApiKeyInterceptor(apiKey))
+        }
+
+        return@lazy builder.build()
+    }
+
     val retrofit by lazy {
         Retrofit.Builder()
-            .client(
-                OkHttpClient()
-                    .newBuilder()
-                    .addInterceptor(ApiKeyInterceptor(apiKey))
-                    .build(),
-            )
+            .client(okHttp)
             .baseUrl(BASE_URL)
             .addConverterFactory(MoshiConverterFactory.create(moshi))
             .build()
