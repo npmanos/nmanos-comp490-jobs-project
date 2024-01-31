@@ -5,9 +5,7 @@ import okhttp3.Response
 import okio.buffer
 import okio.source
 import okio.use
-import java.io.File
 import java.io.FileNotFoundException
-import java.nio.file.Path
 import kotlin.random.Random
 
 class DebugSearchInterceptor : Interceptor {
@@ -25,7 +23,6 @@ class DebugSearchInterceptor : Interceptor {
                 }
             }
         }
-
     }
 
     override fun intercept(chain: Interceptor.Chain): Response {
