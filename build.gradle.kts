@@ -33,12 +33,11 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
 
     implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
-//    implementation("org.ocpsoft.prettytime:prettytime-nlp:$prettytimeVersion")
     implementation("org.slf4j:slf4j-nop:$slf4jVersion")
 
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
-    testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
+    testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.1")
     testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
 }
