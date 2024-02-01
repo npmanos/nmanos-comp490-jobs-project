@@ -13,6 +13,7 @@ import kotlinx.coroutines.flow.flatMapMerge
 import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.runBlocking
 import okio.Path.Companion.toPath
+import kotlin.system.exitProcess
 
 private val dotenv = dotenv {
     ignoreIfMissing = true
@@ -20,14 +21,16 @@ private val dotenv = dotenv {
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
-fun main(): Unit = runBlocking {
+fun main(args: Array<String>): Unit = runBlocking {
+    val query = parseArgs(args)
+
     val writer = JobsFileWriter("./output/jobs.txt".toPath())
     val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
     val pages = 1
 
     (0 until pages).asFlow()
-        .flatMapMerge { page -> jobSearchClient.getJobs("software engineer", page) }
+        .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
         .buffer(pages)
         .onCompletion { writer.close() }
         .collect { result ->
@@ -43,4 +46,25 @@ fun main(): Unit = runBlocking {
                 is ApiResult.Error -> println("ERROR! ${result.errorBody}")
             }
         }
+}
+
+private fun parseArgs(args: Array<String>): String {
+    if (args.isEmpty()) return "software engineer boston"
+    if (args.size == 1) {
+        if (args[0].startsWith("--query=")) {
+            return args[0].removePrefix("--query=")
+        } else {
+            println("Error! Unknown option '${args[0]}'")
+            exitProcess(1)
+        }
+    }
+
+    if (args.size == 2) {
+        if (args[0] == "-q") return args[1]
+        println("Error! Unknown option '${args[1]}'")
+        exitProcess(1)
+    }
+
+    println("Error! Too many options")
+    exitProcess(2)
 }
