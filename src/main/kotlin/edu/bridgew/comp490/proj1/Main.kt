@@ -32,7 +32,8 @@ class JobSearch : CliktCommand(
     help = """
     |This application saves 50 results from a Google job search for <query> to <output>.
     |
-    |You can customize <query> and <output> using the options below.""".trimMargin(),
+    |You can customize <query> and <output> using the options below.
+    """.trimMargin(),
 ) {
     private val query by option("-q", "--query", help = "Job search query")
         .default("software engineer boston")
