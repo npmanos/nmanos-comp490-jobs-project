@@ -1,0 +1,28 @@
+name: build-release-zip
+
+on: release
+
+jobs:
+  build-release-zip:
+    name: Build and upload release zip
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Execute Gradle distZip
+        run: ./gradlew distZip
+
+      - name: Upload zip to release
+        uses: Shopify/upload-to-release@v2
+        with:
+          name: nmanos_job-search_${{ github.ref_name }}.zip
+          path: build/distributions/job-search-ghbuild.zip
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          content-type: application/zip
