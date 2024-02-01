@@ -32,7 +32,7 @@ class JobsFileWriter(path: Path) {
         var wfh: WorkFromHome? = null
         val otherExtensions = mutableListOf<UnknownExtension>()
 
-        job.detectedExtensions.forEach { extension ->
+        job.detectedExtensions?.forEach { extension ->
             when (extension) {
                 is ScheduleType -> scheduleType = extension
                 is PostedAt -> postedAt = extension
@@ -46,7 +46,9 @@ class JobsFileWriter(path: Path) {
         writeHeader(job, scheduleType, wfh)
 
         // Location
-        buffer.writeLnUtf8(job.location.trimStart())
+        if (job.location != null) {
+            buffer.writeLnUtf8(job.location.trimStart())
+        }
 
         // Salary
         if (salary != null) {
@@ -64,9 +66,12 @@ class JobsFileWriter(path: Path) {
         // Highlights
         writeHighlights(job)
 
+
         // Job Description
-        buffer.writeLnUtf8("Description")
-        buffer.writeLnUtf8(job.description)
+        if (job.description != null) {
+            buffer.writeLnUtf8("Description")
+            buffer.writeLnUtf8(job.description)
+        }
 
         // Two line separator (between jobs)
         buffer.writeLnUtf8()
@@ -74,7 +79,7 @@ class JobsFileWriter(path: Path) {
     }
 
     private fun writeHighlights(job: Job) {
-        job.jobHighlights.forEach { highlight ->
+        job.jobHighlights?.forEach { highlight ->
             if (highlight.title != null) {
                 buffer.writeLnUtf8(highlight.title)
             }
@@ -101,14 +106,14 @@ class JobsFileWriter(path: Path) {
             buffer.writeUtf8(" (")
 
             if (scheduleType != null) {
-                buffer.writeUtf8(scheduleType!!.type)
+                buffer.writeUtf8(scheduleType.type)
             }
 
             if (scheduleType != null && wfh != null) {
                 buffer.writeUtf8("/")
             }
 
-            if (wfh != null && wfh!!.isWFH) {
+            if (wfh != null && wfh.isWFH) {
                 buffer.writeUtf8("WFH")
             }
 
