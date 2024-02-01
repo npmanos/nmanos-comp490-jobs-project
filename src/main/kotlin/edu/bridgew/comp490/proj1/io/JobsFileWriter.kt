@@ -75,6 +75,8 @@ class JobsFileWriter(path: Path) {
         // Two line separator (between jobs)
         buffer.writeLnUtf8()
         buffer.writeLnUtf8()
+
+        buffer.flush()
     }
 
     private fun writeHighlights(job: Job) {
@@ -119,7 +121,6 @@ class JobsFileWriter(path: Path) {
             buffer.writeUtf8(")")
         }
         buffer.writeLnUtf8()
-        buffer.flush()
     }
 
     fun close() {

@@ -10,6 +10,7 @@ import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.api.ApiResult
 import edu.bridgew.comp490.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.api.SerpApiClient
+import edu.bridgew.comp490.proj1.api.data.Job
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -31,12 +32,11 @@ class JobSearch : CliktCommand(
     help = """
     |This application saves 50 results from a Google job search for <query> to <output>.
     |
-    |You can customize <query> and <output> using the options below.
-    |
-    """.trimMargin(),
+    |You can customize <query> and <output> using the options below.""".trimMargin(),
 ) {
     private val query by option("-q", "--query", help = "Job search query")
         .default("software engineer boston")
+
     private val output by option("-o", "--output", help = "Output file location")
         .file(mustExist = false, canBeDir = false, mustBeWritable = true)
         .convert { it.toOkioPath() }
@@ -56,18 +56,25 @@ class JobSearch : CliktCommand(
 
         (0 until pages).asFlow()
             .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
-            .buffer(pages)
-            .onCompletion { writer.close() }
-            .collect { result ->
+            .flatMapMerge { result ->
                 when (result) {
                     is ApiResult.Success -> {
-                        result.body.forEach {
-                            echo(it.title)
-                            writer.writeJob(it)
-                        }
+                        result.body.asFlow()
                     }
-                    is ApiResult.Error -> echo("ERROR! ${result.errorBody}")
+                    is ApiResult.Error -> {
+                        echo("ERROR! ${result.errorBody}")
+                        listOf<Job>().asFlow()
+                    }
                 }
+            }
+            .buffer(pages)
+            .onCompletion {
+                echo()
+                echo("Saving file...")
+            }
+            .collect { job ->
+                echo(job.title)
+                writer.writeJob(job)
             }
     }
 }
