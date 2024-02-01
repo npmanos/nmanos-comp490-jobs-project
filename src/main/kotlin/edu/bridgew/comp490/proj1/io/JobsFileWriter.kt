@@ -66,7 +66,6 @@ class JobsFileWriter(path: Path) {
         // Highlights
         writeHighlights(job)
 
-
         // Job Description
         if (job.description != null) {
             buffer.writeLnUtf8("Description")

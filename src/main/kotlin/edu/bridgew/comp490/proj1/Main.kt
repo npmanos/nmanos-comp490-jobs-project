@@ -32,7 +32,9 @@ class JobSearch : CliktCommand(
     |This application saves 50 results from a Google job search for <query> to <output>.
     |
     |You can customize <query> and <output> using the options below.
-    |""".trimMargin()) {
+    |
+    """.trimMargin(),
+) {
     private val query by option("-q", "--query", help = "Job search query")
         .default("software engineer boston")
     private val output by option("-o", "--output", help = "Output file location")
@@ -40,11 +42,11 @@ class JobSearch : CliktCommand(
         .convert { it.toOkioPath() }
         .default("output/jobs.txt".toPath(), "output/jobs.txt")
 
-        init {
-            context {
-                helpFormatter = { MordantHelpFormatter(it, showDefaultValues = true) }
-            }
+    init {
+        context {
+            helpFormatter = { MordantHelpFormatter(it, showDefaultValues = true) }
         }
+    }
 
     override fun run() = runBlocking {
         val writer = JobsFileWriter(output)
