@@ -12,6 +12,14 @@ application {
     applicationName = "job-search"
 }
 
+distributions {
+    main {
+        contents {
+            from("README.md", "sample.env")
+        }
+    }
+}
+
 repositories {
     mavenCentral()
     maven("https://jitpack.io")
