@@ -1,9 +1,15 @@
 package edu.bridgew.comp490.proj1
 
+import com.github.ajalt.clikt.core.CliktCommand
+import com.github.ajalt.clikt.core.context
+import com.github.ajalt.clikt.output.MordantHelpFormatter
+import com.github.ajalt.clikt.parameters.options.convert
+import com.github.ajalt.clikt.parameters.options.default
+import com.github.ajalt.clikt.parameters.options.option
+import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.api.ApiResult
 import edu.bridgew.comp490.proj1.api.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.api.SerpApiClient
-import edu.bridgew.comp490.proj1.api.data.UnknownExtension
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -12,8 +18,8 @@ import kotlinx.coroutines.flow.buffer
 import kotlinx.coroutines.flow.flatMapMerge
 import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.runBlocking
+import okio.Path.Companion.toOkioPath
 import okio.Path.Companion.toPath
-import kotlin.system.exitProcess
 
 private val dotenv = dotenv {
     ignoreIfMissing = true
@@ -21,48 +27,47 @@ private val dotenv = dotenv {
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
-fun main(args: Array<String>): Unit = runBlocking {
-    val query = parseArgs(args)
+class JobSearch : CliktCommand(
+    help = """
+    |This application saves 50 results from a Google job search for <query> to <output>.
+    |
+    |You can customize <query> and <output> using the options below.
+    |""".trimMargin()) {
+    private val query by option("-q", "--query", help = "Job search query")
+        .default("software engineer boston")
+    private val output by option("-o", "--output", help = "Output file location")
+        .file(mustExist = false, canBeDir = false, mustBeWritable = true)
+        .convert { it.toOkioPath() }
+        .default("output/jobs.txt".toPath(), "output/jobs.txt")
 
-    val writer = JobsFileWriter("./output/jobs.txt".toPath())
-    val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
-    val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
-    val pages = 1
-
-    (0 until pages).asFlow()
-        .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
-        .buffer(pages)
-        .onCompletion { writer.close() }
-        .collect { result ->
-            when (result) {
-                is ApiResult.Success -> {
-                    result.body.forEach {
-                        println(it.title)
-                        writer.writeJob(it)
-                    }
-                }
-                is ApiResult.Error -> println("ERROR! ${result.errorBody}")
+        init {
+            context {
+                helpFormatter = { MordantHelpFormatter(it, showDefaultValues = true) }
             }
         }
+
+    override fun run() = runBlocking {
+        val writer = JobsFileWriter(output)
+        val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
+        val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
+        val pages = 5
+
+        (0 until pages).asFlow()
+            .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
+            .buffer(pages)
+            .onCompletion { writer.close() }
+            .collect { result ->
+                when (result) {
+                    is ApiResult.Success -> {
+                        result.body.forEach {
+                            echo(it.title)
+                            writer.writeJob(it)
+                        }
+                    }
+                    is ApiResult.Error -> echo("ERROR! ${result.errorBody}")
+                }
+            }
+    }
 }
 
-private fun parseArgs(args: Array<String>): String {
-    if (args.isEmpty()) return "software engineer boston"
-    if (args.size == 1) {
-        if (args[0].startsWith("--query=")) {
-            return args[0].removePrefix("--query=")
-        } else {
-            println("Error! Unknown option '${args[0]}'")
-            exitProcess(1)
-        }
-    }
-
-    if (args.size == 2) {
-        if (args[0] == "-q") return args[1]
-        println("Error! Unknown option '${args[1]}'")
-        exitProcess(1)
-    }
-
-    println("Error! Too many options")
-    exitProcess(2)
-}
+fun main(args: Array<String>) = JobSearch().main(args)
