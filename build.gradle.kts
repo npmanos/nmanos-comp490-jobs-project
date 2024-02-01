@@ -1,10 +1,24 @@
 plugins {
     kotlin("jvm") version "1.9.22"
     id("com.google.devtools.ksp").version("1.9.22-1.0.17")
+    application
 }
 
 group = "edu.bridgew.comp490"
-version = "1.0-SNAPSHOT"
+version = "1.0.0"
+
+application {
+    mainClass = "edu.bridgew.comp490.proj1.MainKt"
+    applicationName = "job-search"
+}
+
+distributions {
+    main {
+        contents {
+            from("README.md", "sample.env")
+        }
+    }
+}
 
 repositories {
     mavenCentral()
@@ -33,8 +47,9 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
 
     implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
-//    implementation("org.ocpsoft.prettytime:prettytime-nlp:$prettytimeVersion")
     implementation("org.slf4j:slf4j-nop:$slf4jVersion")
+
+    implementation("com.github.ajalt.clikt:clikt:4.2.2")
 
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
@@ -46,6 +61,19 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
+}
+
+val copyDist by tasks.register<Copy>("copyDist") {
+    from(tasks.installDist)
+    into(layout.projectDirectory.dir("dist"))
+}
+
+tasks.installDist {
+    finalizedBy(copyDist)
+}
+
+tasks.distZip {
+    archiveVersion = "ghbuild"
 }
 
 kotlin {
