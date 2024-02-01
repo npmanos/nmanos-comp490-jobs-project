@@ -20,7 +20,7 @@ jobs:
         run: ./gradlew distZip
 
       - name: Upload zip to release
-        uses: Shopify/upload-to-release@v2
+        uses: Shopify/upload-to-release@v1
         with:
           name: nmanos_job-search_${{ github.ref_name }}.zip
           path: build/distributions/job-search-ghbuild.zip
