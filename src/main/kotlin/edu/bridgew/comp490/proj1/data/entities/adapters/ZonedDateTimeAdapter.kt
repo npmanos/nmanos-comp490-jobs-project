@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.api.adapters
+package edu.bridgew.comp490.proj1.data.entities.adapters
 
 import com.squareup.moshi.FromJson
 import com.squareup.moshi.ToJson

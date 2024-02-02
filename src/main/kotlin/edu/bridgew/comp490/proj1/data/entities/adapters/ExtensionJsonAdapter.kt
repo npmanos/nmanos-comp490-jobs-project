@@ -1,15 +1,15 @@
-package edu.bridgew.comp490.proj1.api.adapters
+package edu.bridgew.comp490.proj1.data.entities.adapters
 
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.JsonDataException
 import com.squareup.moshi.JsonReader
 import com.squareup.moshi.JsonWriter
-import edu.bridgew.comp490.proj1.api.data.Extension
-import edu.bridgew.comp490.proj1.api.data.PostedAt
-import edu.bridgew.comp490.proj1.api.data.Salary
-import edu.bridgew.comp490.proj1.api.data.ScheduleType
-import edu.bridgew.comp490.proj1.api.data.UnknownExtension
-import edu.bridgew.comp490.proj1.api.data.WorkFromHome
+import edu.bridgew.comp490.proj1.data.entities.Extension
+import edu.bridgew.comp490.proj1.data.entities.PostedAt
+import edu.bridgew.comp490.proj1.data.entities.Salary
+import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
+import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.relativeTimeString
 import java.time.Duration
 import java.time.LocalDateTime

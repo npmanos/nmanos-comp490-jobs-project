@@ -1,11 +1,11 @@
-package edu.bridgew.comp490.proj1.api
+package edu.bridgew.comp490.proj1.data
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.addAdapter
-import edu.bridgew.comp490.proj1.api.adapters.ExtensionJsonAdapter
-import edu.bridgew.comp490.proj1.api.adapters.SearchStatusAdapter
-import edu.bridgew.comp490.proj1.api.adapters.ZonedDateTimeAdapter
-import edu.bridgew.comp490.proj1.api.debug.DebugSearchInterceptor
+import edu.bridgew.comp490.proj1.data.entities.adapters.ExtensionJsonAdapter
+import edu.bridgew.comp490.proj1.data.entities.adapters.SearchStatusAdapter
+import edu.bridgew.comp490.proj1.data.entities.adapters.ZonedDateTimeAdapter
+import edu.bridgew.comp490.proj1.data.debug.DebugSearchInterceptor
 import io.github.cdimascio.dotenv.dotenv
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

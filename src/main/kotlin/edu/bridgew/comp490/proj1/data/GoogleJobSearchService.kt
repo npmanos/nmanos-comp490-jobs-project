@@ -1,6 +1,6 @@
-package edu.bridgew.comp490.proj1.api
+package edu.bridgew.comp490.proj1.data
 
-import edu.bridgew.comp490.proj1.api.data.JobSearchResult
+import edu.bridgew.comp490.proj1.data.entities.JobSearchResult
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

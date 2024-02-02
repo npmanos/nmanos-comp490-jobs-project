@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.api.debug
+package edu.bridgew.comp490.proj1.data.debug
 
 import okhttp3.Interceptor
 import okhttp3.Response
@@ -12,7 +12,7 @@ class DebugSearchInterceptor : Interceptor {
     val urls: MutableList<String> = mutableListOf()
 
     init {
-        val resource = javaClass.getResourceAsStream("/edu/bridgew/comp490/proj1/api/debug/search_result_urls.txt")
+        val resource = javaClass.getResourceAsStream("/edu/bridgew/comp490/proj1/data/debug/search_result_urls.txt")
             ?: throw FileNotFoundException("ERROR: search_result_urls.txt resource missing from jar")
 
         resource.source().use { resourceSource ->

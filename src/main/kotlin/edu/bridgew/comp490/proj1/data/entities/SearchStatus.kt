@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.api.data
+package edu.bridgew.comp490.proj1.data.entities
 
 sealed class SearchStatus(val value: String)
 

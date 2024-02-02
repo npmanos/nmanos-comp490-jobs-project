@@ -1,6 +1,6 @@
-package edu.bridgew.comp490.proj1.api
+package edu.bridgew.comp490.proj1.data
 
-import edu.bridgew.comp490.proj1.api.data.Job
+import edu.bridgew.comp490.proj1.data.entities.Job
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

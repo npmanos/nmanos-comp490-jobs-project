@@ -7,10 +7,10 @@ import com.github.ajalt.clikt.parameters.options.convert
 import com.github.ajalt.clikt.parameters.options.default
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
-import edu.bridgew.comp490.proj1.api.ApiResult
-import edu.bridgew.comp490.proj1.api.GoogleJobSearchServiceImpl
-import edu.bridgew.comp490.proj1.api.SerpApiClient
-import edu.bridgew.comp490.proj1.api.data.Job
+import edu.bridgew.comp490.proj1.data.ApiResult
+import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
+import edu.bridgew.comp490.proj1.data.SerpApiClient
+import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi

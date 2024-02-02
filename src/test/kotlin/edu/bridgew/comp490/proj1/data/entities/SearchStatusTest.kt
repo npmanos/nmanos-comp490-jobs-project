@@ -1,11 +1,11 @@
-package edu.bridgew.comp490.proj1.api.data
+package edu.bridgew.comp490.proj1.data.entities
 
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.JsonClass
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.adapter
 import com.squareup.moshi.addAdapter
-import edu.bridgew.comp490.proj1.api.adapters.SearchStatusAdapter
+import edu.bridgew.comp490.proj1.data.entities.adapters.SearchStatusAdapter
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.TestInstance

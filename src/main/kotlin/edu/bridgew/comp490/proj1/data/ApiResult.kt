@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.api
+package edu.bridgew.comp490.proj1.data
 
 import okhttp3.ResponseBody
 

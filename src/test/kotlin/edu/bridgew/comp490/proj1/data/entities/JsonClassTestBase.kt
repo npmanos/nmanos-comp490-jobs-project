@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.api.data
+package edu.bridgew.comp490.proj1.data.entities
 
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
