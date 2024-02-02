@@ -1,6 +1,7 @@
 plugins {
     kotlin("jvm") version "1.9.22"
     id("com.google.devtools.ksp").version("1.9.22-1.0.17")
+    id("com.jaredsburrows.license").version("0.9.7")
     application
 }
 
@@ -15,7 +16,7 @@ application {
 distributions {
     main {
         contents {
-            from("README.md", "sample.env")
+            from("README.md", "sample.env", "NOTICE.html")
         }
     }
 }
@@ -58,6 +59,20 @@ dependencies {
     testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
 }
 
+licenseReport {
+    generateCsvReport = false
+    generateHtmlReport = true
+    generateJsonReport = false
+    generateTextReport = false
+}
+
+val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
+    dependsOn(tasks["licenseReport"])
+    from(tasks["licenseReport"])
+    rename { "NOTICE${it.removePrefix("licenseReport")}" }
+    into(layout.projectDirectory)
+}
+
 tasks.test {
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
@@ -69,6 +84,7 @@ val copyDist by tasks.register<Copy>("copyDist") {
 }
 
 tasks.installDist {
+    dependsOn(copyLicenseNotice)
     finalizedBy(copyDist)
 }
 
