@@ -2,6 +2,7 @@ CREATE TABLE IF NOT EXISTS JobHighlightDAO (
     title TEXT,
     items TEXT NOT NULL,
     jobId TEXT NOT NULL,
+    PRIMARY KEY (title, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
 
@@ -11,5 +12,5 @@ FROM JobHighlightDAO
 WHERE :jobId = jobId;
 
 insertHighlight:
-INSERT INTO JobHighlightDAO(title, items, jobId)
+INSERT OR REPLACE INTO JobHighlightDAO(title, items, jobId)
 VALUES (?, ?, ?);

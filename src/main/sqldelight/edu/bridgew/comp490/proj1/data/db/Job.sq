@@ -15,5 +15,13 @@ SELECT *
 FROM JobDAO;
 
 insertJob:
-INSERT OR REPLACE INTO JobDAO
-VALUES ?;
+INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)
+VALUES (
+:title,
+:companyName,
+:location,
+:description,
+:thumbnail,
+:isWFH,
+:jobId
+);

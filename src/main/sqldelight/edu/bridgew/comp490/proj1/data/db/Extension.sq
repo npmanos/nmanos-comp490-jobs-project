@@ -4,6 +4,7 @@ CREATE TABLE IF NOT EXISTS DetectedExtensionDAO (
     type INTEGER AS Int NOT NULL CHECK(type > 0 AND type <= 3),
     value TEXT NOT NULL,
     jobId TEXT NOT NULL,
+    PRIMARY KEY (type, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
 
@@ -13,13 +14,14 @@ FROM DetectedExtensionDAO
 WHERE :jobId = jobId;
 
 insertDetectedExtension:
-INSERT INTO DetectedExtensionDAO(type, value, jobId)
+INSERT OR REPLACE INTO DetectedExtensionDAO(type, value, jobId)
 VALUES (?, ?, ?);
 
 CREATE TABLE IF NOT EXISTS UnknownExtensionDAO (
     extension TEXT NOT NULL,
     value TEXT NOT NULL,
     jobId TEXT NOT NULL,
+    PRIMARY KEY (extension, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
 
@@ -29,12 +31,13 @@ FROM UnknownExtensionDAO
 WHERE :jobId = jobId;
 
 insertUnknownExtension:
-INSERT INTO UnknownExtensionDAO(extension, value, jobId)
+INSERT OR REPLACE INTO UnknownExtensionDAO(extension, value, jobId)
 VALUES (?, ?, ?);
 
 CREATE TABLE IF NOT EXISTS OtherExtensionDAO (
     value TEXT NOT NULL,
     jobId TEXT NOT NULL,
+    PRIMARY KEY (value, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
 
@@ -44,5 +47,5 @@ FROM OtherExtensionDAO
 WHERE :jobId = jobId;
 
 insertExtension:
-INSERT INTO OtherExtensionDAO(value, jobId)
+INSERT OR IGNORE INTO OtherExtensionDAO(value, jobId)
 VALUES (?, ?);
