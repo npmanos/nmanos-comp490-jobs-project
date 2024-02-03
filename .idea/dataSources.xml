@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="1.db" uuid="547414ba-4224-4a73-934c-5d41e2f49ac0">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:src/main/sqldelight/databases/1.db</jdbc-url>
-      <jdbc-additional-properties>
-        <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
-      </jdbc-additional-properties>
-      <working-dir>$ProjectFileDir$</working-dir>
-      <driver-properties>
-        <property name="foreign_keys" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="jobs.db" uuid="741cc59b-c2d4-4544-803c-12155ab698f5">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
