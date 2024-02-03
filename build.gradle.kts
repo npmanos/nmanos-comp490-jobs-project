@@ -72,8 +72,6 @@ sqldelight {
             packageName.set("edu.bridgew.comp490.proj1.data.db")
             schemaOutputDirectory.set(file("src/main/sqldelight/databases"))
             dialect("app.cash.sqldelight:sqlite-3-38-dialect:2.0.1")
-            verifyMigrations.set(true)
-            generateAsync.set(true)
         }
     }
 }

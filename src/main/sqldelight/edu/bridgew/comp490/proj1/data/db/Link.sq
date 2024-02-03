@@ -1,0 +1,15 @@
+CREATE TABLE IF NOT EXISTS LinkDAO (
+    link TEXT NOT NULL,
+    `text` TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+getLinks:
+SELECT link, `text`
+FROM LinkDAO
+WHERE :jobId = jobId;
+
+insertLink:
+INSERT INTO LinkDAO
+VALUES (?, ?, ?);

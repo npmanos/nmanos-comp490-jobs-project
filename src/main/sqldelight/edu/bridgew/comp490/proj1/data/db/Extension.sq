@@ -1,0 +1,48 @@
+import kotlin.Int;
+
+CREATE TABLE IF NOT EXISTS DetectedExtensionDAO (
+    type INTEGER AS Int NOT NULL CHECK(type > 0 AND type <= 3),
+    value TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+getDetectedExtensions:
+SELECT type, value
+FROM DetectedExtensionDAO
+WHERE :jobId = jobId;
+
+insertDetectedExtension:
+INSERT INTO DetectedExtensionDAO(type, value, jobId)
+VALUES (?, ?, ?);
+
+CREATE TABLE IF NOT EXISTS UnknownExtensionDAO (
+    extension TEXT NOT NULL,
+    value TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+getUnknownExtensions:
+SELECT extension, value
+FROM UnknownExtensionDAO
+WHERE :jobId = jobId;
+
+insertUnknownExtension:
+INSERT INTO UnknownExtensionDAO(extension, value, jobId)
+VALUES (?, ?, ?);
+
+CREATE TABLE IF NOT EXISTS OtherExtensionDAO (
+    value TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+getExtensions:
+SELECT value
+FROM OtherExtensionDAO
+WHERE :jobId = jobId;
+
+insertExtension:
+INSERT INTO OtherExtensionDAO(value, jobId)
+VALUES (?, ?);

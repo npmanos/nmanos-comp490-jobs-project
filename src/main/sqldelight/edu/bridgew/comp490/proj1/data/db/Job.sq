@@ -1,0 +1,19 @@
+import kotlin.Boolean;
+
+CREATE TABLE IF NOT EXISTS JobDAO (
+  title TEXT NOT NULL,
+  companyName TEXT NOT NULL,
+  location TEXT,
+  description TEXT,
+  thumbnail TEXT,
+  isWFH INTEGER AS Boolean,
+  jobId TEXT PRIMARY KEY
+);
+
+selectAll:
+SELECT *
+FROM JobDAO;
+
+insertJob:
+INSERT OR REPLACE INTO JobDAO
+VALUES ?;

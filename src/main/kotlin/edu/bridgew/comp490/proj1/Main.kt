@@ -1,5 +1,7 @@
 package edu.bridgew.comp490.proj1
 
+import app.cash.sqldelight.adapter.primitive.IntColumnAdapter
+import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.core.context
 import com.github.ajalt.clikt.output.MordantHelpFormatter
@@ -10,6 +12,8 @@ import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.data.ApiResult
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.SerpApiClient
+import edu.bridgew.comp490.proj1.data.db.DetectedExtensionDAO
+import edu.bridgew.comp490.proj1.data.db.JobSearchDB
 import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
@@ -21,6 +25,7 @@ import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.runBlocking
 import okio.Path.Companion.toOkioPath
 import okio.Path.Companion.toPath
+import java.util.*
 
 private val dotenv = dotenv {
     ignoreIfMissing = true
@@ -50,6 +55,10 @@ class JobSearch : CliktCommand(
     }
 
     override fun run() = runBlocking {
+        val driver = JdbcSqliteDriver("jdbc:sqlite:output/jobs.db", Properties().apply { put("foreign_keys", "true") })
+        JobSearchDB.Schema.create(driver)
+        val db = JobSearchDB(driver, DetectedExtensionDAO.Adapter(IntColumnAdapter))
+
         val writer = JobsFileWriter(output)
         val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
         val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
