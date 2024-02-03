@@ -19,9 +19,6 @@ import java.time.temporal.TemporalAmount
 class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
 
     private companion object {
-//        @JvmStatic
-//        private val parser = PrettyTimeParser()
-
         @JvmStatic
         private fun toLocalDateTime(relativeDateTime: String): LocalDateTime {
             val (numOfUnitString, unit, _) = relativeDateTime.split(" ")
