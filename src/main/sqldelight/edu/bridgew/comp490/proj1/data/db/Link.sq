@@ -5,12 +5,3 @@ CREATE TABLE IF NOT EXISTS LinkDAO (
     PRIMARY KEY (link, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
-
-getLinks:
-SELECT link, `text`
-FROM LinkDAO
-WHERE :jobId = jobId;
-
-insertLink:
-INSERT OR REPLACE INTO LinkDAO
-VALUES (?, ?, ?);

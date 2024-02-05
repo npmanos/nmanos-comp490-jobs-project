@@ -10,9 +10,18 @@ CREATE TABLE IF NOT EXISTS JobDAO (
   jobId TEXT PRIMARY KEY
 );
 
-selectAll:
+getAllJobs:
 SELECT *
 FROM JobDAO;
+
+getJobsForSearch:
+SELECT *
+FROM JobDAO
+WHERE jobId IN (
+    SELECT jobId
+    FROM QueryDAO
+    WHERE query = :query
+);
 
 insertJob:
 INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)
@@ -25,3 +34,48 @@ VALUES (
 :isWFH,
 :jobId
 );
+
+-- QUERIES --
+insertQuery:
+INSERT OR IGNORE INTO QueryDAO(query, jobId)
+VALUES (:query, :jobId);
+
+-- EXTENSIONS --
+getDetectedExtensions:
+SELECT extType, value
+FROM DetectedExtensionDAO
+WHERE :jobId = jobId;
+
+insertDetectedExtension:
+INSERT OR REPLACE INTO DetectedExtensionDAO(extType, value, jobId)
+VALUES (?, ?, ?);
+
+getExtensions:
+SELECT value
+FROM OtherExtensionDAO
+WHERE :jobId = jobId;
+
+insertExtension:
+INSERT OR IGNORE INTO OtherExtensionDAO(value, jobId)
+VALUES (?, ?);
+
+-- JOB HIGHLIGHTS --
+getHighlights:
+SELECT title, items
+FROM JobHighlightDAO
+WHERE :jobId = jobId;
+
+insertHighlight:
+INSERT OR REPLACE INTO JobHighlightDAO(title, items, jobId)
+VALUES (?, ?, ?);
+
+-- LINKS --
+getLinks:
+SELECT link, `text`
+FROM LinkDAO
+WHERE :jobId = jobId;
+
+insertLink:
+INSERT OR REPLACE INTO LinkDAO
+VALUES (?, ?, ?);
+

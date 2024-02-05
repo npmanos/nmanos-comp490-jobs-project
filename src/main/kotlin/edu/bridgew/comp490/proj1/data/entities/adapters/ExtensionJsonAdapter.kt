@@ -66,7 +66,7 @@ class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
                 is PostedAt -> name("posted_at").value(extension.date.relativeTimeString)
                 is Salary -> name("salary").value(extension.salaryRange)
                 is WorkFromHome -> name("work_from_home").value(extension.isWFH)
-                is UnknownExtension -> name(extension.extension).value(extension.value)
+                is UnknownExtension -> name(extension.extType).value(extension.value)
             }
         }
         endObject()

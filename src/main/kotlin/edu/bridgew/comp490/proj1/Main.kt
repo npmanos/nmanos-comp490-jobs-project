@@ -11,6 +11,7 @@ import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.data.ApiResult
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
+import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.DetectedExtensionDAO
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
@@ -57,26 +58,28 @@ class JobSearch : CliktCommand(
     override fun run() = runBlocking {
         val driver = JdbcSqliteDriver("jdbc:sqlite:output/jobs.db", Properties().apply { put("foreign_keys", "true") })
         JobSearchDB.Schema.create(driver)
-        val db = JobSearchDB(driver, DetectedExtensionDAO.Adapter(IntColumnAdapter))
+        val db = JobSearchDB(driver)
 
         val writer = JobsFileWriter(output)
         val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
         val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
+        val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
 
-        (0 until pages).asFlow()
-            .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
-            .flatMapMerge { result ->
-                when (result) {
-                    is ApiResult.Success -> {
-                        result.body.asFlow()
-                    }
-                    is ApiResult.Error -> {
-                        echo("ERROR! ${result.errorBody}")
-                        listOf<Job>().asFlow()
-                    }
-                }
-            }
+//        (0 until pages).asFlow()
+//            .flatMapMerge { page -> jobSearchClient.getJobs(query, page) }
+//            .flatMapMerge { result ->
+//                when (result) {
+//                    is ApiResult.Success -> {
+//                        result.body.asFlow()
+//                    }
+//                    is ApiResult.Error -> {
+//                        echo("ERROR! ${result.errorBody}")
+//                        listOf<Job>().asFlow()
+//                    }
+//                }
+//            }
+            jobRepo.getJobs(query, pages)
             .buffer(pages)
             .onCompletion {
                 echo()

@@ -49,6 +49,7 @@ dependencies {
 
     implementation("app.cash.sqldelight:sqlite-driver:$sqlDelightVersion")
     implementation("app.cash.sqldelight:primitive-adapters:$sqlDelightVersion")
+    implementation("app.cash.sqldelight:coroutines-extensions:$sqlDelightVersion")
 
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 

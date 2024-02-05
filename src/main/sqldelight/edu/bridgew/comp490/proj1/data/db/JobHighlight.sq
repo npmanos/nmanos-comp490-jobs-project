@@ -5,12 +5,3 @@ CREATE TABLE IF NOT EXISTS JobHighlightDAO (
     PRIMARY KEY (title, jobId),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );
-
-getHighlights:
-SELECT title, items
-FROM JobHighlightDAO
-WHERE :jobId = jobId;
-
-insertHighlight:
-INSERT OR REPLACE INTO JobHighlightDAO(title, items, jobId)
-VALUES (?, ?, ?);
