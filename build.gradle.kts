@@ -64,6 +64,7 @@ dependencies {
 
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
 
+    testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
@@ -72,12 +73,12 @@ dependencies {
 }
 
 val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchResults") {
-    val searchResultsUrls = file("src/main/resources/edu/bridgew/comp430/proj1/api/debug/search_result_urls.txt")
+    val searchResultsUrls = file("src/main/resources/edu/bridgew/comp490/proj1/data/debug/search_result_urls.txt")
     inputs.file(searchResultsUrls)
         .withPropertyName("searchResultUrlsFile")
         .skipWhenEmpty()
 
-    val outputDir = layout.projectDirectory.dir("src/test/resources/edu/bridgew/comp430/proj1/api/responses/raw")
+    val outputDir = layout.buildDirectory.dir("test-data/raw")
 
     src(resources.text.fromFile(searchResultsUrls).asReader().readLines())
     dest(outputDir)
@@ -107,7 +108,7 @@ val renameTestSearchResults by tasks.register<Copy>("renameTestSearchResults") {
 
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
-    into("src/test/resources/edu/bridgew/comp430/proj1/api/responses")
+    into(layout.buildDirectory.dir("test-data"))
 }
 
 sqldelight {
@@ -135,8 +136,10 @@ val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
 }
 
 tasks.test {
+    dependsOn(downloadTestSearchResults)
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
+    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.buildDirectory.dir("test-data").get().asFile.absolutePath)
 }
 
 val copyDist by tasks.register<Copy>("copyDist") {
