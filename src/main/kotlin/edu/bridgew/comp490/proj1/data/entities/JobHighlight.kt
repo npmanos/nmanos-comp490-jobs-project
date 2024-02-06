@@ -6,4 +6,9 @@ import com.squareup.moshi.JsonClass
 data class JobHighlight(
     val title: String?,
     val items: List<String>,
-)
+) {
+    companion object {
+        @JvmStatic
+        fun daoMapper(title: String?, items: String) = JobHighlight(title, items.split("\n"))
+    }
+}
