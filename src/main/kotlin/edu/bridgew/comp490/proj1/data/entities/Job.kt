@@ -35,7 +35,7 @@ data class Job(
             job.thumbnail,
             extensions,
             detectedExtensions,
-            job.jobId
+            job.jobId,
         )
     }
 }

@@ -58,7 +58,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
                 job.description,
                 job.thumbnail,
                 isWFH,
-                job.jobId
+                job.jobId,
             )
 
             queries.insertQuery(query, job.jobId)

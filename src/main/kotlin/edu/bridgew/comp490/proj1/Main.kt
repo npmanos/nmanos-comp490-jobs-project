@@ -1,6 +1,5 @@
 package edu.bridgew.comp490.proj1
 
-import app.cash.sqldelight.adapter.primitive.IntColumnAdapter
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.core.context
@@ -9,22 +8,17 @@ import com.github.ajalt.clikt.parameters.options.convert
 import com.github.ajalt.clikt.parameters.options.default
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
-import edu.bridgew.comp490.proj1.data.ApiResult
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
-import edu.bridgew.comp490.proj1.data.db.DetectedExtensionDAO
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
-import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.TimeoutCancellationException
-import kotlinx.coroutines.flow.asFlow
 import kotlinx.coroutines.flow.buffer
 import kotlinx.coroutines.flow.catch
-import kotlinx.coroutines.flow.flatMapMerge
 import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.flow.timeout
 import kotlinx.coroutines.runBlocking
@@ -32,8 +26,6 @@ import okio.Path.Companion.toOkioPath
 import okio.Path.Companion.toPath
 import java.util.*
 import kotlin.time.Duration.Companion.milliseconds
-import kotlin.time.Duration.Companion.minutes
-import kotlin.time.Duration.Companion.seconds
 
 private val dotenv = dotenv {
     ignoreIfMissing = true
