@@ -21,3 +21,5 @@ jobs:
         dependency-graph: generate-and-submit
     - name: Execute Gradle build
       run: ./gradlew build
+      env:
+        - JOBSPROJ_API_KEY: ${{ secrets.SERPAPI_KEY }}
