@@ -1,0 +1,16 @@
+import kotlin.Int;
+
+CREATE TABLE IF NOT EXISTS DetectedExtensionDAO (
+    extType TEXT NOT NULL,
+    value TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    PRIMARY KEY (extType, jobId),
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+CREATE TABLE IF NOT EXISTS OtherExtensionDAO (
+    value TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    PRIMARY KEY (value, jobId),
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
