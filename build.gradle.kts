@@ -78,7 +78,7 @@ val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchRes
         .withPropertyName("searchResultUrlsFile")
         .skipWhenEmpty()
 
-    val outputDir = layout.projectDirectory.dir("test_data/raw")
+    val outputDir = layout.buildDirectory.dir("test-data/raw")
 
     src(resources.text.fromFile(searchResultsUrls).asReader().readLines())
     dest(outputDir)
@@ -108,7 +108,7 @@ val renameTestSearchResults by tasks.register<Copy>("renameTestSearchResults") {
 
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
-    into(layout.projectDirectory.dir("test_data"))
+    into(layout.buildDirectory.dir("test-data"))
 }
 
 sqldelight {
@@ -139,7 +139,7 @@ tasks.test {
     dependsOn(downloadTestSearchResults)
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
-    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.projectDirectory.dir("test_data").asFile.path)
+    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.buildDirectory.dir("test-data").get().asFile.absolutePath)
 }
 
 val copyDist by tasks.register<Copy>("copyDist") {
