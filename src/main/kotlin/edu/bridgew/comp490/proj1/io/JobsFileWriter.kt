@@ -1,11 +1,11 @@
 package edu.bridgew.comp490.proj1.io
 
-import edu.bridgew.comp490.proj1.api.data.Job
-import edu.bridgew.comp490.proj1.api.data.PostedAt
-import edu.bridgew.comp490.proj1.api.data.Salary
-import edu.bridgew.comp490.proj1.api.data.ScheduleType
-import edu.bridgew.comp490.proj1.api.data.UnknownExtension
-import edu.bridgew.comp490.proj1.api.data.WorkFromHome
+import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.data.entities.PostedAt
+import edu.bridgew.comp490.proj1.data.entities.Salary
+import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
+import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.relativeTimeString
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

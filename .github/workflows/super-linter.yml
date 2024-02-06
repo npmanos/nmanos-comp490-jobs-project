@@ -21,15 +21,23 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
 
       - name: Lint Code Base
-        uses: super-linter/super-linter@v5
+        uses: super-linter/super-linter@v6.0.0
         env:
-          VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: "develop"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_HTML: false
+          VALIDATE_BASH_EXEC: true
+          VALIDATE_EDITORCONFIG: true
+          VALIDATE_ENV: true
+          VALIDATE_GITHUB_ACTIONS: true
+          VALIDATE_GITLEAKS: true
+          VALIDATE_JAVA: true
+          VALIDATE_KOTLIN: true
+          VALIDATE_MARKDOWN: true
+          VALIDATE_SQL: true
+          VALIDATE_YAML: true

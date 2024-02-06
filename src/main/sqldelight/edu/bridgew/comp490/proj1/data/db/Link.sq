@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS LinkDAO (
+    link TEXT NOT NULL,
+    `text` TEXT NOT NULL,
+    jobId TEXT NOT NULL,
+    PRIMARY KEY (link, jobId),
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);

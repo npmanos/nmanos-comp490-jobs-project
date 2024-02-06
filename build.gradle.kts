@@ -1,7 +1,8 @@
 plugins {
     kotlin("jvm") version "1.9.22"
-    id("com.google.devtools.ksp").version("1.9.22-1.0.17")
-    id("com.jaredsburrows.license").version("0.9.7")
+    id("app.cash.sqldelight") version "2.0.1"
+    id("com.google.devtools.ksp") version "1.9.22-1.0.17"
+    id("com.jaredsburrows.license") version "0.9.7"
     application
 }
 
@@ -29,19 +30,26 @@ repositories {
 dependencies {
     val retrofitVersion = "2.9.0"
     val moshiSealedVersion = "0.25.1"
+    val moshiVersion = "1.15.1"
+    val sqlDelightVersion = "2.0.1"
     val prettytimeVersion = "5.0.7.Final"
     val slf4jVersion = "1.7.36"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
 
-    ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
+    ksp("com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion")
     ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
 
     implementation("com.squareup.okhttp3:okhttp")
+    implementation("com.squareup.moshi:moshi:$moshiVersion")
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
     implementation("com.squareup.retrofit2:converter-moshi:$retrofitVersion")
     implementation("dev.zacsweers.moshix:moshi-sealed-runtime:$moshiSealedVersion")
+
+    implementation("app.cash.sqldelight:sqlite-driver:$sqlDelightVersion")
+    implementation("app.cash.sqldelight:primitive-adapters:$sqlDelightVersion")
+    implementation("app.cash.sqldelight:coroutines-extensions:$sqlDelightVersion")
 
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
@@ -57,6 +65,16 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.1")
     testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
+}
+
+sqldelight {
+    databases {
+        create("JobSearchDB") {
+            packageName.set("edu.bridgew.comp490.proj1.data.db")
+            schemaOutputDirectory.set(file("src/main/sqldelight/databases"))
+            dialect("app.cash.sqldelight:sqlite-3-38-dialect:2.0.1")
+        }
+    }
 }
 
 licenseReport {
