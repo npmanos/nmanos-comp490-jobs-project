@@ -30,7 +30,7 @@ A small utility to save 50 Google Jobs Search results to a text file.
 
 3. Add your SerpApi API key to the .env file
 
-   ```
+   ```text
    JOBSPROJ_API_KEY=your_key_here
    ```
 
@@ -44,7 +44,7 @@ A small utility to save 50 Google Jobs Search results to a text file.
 
 You can run the application by calling `dist/bin/job-search`
 
-```
+```text
 dist/bin/job-search --help
 
 Usage: job-search [<options>]
