@@ -7,6 +7,7 @@ import kotlinx.coroutines.flow.asFlow
 import kotlinx.coroutines.flow.flatMapMerge
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.test.runTest
 import okhttp3.mockwebserver.MockResponse
 import okhttp3.mockwebserver.MockWebServer
 import retrofit2.Retrofit
@@ -51,7 +52,7 @@ class GoogleJobSearchServiceImplTest {
     }
 
     @Test
-    fun `verify 50 jobs retrieved from api`() = runBlocking {
+    fun `verify 50 jobs retrieved from api`() = runTest {
         val pages = 5
 
         val testBodies = getRandomTestData(pages).map { path -> path.readText() }
