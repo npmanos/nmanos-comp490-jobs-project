@@ -1,0 +1,1291 @@
+{
+  "search_metadata": {
+    "id": "65b5f3b2cace960f9eda68a3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b5f3b2cace960f9eda68a3.json",
+    "created_at": "2024-01-28 06:26:58 UTC",
+    "processed_at": "2024-01-28 06:26:58 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b5f3b2cace960f9eda68a3.html",
+    "total_time_taken": 1.84
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Leidos",
+      "location": "  Alexandria, VA   ",
+      "via": "via Leidos Careers",
+      "description": "Description\n\nLeidos is looking for a Software Engineer to join a high performing agile team using the Scaled Agile Framework (SAFe) methodology to support a nationally significant and fast-paced cryptographic key management program. Program execution follows DEVOPS best practices and employs robust development, test, and production environments. Additionally, the program is using Behavior Driven... Development (BDD) and test automation tools alongside a full suite of team collaboration tools. Leidos is the prime contractor providing system engineering, development, test, integration, and operational support. This new program is focused on injecting new technology and adding advanced capabilities over the coming three years while continuing to support an on-going mission and operational system.\n\nJob Summary\n\nThe Software Engineer will perform software development activities as a member of an agile development team. Development includes the full range of turning agile stories into implementable concepts, through development, testing, and deployment of the new capabilities in this complex system. Following the BDD pattern, our developers are responsible for implementing robust testing leveraging DEVOPS automation and, where appropriate, use of test automation commercial tools. There are a range of opportunities for server-side business logic implementation as well as client web application and user interface (UI) development. Java, Python, embedded C/C++, Java cryptographic framework, XML, web UI and special purpose device programming opportunities are available.\n\nPrimary Responsibilities\nThe Software Engineer will be responsible for software development activities both individually and as a member of an agile team. The software engineer will actively participate in program increment planning and related team activities. The individual will analyze and study complex system requirements, use design software tools, provide support using formal specifications, data flow diagrams, and other accepted design techniques with the use of Computer Aided Software Engineering (CASE) tools and will use sound software engineering principles to ensure that developed code is modifiable, efficient, reliable, understandable, fault tolerant, and reusable. The individual will provide software process management and control throughout the coding portion of the software development process. Additionally, the individual will promote code reuse and cross-program collaboration while reducing maintenance costs by creating common functions and shared actions for developers and testers. The individual will engineer, author, tune and document automation scripts in a development environment and deploy to the test/production bench.\n• **Qualified candidates are eligible for enhanced incentives including up to a $25K cash sign on bonus or a paid time off bonus.\n\nBasic Qualifications\n• Bachelor’s degree and a minimum eight (8) years of prior relevant experience or master’s with 6 years of prior relevant experience.\n• Additional experience may be substituted for a Degree.\n• Must have demonstrated experience with Java.\n• Experience or familiarity with multiple the following: Java/JEE, Python, C/C++, SQL, SOAP, WSDL, WADL, PERL, PowerShell, VBS, Eclipse, Postgres, Oracle, Jenkins on a Windows platforms.\n• Experience with User Interface development, knowledge of databases and structures, and/or experience working with XHTML, HTML, XML, XSLT\n• Experience developing on Windows, and/or Linux operating systems.\n• Must have a strong understanding of sound software development principles and practices.\n• Must be able to plan and prioritize personal tasking and be able to communicate effectively verbally and in writing.\n• Must be an independent thinker, capable of performing high quality work, both independently and with a team in a fast-moving environment.\n\nSecurity Clearance requirement:\n• Candidates must possess an active TS/SCI with Polygraph to be considered for this role.\n\nPreferred Qualifications\n• Experience with the following: JEE, SQL, application servers (Tomcat, WebLogic, JBoss), scripting\n• Experience with high level requirements management including requirements decomposition, secure systems engineering and development, trade-off analysis, interface control, and testing and continuous integration.\n• Experience in software development on Agile teams using Agile Developer practices such as Pair Programming, TDD, Refactoring, and ATDD\n• Experience with FITNesse, Mockito, Cucumber, Unified Functional Tester (UFT), Selenium\n• Experience with Behavior Driven Development (BDD)\n• Secure Software development (i.e. Layer 7 Policy)\n• Experience with the Scaled Agile Framework (SAFe) methodology, SAFe Agilest Certification, or experience as a member of an agile team\n\ncareers.leidos.com/CONMD\n\nCSSKEY\n\nCONMD\n\nPay Range:\nPay Range $101,400.00 - $183,300.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nOriginal Posting Date:\n09/13/2023\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Java, Python, embedded C/C++, Java cryptographic framework, XML, web UI and special purpose device programming opportunities are available",
+            "Bachelor’s degree and a minimum eight (8) years of prior relevant experience or master’s with 6 years of prior relevant experience",
+            "Additional experience may be substituted for a Degree",
+            "Must have demonstrated experience with Java",
+            "Experience or familiarity with multiple the following: Java/JEE, Python, C/C++, SQL, SOAP, WSDL, WADL, PERL, PowerShell, VBS, Eclipse, Postgres, Oracle, Jenkins on a Windows platforms",
+            "Experience with User Interface development, knowledge of databases and structures, and/or experience working with XHTML, HTML, XML, XSLT",
+            "Experience developing on Windows, and/or Linux operating systems",
+            "Must have a strong understanding of sound software development principles and practices",
+            "Must be able to plan and prioritize personal tasking and be able to communicate effectively verbally and in writing",
+            "Must be an independent thinker, capable of performing high quality work, both independently and with a team in a fast-moving environment",
+            "Candidates must possess an active TS/SCI with Polygraph to be considered for this role",
+            "Experience with the Scaled Agile Framework (SAFe) methodology, SAFe Agilest Certification, or experience as a member of an agile team"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Program execution follows DEVOPS best practices and employs robust development, test, and production environments",
+            "Development includes the full range of turning agile stories into implementable concepts, through development, testing, and deployment of the new capabilities in this complex system",
+            "There are a range of opportunities for server-side business logic implementation as well as client web application and user interface (UI) development",
+            "The Software Engineer will be responsible for software development activities both individually and as a member of an agile team",
+            "The software engineer will actively participate in program increment planning and related team activities",
+            "The individual will analyze and study complex system requirements, use design software tools, provide support using formal specifications, data flow diagrams, and other accepted design techniques with the use of Computer Aided Software Engineering (CASE) tools and will use sound software engineering principles to ensure that developed code is modifiable, efficient, reliable, understandable, fault tolerant, and reusable",
+            "The individual will provide software process management and control throughout the coding portion of the software development process",
+            "Additionally, the individual will promote code reuse and cross-program collaboration while reducing maintenance costs by creating common functions and shared actions for developers and testers",
+            "The individual will engineer, author, tune and document automation scripts in a development environment and deploy to the test/production bench"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "**Qualified candidates are eligible for enhanced incentives including up to a $25K cash sign on bonus or a paid time off bonus",
+            "Pay Range $101,400.00 - $183,300.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.leidos.com/",
+          "text": "leidos.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Leidos&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCOAJ",
+          "text": "See web results for Leidos"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiQ1pZZ0NENkJJWmtPNjljcUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYTFGTWNWbEVNVVJ5WVhKdWQybEVSRlpJTkdNNGFrNVRSa1V4WVVSWFRHSmFNMm8yVkdJNWEyNTRjWFJ1T0VsVGJVcElaVUpyZDJKZmVVTnhWbVE0Y2tKMVVFeEhja1pvUTJwUlVFVmpaVFJ6YW1GWU5FVXhTMmxZUW1FeFYxQjZiMVV5VFdjemRrczFORmd0WkRKdE1qQnBUWGsxWTFBMU1TMHhaWEZWZWtSaFVYZENkRkpJY2tScE5rWklXbWx6Vmw5Q01XY3hkWGROYkhWRVlWQldVVmx6T0RGamVtcFVZblkzWVdkZldHNUVNakpxTm1RNWNISnJjbGxqTFRrNVkwOUJSV290RWhkelgwOHhXbU5tWjBWaFQyMXdkRkZRZG1aRGIzbEJheG9pUVZCWWFHMDFXalJuTlRoamJXMURkamRhZEZKd2FXNXVSVnBxYmxWb1RGWnVVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGVpZG9zIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmxlaWRvcy5jb20vam9icy8xMzM1OTAxNi1zb2Z0d2FyZS1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "company_name": "BAE Systems",
+      "location": "  Springfield, VA   ",
+      "via": "via BAE Systems Jobs",
+      "description": "Job Description Are you a software engineer looking to join a fun team in a supportive environment? If you are a seasoned developer that loves solving tough puzzles, our agile team has an opening in Springfield, VA or Arnold, MO for an on-site developer with DevSecOps pipeline experience.\n\nThe ideal team member will be code agnostic with 2+ years of experience in a variety of languages and... frameworks to include (but not limited to) PHP, Java, Python, Javascript, ColdFusion, JSON, JSX, React, Babel, Django, SQL etc. Preference will be given to developers with Java experience working onsite with the existing customer. Submission of links to code samples are always welcomed.\n\nDevelopers will be curious team players comfortable in pushing code through a pipeline with an eye for compliance and changing requirements. As an experienced agile professional, you will be comfortable with scrum, kanbans, daily standups and working as a contributing part of a very active team refactoring from a healthy backlog. Knowledge of AWS, Linux and even basic firewall rules will also be within reach of your tool chest.\n\nWe value continual learners. The job will predominately be onsite in Springfield, VA or Arnold, MO with opportunities to work from home when it benefits research or the project. We offer a healthy variety of online educational libraries to benefit your career and growth.\n\nRequired Education, Experience, & Skills In addition to a minimum of three years of experience, a B.A. or B.S. in information systems or a related field is required. Four years of work experience as a software engineer or developer may be submitted in lieu of a degree.\n\nSkills needed for this full stack job include the ability to write readable clean and secure code with minimal assistance, while working as a member of an agile team. Significant experience in at least two of these languages is required: Java, Python, Javascript, ColdFusion or SQL. The ability to write HTML5 and basic CSS with a background using library syntax like Bootstrap or Material Design is also required.\n\nPreferred Education, Experience, & Skills Experience in reading log files and refactoring code is highly encouraged. The biggest soft skill preferred is agile communication that embraces transparency and honesty. A history of responding to trouble tickets with finesse and a sense of urgency is helpful, as is balancing multiple priorities.\n\nPay Information\nFull-Time Salary Range: $92290 - $156860\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Intelligence & Security BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference.\n\nIntelligence & Security (I&S), based in McLean, Virginia, designs and delivers advanced defense, intelligence, and security solutions that support the important missions of our customers. Our pride and dedication shows in everything we do—from intelligence analysis, cyber operations and IT expertise to systems development, systems integration, and operations and maintenance services. Knowing that our work enables the U.S. military and government to recognize, manage and defeat threats inspires us to push ourselves and our technologies to new levels.\n\nOur Commitment to Diversity, Equity, and Inclusion:\nAt BAE Systems, we work hard every day to nurture an inclusive culture where employees are valued and feel like they belong. We are conscious of the need for all employees to see themselves reflected at every level of the company and know that in order to unlock the full potential of our workforce, everyone must feel confident being their best, most sincere self and be equipped to thrive. We provide impactful professional development experiences to our employees and invest in social impact partnerships to uplift communities and drive purposeful change. Here you will find significant opportunities to do meaningful work in an environment intentionally designed to be one where you will learn, grow and belong",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal team member will be code agnostic with 2+ years of experience in a variety of languages and frameworks to include (but not limited to) PHP, Java, Python, Javascript, ColdFusion, JSON, JSX, React, Babel, Django, SQL etc",
+            "Knowledge of AWS, Linux and even basic firewall rules will also be within reach of your tool chest",
+            "Required Education, Experience, & Skills In addition to a minimum of three years of experience, a B.A. or B.S. in information systems or a related field is required",
+            "Four years of work experience as a software engineer or developer may be submitted in lieu of a degree",
+            "Skills needed for this full stack job include the ability to write readable clean and secure code with minimal assistance, while working as a member of an agile team",
+            "Significant experience in at least two of these languages is required: Java, Python, Javascript, ColdFusion or SQL",
+            "The ability to write HTML5 and basic CSS with a background using library syntax like Bootstrap or Material Design is also required",
+            "A history of responding to trouble tickets with finesse and a sense of urgency is helpful, as is balancing multiple priorities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Developers will be curious team players comfortable in pushing code through a pipeline with an eye for compliance and changing requirements",
+            "As an experienced agile professional, you will be comfortable with scrum, kanbans, daily standups and working as a contributing part of a very active team refactoring from a healthy backlog"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Full-Time Salary Range: $92290 - $156860",
+            "Please note: This range is based on our market pay structures",
+            "Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being",
+            "Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance",
+            "We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance",
+            "Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave",
+            "Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.baesystems.com/",
+          "text": "baesystems.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=BAE+Systems&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCLYK",
+          "text": "See web results for BAE Systems"
+        }
+      ],
+      "extensions": [
+        "6 hours ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IkZmd284dHIyNHZUbnNfV1FBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamEwcGxRak51TjB4aE5HYzRkMVZDZVdObU1IaG9ibE5xY1RsemRVVmtkbFJVT0doTGFFazJVRkZTUjB4eGRFbFpieTFqYWtod1JYWm1SMk52Y1c0M2EwMW9jMmt3V2tRNUxXUjVWbk5KVkhoUlQyTmxRVkJaT1hkS1VIazRPR3ByUVdoZmJIUnVhMHRsVWxkWFpYVlNRVGhEWWtOUmMwRlBjbGRIWVU5TFRGZGhYMjFTWkV0dE9VRlZWRFZVYUhGNGNFNTNZakpDUWpGSWQwdFBOeTFUV1VoZk5YY3pXVU5FTVhoNVIySmphVFZuYzFkT1UwOVNURFZpUjNZd1MzaEhWMHBEUlZwaldUbFlPRmhXZDBVeU1YRXpkRUUwY1hoTlJESk9MVFJyYjB4S2JVZHdlV1JsZEZCTFpqaDFiM3BNVlJJWGMxOVBNVnBqWm1kRllVOXRjSFJSVUhabVEyOTVRV3NhSWtGUVdHaHROV0pFU1hZd1JFaFhjR1l0ZFZwcmJuSllRekZhU2taM2RFMDRhVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJBRSBTeXN0ZW1zIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmJhZXN5c3RlbXMuY29tL2dsb2JhbC9lbi9qb2IvOTgyODlCUi9Tci1Tb2Z0d2FyZS1FbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "Leidos",
+      "location": "  Fort Meade, MD   ",
+      "via": "via Leidos Careers",
+      "description": "Description\n\nUnleash Your Potential...\n\nAt Leidos, we deliver innovative solutions by leveraging our diverse and talented workforce who are dedicated to our customer’s success. We empower our teams, contribute to our communities, and operate sustainably. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.\n\nIf this sounds like an environment where you can thrive, keep reading!\n\nDo you thrive working in small teams that collaborate closely with customers? Are you intrigued by big data? Our prototype development program is seeking someone with a strong mission focus who is passionate about new development and rapid prototyping. We want someone who can help us discover smarter, innovative approaches to support mission operations, discover new analytics, enhance tradecraft, and much more!\n\nOur LOE program provides our customer's Operations organization with the best possible solutions for their mission needs. We achieve this through rapid prototyping, new development, and advanced technology research. From leading-edge visualizations to analytic development, we're always pushing the boundaries to find new and better data sources and tradecraft to answer intelligence questions. With a focus on collaboration and a fast-paced environment, our prototype development program is the ideal place to grow your skills and make a real impact. Click here to learn more about how this program “Delivers Mission Success!”\n\nYour greatest work is ahead!\n\nIf you’re a talented Principal Software Engineer with a TS/SCI polygraph clearance, we want to hear from you. The Leidos National Security Sector is looking for someone like you to join our team in the Fort Meade, MD area. As part of this highly visible and fast-paced prime contract, you'll enjoy a competitive benefits package including four or more weeks of Paid Time Off, Flexible Schedules, Discounted Stock Purchase Plans, Education and Training Support, Parental Paid Leave, and more! Don't miss out on this incredible opportunity to take your career to the next level. Apply today and join one of the most dynamic teams in the industry.\n\nAre you ready to join a team dedicated to a mission? Begin your journey of a flourishing and meaningful career, share your resume with us today!\n\nYour Main Objective:\n• Develop tools and techniques for detecting and analyzing shellcode, investigate options for generating content-based identifiers for individual functions within compiled programs, and perform research into the challenges associated with novel programming languages.\n• Analyze user/customer requirements related to software and/or software system design and build software prototypes.\n• Apply concepts and procedures for applying algorithm design techniques to design correct, efficient and implementable algorithms for real-world problems.\n• Develop and maintain solutions artifacts.\n• Develop and maintain systems security standards and administration within compliance in accordance with standards.\n\nWhat Sets You Apart:\n• Bachelor's degree plus 11 years of relevant experience or Master’s degree in plus 9 years of relevant experience. An Associate’s degree plus 13 years of relevant experience or high school diploma/GED plus 15 years of relevant experience may be considered for individuals with in-depth experience that is clearly related to the position\n• Computer Science (CS) degree or related field\n• TS/SCI clearance with polygraph\n• Experience with malware analysis.\n• Strong Python experience.\n• Ability to read/understand C/C++ and Assembly.\n• Understanding of operating system design.\n\nYou Might Also Have:\n• Experience with IDA Pro or Ghidra.\n• Virtual Machine (VM) experience.\n• Experience reverse engineering protocols.\n• Ability to work independently.\n\nAt Leidos, the opportunities are boundless. We challenge our staff with interesting assignments that allow them to thrive professionally and personally. For us, helping you grow your career is good business. We look forward to learning more about you – apply today!\n\nConmd\n\nPay Range:\nPay Range $122,200.00 - $220,900.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nOriginal Posting Date:\n11/29/2023\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree plus 11 years of relevant experience or Master’s degree in plus 9 years of relevant experience",
+            "An Associate’s degree plus 13 years of relevant experience or high school diploma/GED plus 15 years of relevant experience may be considered for individuals with in-depth experience that is clearly related to the position",
+            "Computer Science (CS) degree or related field",
+            "TS/SCI clearance with polygraph",
+            "Experience with malware analysis",
+            "Strong Python experience",
+            "Ability to read/understand C/C++ and Assembly",
+            "Understanding of operating system design",
+            "Experience with IDA Pro or Ghidra",
+            "Virtual Machine (VM) experience",
+            "Experience reverse engineering protocols",
+            "Ability to work independently",
+            "While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop tools and techniques for detecting and analyzing shellcode, investigate options for generating content-based identifiers for individual functions within compiled programs, and perform research into the challenges associated with novel programming languages",
+            "Analyze user/customer requirements related to software and/or software system design and build software prototypes",
+            "Apply concepts and procedures for applying algorithm design techniques to design correct, efficient and implementable algorithms for real-world problems",
+            "Develop and maintain solutions artifacts",
+            "Develop and maintain systems security standards and administration within compliance in accordance with standards"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "As part of this highly visible and fast-paced prime contract, you'll enjoy a competitive benefits package including four or more weeks of Paid Time Off, Flexible Schedules, Discounted Stock Purchase Plans, Education and Training Support, Parental Paid Leave, and more!",
+            "Pay Range $122,200.00 - $220,900.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.leidos.com/",
+          "text": "leidos.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Leidos&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCIwL",
+          "text": "See web results for Leidos"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlhGdnFOczRCbUN6S0lYZHpBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamEwTXpZbTlUUTFGM1lsVkdTblkzWW5Gdlp6ZHNVWHBrVTJkTWIzSkxiVVYxTUhORmNHTTFUa1ZKV0dSRVNFTmFWbTU0Umw5YVdFUTBRVVZyVWpWU1kwZFBTMHBSYnpkS1JrdGxiMFY1YkVneFFWTjVOMU5MVm1WUmVWaG9NVzFyU2s1bWVqVkRSRUpCYlZJMGNWSnFTR3BGWkdaamVrVTBhbU5HYVVsT2JEbEViRTkxZWtrek5UWnBNbEZxY0dsTGRUbFdXVmhGWjFSMVVucEtUVVF4UW5saVdrdEdXVkZvTkhOWlNsZFlZMVJXT0dFMlpWUTBUR3BoYkZGUGVGUllWWFExV1MxT2JXdzFiMlpXUjFORWVUUnljM1YxWHpSaWJUSllVUklYYzE5UE1WcGpabWRGWVU5dGNIUlJVSFptUTI5NVFXc2FJa0ZRV0dodE5WbG5kWEZKYzI5UlIySlZaSGRPTkROSU9XOUhWMjVVTkhaVU1HYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGVpZG9zIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmxlaWRvcy5jb20vam9icy8xMzY1Njg5NC1wcmluY2lwYWwtc29mdHdhcmUtZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Tyler Technologies",
+      "location": " Anywhere ",
+      "via": "via LinkedIn",
+      "description": "Tyler Technologies’ Maryland Enterprise is seeking candidates for a Senior .NET Software Engineer. The selected candidate will be part of a strong development team and they will be responsible for translating complex business requirements into functional web-based applications throughout all stages of the SDLC.\n\nThe Developer will create and support large-scale/complex applications by gathering... requirements, designing, maintaining, developing, testing, and deploying applications with security, efficiency, maintainability, and usability in mind.\n\nResponsibilities:\n• Build and ship high-quality customer-facing web applications.\n• Maintain and improve a distributed cloud platform running on AWS.\n• Develop and containerize .NET applications deployed to AWS.\n• Provide direct mentorship to junior engineers on the team.\n• Collaborate with other engineers, engineering management, designers, and project managers to design and architect solutions.\n\nQualifications:\n• We would love to talk to you if you…\n• Care about scalable, robust, well-tested code.\n• Consider yourself a full stack engineer, willing to work in any part of the stack required for the task. For a senior level role, we need you to have at least 4 years of experience.\n• Have significant frontend experience (HTML, CSS, and JavaScript). We are currently using Vue, React and bootstrap.\n• Develop secure .NET C# containerized applications running in AWS.\n• Demonstrate experience in owning all aspects of a system lifecycle, from proper design, testing, deployment, metrics, monitoring, and maintenance.\n• Enable other engineers’ success both through your code contributions and through direct mentorship.\n• Have experience working with database technologies including relational databases MS-SQL and NoSQL stores. Bonus points for experience with technologies like Elasticsearch/AWS.\n• Have experience with converting .NET Framework to .NET containerized apps. Development of Java applications is a plus.\n• Are comfortable working in a heterogeneous development environment where you’ll be working with multiple development languages and technologies.\n• Solve the problem, not the symptoms.\n• Have strong interpersonal, verbal, and written communication skills.\n• Enjoy working closely with the business, infrastructure support and development teams",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We would love to talk to you if you…",
+            "Care about scalable, robust, well-tested code",
+            "Consider yourself a full stack engineer, willing to work in any part of the stack required for the task",
+            "For a senior level role, we need you to have at least 4 years of experience",
+            "Have significant frontend experience (HTML, CSS, and JavaScript)",
+            "We are currently using Vue, React and bootstrap",
+            "Develop secure .NET C# containerized applications running in AWS",
+            "Have experience working with database technologies including relational databases MS-SQL and NoSQL stores",
+            "Bonus points for experience with technologies like Elasticsearch/AWS",
+            "Have experience with converting .NET Framework to .NET containerized apps",
+            "Are comfortable working in a heterogeneous development environment where you’ll be working with multiple development languages and technologies",
+            "Have strong interpersonal, verbal, and written communication skills",
+            "Enjoy working closely with the business, infrastructure support and development teams"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The selected candidate will be part of a strong development team and they will be responsible for translating complex business requirements into functional web-based applications throughout all stages of the SDLC",
+            "The Developer will create and support large-scale/complex applications by gathering requirements, designing, maintaining, developing, testing, and deploying applications with security, efficiency, maintainability, and usability in mind",
+            "Build and ship high-quality customer-facing web applications",
+            "Maintain and improve a distributed cloud platform running on AWS",
+            "Develop and containerize .NET applications deployed to AWS",
+            "Provide direct mentorship to junior engineers on the team",
+            "Collaborate with other engineers, engineering management, designers, and project managers to design and architect solutions"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tylertech.com/",
+          "text": "tylertech.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Tyler+Technologies&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCNwL",
+          "text": "See web results for Tyler Technologies"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rCsgk6zA9fl2Dj1zRje6CaZWkzmvtQJLBkaQZOw&s",
+      "extensions": [
+        "25 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "25 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjFhaHZzUm9rbXNKVkIyR0NBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJXOHhlVzlrVkVSSmJsUlpiSEJqTWpGT2FqQlNOMVJtYmxRM2FGOVdZblZqVUcxU2RHZGhhRWRGZGt4alJIQlpNVzVaY25OT1R6VmhVR3hzYUZVMFRFcDNlakV5U0RCZmREbHRhMUJ6YW1sNmVtcDFiRzlHVTBnMGVHOU1UakpDUlRKbGFUSkVkbEl6T0doMlgwZzRjWFZxTm1VNFZFaFpkWE5hUjNsd2JHVnhUWGg2V0VWWVVVRldXVE16WnpaMU0zaFNiR3BZVFhoTE9VSTFjRE5RY3pod2EwWldhWGw0YTBaVlpsSjVSR3haTURSeVpUVTVSRXh6VVVreFRHRlJiM1V5UkhWTk1FUlhPR1V0Vm0wemMyNTZla3Q2TTI5S2NYTnBhbnBhVVVrNE4xazVhSFprUlhOcmJVbEVOa2g0VVJJWGMxOVBNVnBqWm1kRllVOXRjSFJSVUhabVEyOTVRV3NhSWtGUVdHaHROVnB6TTNaVE9ESTNaMmczU0hkcFVUQTBia3htTnpoc2JYUTFWMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWF0LXR5bGVyLXRlY2hub2xvZ2llcy0zNzkyMjM3ODc3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Entry Level Software Engineer",
+      "company_name": "Parsons Corporation",
+      "location": "  Dahlgren, VA   ",
+      "via": "via Careers At Parsons Corporation",
+      "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!\n\nWhen it comes to what you want in your career, if you can imagine it, you can do it at Parsons. Imagine a career working with intelligent, diverse people sharing a common quest. Imagine a workplace where you can be yourself. Where you can thrive. Where you can find your next, right now. We’ve got what you’re... looking for.\n\nJob Description:\n\nParsons is looking for a talented Software Engineer / Software Developer to join our growing Electromagnetic and Sensor Systems team. We support multiple Navy and Marine Corps Systems providing Systems expertise across the entire acquisition Life-Cycle from concept exploration through sustainment of Navy and Marine Corps Systems, and sensor support to enhance the Warfighter’s ability to assess and engage emerging threats.\n\nWhat You Will Be Doing:\n• C++ software development for USN/USMC Systems in a Linux environment\n• Develop programs based on software requirements specifications\n• Conduct unit testing\n• Write and execute automated testing\n• Generate and document software designs\n• Support program reviews\n• Update documentation\n• Perform software element integration test prior to release of the software\n• Doing meaningful work for the name of the MISSION\n• Be part of a team of engineers who love taking a personal challenge\n• Mentor others while being mentored in a collaborative team environment\n\nWhat Required Skills You'll Bring:\n• US Citizenship with ability to obtain Secret Clearance\n• Bachelor's in Computer Science, Computer Engineering, or related field from an accredited institution\n• Experience with software development experience or related education and experience with an emphasis on C++ and working in Linux.\n• On-site availability at NSWC Dahlgren at least 3 days per week\n\nWhat Desired Skills You Might Bring:\n• Active Secret Clearance\n• Experience working in Agile\n• Hands-on software development experience\n\nMinimum Clearance Required to Start:\nNot Applicable/None\n\nThis position is part of our Federal Solutions team.\n\nOur Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our diverse, intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.\n\nSalary Range:\n$59,300.00 - $103,800.00\n\nWe value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP), 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!\n\nThe position may require a COVID vaccination or an approved accommodation/exemption for a disability/medical condition or religious belief as required by customer requirements and some cases federal, state, provincial or local mandates.\n\nParsons is an equal opportunity employer committed to diversity, equity, inclusion, and accessibility in the workplace. Diversity is ingrained in who we are, how we do business, and is one of our company’s core values. Parsons equally employs representation at all job levels for minority, female, disabled, protected veteran and LGBTQ+.\n\nWe truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "US Citizenship with ability to obtain Secret Clearance",
+            "Bachelor's in Computer Science, Computer Engineering, or related field from an accredited institution",
+            "Experience with software development experience or related education and experience with an emphasis on C++ and working in Linux",
+            "On-site availability at NSWC Dahlgren at least 3 days per week"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We support multiple Navy and Marine Corps Systems providing Systems expertise across the entire acquisition Life-Cycle from concept exploration through sustainment of Navy and Marine Corps Systems, and sensor support to enhance the Warfighter’s ability to assess and engage emerging threats",
+            "C++ software development for USN/USMC Systems in a Linux environment",
+            "Develop programs based on software requirements specifications",
+            "Conduct unit testing",
+            "Write and execute automated testing",
+            "Generate and document software designs",
+            "Support program reviews",
+            "Update documentation",
+            "Perform software element integration test prior to release of the software",
+            "Doing meaningful work for the name of the MISSION",
+            "Be part of a team of engineers who love taking a personal challenge",
+            "Mentor others while being mentored in a collaborative team environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$59,300.00 - $103,800.00",
+            "We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP), 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.parsons.com/",
+          "text": "parsons.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Parsons+Corporation&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCK8M",
+          "text": "See web results for Parsons Corporation"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKw4Eg1XXWXeFbb2EMlbMzj43U29E-PUGJmO3&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoic3k1bEZYR0h6eUZBN3QxOUFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYkdjd2JucGlMVkZGTFhWbFMyeFllRmRGWVRWWlZFNVRORlJ1ZFRVMmJVTnRkR1pmTWxKQmNuaEdOWGRJWW5CMVlWWjFOR0kzVTJ0NmEwUkRVMEk1UW1OeGRqSXRka2xtWTBOdFdXOXFaWFpZVkd4cWFYZG5NQzFpZFhOVGEwaEZVSEZhV21jMGFWOXhSME5OYmpkT2FVWkZhRkkzVm1RemVsWldiakJGYkU5Q1RuVXdOMGh0Wkd0M1RtWmFWV1JJTjNSbloyaDVlRVZ4WDIxWE9WVXhRemsyT1dzM1psb3lVWFJsZG1zNU4yc3pSVkZMT1c5M1psRlBablYwUVVSaU5tZFNOM2xoYlZwaFZYVTRZbnBUZUV0dVVtdFhaWFJpVUMxTWR6TTVRV05KVkhrNVdtWlBiMGxpWnpGWGMxSTJSUklYYzE5UE1WcGpabWRGWVU5dGNIUlJVSFptUTI5NVFXc2FJa0ZRV0dodE5WbzVVelJvWjNWcGVFNU9Ua2xZUVcxZlMySXRTbUo0WTFkVlJFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBQYXJzb25zIENvcnBvcmF0aW9uIiwibGluayI6Imh0dHBzOi8vam9icy5wYXJzb25zLmNvbS9qb2JzL2VudHJ5LWxldmVsLXNvZnR3YXJlLWVuZ2luZWVyLWRhaGxncmVuLXZpcmdpbmlhLWpvYnM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "SAIC",
+      "location": "  Greenbelt, MD   ",
+      "via": "via SAIC Jobs",
+      "description": "Description\n\nJOB DESCRIPTION...\n\nSAIC is seeking a Software Engineer to support The Ocean Biology Processing Group at NASA's Goddard Space Flight Center.\n\nThe Ocean Biology Processing Group ( http://oceancolor.gsfc.nasa.gov ) at NASA's Goddard Space Flight Center is a world leader in satellite-based remote sensing of the ocean. This position will work closely with other developers, engineers, and operators supporting NASA's Ocean Biology Distributed Active Archive Center ( http://oceancolor.gsfc.nasa.gov/ ) as it transitions from a Linux-based on-premises system to an Amazon Web Services cloud-computing environment.\n\nDuties will include:\n\n• Provide software development support that will ingest, distribution and value-added services for OB.DAAC data holdings in NASA's Earthdata Cloud environment\n\n• Utilize AWS scripts/services (e.g. S3, Lambdas, Step Functions, SQS, SNS, Cloudwatch, API Gateway) to scale and deploy code.\n\n• Participate in software requirements, code reviews, and test plan reviews\n\n• Ensure clear and thorough code and design documentation.\n\n• Collaborating with team members to plan, estimate, and write clear user stories / acceptance criteria, and communicate effectively on Slack, Teams, etc.\n\nQualifications\n\nEducation: Bachelor's degree in computer science, or related IT field from an accredited institution.\n\nRequired skills:\n\nExperience in operational deployment, troubleshooting, and issue resolution preferable in a cloud environment (AWS, EC2, S3, DynamoDB, Lambda).\n\n2-5 years' experience with Terraform, Jira and Python backend integration\n\nExperience developing and executing continuous integration tests (e.g., Bamboo, Jest, Ava, Mocha)\n\nExperience effectively maintaining a version-controlled code repository using modern tools (e.g., git)\n\nExperience developing with Unix/Linux operating systems, including bash scripting\n\nExperience with Docker / containerization software\n\nGood written and communication skills\n\nExperience working successfully with a distributed team\n\nThe successful candidate will also be eligible for unescorted access to NASA facilities.\n\nCovid Policy: SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.\nREQNUMBER: 2316774\n\nSAIC is a premier technology integrator, solving our nation’s most complex modernization and systems engineering challenges across the defense, space, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; enterprise IT, including cloud services; cyber; software; advanced analytics and simulation; and training. We are a team of 23,000 strong driven by mission, united purpose, and inspired by opportunity. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $6.5 billion. For more information, visit saic.com. For information on the benefits SAIC offers, see Working at SAIC. EOE AA M/F/Vet/Disability",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Education: Bachelor's degree in computer science, or related IT field from an accredited institution",
+            "Experience in operational deployment, troubleshooting, and issue resolution preferable in a cloud environment (AWS, EC2, S3, DynamoDB, Lambda)",
+            "2-5 years' experience with Terraform, Jira and Python backend integration",
+            "Experience developing and executing continuous integration tests (e.g., Bamboo, Jest, Ava, Mocha)",
+            "Experience effectively maintaining a version-controlled code repository using modern tools (e.g., git)",
+            "Experience developing with Unix/Linux operating systems, including bash scripting",
+            "Experience with Docker / containerization software",
+            "Good written and communication skills",
+            "Experience working successfully with a distributed team",
+            "The successful candidate will also be eligible for unescorted access to NASA facilities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Provide software development support that will ingest, distribution and value-added services for OB.DAAC data holdings in NASA's Earthdata Cloud environment",
+            "Utilize AWS scripts/services (e.g. S3, Lambdas, Step Functions, SQS, SNS, Cloudwatch, API Gateway) to scale and deploy code",
+            "Participate in software requirements, code reviews, and test plan reviews",
+            "Ensure clear and thorough code and design documentation",
+            "Collaborating with team members to plan, estimate, and write clear user stories / acceptance criteria, and communicate effectively on Slack, Teams, etc"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://saic.com/",
+          "text": "saic.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=SAIC&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCP4M",
+          "text": "See web results for SAIC"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZjtpEr713Y9tMlSGa8so4BypfLlsDxVntJBa&s=0",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiRVdUVWtLcDVQZEt6YU91M0FBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYkhOMk1qaHlhM0pvWVhWcU5XOUJja1ZFYUZoWVJtdGtlR3BuY0ZsblJEWlNZM1ZmVlRWV1ZtZHFkME40Y1ZRMFpXWlFiamxRU2tWTWVuZDFXVmhuYVhoM00wMDFjRVpJVWxwS1EwWjJWMFZvTmkxRmJ6UnFVakJaVW1nMFlrNUVVbVp1VkV4WlNWWldWekpCT1dwbmR6TlJSalJ1WlhGWlJGcEdSWEZqYWpacFZqZzViVzFxT0d0RFN6RnVNelUyZG1kM2NrNHlMVkJKYzBOUmJVc3pkVWN4TUVKbk9UaEtlRmN3VHpkeFVEZ3dkVGRVZEc1cmJDMUljbFZ1WlZOU2NHMUpTR0V4RWhkelgwOHhXbU5tWjBWaFQyMXdkRkZRZG1aRGIzbEJheG9pUVZCWWFHMDFXaTB4V1doUE5FWnVhRUY2VTFWSFdtWnZiREZaV1V0Qk1FdzJVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNBSUMgSm9icyIsImxpbmsiOiJodHRwczovL3NhaWMuZGVqb2JzLm9yZy9ncmVlbmJlbHQtbWQvc29mdHdhcmUtZW5naW5lZXIvREFEOUM1NTNBMjZENEEzNEI5RUY0MkVENjc1NEQ0ODQvam9iLz91dG1fc291cmNlPVB1ZXJ0bytSaWNvK0pvYitCYW5rLURFXHUwMDI2dXRtX21lZGl1bT1OTFhcdTAwMjZ1dG1fY2FtcGFpZ249UHVlcnRvK1JpY28rSm9iK0JhbmtcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "American Chemical Society",
+      "location": "  Washington, DC   ",
+      "via": "via Jobs At ACS - American Chemical Society",
+      "description": "Responsibilities:\n• Stays current on industry and technological advances and best practices for assigned areas and is able to articulate this knowledge, including languages, frameworks, techniques, industry trends\n• Work with customers and other architects to propose and implement the technology that meets the business needs...\n• Participates in the full application life cycle from technical design to development and from testing to support\n• Drive automation at all stages of software development, release, operations, and maintenance\n• Manage CI/CD tools and processes, provide technical guidance, and educate Development teams on CI/CD and automation toolsets and processes.\n• Design and build key architectural components and integrations\n• Evaluate, recommend, improve, and build existing code base to maximize efficiencies\n• Integrate third-party APIs and web services\n• Work with DevOps to manage environments and release quality solutions\n• Produce detailed design documentation, unit test plans, and well-documented code artifacts\n\nQualifications:\n• At least 10 years of IT Experience\n• Good interpersonal skills and communication with all levels of management\n• Able to multitask, prioritize, and manage time efficiently\n• Strong analytical and effective problem-solving skills.\n• Proficiency in popular coding languages, including Python, Java, and frameworks or systems such as AngularJS and Git\n• At least 5+ years of full-stack development experience in AWS Cloud environments, such as Lambda, DynamoDB, RDS, CloudFormation, EC2, ALB, IAM, and SQS\n• Fundamental understanding of cloud computing concepts and fundamentals (serverless, scalability, high availability, and durability)\n• Experience with integrating Kubernetes or other containerized ecosystems\n• Experience with microservices\n• Working experience with CI / CD Tools & DevOps Culture.\n\nEducation:\n• Bachelor’s degree in CS, engineering, software engineering, or a related field.\n• Hands-on agile scrum methodology experience is a must\n• Certifications:\n\n1. Cloud Practitioner (must-have)\n\n2. Solution Architect (good to have)\n\n3. AWS Developer (good to have)\n\n4. DevOps (good to have)\n\nThis position will be primarily based in the Washington D.C. office. ACS employees work a hybrid work schedule, consisting of working onsite, three days per week. ACS employees are in the office on Tuesday and Wednesday with the third in-office day scheduled in consultation with the manager. While always welcome to work in the office, employees may work the other two days of the week from a location of their choice. New employees are immediately eligible for this hybrid work arrangement. ACS offers relocation assistance, if applicable.\n\nEEO/Minority/Female/Disabled/Veteran",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "At least 10 years of IT Experience",
+            "Good interpersonal skills and communication with all levels of management",
+            "Able to multitask, prioritize, and manage time efficiently",
+            "Strong analytical and effective problem-solving skills",
+            "Proficiency in popular coding languages, including Python, Java, and frameworks or systems such as AngularJS and Git",
+            "At least 5+ years of full-stack development experience in AWS Cloud environments, such as Lambda, DynamoDB, RDS, CloudFormation, EC2, ALB, IAM, and SQS",
+            "Fundamental understanding of cloud computing concepts and fundamentals (serverless, scalability, high availability, and durability)",
+            "Experience with integrating Kubernetes or other containerized ecosystems",
+            "Experience with microservices",
+            "Working experience with CI / CD Tools & DevOps Culture",
+            "Bachelor’s degree in CS, engineering, software engineering, or a related field",
+            "Hands-on agile scrum methodology experience is a must",
+            "Certifications:",
+            "Cloud Practitioner (must-have)",
+            "Solution Architect (good to have)",
+            "AWS Developer (good to have)",
+            "DevOps (good to have)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Stays current on industry and technological advances and best practices for assigned areas and is able to articulate this knowledge, including languages, frameworks, techniques, industry trends",
+            "Work with customers and other architects to propose and implement the technology that meets the business needs",
+            "Participates in the full application life cycle from technical design to development and from testing to support",
+            "Drive automation at all stages of software development, release, operations, and maintenance",
+            "Manage CI/CD tools and processes, provide technical guidance, and educate Development teams on CI/CD and automation toolsets and processes",
+            "Design and build key architectural components and integrations",
+            "Evaluate, recommend, improve, and build existing code base to maximize efficiencies",
+            "Integrate third-party APIs and web services",
+            "Work with DevOps to manage environments and release quality solutions",
+            "Produce detailed design documentation, unit test plans, and well-documented code artifacts"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.acs.org/",
+          "text": "acs.org"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=American+Chemical+Society&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCNEN",
+          "text": "See web results for American Chemical Society"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqNQP0X9Wtjzhl3VaMsbE6WPCvz3scBFh5zVI&s=0",
+      "extensions": [
+        "9 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "9 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InY2cWVyWWJ1aWxMVEcwbkZBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJrNU5VRTVVY0hVd1FUbFpkalJZTTJ0VllYRTRZbGh5U0Roek1HczJVRWd4Y2tkMFUybDJURlJQYnpWUlZIZERaRTlMZFRGelZtbE5NR3A0ZUcxQk5rZHdjR2MxYW5abVEycGlUa05mY1hwWU1sVTVMVzlEWTA5TFkwSlFhalJGUkRkMFEyWklORUZoYUdKd01EaGZiVk5QV1c5TU1GQmtSRkpEYjJvNVZrbHlVMmR2YURCS2RtbFNUa3B5UlRST1VIaFNPV0ZGZDI5eVlYbG9URU5aYUdJNGMxVlBZVGsyVVVZME0wbGljbVZWYVVOMlJERjFTVmRXT0U1RlJrUTNWM0JTVUVsYVlYQlJVRlZIWm1aVk5saFRRblZMTUU5SGVHOUROMUJTY0VkUlExUnNSREJKTVdaSFlrRXhabEJRYzBWblRsWjNjVTVtUTJ4bU4yY3pOMnB6WjNoRVZoSVhjMTlQTVZwalptZEZZVTl0Y0hSUlVIWm1RMjk1UVdzYUlrRlFXR2h0TldGd01uTjRjSFJFY1VWT1MwUmhORlV3Vld4SlRVOXBUVWQzU2xFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyBBdCBBQ1MgLSBBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5IiwibGluayI6Imh0dHBzOi8vam9icy5hY3Mub3JnL2pvYi9XYXNoaW5ndG9uLVNlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci1EQy0yMDAzNi8xMTAwNjcxNjAwLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "WARNERMEDIA",
+      "location": "  Silver Spring, MD  (+1 other)    ",
+      "via": "via Careers At Warner Bros. Discovery",
+      "description": "Every great story has a new beginning, and yours starts here.\n\nWelcome to Warner Bros. Discovery… the stuff dreams are made of...\n\nWho We Are…\n\nWhen we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nMeet Our Team:\n\nThe Media Supply Chain Engineering team builds the applications and services that power Warner Bros Discovery’s content supply chain. Our applications cover the entire breadth of the media supply chain, from idea to distribution. We have a robust global community of thousands of internal Warner Bros Discovery users who rely on our apps every day to get television produced, on the air, and onto Max.\n\nWe’re looking for a developer who can be an integral part of our Media Supply Chain development team based in either New York City or Silver Spring, MD. We need a full stack developer who’s comfortable building, implementing, and consuming RESTful APIs for enterprise solutions. Our current service tier is a blend of Python microservices and Lambdas deployed within AWS. Our fleet of services works together in an event-driven workflow to guide content through acquisition and distribution workflows. We also build dashboard applications and monitoring tools using Angular web components.\n\nAs a full-stack developer you’d be working alongside our current development team that features other full-stack and developers as well as back-end developers and media workflow specialists. We don’t need you to be an expert in everything, but we need you to be comfortable in both microservice design and in UI coding. Requirements and designs don’t deliver set in stone, so we need you to be able to think on your feet and fill in the blanks when necessary.\n\nAs a Senior Developer, you will be part of the architecture and design of the solutions we’re building. We need a developer who’s comfortable proposing their own ideas for architecture as well as design, layout, and usability.\n\nWe work in a hybrid model, combining in-person interactions in our offices with remote work at home. Our team uses Slack, JIRA, Confluence and Zoom to help coordinate our work.\n\nRoles & Responsibilities:\n• Build application service layers and UIs to support Warner Bros Discovery’s content supply chain\n• Design and develop RESTful services within the supply chain. Build architectural diagrams that communicate what we need to build and how we need to build it and document what you build\n• Describe and defend your design and code decisions to other engineers, embrace constructive feedback, and adapt your approach to align with team and company standards and objectives.\n• Offer enhancements to best practices, document, design, and architecture improvements, and as feedback through code reviews to other engineers without continuous prompting or recurring encouragement. Other engineers appreciate your feedback.\n• Troubleshoot production issues by reviewing source code, logs, operational metrics, stack trace etc. to pinpoint a specific problem and then resolve it.\n\nWhat to Bring:\n• 5-8 years of experience as a software developer working on both back-end services and UIs\n• Experience with event driven architecture or asynchronous messaging services\n• Experience developing Single Page Applications with a modern UI framework\n• High proficiency and technical leadership with technologies on our stack including Python, MongoDB, and Lambdas\n• Experience deploying both containers and serverless tools with the AWS environment\n• Experience in media, M&E, or media engineering is a plus\n• Experience working within a SAFe Agile team, collaborating with others to build software and iteratively improving it\n• A willingness and ability to communicate with others on the team, participating in discussions with the team and with business stakeholders.\n• The ability to solve business problems with simple and straightforward solutions, applying appropriate technologies and software engineering best practices.\n• The ability to deliver high-quality results the first time and improve code, documentation, and results with each iteration. Your team trusts your work.\n\nWhat We Offer:\n• A Great Place to work\n• Equal opportunity employer\n• Fast track growth opportunities\n\nHow We Get Things Done…\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nThe Legal Bits…\nIn compliance with local law, we are disclosing the compensation, or a range thereof, for roles in locations where legally required. Actual salaries will vary based on several factors, including but not limited to external market data, internal equity, location, skill set, experience, and/or performance. Base pay is just one component of Warner Bros. Discovery’s total compensation package for employees. Pay Range: $98,910.00 - $183,690.00 salary per year. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Warner Bros. Discovery provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and sick time and vacation.\n\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you’re a qualified candidate and you require adjustments or accommodations to search for a job opening or apply for a position, please contact us at recruitadmin@wbd.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We don’t need you to be an expert in everything, but we need you to be comfortable in both microservice design and in UI coding",
+            "5-8 years of experience as a software developer working on both back-end services and UIs",
+            "Experience with event driven architecture or asynchronous messaging services",
+            "Experience developing Single Page Applications with a modern UI framework",
+            "High proficiency and technical leadership with technologies on our stack including Python, MongoDB, and Lambdas",
+            "Experience deploying both containers and serverless tools with the AWS environment",
+            "Experience working within a SAFe Agile team, collaborating with others to build software and iteratively improving it",
+            "A willingness and ability to communicate with others on the team, participating in discussions with the team and with business stakeholders",
+            "The ability to solve business problems with simple and straightforward solutions, applying appropriate technologies and software engineering best practices",
+            "The ability to deliver high-quality results the first time and improve code, documentation, and results with each iteration"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a full-stack developer you’d be working alongside our current development team that features other full-stack and developers as well as back-end developers and media workflow specialists",
+            "Build application service layers and UIs to support Warner Bros Discovery’s content supply chain",
+            "Design and develop RESTful services within the supply chain",
+            "Build architectural diagrams that communicate what we need to build and how we need to build it and document what you build",
+            "Describe and defend your design and code decisions to other engineers, embrace constructive feedback, and adapt your approach to align with team and company standards and objectives",
+            "Offer enhancements to best practices, document, design, and architecture improvements, and as feedback through code reviews to other engineers without continuous prompting or recurring encouragement",
+            "Troubleshoot production issues by reviewing source code, logs, operational metrics, stack trace etc",
+            "to pinpoint a specific problem and then resolve it"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "A Great Place to work",
+            "Equal opportunity employer",
+            "Fast track growth opportunities",
+            "Discovery’s total compensation package for employees",
+            "Pay Range: $98,910.00 - $183,690.00 salary per year",
+            "Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards",
+            "Discovery provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and sick time and vacation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=WARNERMEDIA&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCKcO",
+          "text": "See web results for WARNERMEDIA"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPQSC-Hn6uMiqIEWCbLfoakthb78W4Sy8M58S&s=0",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IkphMWdmM0tQY1Y5QkdlcmxBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJEWkhiVmRxYzFseGVuZHhSVmQwTVVodVpHbE5kek4yVTA4eFNYZzFVVk5tZFVoV1p6ZDZhRVpaYjJOa2RscE9SM0ZOTm5kWFpGRTVkRmhNTWtKWlptTm5MVVEzV1ZBNGVEVmZPVnBsUjFnNVZraEZiRXRoUkcxbE0yMVJMWFExZDFWR1J6VlpNbkI0ZWxkV0xYZzNZV1poTmxJelREbHZVa2hGVURCdFZXVmxiV0ozYTNSemRXb3hlblI1U0dsbWIzVnZjRjlEYjIxYVdrRkdNR1Z6U2t4d1dsbHliV0o0YVd0V05UTnNPWEZMY2tsRk5uZE9iR1ZVUkZCdmRtUXRXRXgxY25oUmQxTXRWVWwzVVd4T1pWaHdNVGRUYUU5UGFrOUlVUklYYzE5UE1WcGpabWRGWVU5dGNIUlJVSFptUTI5NVFXc2FJa0ZRV0dodE5Wb3dSSEUzWkVGMVlURkVWVUU0TmtVMk9FOUJaR3hQUWtaNVJWRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgQXQgV2FybmVyIEJyb3MuIERpc2NvdmVyeSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2JkLmNvbS9nbG9iYWwvZW4vam9iL1IwMDAwNzY1ODkvU2VuaW9yLVNvZnR3YXJlLUVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer, Lead Associate",
+      "company_name": "Peraton",
+      "location": "  Fort Meade, MD   ",
+      "via": "via Peraton Careers",
+      "description": "Basic Qualifications:\n• Bachelors degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelors degree.\n• Seven (7) years experience as a SWE, in programs and contracts of similar scope, type, and complexity...\n• Active TS SCI security clearance with a current polygraph is required.\n\nDesired Qualifications:\n• Backend Development experience preferred\n• Java, Spring Boot\n• Python proficiency desired\n\nPeraton offers enhanced benefits to employees working on this critical National Security program, which include heavily subsidized employee benefits coverage for you and your dependents, 25 days of PTO accrued annually up to a generous PTO cap and participation in an attractive bonus plan.\n\n#MPOJobs\n\n#AJCM\n\n#AJCM\n\nPeraton is seeking Software Engineer to support an Intel Community (IC) mission in the Ft. Meade and Annapolis Junction areas.\n\nResponsibilities will include:\n• Develop, maintain, and enhance complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements.\n• Work individually or as part of a team.\n• Review and test software components for adherence to the design requirements and documents test results. Resolve software problem reports.\n• Utilize software development and software design methodologies appropriate to the development environment. Provide specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors degree in Computer Science or related discipline from an accredited college or university is required",
+            "Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelors degree",
+            "Seven (7) years experience as a SWE, in programs and contracts of similar scope, type, and complexity",
+            "Active TS SCI security clearance with a current polygraph is required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop, maintain, and enhance complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements",
+            "Work individually or as part of a team",
+            "Review and test software components for adherence to the design requirements and documents test results",
+            "Resolve software problem reports",
+            "Utilize software development and software design methodologies appropriate to the development environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Peraton offers enhanced benefits to employees working on this critical National Security program, which include heavily subsidized employee benefits coverage for you and your dependents, 25 days of PTO accrued annually up to a generous PTO cap and participation in an attractive bonus plan"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.peraton.com/",
+          "text": "peraton.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Peraton&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCPUO",
+          "text": "See web results for Peraton"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJLypBfSmPT1RMjw4XWqmP57qs3zM69qqB6NF&s=0",
+      "extensions": [
+        "23 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "23 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgTGVhZCBBc3NvY2lhdGUiLCJodGlkb2NpZCI6Im5ZNkw5Z25CbDFfbnhQTkdBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJXeHBka3huVVdka1NsTnhZM1pST0ROTE1UWnhiVTlPWHpoVmJsWnBZbDgzUkUxVFVYa3hYelZJU0dvNU5DMU9iVmxhVnpSWE9DMVhMVWM1TmxsQk1DMXdYMFV4ZEVwRWVXOW9NVkV0TUVKelNHeEtkVVIxYmxWamFUQjRibTUwYjA1eldtSmlPSGhIUnpORVQyMHpaamcxVFRSSFZVczFSRkZLUjFacFpFaE5Zelp5UldGUVlrODBRbWREV25aTk5UTTNjM1JDV1hselZtTlVhME5aZVhGeWFVeEZPR0p3Vm1obmNFTjJhalZCV0daNWVsUjJjbmRDT1RBMWJraFZZbUpEV0Vwak9IaFdlSEY2YUdnMU9WbDVXVkZsVVdjd2VuRkpiM2hGTVRWMkxWQkhkVGgzVlZGTVpVaHFPWGxLV1V4R2RuSjFhM3BEWDJ4c1EyNWFWbFIyVjBKSVl4SVhjMTlQTVZwalptZEZZVTl0Y0hSUlVIWm1RMjk1UVdzYUlrRlFXR2h0TldKWmRXczVUbmxOVlhsSmVGTlBNMkZxVVdaSVN6a3lkR296YzNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUGVyYXRvbiBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5wZXJhdG9uLmNvbS9qb2JzL3NvZnR3YXJlLWVuZ2luZWVyLWxlYWQtYXNzb2NpYXRlLWZvcnQtbWVhZGUtbWFyeWxhbmQtMTQyNjY2LWpvYnM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Amentum",
+      "location": "  Dahlgren, VA   ",
+      "via": "via Amentum Careers",
+      "description": "Amentum is seeking a dedicated results-oriented SW Leader to support NSWC Dahlgren H20.\n\nSenior Software Engineer Responsibilities Include...\n• Lead a small Undersea Warfare (USW) SW development team\n• Primary tasking includes developing code for Foreign Military Sales (FMS) Fire Control System\n• Manage SW development schedule\n• Meet periodically with government leadership to provide project status\n• Identify and communicate development concerns to leadership\n• Mentor/lead junior developers\n• Work onsite at NSWC Dahlgren\n\nHere at Amentum, we believe in fostering a sense of belonging. We welcome diversity, encourage growth and development, promote safety first, and believe curiosity is the spark for innovation. We take care of our employees who in turn take care of our customers, driving the success of our business.\n\nMinimum Qualifications and experience:\n• A Bachelor’s of Science (BS) degree from an accredited college or university in an engineering, scientific, or technical discipline and seven (7) years of professional experience providing technical support in software requirement analysis, and designing, developing, testing, and maintaining software.\n• Must be able to obtain/maintain a Secret security clearance (at a minimum, must receive/be approved for an interim Secret security clearance in order to start) Note: US Citizenship is required to obtain a SECRET Clearance.\n• Software development experience with:\n• One or more of the following high-level computer languages: C/C++, Java\n• RedHat operating system, using standard UNIX/Linux tools and utilities\n• Implementation of track modeling and time algorithms\n• Inter-process communications based on publish/subscribe and client server models using TCP/IP sockets\n\nPreferred Experience:\n• Experience with design, development, and documentation of surface ship-related computer programs in high-order languages for microprocessor-based through medium scale computer systems environment, including experience with simulation systems, situational awareness systems and simulation systems that integrate with tactical systems.\n• Demonstrated capability to work collaboratively to provide sound design and development work product in conjunction with the efforts of engineering team leaders.\n• Demonstrated capability to utilize Agile-like software development methodology.\n• Demonstrated capability developing software in a multi-threaded/multi-process environment.\n• Experience with Unified Modeling Language (UML) in designing/documenting a software intensive object oriented system.\n• Experience testing software code for multiple hardware configurations.\n• Experience using NetBeans Integrated Development Environment.\n• Experience with Common Object Request Broker Architecture (CORBA).\n• Experience programming hardware drivers and firmware.\n• Experience using one or more of the following: VxWorks, Extensible Markup Language (XML), documenting software systems using HTML, Generic Data Extraction Analysis and Reduction (GeDEAR) framework.\n\nAmentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, religion, color, sex, gender, national origin, age, United States military veteran’s status, ancestry, sexual orientation, marital status, family structure, medical condition including genetic characteristics or information, veteran status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law.\n\nEEO is the Law Poster\n\nEEO is the Law Poster Supplement",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A Bachelor’s of Science (BS) degree from an accredited college or university in an engineering, scientific, or technical discipline and seven (7) years of professional experience providing technical support in software requirement analysis, and designing, developing, testing, and maintaining software",
+            "Must be able to obtain/maintain a Secret security clearance (at a minimum, must receive/be approved for an interim Secret security clearance in order to start) Note: US Citizenship is required to obtain a SECRET Clearance",
+            "One or more of the following high-level computer languages: C/C++, Java",
+            "RedHat operating system, using standard UNIX/Linux tools and utilities",
+            "Implementation of track modeling and time algorithms",
+            "Inter-process communications based on publish/subscribe and client server models using TCP/IP sockets"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Lead a small Undersea Warfare (USW) SW development team",
+            "Primary tasking includes developing code for Foreign Military Sales (FMS) Fire Control System",
+            "Manage SW development schedule",
+            "Meet periodically with government leadership to provide project status",
+            "Identify and communicate development concerns to leadership",
+            "Mentor/lead junior developers"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amentum.com/",
+          "text": "amentum.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602105358&q=Amentum&sa=X&ved=0ahUKEwiHhsruuf-DAxUjk4kEHT04CpkQmJACCMgP",
+          "text": "See web results for Amentum"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6Ijc4N24zRlhlN3BaRzZQaGhBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJUVjBlSGhuTUZOalkxSjZaVFpQTVhOd0xXNWZSbVU1Y2taRk9ITkhMVkZIUzJWNFMyUmZTMUJUZFRsNlpDMUZTVXBtWkc5aWEyZERPWEppWDJJMGRVSXRhbE56U2taR1FrdGlVVzVyV20xRmJtTklSVUZ0WlVOUU16TkVVRVpKVFVRMVlYRkVZVzVtY3pKWWRYUjZYM0ZhTkhKeVpqazRZa05oT0ZveVpqaFpiMDgyYWkwdExXRkdSa2RMU0VsSlExaDBSbkJGZW5wQmIxUk9XR0pVWTJ4eFJrazNkbTF5TWtsSlIwMUJVbU55V2sxMmJHaGxZVEJIV0VJM1RXeHRWR2h5TTFFMVRtZENaRVI1WDNORlNHbElURU5RZUZWMGFUZHdaeElYYzE5UE1WcGpabWRGWVU5dGNIUlJVSFptUTI5NVFXc2FJa0ZRV0dodE5XRlhYMk5EUkRKdmEzVnJabWN0WVdNeFUxZHpRMDAwVmtoaWEyYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE5IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFtZW50dW0gQ2FyZWVycyIsImxpbmsiOiJodHRwczovL3d3dy5hbWVudHVtY2FyZWVycy5jb20vam9icy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZGFobGdyZW4tdmlyZ2luaWEtdW5pdGVkLXN0YXRlcy0yMGFkMTkxNi1jZDI2LTQzNGItYjg2OS0xNTU1ODA1OTNhZTM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineers",
+          "value": "engineers"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Sr manager",
+          "value": "sr manager"
+        },
+        {
+          "text": "Android engineer",
+          "value": "android engineer"
+        },
+        {
+          "text": "Apprentice",
+          "value": "apprentice"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "Associate director",
+          "value": "associate director"
+        },
+        {
+          "text": "Computer science",
+          "value": "computer science"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Design engineer",
+          "value": "design engineer"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Graduate",
+          "value": "graduate"
+        },
+        {
+          "text": "Integration engineer",
+          "value": "integration engineer"
+        },
+        {
+          "text": "Product owner",
+          "value": "product owner"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Senior manager",
+          "value": "senior manager"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sw engineer",
+          "value": "sw engineer"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "New York, NY",
+          "value": "Owg_06VPwoli_nfhBo8LyA=="
+        },
+        {
+          "text": "Raleigh, NC",
+          "value": "9-BRny9arImt8BGKUraQZw=="
+        },
+        {
+          "text": "Baltimore, MD",
+          "value": "t4P01q4DyIlY5yNCqJZIBA=="
+        },
+        {
+          "text": "McLean, VA",
+          "value": "O3mKsew1tonx6vqtXrpijg=="
+        },
+        {
+          "text": "Washington, DC",
+          "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+        },
+        {
+          "text": "Chantilly, VA",
+          "value": "GXJnGVZBtomDrRZD_PBBQA=="
+        },
+        {
+          "text": "Philadelphia, PA",
+          "value": "60u11Ni3xonBWD6M2BT1iQ=="
+        },
+        {
+          "text": "Richmond, VA",
+          "value": "7cmZVwkRsYnFPELibT7Yvw=="
+        },
+        {
+          "text": "Annapolis Junction, MD",
+          "value": "zW-xYyLnt4mqAms5YL-SKQ=="
+        },
+        {
+          "text": "Jersey City, NJ",
+          "value": "3a-_JdJQwonZJc2iE_BJAg=="
+        },
+        {
+          "text": "Pittsburgh, PA",
+          "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+        },
+        {
+          "text": "Arlington, VA",
+          "value": "D6ene522t4mTsPZFyG_P-A=="
+        },
+        {
+          "text": "Herndon, VA",
+          "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+        },
+        {
+          "text": "Fort Meade, MD",
+          "value": "jdor14Tmt4l3A9bF4c3sbg=="
+        },
+        {
+          "text": "Columbia, MD",
+          "value": "UaBpY7Dft4ldY4e2Zb3W8A=="
+        },
+        {
+          "text": "Hanover, MD",
+          "value": "CR8SmSTit4kd1ecDfu3Bcw=="
+        },
+        {
+          "text": "Linthicum Heights, MD",
+          "value": "J9uwpJjit4ngAaPYxcmQdQ=="
+        },
+        {
+          "text": "Annapolis, MD",
+          "value": "1S9ncGX2t4lLJ6jT_VT4Qw=="
+        },
+        {
+          "text": "Clifton, NJ",
+          "value": "6drDvuL-wolTMn8iM1gZZA=="
+        },
+        {
+          "text": "Durham, NC",
+          "value": "8WYPEnHkrIl-8kaKidp64Q=="
+        },
+        {
+          "text": "Fredericksburg, VA",
+          "value": "JeDquuvBtomhkaYhCkWmfw=="
+        },
+        {
+          "text": "King of Prussia, PA",
+          "value": "LWNuLDWUxomVU8G_MZcJ-g=="
+        },
+        {
+          "text": "Sterling, VA",
+          "value": "rWH7IE84tolMhlUKz9C_BQ=="
+        },
+        {
+          "text": "Blacksburg, VA",
+          "value": "w9wG3AqVTYgt2kJI6rjOhg=="
+        },
+        {
+          "text": "Dahlgren, VA",
+          "value": "dVKV5Z0Zt4m186akTSyHZw=="
+        },
+        {
+          "text": "Englewood Cliffs, NJ",
+          "value": "Fw0eHkPxwon8GIPyu8YylA=="
+        },
+        {
+          "text": "Fairfax, VA",
+          "value": "zZFLOZZOtolAhkSF5yYjBw=="
+        },
+        {
+          "text": "Gaithersburg, MD",
+          "value": "tRPKJDYttok1cq2AgVqP4w=="
+        },
+        {
+          "text": "Hicksville, NY",
+          "value": "u3lvHeKAwomU2kg0LrOA5A=="
+        },
+        {
+          "text": "Hoboken, NJ",
+          "value": "0TMVjWBXwomHvzcRasq2RA=="
+        },
+        {
+          "text": "Lakehurst, NJ",
+          "value": "sR9Y4NBwwYkJS9D4GwiWgg=="
+        },
+        {
+          "text": "Laurel, MD",
+          "value": "0dxJ6BDdt4n8ks39Ll7NmA=="
+        },
+        {
+          "text": "Morrisville, NC",
+          "value": "10H8rmWSrIk-q6M_Ay-_4Q=="
+        },
+        {
+          "text": "Reston, VA",
+          "value": "5WUWJkdAtomfrnGo6K_fYw=="
+        },
+        {
+          "text": "Rockville, MD",
+          "value": "FZHj_iwqtokk38nZEL6l7A=="
+        },
+        {
+          "text": "Springfield, VA",
+          "value": "nTrlhehNtokEpfoWJG_nZw=="
+        },
+        {
+          "text": "Tysons, VA",
+          "value": "-Vv4YvBKton6332u8QVIfA=="
+        },
+        {
+          "text": "Virginia Beach, VA",
+          "value": "pycV_OjBuolzAS6jgBAWBA=="
+        },
+        {
+          "text": "Wilmington, DE",
+          "value": "b69GXBgPx4kAjDB3UNoWhQ=="
+        },
+        {
+          "text": "Aberdeen Proving Ground, MD",
+          "value": "KbNtG83Bx4k4Bv9eIdQTUA=="
+        },
+        {
+          "text": "Alexandria, VA",
+          "value": "8aukkz5NtoksAcHbhib11w=="
+        },
+        {
+          "text": "Ashburn, VA",
+          "value": "V8n8ZvEVtolbPR6xbjHaCQ=="
+        },
+        {
+          "text": "Austin, PA",
+          "value": "WehWF_zczYlYW7spESiV6Q=="
+        },
+        {
+          "text": "Bala Cynwyd, PA",
+          "value": "7e-ZaKK4xols4Jb3ae4UaQ=="
+        },
+        {
+          "text": "Bethesda, MD",
+          "value": "LQIkarfLt4kNzStq93myJg=="
+        },
+        {
+          "text": "Charlottesville, VA",
+          "value": "j6RQ6i2Gs4n8dIvDlvCGkA=="
+        },
+        {
+          "text": "Cockeysville, MD",
+          "value": "Z4DtpGcSyIkDNpvSwWL1mg=="
+        },
+        {
+          "text": "Cranberry Township, PA",
+          "value": "D2EEK1p9NIjTHvd9YXlJfg=="
+        },
+        {
+          "text": "Dover, DE",
+          "value": "rV5odTNjx4nwbAD7R-TiqQ=="
+        },
+        {
+          "text": "Dulles Town Center, VA",
+          "value": "e7hCkKQ5tomgWTJqZ0G0mA=="
+        },
+        {
+          "text": "East Orange, NJ",
+          "value": "w4KJlbVUwokSJloFMTmrtg=="
+        },
+        {
+          "text": "Elkridge, MD",
+          "value": "eyqwYuzht4khMqpVJdF_FA=="
+        },
+        {
+          "text": "Fairmont, WV",
+          "value": "cXFfqtp9SohrkUdNIXF32g=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Textiles & Apparel",
+          "value": "/business/naics2007/313"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Meta",
+          "value": "/m/0hmyfsv"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Bloomberg",
+          "value": "/m/027sm6"
+        },
+        {
+          "text": "Datadog",
+          "value": "/m/0wfvvyq"
+        },
+        {
+          "text": "Peraton",
+          "value": "/g/11g9mq8fj6"
+        },
+        {
+          "text": "Amentum",
+          "value": "/g/11j2vydq82"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "Parsons Corporation",
+          "value": "/m/0dxqn8"
+        },
+        {
+          "text": "Amazon Web Services (AWS)",
+          "value": "/m/0rznzt1"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Duolingo",
+          "value": "/g/11fy1sp_cm"
+        },
+        {
+          "text": "Fidelity Investments Careers",
+          "value": "/m/028q26"
+        },
+        {
+          "text": "Giant Eagle",
+          "value": "/m/05f0pg"
+        },
+        {
+          "text": "GoodRx",
+          "value": "/g/11df0pkp5v"
+        },
+        {
+          "text": "Johns Hopkins University",
+          "value": "/m/09kvv"
+        },
+        {
+          "text": "Northrop Grumman",
+          "value": "/m/01frpd"
+        },
+        {
+          "text": "Ramp",
+          "value": "/g/11vc3pp9sw"
+        },
+        {
+          "text": "S&P Global",
+          "value": "/m/02_nl4"
+        },
+        {
+          "text": "Sirius XM",
+          "value": "/m/02pljbm"
+        },
+        {
+          "text": "Susquehanna International Group, LLP (SIG)",
+          "value": "/m/02ql0fl"
+        },
+        {
+          "text": "The Job Network",
+          "value": "/g/11fy242zjg"
+        },
+        {
+          "text": "US Mobile",
+          "value": "/g/11g9n6s7hz"
+        },
+        {
+          "text": "Warner Music Inc.",
+          "value": "/m/09m9z05"
+        },
+        {
+          "text": "EBay",
+          "value": "/m/0z90c"
+        },
+        {
+          "text": "ALTA IT Services, LLC",
+          "value": "/g/11c73rh63j"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "AbbVie",
+          "value": "/m/0rzs09c"
+        },
+        {
+          "text": "Acclaim Technical Services",
+          "value": "/g/11f018qhw6"
+        },
+        {
+          "text": "Aimsun",
+          "value": "/g/11gxm7dg54"
+        },
+        {
+          "text": "Align",
+          "value": "/m/02h67kb"
+        },
+        {
+          "text": "Alloy Automation",
+          "value": "/g/11mpht4pvs"
+        },
+        {
+          "text": "AlphaSense",
+          "value": "/m/011v7kq3"
+        },
+        {
+          "text": "Amazon",
+          "value": "/m/0mgkg"
+        },
+        {
+          "text": "American Chemical Society",
+          "value": "/m/027bv9"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        },
+        {
+          "text": "Angi",
+          "value": "/m/0bf114"
+        },
+        {
+          "text": "Asurion",
+          "value": "/m/0765wf"
+        }
+      ]
+    }
+  ]
+}

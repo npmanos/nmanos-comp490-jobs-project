@@ -1,0 +1,1190 @@
+{
+  "search_metadata": {
+    "id": "65b892a7eb690fe532282f63",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b892a7eb690fe532282f63.json",
+    "created_at": "2024-01-30 06:09:43 UTC",
+    "processed_at": "2024-01-30 06:09:43 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b892a7eb690fe532282f63.html",
+    "total_time_taken": 2.6
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer, Full Stack",
+      "company_name": "Jobs for Humanity",
+      "location": "  Naperville, IL   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\nCenter 3 (19075), United States of America, McLean, Virginia\n\nSenior Software Engineer, Full Stack\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of experience in software engineering (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go\n• 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer\n\nSan Francisco, California (Hybrid On-Site): $174,900 - $199,700 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of experience in software engineering (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "New York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCNkJ",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEZ1bGwgU3RhY2siLCJodGlkb2NpZCI6InlnT2NsVlhZeGoxYV90RTBBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJHNVRkblp4V2xCaFZFWk5jWEk1VG1sNVQybDBURFIxZW1Oc1h6WlNSblptUnpCMVdVaFVRVWRPTVRZNFFXa3RabVZvWlV4TVZsOUhSa2RUY0ZCVk16bHNXWGcyWm1rdFVTMVRSMVUyTFRWTFdtaFVXVEpzY25wQlprMWtlRkJ3VUZOdlZWa3lMV1pDZDFsdWFHcEJSbGhDZDNsTFZ6bDJWVjluT0V0TmNEZDBVSE5OTjFKVFNrVmFMVVZRYTB4Vk0wZDZNVWh6WjJaMGNYTkJkSEZhVmxrNVFVRnBkVjlNU1RGNlFtUnFhMUJ6YzFaT1JFbHJlVFZZWkVjMlZHVmhSRUZtUzFWd1VsZzVZWFo2Ym1SVlIyUTNla0ZTWVROSllrb3lTMDVmUkZOTU1WaHpNRmhJWnpZNE1FY3lUWE5MT0JJWGNVcExORnBoV0dORlVFdHNjSFJSVURGaWFWUm5RVEFhSWtGUVdHaHROV0V6U2xWUFpUSXpSbmhKWm10S1YwWmxkWEJGTWs4dE5HbFNiVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWZ1bGwtc3RhY2stYXQtam9icy1mb3ItaHVtYW5pdHktMzgxNTc0MjQzOT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "company_name": "Walgreens",
+      "location": "  Chicago, IL   ",
+      "via": "via Walgreens",
+      "description": "Job Summary:\n\nThis role managers a team of software engineers responsible for providing desired functionality to assigned digital content, products and/or services...\n\nJob Responsibilities:\n• Manages a team of software engineers responsible for providing desired functionality to assigned digital content, products or services.\n• Manages the development, testing and implementation of software that meets established specifications on time and within budget.\n• Analyzes and investigates applications engineering tasks and prepares design specifications, analysis, and recommendations.\n• Manages the activities of software development, enhancements and new products including cloudbased or internet-related programs.\n• Oversees the analysis, design, programming, debugging, and modification of computer programs for commercial or end user applications\n• Ensures that features deployed have technical integrity and stability.\n• Understands short and long-term goals and objectives and recommend technical solutions and services.\n• May develop budget for functional area. Manages budget to plan. May be accountable for area budget and delivering against business goals/objectives.\n• Stays abreast of industry leading best practices and brings them to the attention of the leadership team for innovative application. May develop partnerships (and relationships) with internal and external stakeholders to meet business needs.\n• Allocates available resources to meet operating objectives. Develops and mentors staff through onboarding, open communication, training and development opportunities and performance management processes; builds and maintains employee morale and motivation; ensures the team is appropriately staffed with required competencies; fosters a diverse and inclusive workplace.\nAbout Walgreens and WBA\n\nWalgreens www.walgreens.com is included in the U.S. Retail Pharmacy and U.S. Healthcare segments of Walgreens Boots Alliance, Inc. Nasdaq WBA, an integrated healthcare, pharmacy and retail leader with a 170 year heritage of caring for communities. WBAs purpose is to create more joyful lives through better health. Operating nearly 9,000 retail locations across America, Puerto Rico and the U.S. Virgin Islands, Walgreens is proud to be a neighborhood health destination serving nearly 10 million customers each day. Walgreens pharmacists play a critical role in the U.S. healthcare system by providing a wide range of pharmacy and healthcare services, including those that drive equitable access to care for the nations medically underserved populations. To best meet the needs of customers and patients, Walgreens offers a true omnichannel experience, with fully integrated physical and digital platforms supported by the latest technology to deliver high quality products and services in communities nationwide",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role managers a team of software engineers responsible for providing desired functionality to assigned digital content, products and/or services",
+            "Manages the development, testing and implementation of software that meets established specifications on time and within budget",
+            "Analyzes and investigates applications engineering tasks and prepares design specifications, analysis, and recommendations",
+            "Manages the activities of software development, enhancements and new products including cloudbased or internet-related programs",
+            "Oversees the analysis, design, programming, debugging, and modification of computer programs for commercial or end user applications",
+            "Ensures that features deployed have technical integrity and stability",
+            "Understands short and long-term goals and objectives and recommend technical solutions and services",
+            "May develop budget for functional area",
+            "Manages budget to plan",
+            "May be accountable for area budget and delivering against business goals/objectives",
+            "Stays abreast of industry leading best practices and brings them to the attention of the leadership team for innovative application",
+            "May develop partnerships (and relationships) with internal and external stakeholders to meet business needs",
+            "Allocates available resources to meet operating objectives"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.walgreens.com/",
+          "text": "walgreens.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Walgreens&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCKYK",
+          "text": "See web results for Walgreens"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYL4u4xk7bcs5z9D-EWiP6atEXAh7NumiClf0Fac&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBTb2Z0d2FyZSBFbmdpbmVlcmluZyIsImh0aWRvY2lkIjoiZy1jRlFJMzg3QS12THA4TUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTFoM2JsUkZja2RwTUdWMFIzRm1TR1pTZUVKaWIwODNlV1ZWVnpkak5VOHdVMEptVDBjeFFtbEROa2M1VUU1WloyeDFlVUpHVjFNMFlrMUNkbE5WWDBabllVMWpNVk41YmpOZmJYZFZhRmw1V2w4emJWZHhTMkU1VkRkVVdIQjNSa2RvV21OaE9GWTNVVzlwWTBsaGJHOXNkV2hVYWpsNE5YWnRSR0ZrYVVoRE5ERjRSVWRJVjB0MWRsTnVXbll5TFhVeVZVbGZUak5KTVVoS1JrbFhhR3BSYkVSNFpuZHlTMUJhUVZSd1YxUlNVMGw2WVRKa05sTkllVVptYldsc1JHNUNZa0prUjJ3MVdXeGxaRVZxY0VkcGVEQkNVVTVaY0RCZlVSSVhjVXBMTkZwaFdHTkZVRXRzY0hSUlVERmlhVlJuUVRBYUlrRlFXR2h0TldGaVZVMDBSRUZCZURNNFZYazFkM2xyWDFsSGJuRXhhakJGVUdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXYWxncmVlbnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLndhbGdyZWVucy5jb20vZW4vam9iL2NoaWNhZ28vbWFuYWdlci1zb2Z0d2FyZS1lbmdpbmVlcmluZy8xMjQyLzU4OTIwODQyNTQ0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer, Full Stack (Go, Java, Angular)",
+      "company_name": "Jobs for Humanity",
+      "location": "  Joliet, IL   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\nWest Creek 1 (12071), United States of America, Richmond, Virginia\n\nSenior Software Engineer, Full Stack (Go, Java, Angular)\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. The Rewards Team is seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 2 years of experience in software engineering (Internship experience does not apply)\n\nPreferred Qualifications:\n• 3+ years of experience in the following: Go, Java, AngularJS, Python, SQL\n• 1+ years of experience with AWS\n• 2+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 2 years of experience in software engineering (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCOsK",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEZ1bGwgU3RhY2sgKEdvLCBKYXZhLCBBbmd1bGFyKSIsImh0aWRvY2lkIjoiam9DU0l6VVdYY2Utdm9JaEFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYlUxV1ZIWmxXakZRUVcxSlRVOWxPWEJxUVZWQmVHUjNSbTgxYTJGdGFYRk5VSFZ4UXpreWFTMUxPR1ZJY1hCcE1qTjBVVkI0V1U5TU5FcEZXaTEzUlcxWWVtZEtXRkJxWDJKQmVWaDVNbmxDZG5CaldrdDRjMmMzYW00eVMyeFhYMU54YWtkeU55MTRVSFJwTFV4UFYyVTNUall5UzBSQmJVNHpNM295YlhkdmNsWmhkWFpwVEdGd2MxUkxibVpKWjJVMmFtNUNWbmx0WkRSM2NVbGpRMGhzWjJrM04wcFFaUzE2Y1dGbVFYVk1TV0pPT1RoWFREQlRSRlV3U0hWWFNEQTRMVnBXWkU5TGVFazJXbXBRU214eFYxWlZlbHBPTFVkelFVbFhhblpFVmxwTFJuZ3hPVUpOVjJSSVJrMDJObDkxUVc1Q1FYZGFPSE42TTFORFpqQlpWR0kyTlJJWGNVcExORnBoV0dORlVFdHNjSFJSVURGaWFWUm5RVEFhSWtGUVdHaHROV0ZCVEdsck5WVlJWa3BzYUVJNE5rRk5RalI0Y1hoTFFXSm1VV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWZ1bGwtc3RhY2stZ28tamF2YS1hbmd1bGFyLWF0LWpvYnMtZm9yLWh1bWFuaXR5LTM4MTYwMDU5MDU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "WARNERMEDIA",
+      "location": "  Chicago, IL   ",
+      "via": "via Careers At Warner Bros. Discovery",
+      "description": "Every great story has a new beginning, and yours starts here.\n\nWelcome to Warner Bros. Discovery… the stuff dreams are made of...\n\nWho We Are…\n\nWhen we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nThe creative team that brought Mortal Kombat and Injustice to life is now NetherRealm Studios, part of the Warner Bros. Games family. With over 20 years of creation under our belts, NetherRealm’s mission remains the same: to create cutting edge entertainment and deliver industry leading tech, game art and overall gaming experiences. NetherRealm Studios is a collaborative and creative environment, constantly striving to up the ante on what is possible in interactive entertainment. Our team is comprised of dedicated professionals with years of experience who are at the forefront of the gaming industry. The passion and energy that made Mortal Kombat a reality is still on display every day in our offices, our hallways and most definitely the studio’s arcade room.\n\nYour New Role…\n\nNetherrealm Studios, a division of WB Games Inc., seeks a Senior Software Engineer -Gameplay, to work with the game development team responsible for Mortal Kombat and Injustice 2 to help make Netherrealm’s next project it’s most successful to date.\n\nAs a member of the gameplay team, you will work closely with your team lead and the gameplay programming team to plan, implement and maintain new and existing features. You will also regularly work with the art and design teams in their efforts to create compelling game experiences. The position offers many opportunities to share experience, knowledge, and expertise across the team and code base.\n\nAs a Senior Gameplay Engineer, your domain will span as much of the codebase as your skills and interests dictate. You will be expected to drive feature development forward and see that they are brought to a shippable quality. In addition, you should be comfortable mentoring and giving constructive feedback to junior developers.\n\nYour Role Accountabilities…\n• Design, author, maintain and refactor scalable game systems that meet all design, technical and schedule requirements\n• Work closely with art and design to prototype and iterate on game features\n• Author, review and provide feedback on technical and end-user documentation of game systems\n• Optimize and fix bugs in existing gameplay systems\n• Review and provide feedback of systems developed by other members of the team.\n• Collaborate with team lead and production staff to build and maintain realistic schedules and identifying dependencies\n• Coordinate with QA and leads to ensure stability and successful roll out of new features to the team and establish testing and maintenance of systems\n\nQualifications & Experience…\n• 6+ years professional C/C++ programming\n• Comfortable with extending and improving an established code base\n• A passion for software and problem solving\n• Excellent communication and interpersonal skills\n• Self-motivated, strong work ethic, and able to work independently\n• Ability to design and implement systems and APIs used by non-programmers\n• Development experience shipping one or more game titles or equivalent experience a plus\n• Console experience preferred\n• Unreal Engine experience preferred\n\nHow We Get Things Done…\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nThe Legal Bits…\n\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you’re a qualified candidate and you require adjustments or accommodations to search for a job opening or apply for a position, please contact us at recruitadmin@wbd.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "6+ years professional C/C++ programming",
+            "Comfortable with extending and improving an established code base",
+            "A passion for software and problem solving",
+            "Excellent communication and interpersonal skills",
+            "Self-motivated, strong work ethic, and able to work independently",
+            "Ability to design and implement systems and APIs used by non-programmers"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a member of the gameplay team, you will work closely with your team lead and the gameplay programming team to plan, implement and maintain new and existing features",
+            "You will also regularly work with the art and design teams in their efforts to create compelling game experiences",
+            "As a Senior Gameplay Engineer, your domain will span as much of the codebase as your skills and interests dictate",
+            "You will be expected to drive feature development forward and see that they are brought to a shippable quality",
+            "In addition, you should be comfortable mentoring and giving constructive feedback to junior developers",
+            "Design, author, maintain and refactor scalable game systems that meet all design, technical and schedule requirements",
+            "Work closely with art and design to prototype and iterate on game features",
+            "Author, review and provide feedback on technical and end-user documentation of game systems",
+            "Optimize and fix bugs in existing gameplay systems",
+            "Review and provide feedback of systems developed by other members of the team",
+            "Collaborate with team lead and production staff to build and maintain realistic schedules and identifying dependencies",
+            "Coordinate with QA and leads to ensure stability and successful roll out of new features to the team and establish testing and maintenance of systems"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=WARNERMEDIA&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCL8L",
+          "text": "See web results for WARNERMEDIA"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPQSC-Hn6uMiqIEWCbLfoakthb78W4Sy8M58S&s=0",
+      "extensions": [
+        "15 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "15 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IkNHOGJ6OW11T19mai03QVRBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJsb3dPV1kyWjJ0dFdrRkNWak5HZVZwSVZHeGpiV2M1WW1KNVJGVnZWM2R3YWpCNGJWUlpTRnBXUm05SGNETTNORkl0Ukdaa1lUZG5MVGx2T1hsSmVpMTNSRmt4ZGxFNFZrUmxkV3AzVld3dFZHeGpkSEJTWTFNdFVUQnFMVTVSUjBwTlVHVnpSRkZsYlMxd1VrODRjMFJWVUdVeWJIUkpORmRRYkV4NVRsaFlRekpFTFhaallVUm1SRzVhWHpGUU9FSm5TbGxRY1RGVFEweHhlbGRVVUhGd1NrTkVMVGhEWlRsTk9XNVJkR293Wm05S1RGQnNPR1Z0YXpSaVRFVlNVRFpqYjFWaFVFVjRTbTlHUTB4RlNYTkxkRjlzWDB0TWRIcHFaeElYY1VwTE5GcGhXR05GVUV0c2NIUlJVREZpYVZSblFUQWFJa0ZRV0dodE5WcGtTbkJLUlVoaU1YcEhXR1JFZUVsaVVYaDBlWEo2V0hWdU1HYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBXYXJuZXIgQnJvcy4gRGlzY292ZXJ5IiwibGluayI6Imh0dHBzOi8vY2FyZWVycy53YmQuY29tL2dsb2JhbC9lbi9qb2IvUjAwMDA1OTMxMC9TZW5pb3ItU29mdHdhcmUtRW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Manager of Software Engineering (multiple positions)",
+      "company_name": "Morningstar",
+      "location": "  Chicago, IL   ",
+      "via": "via Careers At Morningstar | Morningstar Jobs - Morningstar",
+      "description": "Job Title: Manager of Software Engineering (multiple positions)\n\nLocation: Chicago, IL...\n\nResponsibilities:\n• Drive the technical vision for our data, BI and analytics initiatives and execute on that vision.\n• Build a high-quality data warehouse that is built for scale. Ensure the accuracy and quality of our data.\n• Direct the work of a team of data engineers. Manage the delivery of high impact dashboards and analytics.\n• Research new technologies that help solve business problems in new and creative ways.\n• Continually learn, improve, and model good citizenship in the organization and code base.\n• Act as a role model and mentor to team and community engineers.\n• This position supervises a team of Software Engineers.\n\nRequirements:\n• Bachelor’s degree in Computer Application, Computer Science, Mathematics, or a related field, or foreign equivalent.\n• 8 years of relevant data engineering and BI experience in Software Consultant, Programmer Analyst, Software Developer, or related position.\n• This position also requires experience working with and architecting cloud native applications with Amazon Web Services;\n• Experience working within an agile squad and delivering software on a frequent basis (e.g.aily); and\n• Experience scaling and managing a team of engineers.\n\nMust possess unrestricted right to work in the U.S. in this position\n\nMorningstar Investment Management LLC is an equal opportunity employer.\n002_MstarAssocLLC Morningstar Investment Management LLC Legal Entity\n\nIf you receive and accept an offer from us, we require that personal and any related investments be disclosed confidentiality to our Compliance team (days vary by region). These investments will be reviewed to ensure they meet Code of Ethics requirements. If any conflicts of interest are identified, then you will be required to liquidate those holdings immediately. In addition, dependent on your department and location of work certain employee accounts must be held with an approved broker (for example all, U.S. employee accounts). If this applies and your account(s) are not with an approved broker, you will be required to move your holdings to an approved broker.\n\nMorningstar’s hybrid work environment gives you the opportunity to work remotely and collaborate in-person each week. While some positions are available as fully remote, we’ve found that we’re at our best when we’re purposely together on a regular basis, typically three days each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you’ll have tools and resources to engage meaningfully with your global colleagues",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Application, Computer Science, Mathematics, or a related field, or foreign equivalent",
+            "8 years of relevant data engineering and BI experience in Software Consultant, Programmer Analyst, Software Developer, or related position",
+            "This position also requires experience working with and architecting cloud native applications with Amazon Web Services;",
+            "Experience working within an agile squad and delivering software on a frequent basis (e.g.aily); and",
+            "Experience scaling and managing a team of engineers",
+            "Must possess unrestricted right to work in the U.S. in this position"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Drive the technical vision for our data, BI and analytics initiatives and execute on that vision",
+            "Build a high-quality data warehouse that is built for scale",
+            "Ensure the accuracy and quality of our data",
+            "Direct the work of a team of data engineers",
+            "Manage the delivery of high impact dashboards and analytics",
+            "Research new technologies that help solve business problems in new and creative ways",
+            "Continually learn, improve, and model good citizenship in the organization and code base",
+            "Act as a role model and mentor to team and community engineers",
+            "This position supervises a team of Software Engineers"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.morningstar.com/",
+          "text": "morningstar.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Morningstar&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCJMM",
+          "text": "See web results for Morningstar"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyIG9mIFNvZnR3YXJlIEVuZ2luZWVyaW5nIChtdWx0aXBsZSBwb3NpdGlvbnMpIiwiaHRpZG9jaWQiOiJBZDRCNkctcVhRSi1yS1JrQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpibE5oYWtjM1RUSm9ORXBIV0c4MExWSXRjMmM0UVhGeGRqRlFUR2syWm5Fd2VEYzRiM0JPYUV4dFMzUkxkRXd3Ums1RlRuYzVNams0WkdKaU4yUkRja0pQT0hwcWNVTnlia2RTWjJoRFRURnVZbFIyUzNWaGJITk1haTFCUVRjMFkzTnlPVkExTjFScFZGWnpOMGhCTTB4U01HMVZaMUF5TjJKV1MwczJPRGhETjFGMlJrcHJMVmRxZFZKQ2NubFVURVpYYnpSRVZITmxPVkF6UkVWVk9DMXFlQzFNT1VFMlRUaHBaREJMTFd0d1JrcFNVbWt0VmpnelN6RXpXRFZLTFVaVFVuWmlYekZvUzBGSVNtTkRkRGwyUVdsS05UaG5ibkE1WW5GM1RGTnpWVmxaYm5neVUxTmZiR3R0V0d4TlZIZzFTbGxyYTJOWlJsVmhWR0ZPYkhRNExVMVJUaElYY1VwTE5GcGhXR05GVUV0c2NIUlJVREZpYVZSblFUQWFJa0ZRV0dodE5XSndkR0ZSVjI0MGFsSmpWRWMxTUdwQmRpMDRjWFY0WWpORFQwRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBNb3JuaW5nc3RhciB8IE1vcm5pbmdzdGFyIEpvYnMgLSBNb3JuaW5nc3RhciIsImxpbmsiOiJodHRwczovL2NhcmVlcnMubW9ybmluZ3N0YXIuY29tL3VzL2VuL2pvYi9SRVEtMDQzNDE5L01hbmFnZXItb2YtU29mdHdhcmUtRW5naW5lZXJpbmctbXVsdGlwbGUtcG9zaXRpb25zP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Entry Level Software Engineer (Chicago, IL)",
+      "company_name": "Motorola Solutions",
+      "location": "  Chicago, IL   ",
+      "via": "via Built In Chicago",
+      "description": "Company Overview\n\nAt Motorola Solutions, we're guided by a shared purpose - helping people be their best in the moments that matter - and we live up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We're solving for safer by building the best possible technologies across every part of our safety and security... ecosystem. That's mission-critical communications devices and networks, AI-powered video security & access control and the ability to unite voice, video and data in a single command center view. We're solving for safer by connecting public safety agencies and enterprises, enabling the collaboration that's critical to connect those in need with those who can help. The work we do here matters.\n\nDepartment OverviewAt Motorola Solutions, we create technologies our customers refer to as their lifeline. Our technology platforms in communications, software, video and services help our customers work safely and more efficiently. Whether it’s helping firefighters see through smoke, enabling police officers to see around street corners, or reliably keeping the lights on in homes and businesses around the world, our work supports those who put their lives on the line to keep us safe. Bring your passion, potential and talents to Motorola Solutions, and help us usher in a new era in public safety and security.\nOur team consists of experienced professionals always looking for new ways of doing things and introducing techniques that promote adaptability and flexibility in the face of unpredictable circumstances. That includes technologies and practices. We are looking for self motivated, innovative individuals to help drive the next generation public safety experience.\nJob Description\n\nWe work in Scrum methodology. You will be responsible for designing, developing, unit testing, and integrating software to support the development, enhancement, and maintenance of elements of the telecommunication infrastructure. You will collaborate with other teams across our global organization.\n\nDesired Skills:\n• Practical knowledge of using a version control system like GIT\n• Basic knowledge of telecommunications technologies\n• Experience with automation environments (eg. Jenkins)\n• Knowledge of software micro-services technologies such as Docker, Kubernetes, Elastic Stack, Nodejs.\n• Knowledge of Perl / Powershell, Python\n• Knowledge of Network Protocols (TCP/IP, TLS, UDP)\n• Awareness of widely successful Agile techniques: User Stories, ATDD, TDD, Continuous Integration, Continuous Testing, Pairing, Automated Testing\n\nBasic Requirements\n• Bachelor's degree or Master's degree in Computer Science, Computer Engineering, or a related technical discipline is required.\n• Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).\n\nTravel RequirementsNone\nRelocation ProvidedNone\nPosition TypeNew Grad\nReferral Payment PlanNo\n\nOur U.S. Benefits include:\n• Incentive Bonus Plans\n• Medical, Dental, Vision benefits\n• 401K with Company Match\n• 9 Paid Holidays\n• Generous Paid Time Off Packages\n• Employee Stock Purchase Plan\n• Paid Parental & Family Leave\n• and more!\n\nEEO Statement\n\nMotorola Solutions is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran's status, or, any other protected characteristic",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Knowledge of software micro-services technologies such as Docker, Kubernetes, Elastic Stack, Nodejs",
+            "Knowledge of Perl / Powershell, Python",
+            "Knowledge of Network Protocols (TCP/IP, TLS, UDP)",
+            "Awareness of widely successful Agile techniques: User Stories, ATDD, TDD, Continuous Integration, Continuous Testing, Pairing, Automated Testing",
+            "Bachelor's degree or Master's degree in Computer Science, Computer Engineering, or a related technical discipline is required",
+            "Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We work in Scrum methodology",
+            "You will be responsible for designing, developing, unit testing, and integrating software to support the development, enhancement, and maintenance of elements of the telecommunication infrastructure",
+            "You will collaborate with other teams across our global organization"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our U.S. Benefits include:",
+            "Incentive Bonus Plans",
+            "Medical, Dental, Vision benefits",
+            "401K with Company Match",
+            "9 Paid Holidays",
+            "Generous Paid Time Off Packages",
+            "Employee Stock Purchase Plan",
+            "Paid Parental & Family Leave"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.motorolasolutions.com/",
+          "text": "motorolasolutions.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Motorola+Solutions&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCOIM",
+          "text": "See web results for Motorola Solutions"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqzO0XAaPSm2ksWL-QnVLtyR7BMM7VUz_uhi8xSfZGLwQikxT15xAqrN4&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBTb2Z0d2FyZSBFbmdpbmVlciAoQ2hpY2FnbywgSUwpIiwiaHRpZG9jaWQiOiJ5T2RxaXJkWlBxd3ZXaGxTQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpiV1F3ZERsTE5EVnVaMTlPTUdORWFtRXhSbTgwV0VkSFpGWkpkRkZQZDFwMWFWWkpWWFZpZVRaVmF6WlpkVGd3VG14Rk16VnRPV1UyTm10QmFFWlBNbGgzY3psRlpYVnNYekp2Y25WSmRIWkhiek50TFZwSFZXMTZVMnBsV0doNGVsQkJkR0Z4V25kdFRtSnphRk5XVUZoTFNVbGhkM1ZuWDE5aWF6TjFiaTFDWWpGMVJYazVXbWh0YUVsRFMxWjFTazkzVTFSaVdDMXRSbEJ0VkhvelEwZzNkRVJvTVZNNVFqaG5kMmxGYlRSTmRrWlljVXB0ZEhSbWNYSllNRkUwYVVoeGRFWlllRFZDTm5ZMmIwUTBXbmRmUVRWS1drSXlWeTFOYVhaUmRrWnBWakJ4VVRJelZreElaVGt6TFRGb1FUWmZlRGcwVURjNVEwdzJWRUZGYm01emFqQmZOUklYY1VwTE5GcGhXR05GVUV0c2NIUlJVREZpYVZSblFUQWFJa0ZRV0dodE5XRmtaMmhtWm1SUWVteFhaR1poVGtwTlYyWmxlbGxpVXpnelRFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQnVpbHQgSW4gQ2hpY2FnbyIsImxpbmsiOiJodHRwczovL3d3dy5idWlsdGluY2hpY2Fnby5vcmcvam9iL2VudHJ5LWxldmVsLXNvZnR3YXJlLWVuZ2luZWVyLzIzOTY3OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Syndigo",
+      "location": " Anywhere ",
+      "via": "via ZipRecruiter",
+      "description": "Here at Syndigo, we're enabling our clients to deliver better eCommerce experiences. We're the data behind how people feel when they shop online with confidence!\n\nBasically, we're the accurate data behind how people feel when they shop online with confidence...\n\nSyndigo’s engineering team is looking for a back-end software engineer who knows Angular to join the team as an individual contributor. The role will require knowledge of coding best practices and understanding of web frameworks and all browsers.\n\nThis role can be a fully remote role from anywhere in the United States.\n\nHOW YOU MAKE AN IMPACT\n\nSyndigo is looking for a backend software engineer who knows Microsoft C# with .NET Core/.NET 5+ to join our engineering team. This role will require a strong interest in, or experience with, text processing algorithms and/or natural language processing, REST API development of microservices, code integration and maintenance, along with experience writing unit tests. Projects will primarily focus on contributing to a large existing codebase to deal with data: particularly in assessing the quality of data, and manipulation of data for diverse purposes. It is expected that this role will work with partner teams to help define appropriate requirements and to troubleshoot problems.\n\nHOW WE’LL BE WINNING TOGETHER DAY BY DAY\n• Design, develop, and enhance algorithms for manipulating data, with a focus on text parsing and analysis\n• Design, develop, and enhance REST APIs for microservices, built on ASP.NET Core\n• Work with a large existing code base, integrating new functionality as well as troubleshooting and enhancing existing functionality\n• A strong focus on high quality, highly performant, and re-usable Object Oriented code\n• Familiarity with Agile and Kanban methodologies for Software Development Lifecycle, or similar concepts\n• Familiarity with tools such as Postman or Fiddler for manual API testing\n• Be part of large teams collaborating on software development\n• Interface with Product, Project, DevOps and QA teams\n• Collaborate with team members across multiple geographic locations as well as time zones, primarily in the USA\n\nWE SHOULD TALK IF THIS SOUNDS LIKE YOU\n• C# - version 8.0 or high is preferable\n• .NET Core/.NET 5.0 or higher is required\n• REST API development using ASP.NET Core 5.0 or higher\n• 3-5 years of professional experience in developing software using relevant technologies",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Syndigo is looking for a backend software engineer who knows Microsoft C# with .NET Core/.NET 5+ to join our engineering team",
+            "This role will require a strong interest in, or experience with, text processing algorithms and/or natural language processing, REST API development of microservices, code integration and maintenance, along with experience writing unit tests",
+            "A strong focus on high quality, highly performant, and re-usable Object Oriented code",
+            "Familiarity with Agile and Kanban methodologies for Software Development Lifecycle, or similar concepts",
+            "Familiarity with tools such as Postman or Fiddler for manual API testing",
+            "WE SHOULD TALK IF THIS SOUNDS LIKE YOU",
+            "C# - version 8.0 or high is preferable",
+            ".NET Core/.NET 5.0 or higher is required",
+            "REST API development using ASP",
+            "3-5 years of professional experience in developing software using relevant technologies"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Projects will primarily focus on contributing to a large existing codebase to deal with data: particularly in assessing the quality of data, and manipulation of data for diverse purposes",
+            "It is expected that this role will work with partner teams to help define appropriate requirements and to troubleshoot problems",
+            "Design, develop, and enhance algorithms for manipulating data, with a focus on text parsing and analysis",
+            "Design, develop, and enhance REST APIs for microservices, built on ASP",
+            "Work with a large existing code base, integrating new functionality as well as troubleshooting and enhancing existing functionality",
+            "Be part of large teams collaborating on software development",
+            "Collaborate with team members across multiple geographic locations as well as time zones, primarily in the USA"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.syndigo.com/",
+          "text": "syndigo.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Syndigo&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCLQN",
+          "text": "See web results for Syndigo"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiU3kxcGRwVTFzUGh4azh0YkFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYlhOMVpYSXdYelJIVjNselJtVkxURk53VURSQlRsSkVaVTEzUVdGTWVXOWhkMk0zWW5WdlJVUm9XVXBQU2pkb1pqUmFaa2s0VTBGUk0xWnFNSGxpY0dOTWJXcE1ZazE0TlhWdWExZDBWMVp0Tld0cFJVMWlVMTlVVjFNM01YQnFVV0ZDWW1kT1JWVnVNR015VTNaTWRHMVNURGx0VXpGeWFuaFVNVGR5WW0wMU5uUkNRbEppVkZSaVVEQkNTRWxWWVVaMFEwUXhSMGRIUmpRNVpGcHdhRTFuWHpkSE5IVnJNVWhvV0ROaWJFbDVPR1I2VUZwbmNWVm9lRmh1YWpWdGNGUjZSVFYwUmw5UFZFOVJNMDlxU0hobmJqRlNaR0ozVGxkUlp4SVhjVXBMTkZwaFdHTkZVRXRzY0hSUlVERmlhVlJuUVRBYUlrRlFXR2h0TlZsallXeElRbFpmUTI1TU5VSXlRblZpUnpsMk1FeDJSVmhQYW5jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9TeW5kaWdvL0pvYi9Tb2Z0d2FyZS1FbmdpbmVlci8taW4tQ2hpY2FnbyxJTD9qaWQ9OWUzMTEwNjZjNjFlMTdjNFx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer for Workday Application",
+      "company_name": "The Joint Commission",
+      "location": "  Oakbrook Terrace, IL   ",
+      "via": "via The Joint Commission - ICIMS",
+      "description": "Overview\n\nDesigns, creates, and maintains efficient and quality code, tests, implements and documents software applications and processes. Able to translate requests from the business community into software solutions. Demonstrates technical competence and leadership across a full life cycle of application development from initial requirements to final implementation. Works independently and with... teams under general supervision according to established procedures and policies.\n\nThis is a hybrid position and will require two days a week working on the Oakbrook Terrace, IL office.\n\nResponsibilities\n• Responsible for completing all components of the IT full project SDLC. Responsible for completing all components of the IT Agile and small project methodology.\n• Lead and/or participates in all phases and is responsible for designing, coding, testing, implementing and supporting applications on time and within budget. Ensures quality project prior to implementation.\n• Provide ongoing support and maintenance for Workday modules, addressing user issues, troubleshooting problems, and ensuring system stability.\n• Participate in system upgrades and rollouts, ensuring a smooth transition and minimal disruption to end-users.\n• Stay updated on Workday releases and new features, assessing their impact and implementing relevant enhancements.\n• Performs and supports Technical Leads and Analysts in performing lead activities including resource task management, forecasting estimates for completion of assignments as well as project team status reporting.\n• Exhibits strong problem-solving skills and resourcefulness. Uses expertise to identify and analyze problems and assess potential issues to improve applications in a timely manner. Ensures all deadlines and commitments are met by providing technical guidance and mentoring to team members.\n• Listens, interprets and documents business user requirements and/or requests. Works with IT teams to understand and develop detailed project specifications. Presents ideas and approaches to the development team, which includes participation in the development of presentations.\n• Demonstrates ability to develop complete understanding of TJC business processes and IT systems. Maintains detailed knowledge about assigned applications as well as other TJC business processes and their interfaces to various applications.\n• Develops and maintains system documentation for new and existing applications. Identifies and analyzes gaps between current processes and the desired state, designs new processes, develops process performance measures, and plans the transition to a new process.\n• Treat team members fairly and builds relationships within and across departments.\n• Should be comfortable in a fast-paced development environment that continually embraces the latest technologies and techniques.\n\nQualifications\n• Bachelor’s degree in Computer Science or other related field OR equivalent work experience.\n• 5+ years of experience with Workday (Financial Core) Integrations and Reporting.\n• Complex reporting experience (calculated fields, Workday object model)\n• Must have experience in design, development, and Implementation of integrations to External Systems using Workday Integration tools (e.g. Core Connector, EIB and WD Studio)\n• Experience in building inbound Studio integrations using SOAP web services and should have knowledge in developing API connector Integrations with external applications.\n• Expertise knowledge in using Workday Web services for inbound integrations.\n• Experience with moving custom reports within different Workday application tenants and validate data for all tenants and also scheduled custom reports and developed Alerts for custom reports.\n• Experience with BIRT reports.\n• Experience in troubleshooting and resolving technical issues within the Workday system.\n• Experience with Workday security setup and configuration.\n• Experience with Agile principles and methodologies\n\nDESIRED Technical Skills:\n• 2+ years experience with Workday HCM integrations and reporting.\n• Hands on experience with PRISM\n• Excellent written and verbal communication skills and the ability to create excellent software development lifecycle documentation.\n• Works independently or as a part of a team under general supervision.\n• Ability to mentor/coach Software Engineer.\n• Proficient at taking a project from inception to completion including project planning, status reporting, requirements gathering, design, coding, unit and integration testing and implementation of a quality product.\n• Able to conduct as well as negotiate and convince participants in team meetings with IT staff including business users.\n• Ability to prepare effective presentations.\n\nNote: Successful applicants for domestic positions that require travel to a customer site must be fully vaccinated against COVID-19 as a condition of employment.\n\nThe job description is intended to describe the general nature and level of work performed by an employee assigned to this position. The description is not an exhaustive list of all duties, responsibilities, knowledge, skills and abilities, and working conditions associated with this position. All requirements are subject to possible modification and reasonably accommodate individuals with disabilities",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science or other related field OR equivalent work experience",
+            "5+ years of experience with Workday (Financial Core) Integrations and Reporting",
+            "Complex reporting experience (calculated fields, Workday object model)",
+            "Must have experience in design, development, and Implementation of integrations to External Systems using Workday Integration tools (e.g. Core Connector, EIB and WD Studio)",
+            "Experience in building inbound Studio integrations using SOAP web services and should have knowledge in developing API connector Integrations with external applications",
+            "Expertise knowledge in using Workday Web services for inbound integrations",
+            "Experience with moving custom reports within different Workday application tenants and validate data for all tenants and also scheduled custom reports and developed Alerts for custom reports",
+            "Experience with BIRT reports",
+            "Experience in troubleshooting and resolving technical issues within the Workday system",
+            "Experience with Workday security setup and configuration",
+            "Experience with Agile principles and methodologies",
+            "Note: Successful applicants for domestic positions that require travel to a customer site must be fully vaccinated against COVID-19 as a condition of employment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Designs, creates, and maintains efficient and quality code, tests, implements and documents software applications and processes",
+            "Able to translate requests from the business community into software solutions",
+            "Demonstrates technical competence and leadership across a full life cycle of application development from initial requirements to final implementation",
+            "Works independently and with teams under general supervision according to established procedures and policies",
+            "This is a hybrid position and will require two days a week working on the Oakbrook Terrace, IL office",
+            "Responsible for completing all components of the IT full project SDLC",
+            "Responsible for completing all components of the IT Agile and small project methodology",
+            "Lead and/or participates in all phases and is responsible for designing, coding, testing, implementing and supporting applications on time and within budget",
+            "Ensures quality project prior to implementation",
+            "Provide ongoing support and maintenance for Workday modules, addressing user issues, troubleshooting problems, and ensuring system stability",
+            "Participate in system upgrades and rollouts, ensuring a smooth transition and minimal disruption to end-users",
+            "Stay updated on Workday releases and new features, assessing their impact and implementing relevant enhancements",
+            "Performs and supports Technical Leads and Analysts in performing lead activities including resource task management, forecasting estimates for completion of assignments as well as project team status reporting",
+            "Exhibits strong problem-solving skills and resourcefulness",
+            "Uses expertise to identify and analyze problems and assess potential issues to improve applications in a timely manner",
+            "Ensures all deadlines and commitments are met by providing technical guidance and mentoring to team members",
+            "Listens, interprets and documents business user requirements and/or requests",
+            "Works with IT teams to understand and develop detailed project specifications",
+            "Presents ideas and approaches to the development team, which includes participation in the development of presentations",
+            "Demonstrates ability to develop complete understanding of TJC business processes and IT systems",
+            "Maintains detailed knowledge about assigned applications as well as other TJC business processes and their interfaces to various applications",
+            "Develops and maintains system documentation for new and existing applications",
+            "Identifies and analyzes gaps between current processes and the desired state, designs new processes, develops process performance measures, and plans the transition to a new process",
+            "Treat team members fairly and builds relationships within and across departments",
+            "Should be comfortable in a fast-paced development environment that continually embraces the latest technologies and techniques"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.jointcommission.org/",
+          "text": "jointcommission.org"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=The+Joint+Commission&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCIgO",
+          "text": "See web results for The Joint Commission"
+        }
+      ],
+      "extensions": [
+        "7 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBmb3IgV29ya2RheSBBcHBsaWNhdGlvbiIsImh0aWRvY2lkIjoicmx6T2dOSjAwUl9ESGVDc0FBQUFBQT09IiwiZmMiOiJFdUlDQ3FJQ1FVNTFWMmhqYkRReWVWaHBUbEE1YkV0T2Qxa3hUbEJrVTNock1EaFNWWEkyZWpsaFNUUnRZekJqZW1oUmRrZG5SMEkzZHpaSVRrcHBaRWx6UXpSdVdVTnZjelptTjFsdmQzazNWRVZvUzFoc2VXdHdjVmhNTVZKMU1XRm1UVkZRU2xkT1VXMTJNMUZYYUVFeVV6TjRTbkZmVlVKTGIyODJVREk1Ykc5aFpEVjFSbFUzYWxCYVRITkdRa1pYVW01UE1EUk9XV2xVVlUwd1pWZEtXaTAxTUZsMFdqbDJNeTFzVVd4MVdrZEhRMnQwYWt0T2IzRjJUazFpWkc1RllsbHBUbGRQTVVWemMzUkZZV0V5WVd4NmNDMDROelF4WXpOdExWUldRMUZqTUhWUlJHdEpkR1pxVFRZeVF5MUpYMFpwVUd4Q2RVeDFVbDlxZFU5ZlZscGxWRmR5UkZBMGFtWXdOVWQzVFU1bFdGWnJUQzFqUVhSV0xWUnpkVUZEUzNsNVZsRVNGM0ZLU3pSYVlWaGpSVkJMYkhCMFVWQXhZbWxVWjBFd0dpSkJVRmhvYlRWYU5WVXRWSGR2ZFcxdkxXTmFlRk5RTlZwbVNtRkJhSGhFYUd0QiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFRoZSBKb2ludCBDb21taXNzaW9uIC0gSUNJTVMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLWpvaW50Y29tbWlzc2lvbi5pY2ltcy5jb20vam9icy82MjgxL3NvZnR3YXJlLWVuZ2luZWVyLWZvci13b3JrZGF5LWFwcGxpY2F0aW9uL2pvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer, Android",
+      "company_name": "Jobs for Humanity",
+      "location": "  Naperville, IL   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\nCenter 1 (19052), United States of America, McLean, Virginia\n\nSenior Software Engineer, Android\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. As a Capital One Android Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nAt Capital One, the iOS and Android platforms are recognized as an opportunity to reach our customers in unique, personal and engaging ways. Nothing is off limits as we explore exciting ways to take advantage of the full ecosystem of mobile devices including Watch, TV, and whatever future developments Apple or Google creates. Our engineers are provided with top of the line Macbook Pros, multiple high-end monitors and the necessary tooling to develop the best possible products with the least amount of friction. We operate in small, productive agile teams and use the best industry tools to collaborate across teams.\n\nResponsibilities:\n• Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles\n• Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity\n• Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality\n• Be an active advocate of the mobile platform through both internal and external developer communities\n• Remain an active learner in all technologies related to mobile development (Kotlin, Swift 3rd party libraries, etc.)\n• Influence and contribute to group discussions and incorporate feedback/communication from the broader team\n• Mentor junior to mid-level members of the team\n• Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)\n• Own and lead delivery of major components and platform needs in partnership with Senior Engineers and Architects\n• Consistently share best practices and improve processes within and across sprint teams\n• Identify technical obstacles early and work closely with the team to find creative solutions\n• Review pull requests and ensure adherence to Kotlin and other language idioms\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n• At least 2 years of experience building Android applications\n• At least 2 years of experience with Kotlin\n\nPreferred Qualifications:\n• 3+ years of experience building Android applications\n• 3+ years of experience with Kotlin\n• 1+ years of experience in open source frameworks\n• 1+ years of experience with Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)",
+            "At least 2 years of experience building Android applications"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles",
+            "Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity",
+            "Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality",
+            "Be an active advocate of the mobile platform through both internal and external developer communities",
+            "Remain an active learner in all technologies related to mobile development (Kotlin, Swift 3rd party libraries, etc.)",
+            "Influence and contribute to group discussions and incorporate feedback/communication from the broader team",
+            "Mentor junior to mid-level members of the team",
+            "Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)",
+            "Own and lead delivery of major components and platform needs in partnership with Senior Engineers and Architects",
+            "Consistently share best practices and improve processes within and across sprint teams",
+            "Identify technical obstacles early and work closely with the team to find creative solutions",
+            "Review pull requests and ensure adherence to Kotlin and other language idioms"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "New York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCNYO",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQiLCJodGlkb2NpZCI6Ilh4bVo2eTkyTTI5b0ZVcDNBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamEyNW9NMkpKWm5KTFkwMXRhVVJvVUhSTWMwWmtaWEJIYkZaZk5tZGhZbEE1WlRGTUxWZGpkV1UyVEdkSlNERmZiMjU0UlVVdFJYbE5MV0ZTVW5sTlpEQlNkbE5yY1ZSUWJHcElWVWxYVlhOak1FWkpWMjVEZUdGelVIQXdTMHRaWjJ0dVVrTTBOR3hFVUV0UWVuQm5jVXhsU3pOaFNHZE5iekpPTUdGa2MwaGhhbWg2Y2xrd1FYRjJlbGRyZFdoRmRuZFpUREJmY0RWbGVGZEhRbVZOT0dWR01XOTFSVjl4TjJZeWFVSlhjMGRIYUhGNldIRnZSRjlZTmxVMmEzSmZlbnB1TFVSTFR6VkhTV2hSVEZVMWNYTk5UMVpZWWs5cVpUTkNaeElYY1VwTE5GcGhXR05GVUV0c2NIUlJVREZpYVZSblFUQWFJa0ZRV0dodE5WbHhZWFpDWjJ0eWJrMVpWMUZOVG1jeVNURkJkRzQwV0ZRM1gzYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFuZHJvaWQtYXQtam9icy1mb3ItaHVtYW5pdHktMzgxNjAwNzIxNj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer, Back End",
+      "company_name": "People Center",
+      "location": "  Chicago, IL   ",
+      "via": "via Capital One Careers",
+      "description": "77 West Wacker Dr (35012), United States of America, Chicago, Illinois\n\nSenior Software Engineer, Back End...\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=People+Center&sa=X&ved=0ahUKEwil0MDeuYSEAxXykokEHVXcBNAQmJACCKEP",
+          "text": "See web results for People Center"
+        }
+      ],
+      "extensions": [
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEJhY2sgRW5kIiwiaHRpZG9jaWQiOiJIS2hvZGl0QXJWcXZSOFF0QUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpia0k1TjNBNGJHdEVUbUl5YUZKVkxVVmlUbk5CVFRkT2R6UjRUVEJ1YWtGU1drSnlXVUp6U0doc05WVjVVVlpOVlhGMmJHRldYMFp0UlZOblNqUkxiRVk1TW0xYVNFb3RUVkJGUkd4QlVuQmFNVnBmY1d0dlp6SklkMEpZZVMxS2JGOUxVWGh4VDNGdFIxVkRia1paUXpWUlJWUjZOR3BMTlhGTlgyaE5kRXAzTW1OMVMyeGlNSGswZWtab1J6UlVjRUZVTFdKclpHWmlUSEZOWTNCM1pIQlJabk51UTJsT1JVRmFiWFl5TWtkNlN6aGpjSEIzTVVGcGJtOWpha2x4WldodGJuUlNkblpVWDJaMFpYRm5SMEpFVEdaU2RHWlplRkZaWnhJWGNVcExORnBoV0dORlVFdHNjSFJSVURGaWFWUm5RVEFhSWtGUVdHaHROV0pKUzA5NVptRnFMV04zWVZwaE4xRXhiRlJhZUVselJUVmZkR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXBpdGFsIE9uZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LmNhcGl0YWxvbmVjYXJlZXJzLmNvbS9qb2IvY2hpY2Fnby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItYmFjay1lbmQvMTczMi81ODM3NjI3NDQwMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Engineer senior",
+          "value": "engineer senior"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Engineering specialist",
+          "value": "engineering specialist"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Consulting",
+          "value": "consulting"
+        },
+        {
+          "text": "Engineering",
+          "value": "engineering"
+        },
+        {
+          "text": "Lead engineer",
+          "value": "lead engineer"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sr. manager",
+          "value": "sr. manager"
+        },
+        {
+          "text": "Sw engineer",
+          "value": "sw engineer"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Chicago, IL",
+          "value": "7cv00DwsDogAwMAJrabgrw=="
+        },
+        {
+          "text": "Milwaukee, WI",
+          "value": "50eLV9cCBYiEe0G1IhlfRA=="
+        },
+        {
+          "text": "Indianapolis, IN",
+          "value": "A2p5p_9Qa4h86rlA9p2O1g=="
+        },
+        {
+          "text": "Dearborn, MI",
+          "value": "a9jAyQY1O4jANsrvQdMPBw=="
+        },
+        {
+          "text": "Grand Rapids, MI",
+          "value": "FShQu2BUGIjQqNMby6qTpQ=="
+        },
+        {
+          "text": "Dayton, OH",
+          "value": "AxTdrtWAQIjkTA7ykuNApg=="
+        },
+        {
+          "text": "Madison, WI",
+          "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+        },
+        {
+          "text": "Peoria, IL",
+          "value": "rXlYU1xZCojbgH1rMvT7yg=="
+        },
+        {
+          "text": "Naperville, IL",
+          "value": "B80W4mFXDohSMCB_LJzfhw=="
+        },
+        {
+          "text": "South Bend, IN",
+          "value": "E9NhSsQyEYgEMqNvs9lKlw=="
+        },
+        {
+          "text": "Valparaiso, IN",
+          "value": "C0BDeA6aEYhMQueOo0XCgA=="
+        },
+        {
+          "text": "Ann Arbor, MI",
+          "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+        },
+        {
+          "text": "Aurora, IL",
+          "value": "GxHVTk3lDohd6FDDSPjRfw=="
+        },
+        {
+          "text": "Schaumburg, IL",
+          "value": "5SRiQ4ivD4hRc49nzTG9Qw=="
+        },
+        {
+          "text": "Beavercreek, OH",
+          "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+        },
+        {
+          "text": "Detroit, MI",
+          "value": "dR3LEAHKJIjSxLk1ToZ2Vw=="
+        },
+        {
+          "text": "Joliet, IL",
+          "value": "fT027GtFDohCwGuj92aenw=="
+        },
+        {
+          "text": "Kalamazoo, MI",
+          "value": "uZIxSXmdF4gJMFdJ0vh82g=="
+        },
+        {
+          "text": "Southfield, MI",
+          "value": "sbimQ-G5JIjCsFOKHuzyow=="
+        },
+        {
+          "text": "Chillicothe, IL",
+          "value": "O73H4pJICois6fPFXtsa_g=="
+        },
+        {
+          "text": "Menomonee Falls, WI",
+          "value": "H5mzjBn-BIhZ6rXlAze29g=="
+        },
+        {
+          "text": "Rockford, IL",
+          "value": "2wAD_c25CIiAZ4-Cl9jKCg=="
+        },
+        {
+          "text": "Sterling Heights, MI",
+          "value": "57HShnvcJIjnIju58DEc9Q=="
+        },
+        {
+          "text": "Troy, MI",
+          "value": "E8yLMQrEJIind5F-xgBLtA=="
+        },
+        {
+          "text": "Bloomfield Hills, MI",
+          "value": "pb5Fg76wJIgAYZh7UKEm4A=="
+        },
+        {
+          "text": "Bloomington, IN",
+          "value": "59iDtPZdbIjZM62LLZEa6Q=="
+        },
+        {
+          "text": "Brookfield, WI",
+          "value": "a1sLUd0GBYhrwYeU1udw8w=="
+        },
+        {
+          "text": "Carmel, IN",
+          "value": "HfozMJetFIj8OHtfXwm5Qw=="
+        },
+        {
+          "text": "Champaign, IL",
+          "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+        },
+        {
+          "text": "Davenport, IA",
+          "value": "8aIS4MU04oewH1hWYx_q6A=="
+        },
+        {
+          "text": "Dubuque, IA",
+          "value": "04aKwIQr44dHcaMmxh6-tA=="
+        },
+        {
+          "text": "East Moline, IL",
+          "value": "GTbS7CM64ocsVoachRMMQA=="
+        },
+        {
+          "text": "Evendale, OH",
+          "value": "O0oMNxJSQIgSLWI_GMLLug=="
+        },
+        {
+          "text": "Lansing, MI",
+          "value": "N4wxfxzAIoienQKJI7Z4Qw=="
+        },
+        {
+          "text": "Milford Charter Township, MI",
+          "value": "M_3qGVxYI4gvgnQem7UaGQ=="
+        },
+        {
+          "text": "Royal Oak, MI",
+          "value": "9yvNbPnFJIgQM8rvQdMPBw=="
+        },
+        {
+          "text": "Troy, OH",
+          "value": "I12RHwN3P4gFC46CVZdpAw=="
+        },
+        {
+          "text": "Allen Park, MI",
+          "value": "m5Yp_mI2O4g9H_5DnnfWmw=="
+        },
+        {
+          "text": "Anderson, IN",
+          "value": "A8BchIXZFIhDQwtkFQMXkA=="
+        },
+        {
+          "text": "Auburn Hills, MI",
+          "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+        },
+        {
+          "text": "Bedford Park, IL",
+          "value": "29dGbjw3DoikjALierC1wA=="
+        },
+        {
+          "text": "Bloomington, IL",
+          "value": "wZoIOXAIC4gevCNKpUpCLg=="
+        },
+        {
+          "text": "Bolingbrook, IL",
+          "value": "2eUaBThaDogGYnBc-WgDXA=="
+        },
+        {
+          "text": "Brighton, MI",
+          "value": "y6Le2ZNPI4hiF_-6WXWYQQ=="
+        },
+        {
+          "text": "Brown Deer, WI",
+          "value": "EwVZ54riBIijqBNWnsX7Cw=="
+        },
+        {
+          "text": "Carol Stream, IL",
+          "value": "_RPgmDyrD4iFBRhOpACgeQ=="
+        },
+        {
+          "text": "Commerce Charter Township, MI",
+          "value": "7WkomIOmJIhOIb66vGQiTQ=="
+        },
+        {
+          "text": "Crane, IN",
+          "value": "TV-Pes00bIgK3XeP3kdmxw=="
+        },
+        {
+          "text": "Edinburgh, IN",
+          "value": "9b5lm9lya4jUqDGqQR1jWA=="
+        },
+        {
+          "text": "Elgin, IL",
+          "value": "MwNc68D7Dohg5VTR8cs7MA=="
+        },
+        {
+          "text": "Elkhart, IN",
+          "value": "E67jW8PCFojLiIMC2e_teg=="
+        },
+        {
+          "text": "Fairborn, OH",
+          "value": "hSRQ-92dQIhAOOgXH6AaBw=="
+        },
+        {
+          "text": "Farmington Hills, MI",
+          "value": "fzx-jC-uJIi8OwB-Iqt4GQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        },
+        {
+          "text": "Legal",
+          "value": "/business/naics2007/5411"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Caterpillar",
+          "value": "/m/0319hp"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Motorola Solutions",
+          "value": "/m/03dzwt_"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Morningstar",
+          "value": "/m/04xn05"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Ford",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "GE",
+          "value": "/m/03bnb"
+        },
+        {
+          "text": "Jobot",
+          "value": "/g/11jrq3t_g3"
+        },
+        {
+          "text": "KOHLS",
+          "value": "/m/037x4r"
+        },
+        {
+          "text": "Sirius XM",
+          "value": "/m/02pljbm"
+        },
+        {
+          "text": "Syndigo",
+          "value": "/g/11g9n4b9qx"
+        },
+        {
+          "text": "Bose Corporation",
+          "value": "/m/027f4z"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Crowe",
+          "value": "/m/0287xmw"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "FIS",
+          "value": "/m/027_qkq"
+        },
+        {
+          "text": "FULLBEAUTY Brands",
+          "value": "/g/11bwcqh7nw"
+        },
+        {
+          "text": "Frontline Education",
+          "value": "/g/11fy1qzftm"
+        },
+        {
+          "text": "GE HEALTHCARE",
+          "value": "/m/03k_bf"
+        },
+        {
+          "text": "General Motors",
+          "value": "/m/035nm"
+        },
+        {
+          "text": "Gentherm",
+          "value": "/m/0ztb1_x"
+        },
+        {
+          "text": "Glocomms",
+          "value": "/g/11t42n5g9b"
+        },
+        {
+          "text": "Illinois Tool Works Inc.",
+          "value": "/g/11bc5qn0nn"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "Northrop Grumman",
+          "value": "/m/01frpd"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "Rivian",
+          "value": "/m/0gj8vdm"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Salesforce",
+          "value": "/m/07btr5"
+        },
+        {
+          "text": "University of Chicago",
+          "value": "/m/07wrz"
+        },
+        {
+          "text": "Walgreens",
+          "value": "/m/02rx2k"
+        },
+        {
+          "text": "AbbVie",
+          "value": "/m/0rzs09c"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Accenture",
+          "value": "/m/01rp2c"
+        },
+        {
+          "text": "Advantage Solutions",
+          "value": "/g/11r_mp5ry"
+        },
+        {
+          "text": "Ageatia Global Solutions",
+          "value": "/g/11g705pydm"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "Allegion",
+          "value": "/m/0zdqlv0"
+        },
+        {
+          "text": "Allied Solutions, L.L.C",
+          "value": "/g/11bc58f2dn"
+        },
+        {
+          "text": "Allstate",
+          "value": "/m/03ct7b"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1280 @@
+{
+  "search_metadata": {
+    "id": "65b60c2c35176458b7b41815",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/859c82198870f8e7/65b60c2c35176458b7b41815.json",
+    "created_at": "2024-01-28 08:11:24 UTC",
+    "processed_at": "2024-01-28 08:11:24 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=1",
+    "raw_html_file": "https://serpapi.com/searches/859c82198870f8e7/65b60c2c35176458b7b41815.html",
+    "total_time_taken": 2.82
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 1
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Ford Motor Company",
+      "location": "  Dearborn, MI   ",
+      "via": "via Glassdoor",
+      "description": "As a Backend Engineer on the FPI APIs team, you will communicate and collaborate with technical program managers, product managers, frontend and data platform teams to develop and maintain performant, secure and reliable APIs and related services that power our products. You will be defining, designing, coding, testing, and deploying services that interact with multiple large scale data systems... as well as the production processes around them, such as deployment and health-monitoring.\n• Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or related field or a combination of education and equivalent experience\n• 3+ years of IT development and implementation experience in Java, Kolin, C++ or other object-oriented programming.\n2+ years developing APIs and REST services experience.\n• Our Preferred Requirements:\n• Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or related field\n• Experience developing applications using Springboot.\n• Experience developing products using extreme agile/ pair/mobbed programming in a test-driven development (TDD).\n• Experience using advanced software configuration management (source control, DevOps, continuous integration/continuous deployment, etc.)\n• Experience with software operations (DevOps, Site Reliability Engineering, Observability, Support and maintenance)\n• Experience building and shipping production grade software or services.\n• Have a deep desire to work closely, solve problems with groups, find win/win solutions and celebrate successes with other smart engineers.\n\nAs part of the Ford family, you will enjoy excellent compensation and a comprehensive benefits package that includes generous PTO, retirement, savings and stock investment plans, incentive compensation, and much more. You will also experience exciting opportunities for professional and personal growth and recognition.\n\nIf you have what it takes to help us redefine the future of mobility, we would love to have you join us.\n\nCandidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is available for this position.\n\nYou may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!\n\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all the above? No matter what you choose, we offer a work life that works for you, including:\n\n• Immediate medical, dental, and prescription drug coverage\n\n• Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up\n\nchildcare and more\n\n• Vehicle discount program for employees and family members, and management leases\n\n• Tuition assistance\n\n• Established and active employee resource groups\n\n• Paid time off for individual and team community service\n\n• A generous schedule of paid holidays, including the week between Christmas and New Year’s\n\nDay\n\n• Paid time off and the option to purchase additional vacation time.\n\nFor a detailed look at our benefits, click here:\n\nhttps://clicktime.symantec.com/15tpDLPsCx2uxJ2EYhRuP?h=xq_TEpzNeZsvWu0GUnavXvhXW9Av00JFQ4MjOPDW46k=&u=https://fordcareers.co/GSR-HTHD\n\nWe are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.\n\nLI-#Remote\n\nWhat you’ll be able to do:\n• Work on an agile team to deliver working, tested product features in a micro service cloud-based architecture.\n• Design and implement new features and improvements to our API platform that require hard real-time constraints and elegant, yet powerful software solutions at scale.\n• Provide thought leadership and architectural expertise and manage cross-team integration\n• Ship high-quality, well-tested, secure, and maintainable code\n• Participate in design discussions about new features and ensure real-time technology integrates seamlessly with other pieces of the platform\n• Participating in team’s live-site activities\n• Onboard and train new software engineers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or related field or a combination of education and equivalent experience",
+            "3+ years of IT development and implementation experience in Java, Kolin, C++ or other object-oriented programming",
+            "2+ years developing APIs and REST services experience",
+            "Experience developing applications using Springboot",
+            "Experience developing products using extreme agile/ pair/mobbed programming in a test-driven development (TDD)",
+            "Experience using advanced software configuration management (source control, DevOps, continuous integration/continuous deployment, etc.)",
+            "Experience with software operations (DevOps, Site Reliability Engineering, Observability, Support and maintenance)",
+            "Experience building and shipping production grade software or services",
+            "Have a deep desire to work closely, solve problems with groups, find win/win solutions and celebrate successes with other smart engineers"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Backend Engineer on the FPI APIs team, you will communicate and collaborate with technical program managers, product managers, frontend and data platform teams to develop and maintain performant, secure and reliable APIs and related services that power our products",
+            "You will be defining, designing, coding, testing, and deploying services that interact with multiple large scale data systems as well as the production processes around them, such as deployment and health-monitoring",
+            "Established and active employee resource groups",
+            "Design and implement new features and improvements to our API platform that require hard real-time constraints and elegant, yet powerful software solutions at scale",
+            "Provide thought leadership and architectural expertise and manage cross-team integration",
+            "Ship high-quality, well-tested, secure, and maintainable code",
+            "Participate in design discussions about new features and ensure real-time technology integrates seamlessly with other pieces of the platform",
+            "Participating in team’s live-site activities",
+            "Onboard and train new software engineers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "As part of the Ford family, you will enjoy excellent compensation and a comprehensive benefits package that includes generous PTO, retirement, savings and stock investment plans, incentive compensation, and much more",
+            "You will also experience exciting opportunities for professional and personal growth and recognition",
+            "Immediate medical, dental, and prescription drug coverage",
+            "Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up",
+            "childcare and more",
+            "Vehicle discount program for employees and family members, and management leases",
+            "Paid time off for individual and team community service",
+            "A generous schedule of paid holidays, including the week between Christmas and New Year’s",
+            "Paid time off and the option to purchase additional vacation time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.ford.com/",
+          "text": "ford.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Ford+Motor+Company&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAII4gk",
+          "text": "See web results for Ford Motor Company"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXhnlProaXCwyX-AvefIAqWOel1m5vxhRmfKJ6LE&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiMHZQRVhGYjRXdUF1UDNZakFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTNWR2JUTmZZV1ZQZFRKVGVtSTJjMTlwWVV0RVZWSkNjbTlaV0hkb1NUUlJZV0ZyYVhwMVZFWm1UVWwyT0VreFEzVnRObkF6U0hCMFdVaFJUMUZYU1hvMVNXWldPVGhtT1d0clZtOWlkRXBGV2t4bWJVMURUSGxZTmxkelJsbDNYMlE0UjFOWFRURm1VV1k1YkRoblduVk5hSFZoTVRsZk5YZHZVRVpzV1hCV1IxTkNOVkZQVlZCMFdGVkJOSFZJTjJoMVZ6ZGlOUzFFZDJWU1UyODJWVXhFYVVaa1lYYzJlVWRhTTNKTWJEWktjM1ZoT1VaU2FHTlVXbWh2UlhGMlNscEVVMjFoUjNkUmEyVXRPRTVoZWtscFVWZFBiblZyUjBOWVp4SVhUR2Q1TWxwbFMzRkJZVWR0Y1hSelVHMWpVelkyUVZFYUlrRlFXR2h0TldKVU5FMHpNVFp4VEdKVFVGaFRXR041ZWtwRVVESlZjbTFtUm5jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBHbGFzc2Rvb3IiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ2xhc3Nkb29yLmNvbS9qb2ItbGlzdGluZy9zb2Z0d2FyZS1lbmdpbmVlci1mb3JkLW1vdG9yLWNvbXBhbnktSlZfSUMxMTM0NjQyX0tPMCwxN19LRTE4LDM2Lmh0bT9qbD0xMDA5MDg4MTAwOTk0XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "VSLM Full Stack Software Engineer",
+      "company_name": "Ford Motor Company",
+      "location": "  Dearborn, MI   ",
+      "via": "via LinkedIn",
+      "description": "Job Description\n\nWe are the movers of the world and the makers of the future. We get up daily, roll up our sleeves, and build a better world. At Ford, we believe freedom of movement drives human progress and we’re all a part of something bigger than ourselves. You will have the opportunity to accelerate your career potential as you help us define tomorrow’s transportation...\n\nVehicle Software Systems Engineering (VSSE) is part of the Systems Engineering Product Driven Organization. This department provides software solutions to Product Development (PD) users. Vehicle Cybersecurity Access is one of the applications managed by the VSSE team which deals with the end-to-end lifecycle of the security keys/Digital Certificates used by Manufacturing plants, suppliers, and Ford Customer Service and Diagnostic engineers to unlock and make software updates to ECUs (Electronic Control Units). This is a business-critical application from a Cybersecurity perspective and helps avoid costly stop-ships in the manufacturing plants.\n\nVSSE is seeking a highly skilled Software Engineer who embraces Lean, Agile, Pair Programming, and Extreme Programming (XP) practices to deliver innovative software products. Our Software Engineers work in small, multi-functional, and co-located teams in Dearborn, MI.\n\nResponsibilities\n\nTo succeed, you should have a strong background in web development technologies (HTML/TypeScript/CSS), Java, and SQL.\n\nAs a Software Engineer, you will be responsible for supporting the application development of web applications in a Paired Programming and TDD Agile team environment. Your responsibilities include design, development, testing, defect fixing, and incident response.\n\nWhat you’ll be able to do:\n• Create front-end web pages using Angular (Primeng) and HTML/CSS\n• In a Java environment, develop RESTful controllers and utilize other technologies, such as using JPA for database communications\n• Design, implement, and run a full suite of automated tests, including unit tests (Karma/Jasmine, Junit) and functional End-to-End tests (Protractor and Selenium)\n• Translate business requirements into structured systems design using appropriate design methodologies\n• Use Test Driven Development (TDD) to ensure better code coverage and quality\n• Help support usage of CI/CD pipeline e.g., Jenkins, GitHub\n• Provide guidance and support to other developers on the team\n\nQualifications\n\nThe minimum requirements we seek:\n• Bachelor’s Degree in Computer Science, Computer Engineering, or a related field, or a combination of education and equivalent experience\n• 2+ years of professional experience developing web-based applications utilizing Object Oriented development in at least one of the following web or mobile technologies: Angular (preferred), Typescript, React, or JavaScript Springboot\n• At least 1 year of experience in Agile practices (SAFE, Scrum, Kanban, TDD, etc.)\n• Experience with microservice architecture, REST APIs, SOAP/WSDL/XML/SOA, etc.\n\nOur preferred requirements:\n• Advance Degree in Computer Science, Computer Engineering, or a related field\n• Outstanding software engineering and design knowledge; OO Design Principles Practiced in eXtreme Programming (XP) disciplines including Paired programming Test-first/Test Driven Development (TDD)\n• 2+ years of Object-oriented Development experience where you applied Java Enterprise concepts with the following tools and technologies:\n• Spring Platform (Spring MVC, Spring Boot, Spring JDBC, Spring Cloud)\n• Automated Testing, Continuous Integration, Continuous Deployment, and technologies (Jenkins CI or similar)\n• Working knowledge of SQL Database, including table design, creation, and modification\n• Delivered products that include web front-end development; JavaScript, and client-side MVC frameworks like Angular, React, etc.\n• Experience with testing tools such as Karma, Jasmine, Junit, etc.\n• You’re always refactoring your code to be cleaner and using build tools to optimize performance\n• Understand differences between multiple delivery platforms such as mobile vs desktop and optimize output and match all these platforms\n• Collaborative, positive demeanor, and self-motivated\n• Strong communication skills, verbal and written\n• Motivated to drive tasks to completion and take ownership of projects\n• Any experience in Cyber Security or the Automotive Industry is a BIG Plus\n\nWhat you’ll receive in return:\n\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all the above? No matter what you choose, we offer a work life that works for you, including Immediate medical, dental, and prescription drug coverage, generous PTO, retirement, and savings plans, incentive compensation, tuition assistance, a vehicle discount program, and much more.\n\nFor information on Ford's salary and benefits, please visit:\n\nhttps://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2023-benefits-and-comp-GSR-sal-plan-2.pdf\n\nCandidates with Ford Motor Company positions must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is available for this position.\n\nWe are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status, or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "To succeed, you should have a strong background in web development technologies (HTML/TypeScript/CSS), Java, and SQL",
+            "Bachelor’s Degree in Computer Science, Computer Engineering, or a related field, or a combination of education and equivalent experience",
+            "At least 1 year of experience in Agile practices (SAFE, Scrum, Kanban, TDD, etc.)",
+            "Experience with microservice architecture, REST APIs, SOAP/WSDL/XML/SOA, etc"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Software Engineer, you will be responsible for supporting the application development of web applications in a Paired Programming and TDD Agile team environment",
+            "Your responsibilities include design, development, testing, defect fixing, and incident response",
+            "Create front-end web pages using Angular (Primeng) and HTML/CSS",
+            "In a Java environment, develop RESTful controllers and utilize other technologies, such as using JPA for database communications",
+            "Design, implement, and run a full suite of automated tests, including unit tests (Karma/Jasmine, Junit) and functional End-to-End tests (Protractor and Selenium)",
+            "Translate business requirements into structured systems design using appropriate design methodologies",
+            "Use Test Driven Development (TDD) to ensure better code coverage and quality",
+            "Help support usage of CI/CD pipeline e.g., Jenkins, GitHub",
+            "Provide guidance and support to other developers on the team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "As an established global company, we offer the benefit of choice",
+            "No matter what you choose, we offer a work life that works for you, including Immediate medical, dental, and prescription drug coverage, generous PTO, retirement, and savings plans, incentive compensation, tuition assistance, a vehicle discount program, and much more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.ford.com/",
+          "text": "ford.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Ford+Motor+Company&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIItgo",
+          "text": "See web results for Ford Motor Company"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJI3ptmS9ovUEhdzhcyNVeENuR69mXGmTgjNHTv0&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJWU0xNIEZ1bGwgU3RhY2sgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjRsWVo5OHFBNzUzTkRUMUhBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamEybFlXbnB1VWt4NlZrazVSR2hhVm5aVGFVRTBVbTVpZVRKdlltRllhSFpIWVhGbk5URnllV3N4UkVjNFRuUnpUVkZ0UzJ4UmJHUmhPVGc0ZWxaT1R6aHRUWFJzVVhsVVdWaGFOMmsyZG5aRk1qZFlkbEEzWDBrd2VFeGtPQzFmZG1GTFZIWnRaMGsxT1c5eGJrazRkVUl0V0ZZNFFrVjZhM2hZUmtab1JEbFpRa1ZNUjE5RVpIZDJTR2Q0U25SblVUaHFjWFJCVFVOWFJuQk9ZVWxmTmxad1NFZElOV1JwUTE5MU0yTlBaRFJrUjBGemVsUnJZVFl3YmsxUVJuSktNM0EzUlVwMlQwbDBVMGRCUWs5QlFtb3RkSFZxVXpCblNrcFVRbEZGTFdoWlRtaFdRbmx4T1V0RGJVRlVZMnBpVlJJWFRHZDVNbHBsUzNGQllVZHRjWFJ6VUcxalV6WTJRVkVhSWtGUVdHaHROVmxJVDJFMFR6Uk1VelJGY1RGdVltazFObko2T0d0dk1FdHFXbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvdnNsbS1mdWxsLXN0YWNrLXNvZnR3YXJlLWVuZ2luZWVyLWF0LWZvcmQtbW90b3ItY29tcGFueS0zODE0MDY4Nzk0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineering Manager",
+      "company_name": "Accenture",
+      "location": "  Detroit, MI   ",
+      "via": "via Accenture",
+      "description": "Software Engineering Manager (Accenture LLP; Detroit, MI): Accenture LLP has multiple openings for the position of Software Engineering Manager in Detroit, MI, and the job duties are as follows:\n• Analyze, design, build, test, implement and/or maintain multiple system components or applications for Accenture or our clients.\n• Design and code applications to functional and technical programming... standards.\n• Develop system specifications and interfaces for complex components.\n• Create operational documentation for the application.\n• Maintain applications according to SLAs.\n• Develop and implement testing plans.\n• Work across the Service Delivery Lifecycle on engineering solutions for new system roll outs, major/minor enhancements, and/or ongoing maintenance of existing applications.\n• Analyze, design, build, and/or test new components or enhancements to existing modules.\n• Identify and assess complex problems and create solutions that require in-depth evaluation of variable factors which are implemented by the team.\n• Act independently to determine methods and procedures on new assignments.\n• Supervise a team of computer programmers to gather and interpret user/system requirements into design specifications.\n• Conduct project and issue management (status reporting, issue reporting, ETC/budget reporting) for assigned scope of work, and make decisions that impact the team through regular consultation with senior management.\n• Adhere to strategic direction set by senior management.\n• Interact with client or internal senior management",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Analyze, design, build, test, implement and/or maintain multiple system components or applications for Accenture or our clients",
+            "Design and code applications to functional and technical programming standards",
+            "Develop system specifications and interfaces for complex components",
+            "Create operational documentation for the application",
+            "Maintain applications according to SLAs",
+            "Develop and implement testing plans",
+            "Work across the Service Delivery Lifecycle on engineering solutions for new system roll outs, major/minor enhancements, and/or ongoing maintenance of existing applications",
+            "Analyze, design, build, and/or test new components or enhancements to existing modules",
+            "Identify and assess complex problems and create solutions that require in-depth evaluation of variable factors which are implemented by the team",
+            "Act independently to determine methods and procedures on new assignments",
+            "Supervise a team of computer programmers to gather and interpret user/system requirements into design specifications",
+            "Conduct project and issue management (status reporting, issue reporting, ETC/budget reporting) for assigned scope of work, and make decisions that impact the team through regular consultation with senior management",
+            "Adhere to strategic direction set by senior management",
+            "Interact with client or internal senior management"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.accenture.com/",
+          "text": "accenture.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Accenture&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIIhQs",
+          "text": "See web results for Accenture"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyBNYW5hZ2VyIiwiaHRpZG9jaWQiOiJWNm52RDM5RDdHbzZVOUZBQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGphMFp4ZDNndFVYSm5WWHAzWlhobWVFNWxSbVUxU0MxbVowdEhjV0pGUVVKbGRVUnVaVGRITlVwYU9GRlpTVEZ4TTFwVVFuRjViakF3U0hSaFQwUnpTak5IUmtORlpqaHJSR1ZJTjJwbU1FeGpWekl0YkVOSFVVbExVR3BYYUhOS2JEYzBRMGR1TUc1VVpGQkZiWFJpUlhwUFRYZFNhREo1VUd0TldrRmpWRTAyWW13NVpVOHlXVTlYUTA1ek5tcGxRVTlLTW5JeU9TMUViSGhVUTNGcWNYZHpWamQxTVhaSVlVNUpXVWQzZVVSelJHTkRWbmRFUTFSVVp6UkxUVkoxU0c1UlZtVnhMVFkzTlZWbGIwODFYMGxCWVVweVlYZ3hiR3BMZHhJWFRHZDVNbHBsUzNGQllVZHRjWFJ6VUcxalV6WTJRVkVhSWtGUVdHaHROVmw0U1V0VWIwbHRVVTAzTUU1V01rRm5VMnd5VVdGQ1ExQkdNMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFjY2VudHVyZSIsImxpbmsiOiJodHRwczovL3d3dy5hY2NlbnR1cmUuY29tL3VzLWVuL2NhcmVlcnMvam9iZGV0YWlscz9pZD1SMDAxODMwODBfZW5cdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Gentherm",
+      "location": "  Northville, MI   ",
+      "via": "via LinkedIn",
+      "description": "At Gentherm, we say, “It’s about the person.” We’re with you on a cold winter day when you turn on your heated seat and steering wheel or helping manage patient body temperature in the operating room, recovering room or intensive care units. We take a human approach with everything we do.\n\nAs the global market leader of innovative thermal management and pneumatic comfort technologies for the... automotive industry we embrace the opportunity to create and deliver extraordinary solutions that make meaningful differences in everyday life. We do this by improving health, wellness, comfort and energy efficiency.\n\nWe embrace an entrepreneurial spirit and combine that with our global leadership to deliver results. Working at Gentherm provides you the opportunity to not only shape the future of the automotive and medical industries, but also influence your career throughout the company. You will be engaged, challenged and inspired by our team to deliver leading thermal technologies that positively impact lives around the world.\n\nSoftware Engineer\n\nIMPACT and OPPORTUNITY\n\nGentherm is transforming the future of personalized passenger thermal comfort with the smart, individual climate zone solution named ClimateSense™, tailored to the autonomous, electrified, and ridesharing ecosystem of the future. Software is the key driver for the transformation of Gentherm as well as for an entire industry. This position will be responsible for design, development and verification of microclimate functionality. This position plays a critical role in bringing innovative solutions and cabin technologies to market that will change the automotive comfort industry.\n\nEssentail Functions And Responsibilities\n• Design, develop, integrate, and test software in embedded C/C++ demonstrating industry best-practices.\n• Collaborate with cross-functional and cross-regional teams working in an agile development environment.\n• Assist engineering and product teams in defining product specifications.\n• Work with systems team to establish best-in-class software and test requirements.\n• Follow software development process to ensure quality standards are met.\n• Develop test cases and automated testing based on defined software requirements and design.\n\nQualifications\n\nMINIMUM QUALIFICATIONS:\n• Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent\n• Strong problem-solving skills\n• Excellent communication skills (verbal, written, presentation)\n• Ability to handle multiple competing priorities in a fast-paced environment.\n• Ability to be a self-starter and solution oriented.\n\nPreferred Qualifications\n• Master’s degree in computer science, computer engineering, electrical engineering or equivalent\n• 4 years of experience in embedded software development\n• Knowledge of vehicle communication protocols: CAN, LIN, Ethernet\n• Knowledge of Python or another scripting language\n• Working knowledge of modeling tools such as Matlab/Simulink\n• Experience with embedded development kits.\n• Experience working in distributed repositories and managing merge/pull requests in GitHub/GitLab\n• History analyzing and parsing data to develop technical insights and make decisions\n• Basic project management skills, including planning and organization, decision making, problem solving, prioritizing\n• Ability to prepare and present technical written reports and other documents to peers and management\n\nNICE TO KNOW\n\nTRAVEL: >5%\n\nCOMPETENCIES\n• Deliver Results\n• Understand the mission and output of your team; set SMART objectives and deliver\n• Drive Change\n• Focus on agility and commitment to continuous improvement; Understand and act on internal and external drivers of change\n• Build Capability\n• Foster a culture of learning and development; Support individual growth through continuous feedback to achieve personal and professional goals\n• Cultivate Innovation\n• Openly embrace, create, implement and support new and innovative ideas, processes and technology that deliver business results\n\nPHYSICAL DEMANDS/WORK ENVIRONMENT\n\nAll positions in our office require interaction with people and technology while either standing or sitting. In order to best service our customers, internal and external, all associates must be able to communicate face-to-face and on the phone with or without reasonable accommodation. Gentherm is committed to compliance with its obligations under all applicable state and federal laws prohibiting employment discrimination. In keeping with this commitment, it attempts to reasonably accommodate applicants and employees in accordance with the requirements of the disability discrimination laws. It also invites individuals with disabilities to participate in a good faith, interactive process to identify reasonable accommodations that can be made without imposing an undue hardship.\n\nGentherm is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, genetic information, sexual orientation, gender identity, disability or protected veteran status",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent",
+            "Strong problem-solving skills",
+            "Excellent communication skills (verbal, written, presentation)",
+            "Ability to handle multiple competing priorities in a fast-paced environment",
+            "Ability to be a self-starter and solution oriented",
+            "Focus on agility and commitment to continuous improvement; Understand and act on internal and external drivers of change",
+            "Foster a culture of learning and development; Support individual growth through continuous feedback to achieve personal and professional goals"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position will be responsible for design, development and verification of microclimate functionality",
+            "This position plays a critical role in bringing innovative solutions and cabin technologies to market that will change the automotive comfort industry",
+            "Design, develop, integrate, and test software in embedded C/C++ demonstrating industry best-practices",
+            "Collaborate with cross-functional and cross-regional teams working in an agile development environment",
+            "Assist engineering and product teams in defining product specifications",
+            "Work with systems team to establish best-in-class software and test requirements",
+            "Follow software development process to ensure quality standards are met",
+            "Develop test cases and automated testing based on defined software requirements and design",
+            "Openly embrace, create, implement and support new and innovative ideas, processes and technology that deliver business results"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://gentherm.com/",
+          "text": "gentherm.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Gentherm&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAII2As",
+          "text": "See web results for Gentherm"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXh27WMi7Ll24LYpfW-t4PmNVZJiR1ZYfQnaeAD4&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoia1ViRGg0MjZ1OUw1eGZjZ0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTA5SlRXZHBjSGxxUVdGa1lXOXdMVmhLUW1SSFZGTmhWVWxWUTNGdk5qbEtNV3d3TWtsalpIRkxWbE5WWlV4RWFFWnpkVXg1UW5kcWRVbGxlalJHTkd0emIzSllWVlpPZVROTldEaHdZVlZuT1ZWblRFUnpaMVo2VGt3eU1FTm1MVnBmTjFJM2NWbDJXbE4yZFZwNE4yMXJXSEpRUmpSeVlrOXNhR3RJYUZScFRFZ3RMWGt5VGpZemNtRTRjRVZ1VWtaUVlYTk9RbkE0VUU4Mk56azFXV0Z0TFdwYVVtSnpZMHR3T1haTllsQmlkbGt6V2tkblRYUlFiemRGTldsaVZHVkdTRXd6V2xSVWRsUk5WM1JTWVdSaldUaHFjakpYYkhSWFp4SVhUR2Q1TWxwbFMzRkJZVWR0Y1hSelVHMWpVelkyUVZFYUlrRlFXR2h0TlZwcWNIWmhhR1U0VkdabU1sWlVaSFZoVkdwTFJrbDNZbHBXWmxFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3NvZnR3YXJlLWVuZ2luZWVyLWF0LWdlbnRoZXJtLTM3Mzg5NTExMDM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer - Embedded Systems",
+      "company_name": "Waltonen",
+      "location": "  Warren, MI   ",
+      "via": "via ZipRecruiter",
+      "description": "Waltonen Engineering is actively seeking a Software Engineer to join our team!\n\nResponsibilities...\n• Responsible for configuring VxWorks, Linux or other embedded operating systems\n• Perform Linux programming\nDevelop software documentation\n• Design and test software\n• Debug software system\n• Enable embedded system security\n\nQualifications\n• Bachelor’s degree in software engineering, computer science, or electrical engineering (or relevant degree)\n• Previous experience in board support packages or system/kernel programming in a Linux environment\n• Experience with vehicle software\n• Experience troubleshooting software issues\n• Experience in developing C and C++ code\n• Experience with designing system software for PPC, Arm, RISC-V or other Intel based platforms\n• Experience with build environments like Buildroot or OpenEmbedded\n• Only United States Citizens can be considered\n• Must possess or be able to obtain security clearance\n\nPreferred Qualifications\n• Previous experience with military vehicle software\n• Knowledge of military standards\n• Experience with Ethernet or CAN data bus\n• DOORS experience\n• GIT, Bitbucket and/or Confluence experience\n\nBenefits\n• Medical, Dental & Vision Insurance\n• Vacation and Holiday pay\n• Employer matching 401K\n• Hybrid work schedule after 90 days for eligible positions\n• Tuition Reimbursement\n• Flexible Spending Programs (FSAs)\n• Short-Term & Long-Term Disability insurance\n• Employee Referral Program\n• Additional Voluntary Benefit Programs\n• Off-site company events & Employee Luncheons\n\nWho are we?\n\nWaltonen Engineering, Inc. is an equal opportunity employer and will consider qualified applicants for all positions without regard to race, color, sex, religion, national origin, age, marital status, weight, height, or the presence of a non-job-related medical condition or handicap.\n\nPowered by JazzHR\n\nJzRcHqn3mt",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in software engineering, computer science, or electrical engineering (or relevant degree)",
+            "Previous experience in board support packages or system/kernel programming in a Linux environment",
+            "Experience with vehicle software",
+            "Experience troubleshooting software issues",
+            "Experience in developing C and C++ code",
+            "Experience with designing system software for PPC, Arm, RISC-V or other Intel based platforms",
+            "Experience with build environments like Buildroot or OpenEmbedded",
+            "Only United States Citizens can be considered",
+            "Must possess or be able to obtain security clearance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for configuring VxWorks, Linux or other embedded operating systems",
+            "Perform Linux programming",
+            "Develop software documentation",
+            "Design and test software",
+            "Debug software system",
+            "Enable embedded system security"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Medical, Dental & Vision Insurance",
+            "Vacation and Holiday pay",
+            "Employer matching 401K",
+            "Hybrid work schedule after 90 days for eligible positions",
+            "Tuition Reimbursement",
+            "Flexible Spending Programs (FSAs)",
+            "Short-Term & Long-Term Disability insurance",
+            "Employee Referral Program",
+            "Additional Voluntary Benefit Programs",
+            "Off-site company events & Employee Luncheons"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.waltonen.com/",
+          "text": "waltonen.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Waltonen&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIIrAw",
+          "text": "See web results for Waltonen"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAtIEVtYmVkZGVkIFN5c3RlbXMiLCJodGlkb2NpZCI6IlNid3VVQzNFVzBNYjNBcHNBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamEzVktSVVpXZDBzdE1sQXhWRTF0ZUhjM1FUa3pSVXhFWVdGVVFuUk1jblZQYTNsTGRrMWpURzQ0VUdkaVVVOHlMV0UxVHpGMlJtaFhUa0pyZWxWMWIzTlZkbVY1Wm5WdmJIQmlibG81YVd4ZmJFODNTVjlrZGxGNlVrWjRkR2xVZDJscFltZGZiRFU1UjJwMUxXRktOa1l6ZG5GMWVuQjBVMVZtVWsxbVlVTnVjSGxMU0hWSVRFOVJibUZVZDBaeE16UXpRM3BXTVc5WU1rdGxNa1Z1VDFwTGFscGpWRWswZWt4S1VtSlpWVFpCVDFwUGJtTjJORzlNUWpGYVFuZFVhR1ZVTms1U2NXb3phbUkxT0VwdlRVTkJUREU1VjFwWFNrdGpRVWxIZW1odmFXTjNVemRoUldsbVpFUk1YM2gwT0JJWFRHZDVNbHBsUzNGQllVZHRjWFJ6VUcxalV6WTJRVkVhSWtGUVdHaHROVm8wTkdveGFFdFJZMU0wVUdkV1NFeE9WRlp1ZUVkbldGWTNSbWMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvV2FsdG9uZW4vSm9iL1NvZnR3YXJlLUVuZ2luZWVyLUVtYmVkZGVkLVN5c3RlbXMvLWluLVdhcnJlbixNST9qaWQ9ODZjYjUzMjEwMDM2OTIyYVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Epic",
+      "location": "  Detroit, MI   ",
+      "via": "via LinkedIn",
+      "description": "Code that saves lives.\n\nAs a software developer at Epic, you’ll write software that impacts the lives of 75% of Americans and 300 million patients around the world. Working in your own office, surrounded by thousands of high-caliber developers, you’ll use modern development methodologies and employ user-centered design, analytics, and machine learning tools to drive innovation in healthcare... Using leading-edge technologies and languages like JS, TS, and C#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves.\n\nWrite software for the most innovative health systems on the planet.\n\nThe top-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.\n\nExperience our state-of-the-art campus, eat delicious food, and travel the world.\n\nWe don’t believe in cubicles. (Well, we believe they exist, but…) Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. For lunch, visit King’s Cross or Cassiopeia for a wide array of meal options, or go to one of our smaller, themed bistros, featuring wood-rotisserie, pan-Asian, and Latin-inspired cuisine. All meals are restaurant-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.\n\nLive affordably in a city known for its rising tech talent.\n\nEpic is located just outside Madison, Wisconsin, which is the second fastest growing market for tech talent in the United States, home to the state capital, and the University of Wisconsin. Madison has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), fittest city in America (Fitbit), and, for the gamers, is one of a handful of US cities to have a Killer Queen arcade game, located at Madison’s first arcade bar.\n\nMore than just important work.\n\nWe offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Epic is an Equal Opportunity employer. We seek diverse perspectives, backgrounds, and experiences in our mission to improve healthcare. Research has shown that job-seekers who are women, LGBTQ+, or members of the global majority are less likely to apply for roles they don't seem completely qualified for, so we encourage all who are interested to apply. Please see our full non-discrimination statement at https //careers.epic.com/EEO.\n• Relocation to Madison, WI area (reimbursed)\n• BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field\n• A history of academic excellence or professional success\n• Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)\n• COVID-19 vaccination",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field",
+            "A history of academic excellence or professional success",
+            "Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "And, after five years here, you’ll earn a four-week sabbatical anywhere in the world",
+            "We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers",
+            "You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.epic.com/",
+          "text": "epic.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Epic&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAII8ww",
+          "text": "See web results for Epic"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ExSlYLFQqN0410cCjiC2e8zo_EvEphZA0ONp_Ig&s",
+      "extensions": [
+        "18 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoidW9jT3E1WmR6R1pacVdPTEFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYTNoR05HMU5SVzVSZDFWZlkzRmZhMkZ4UkVsVldHZDNlWFJ6WXpBdGJsTXlRM1pKZWpsTldHOHhNWFo0UVc5NU1VOXZkSFIxTm5odmRscHNVMWhGYUZod1VIRnFTVEZRUnpWTlpGbGphRGQ0VFdReU9VRjBRMk5STld0WmNXNW5iMGhLWmtscFJFUkdPVTlxZVU4ek5qWkxRVzlmZVhCV0xURnlTbGxVVGxoMFprTlFURUpuYjJOU1lsbERibXhPV1Y5TlEzaElRMjQzVTNkMmNsbEZhekJqVW5GMldFc3lSRm95VmtwSFNVcEhWbEJZV0VGeGVVOTJRMnMyV25rNWNrd3lVbDl0RWhkTVoza3lXbVZMY1VGaFIyMXhkSE5RYldOVE5qWkJVUm9pUVZCWWFHMDFZbU13VVhwMmVIRlpZbWg2VVVKWWVUWTVMV05HTjA1aE9YVkxVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc29mdHdhcmUtZW5naW5lZXItYXQtZXBpYy0zNjI4NTg2NjAxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "company_name": "Renesas Electronics Corporation",
+      "location": "  Farmington Hills, MI   ",
+      "via": "via Renesas Electronics Jobs - Renesas Electronics Corporation",
+      "description": "Job Type: Permanent - Full Time\n\nTravel Required: 0...\n\nRemote Work Available: Yes\n\nRenesas is one of the top global semiconductor companies in the world. We strive to develop a safer, healthier, greener, and smarter world, and our goal is to make every endpoint intelligent by offering product solutions in the automotive, industrial, infrastructure and IoT markets. Our robust product portfolio includes world-leading MCUs, SoCs, analog and power products, plus Winning Combination solutions that curate these complementary products. We are a key supplier to the world’s leading manufacturers of the electronics you rely on every day; you may not see our products, but they are all around you.\n\nRenesas employs roughly 21,000 people in more than 30 countries worldwide. As a global team, our employees actively embody the Renesas Culture, our guiding principles based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial. Renesas believes in, and has a commitment to, diversity and inclusion, with initiatives and a leadership team dedicated to its resources and values. At Renesas, we want to build a sustainable future where technology helps make our lives easier. Join us and build your future by being part of what’s next in electronics and the world.\n\nSummary:\n\n- Seeking an engineer eager to be grow to be experienced in Automotive Embedded MCU and/or SoC development with strong knowledge of cybersecurity and ability to engage with customer for technical marketing of security solutions.\n\nThis engineer will provide technical marketing and promotion of Renesas MCU and SoC security devices and solutions.\n\nJob Description:\n\n- Review/understand cybersecurity specifications and evaluate in the context of customer applications.\n\n- Provide technical support to customers and field application teams on design and development utilizing Renesas cybersecurity products.\n\n- Provide technical support to customers specifically on Renesas device security mechanisms, usage and troubleshooting.\n\n- Demonstrate system solutions, evaluation boards, starter kits, prototypes and reference designs.\n\n- Create and provide demonstrations and application examples to promote Renesas device security solutions.\n\n- Develop supporting documentation (overviews, application notes) to promote MCU security solutions.\n\n- Attend internal/external training and relevant tradeshows.\n\n- Create training material for customers and field application engineers related to cybersecurity with Renesas solutions.\n\n- Coordinate with colleagues worldwide.\n\nQualifications & Requirements:\n\n- Experience in automotive microcontroller-centric or SoC design and/or application development will be a plus. Desire to perform technical marketing leadership responsibilities.\n\n- Degree in Electrical, Software or Computer Engineering or similar (Masters desired).\n\n- Background in microcontroller/SoC hardware and embedded, real time driver software development, including security related implementations.\n\n- Background in HSM (Hardware Security Module) implementations\n\n- Background in CAN, LIN and Ethernet AVB software design and implementations.\n\n- Background with debuggers, compilers, IDEs, programmers, emulators, etc.\n\n- Background with vehicle network analysis tools (CANoe/CANalyzer/Vehicle Spy/etc.)\n\n- Familiarity w/ ARM processors\n\n- Strong communications skills necessary.\n\n- Willingness to travel domestically and internationally.\n\nRenesas Electronics America is an equal opportunity and affirmative action employer, committed to celebrating diversity and fostering a work environment free of discrimination on the basis of sex, race, religion, national origin, gender, gender identity, gender expression, age, sexual orientation, military status, veteran status, or any other basis protected by federal, state or local law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Desire to perform technical marketing leadership responsibilities",
+            "Background in microcontroller/SoC hardware and embedded, real time driver software development, including security related implementations",
+            "Background in HSM (Hardware Security Module) implementations",
+            "Background in CAN, LIN and Ethernet AVB software design and implementations",
+            "Background with debuggers, compilers, IDEs, programmers, emulators, etc",
+            "Background with vehicle network analysis tools (CANoe/CANalyzer/Vehicle Spy/etc.)",
+            "Familiarity w/ ARM processors",
+            "Strong communications skills necessary",
+            "Willingness to travel domestically and internationally"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Review/understand cybersecurity specifications and evaluate in the context of customer applications",
+            "Provide technical support to customers and field application teams on design and development utilizing Renesas cybersecurity products",
+            "Provide technical support to customers specifically on Renesas device security mechanisms, usage and troubleshooting",
+            "Demonstrate system solutions, evaluation boards, starter kits, prototypes and reference designs",
+            "Create and provide demonstrations and application examples to promote Renesas device security solutions",
+            "Develop supporting documentation (overviews, application notes) to promote MCU security solutions",
+            "Attend internal/external training and relevant tradeshows",
+            "Create training material for customers and field application engineers related to cybersecurity with Renesas solutions",
+            "Coordinate with colleagues worldwide"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.renesas.com/",
+          "text": "renesas.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Renesas+Electronics+Corporation&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIIyA0",
+          "text": "See web results for Renesas Electronics Corporation"
+        }
+      ],
+      "extensions": [
+        "18 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbWJlZGRlZCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoieEhiOHZJeVkwSFNDVV8yWEFBQUFBQT09IiwiZmMiOiJFdUlDQ3FJQ1FVNTFWMmhqYTBZeWRHbFZRMVpDUkVobFFWRjFWbGxqVUdWTVJUZE1UWGxIU1dweFlraHdXbUoxUVhBdFpYUnZhMjVPZDFKdVZEUTRlV2cwZEhoR2VIVlNVelZ4Wm01MFFuaE1jRXBCZEVvMFdFczFhVlF0Y2w5S1pFNUhYekZwVVRWWlFuRnplVk5TZUhSQmJGRm1kV3N0YUY5TmFXSm5UMmx1V1hSRFVXcExOV0pmVGpGblkxUTJUMlp6WlVKWlEwbHdhM2htVUdNMVJucHdlbXMwU21sMVFURlFYM0phVm1aSVJVSjFjVTFvV1cxeGFXcHFYMnhoT0U1U1lUZGhOMVpRWmxWU1FrMDFlVmRWU1dkT1pVRnphekpCV21aeGJ6SkpTemhKZFRZM1VGa3dWblJyVVdwelYwZDFTMHgyU2w5U1pYaHlNbFZHWlRCVVRFbFJORGxtWjNWTWVWUlVja3hRVFRoUVZHZFRabEZVWldGYWVGVXpOMWxoUTA1RU0xRVNGMHhuZVRKYVpVdHhRV0ZIYlhGMGMxQnRZMU0yTmtGUkdpSkJVRmhvYlRWWk9YRXpNMjFZVEdRNE5IUk1iREl3ZDJwUk1USjRlV1JsTlZaUiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFJlbmVzYXMgRWxlY3Ryb25pY3MgSm9icyAtIFJlbmVzYXMgRWxlY3Ryb25pY3MgQ29ycG9yYXRpb24iLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnJlbmVzYXMuY29tL2pvYi9GYXJtaW5ndG9uLUhpbGxzLUVtYmVkZGVkLVNvZnR3YXJlLUVuZ2luZWVyLU1JLTQ4MzMxLzEwMTU2MDg4MDEvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer, Vehicle UX",
+      "company_name": "Scout Motors",
+      "location": "  Detroit, MI   ",
+      "via": "via Greenhouse",
+      "description": "What you’ll do\n\nBecome part of an iconic brand that is set to revolutionize the all-electric pick-up truck & rugged SUV marketplace by achieving the following...\n• Responsible for building in-car user interfaces, entertainment (media streaming and video games), ADAS visualization, and our mobile application.\n• Collaborate with the internal design, fulfillment and operations teams, product owners, other designers, sales and scheduling teams, developers and project managers.\n• Be a key contributor and originator in their own right.\n• Deliverables include design mockups, experience flows, prototyping, design presentations, production of visual assets, process design and development.\n\nLocation & Travel Expectations: The responsibilities of this role require attendance at in-person meetings and events regularly. The role will be based out of a Scout Motors location in Detroit, MI or San Francisco, CA. Applicants should expect that the role may require the ability to convene with Scout colleagues in person and be able to travel to participate in events on behalf of the company from time to time.\n\nWhat you’ll bring\n\nWe expect all Scouts to have integrity, curiosity, resourcefulness, and strive to exhibit a positive attitude, as well as a growth mindset. You’ll be comfortable with change and flexible in a fast-paced, high-growth environment. You’ll take a collaborative approach to achieve ambitious goals. Here’s what else you’ll bring:\n• Bachelor’s or master’s degree in computer science or a related field.\n• 4+ years of engineering experience focused on developing user interfaces, ADAS visualizations, and/or consumer-facing applications.\n• Proficiency in C++.\n• Excellent grasp of fundamental computer science concepts.\n• Experience writing and shipping customer-facing code.\n• Willingness to learn new technologies in any area of the stack.\n• Experience using common design patterns in the software industry.\n• Experience working with multithreaded applications.\n• High standards for code quality, maintainability, and performance\n• Must have an affinity for minimal design, typography, and attention to the smallest of details.\n\nWhat you'll gain\n\nThe benefits of joining Scout include the chance to build products and a company from the ground up. This is a chance to create something new and lasting – with an iconic brand at its foundation. In addition, Scout provides competitive compensation and benefits to support your physical, mental, and financial wellbeing. Program specifics are detailed in company policies and employee benefit guides, select highlights:\n• Competitive insurance including:\n• Medical, dental, vision and income protection plans\n• 401(k) program with:\n• An employer match and immediate vesting\n• Generous Paid Time Off including:\n• 20 days planned PTO, as accrued\n• 40 hours of unplanned PTO and 14 company or floating holidays, annually\n• Up to 16 weeks of paid parental leave for biological and adoptive parents of all genders\n• Paid leave for circumstances related to bereavement, jury duty, voting time, or military leave\n• Corporate Vehicle Program with:\n• Eligibility to lease up to 2 vehicles at competitive rates\n\nPay Transparency\n\nThis is a full-time, exempt position, eligible to receive a base salary and to participate in an annual performance bonus program. The salary range listed represents the maximum and minimum starting base pay for this position as of the time of posting. Final salary offered will be determined based on factors including but not limited to the candidate's skills and experience. The annual performance bonus program is preset and not candidate dependent.\n\nInitial base salary range = $110,000- $170,000\n\nInternal leveling code: IC9",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s or master’s degree in computer science or a related field",
+            "4+ years of engineering experience focused on developing user interfaces, ADAS visualizations, and/or consumer-facing applications",
+            "Proficiency in C++",
+            "Excellent grasp of fundamental computer science concepts",
+            "Experience writing and shipping customer-facing code",
+            "Willingness to learn new technologies in any area of the stack",
+            "Experience using common design patterns in the software industry",
+            "Experience working with multithreaded applications",
+            "High standards for code quality, maintainability, and performance",
+            "Must have an affinity for minimal design, typography, and attention to the smallest of details"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for building in-car user interfaces, entertainment (media streaming and video games), ADAS visualization, and our mobile application",
+            "Collaborate with the internal design, fulfillment and operations teams, product owners, other designers, sales and scheduling teams, developers and project managers",
+            "Be a key contributor and originator in their own right",
+            "Deliverables include design mockups, experience flows, prototyping, design presentations, production of visual assets, process design and development",
+            "Location & Travel Expectations: The responsibilities of this role require attendance at in-person meetings and events regularly",
+            "The role will be based out of a Scout Motors location in Detroit, MI or San Francisco, CA. Applicants should expect that the role may require the ability to convene with Scout colleagues in person and be able to travel to participate in events on behalf of the company from time to time",
+            "You’ll take a collaborative approach to achieve ambitious goals"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In addition, Scout provides competitive compensation and benefits to support your physical, mental, and financial wellbeing",
+            "Competitive insurance including:",
+            "Medical, dental, vision and income protection plans",
+            "401(k) program with:",
+            "An employer match and immediate vesting",
+            "Generous Paid Time Off including:",
+            "20 days planned PTO, as accrued",
+            "40 hours of unplanned PTO and 14 company or floating holidays, annually",
+            "Up to 16 weeks of paid parental leave for biological and adoptive parents of all genders",
+            "Paid leave for circumstances related to bereavement, jury duty, voting time, or military leave",
+            "Corporate Vehicle Program with:",
+            "Eligibility to lease up to 2 vehicles at competitive rates",
+            "Pay Transparency",
+            "This is a full-time, exempt position, eligible to receive a base salary and to participate in an annual performance bonus program",
+            "Final salary offered will be determined based on factors including but not limited to the candidate's skills and experience",
+            "The annual performance bonus program is preset and not candidate dependent",
+            "Initial base salary range = $110,000- $170,000"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.scoutmotors.com/",
+          "text": "scoutmotors.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Scout+Motors&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIIlg4",
+          "text": "See web results for Scout Motors"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRzUuT0raGvtnpft6uZgmpL3bCAXH6D75NJfp&s=0",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgVmVoaWNsZSBVWCIsImh0aWRvY2lkIjoiWGwtVWZmd0Y0Tl9uY0lmd0FBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYTNkelEyMWpWRVl5VkRoM1FtNTFlbWRvWVVka1gydEdjV2hRTmsxTmVVd3dlVlJ0U1ZGblNqbDZTR05XVW5SSGNuaE5OalJEVnpjMk1VNXZjRzFpYzNGVVMxcFBRMVZzTjNvNU1YaG9iMk5TVlVkM1dVdzRjRkpJYWxVd01tcDJZalV0YlMxVmFqWjRkRVJQZERoMFYyRkJYMmhwZFdWb01XbGhPVTVITlVKS2FGcE1UM3BvWVVWRmNVVm5UV3BsVkVkS2EwMVdPWE16YUZONlVWOTVZbkpRYUUwME0yaEJSRzFFWDFRNFJqSnJPWHBPZDNSWUxWODNSMWhqYjFCb2JHNTVjM2hMYjFkV016VkNhRWt4VGtocWJUQm1OM0Y2VlZZMmRUSm9lWFI1WjFsWlYzVXRNMHREWkdGVWNHcDVkeElYVEdkNU1scGxTM0ZCWVVkdGNYUnpVRzFqVXpZMlFWRWFJa0ZRV0dodE5XSlJiM1phZDNsWFgzaDZjVTFYUVZwTmJXVlFTVVpWYjJWMFlWRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEdyZWVuaG91c2UiLCJsaW5rIjoiaHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9zY291dG1vdG9ycy9qb2JzLzQwNDQ2MjkwMDc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company_name": "ProQuest",
+      "location": "  Ann Arbor, MI   ",
+      "via": "via Purpose Jobs",
+      "description": "We are looking for a Lead Software Engineer to join our Platform Services Team in Ann Arbor, MI. As a Lead Software Engineer, you will be responsible for the design, implementation and testing phases of the software development life cycle. You will be participating as a team member on various engineering projects and may lead small projects. If you prefer backend development paired with solving... problems, writing microservices, dealing with large-scale data manipulations and cloud deployments, then this is the role for you!\n\nAbout You – experience, education, skills, and accomplishments\n• Bachelor’s degree or higher in related field or equivalent years of relevant, professional experience\n• At least 5 years of experience writing backend code in Java\n• At least 5 years of experience working with relational databases, especially SQL databases\n\nIt would be great if you also had . . .\n• Experience with Python programming language\n• Familiarity with AWS-based cloud computing technologies and concepts\n• Experience with tools such as Jenkins, Gradle, GitHub\n\nWhat will you be doing in this role?\n• Implementing Java-based web services based on the needs of client applications.\n• Working with the database team for all data retrievals and updates from our services.\n• Transitioning our service architecture from on premises servers to AWS.\n• Manually testing, and building unit tests, for all the services you create or modify.\n• Responding to inquiries regarding the function and design of our services and attend scrum team meetings.\n• Suggest alternative methodologies or techniques to achieving desired results.\n• Document our services for other developers that use them and provide technical training to other team members.\n• Review and revise new procedures as needed for the continuing development of high-quality software.\n\nAbout the Team\n\nJoin our Platform Services team! We’re a close group of 12 people reporting into the Director, Software Engineering. This team focuses solely on backend development for the PQ Platform.\n\nHours of Work\n• Full time, permanent\n• Hybrid working model\n• Must live in a commutable distance to our Ann Arbor, MI office\n\nClarivate is an Equal Opportunity Employer Vets/Minorities/Women/Disabled",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree or higher in related field or equivalent years of relevant, professional experience",
+            "At least 5 years of experience writing backend code in Java",
+            "At least 5 years of experience working with relational databases, especially SQL databases",
+            "It would be great if you also had . .",
+            "Experience with Python programming language",
+            "Familiarity with AWS-based cloud computing technologies and concepts",
+            "Experience with tools such as Jenkins, Gradle, GitHub"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Lead Software Engineer, you will be responsible for the design, implementation and testing phases of the software development life cycle",
+            "You will be participating as a team member on various engineering projects and may lead small projects",
+            "Implementing Java-based web services based on the needs of client applications",
+            "Working with the database team for all data retrievals and updates from our services",
+            "Transitioning our service architecture from on premises servers to AWS",
+            "Manually testing, and building unit tests, for all the services you create or modify",
+            "Responding to inquiries regarding the function and design of our services and attend scrum team meetings",
+            "Suggest alternative methodologies or techniques to achieving desired results",
+            "Document our services for other developers that use them and provide technical training to other team members",
+            "Review and revise new procedures as needed for the continuing development of high-quality software"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Full time, permanent"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.proquest.com/",
+          "text": "proquest.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=ProQuest&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAII4w4",
+          "text": "See web results for ProQuest"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PXtBJezlBX26DPxy7_iw-nymy4GJYtD24BGIo9s&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJiT2ZXWnUtQnRlcl9sZE9TQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiWGRrT1hkSlVEbHFlSE5hWW1abVgyMTRaVzVqV2t4TGVuRlJURlpRWWtGak5URklNM1ZoTjBSUVVFVkthV0l6ZEMxdWRsTlVORWxXWmpKRWFFNVdkVlF5YjJsbVVFTkJSV2xITWs5UlRGRmZjSGhwY2xCT09IWTBlbVpRYUdGUVVtZGljWE4wZUhaclRHOUxVSHBOY25ocmRIUlpiVGh4YW5nd1ZFOWlVbVp5YUZWbFpsOVdZbk5HWld4V2JVSlFRMjUwWXpWNVEyNTVUa2xZWnpaMWFGRldVVVY1ZGxKMVNIb3dkRTgxTTIwME1HVlRNSFEwTkZwSFlteEhhRXRNWVZKd04wVlBORzVaWDNCUFFXRXdWV1pTYXpWd1pXOUZTRGRVWnhJWFRHZDVNbHBsUzNGQllVZHRjWFJ6VUcxalV6WTJRVkVhSWtGUVdHaHROVnBrTXpVeFRIVk1aWEZsVFMxMFMwNXpWV1J0U21wRk5FVk1iVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBQdXJwb3NlIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cucHVycG9zZS5qb2JzL2Rpc2NvdmVyL2NvbXBhbmllcy9wcm9xdWVzdC9qb2JzLzMxNjg4Mzg1LWxlYWQtc29mdHdhcmUtZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Lead Software Engineer (C# .NET)",
+      "company_name": "Tyler Technologies",
+      "location": "  Troy, MI   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nTyler Technologies is looking for talented lead software engineer to join our public safety products development team. The technical lead engineer position is responsible for the providing the technical leadership to the CAD and Mobile product team responsible for our mission critical, real time E-911 products on .NET platform. Ideal candidates will have in depth of knowledge and... skills in software design and development using .NET platform technologies. The lead engineer will have opportunity to work in teams that are highly collaborative and follow Agile practices to bring new ideas and creative thinking to our team.\n\nRequired Skills/Competencies\n• Bachelor’s degree in Computer Science or related technical field\n• 10 + years of experience in designing and developing the enterprise grade software applications using object-oriented programming concepts and Design patterns\n• 10+ years of C# development experience with a comprehensive knowledge of Microsoft .Net eco system.\n• In depth knowledge and experience with core Microsoft .Net technologies including WPF, WF, LINQ, Web API\n• Proficient in of object-oriented design experience and Design patterns\n• Proficient in multi-threaded and asynchronous programming models\n• Proficient in SQL, Microsoft SQL server and ORM tools.\n• Experience in Test driven development and test automation.\n• Strong communication skills which will elevate technical team interaction.\n• Ability to adapt and learn new technologies quickly and proactively.\n• Prior experience in a technical leadership position\n• Experience with agile development methodologies and use of JIRA.\n\nPreferred Skills/Competencies\n• Professional work experience designing, building and deploying a large-scale, commercial software product\n• Application development and deployment experience in Azure\n• Experience with Message Broker technologies like Active MQ, Rabbit MQ\n• Experience in working with open source technologies from Apache and Eclipse foundation.\n• Familiarity with Behavior Driven Development\n• Advocate for best practices (standard naming conventions, architecture, design patterns)\n\nPrimary Responsibilities\n• Guide team development efforts towards successful project delivery.\n• Provide technical leadership to teammates through coaching and mentorship.\n• Maintain high standards of software quality within the team by establishing good practices and habits.\n• Identify and encourage areas for growth and improvement within the team.\n• Collaborate with other software developers, business analysts and software architects to plan, design, develop, test, and maintain web- and desktop-based business applications built on Microsoft technologies.\n• Assist in the development of user stories, estimates and work plans.\n• Prepare reports, manuals and other documentation on the status, operation and maintenance of software.\n• Design, develop, and unit test applications in accordance with established standards. Participate in peer-reviews of solution designs and related code.\n• Develop, refine, and tune integrations between applications.\n• Analyze and resolve technical and application problems. Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.\n• Adhere to high-quality development principles while delivering solutions on-time and on-budget.\n• Involved through the entire software development lifecycle of analysis, design, coding, testing, implementation and support\n• Continually grow personal skillset and knowledge base with independent research",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science or related technical field",
+            "10 + years of experience in designing and developing the enterprise grade software applications using object-oriented programming concepts and Design patterns",
+            "10+ years of C# development experience with a comprehensive knowledge of Microsoft .Net eco system",
+            "In depth knowledge and experience with core Microsoft .Net technologies including WPF, WF, LINQ, Web API",
+            "Proficient in multi-threaded and asynchronous programming models",
+            "Proficient in SQL, Microsoft SQL server and ORM tools",
+            "Experience in Test driven development and test automation",
+            "Strong communication skills which will elevate technical team interaction",
+            "Ability to adapt and learn new technologies quickly and proactively",
+            "Prior experience in a technical leadership position",
+            "Experience with agile development methodologies and use of JIRA"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The technical lead engineer position is responsible for the providing the technical leadership to the CAD and Mobile product team responsible for our mission critical, real time E-911 products on .NET platform",
+            "The lead engineer will have opportunity to work in teams that are highly collaborative and follow Agile practices to bring new ideas and creative thinking to our team",
+            "Guide team development efforts towards successful project delivery",
+            "Provide technical leadership to teammates through coaching and mentorship",
+            "Maintain high standards of software quality within the team by establishing good practices and habits",
+            "Identify and encourage areas for growth and improvement within the team",
+            "Collaborate with other software developers, business analysts and software architects to plan, design, develop, test, and maintain web- and desktop-based business applications built on Microsoft technologies",
+            "Assist in the development of user stories, estimates and work plans",
+            "Prepare reports, manuals and other documentation on the status, operation and maintenance of software",
+            "Design, develop, and unit test applications in accordance with established standards",
+            "Participate in peer-reviews of solution designs and related code",
+            "Develop, refine, and tune integrations between applications",
+            "Analyze and resolve technical and application problems",
+            "Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties",
+            "Adhere to high-quality development principles while delivering solutions on-time and on-budget",
+            "Involved through the entire software development lifecycle of analysis, design, coding, testing, implementation and support"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tylertech.com/",
+          "text": "tylertech.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=e5ad8076cbea9bc0&q=Tyler+Technologies&sa=X&ved=0ahUKEwji-eSa0f-DAxUhk2oFHRmiDk04ARCYkAIItg8",
+          "text": "See web results for Tyler Technologies"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rCsgk6zA9fl2Dj1zRje6CaZWkzmvtQJLBkaQZOw&s",
+      "extensions": [
+        "9 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "9 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIChDIyAuTkVUKSIsImh0aWRvY2lkIjoiX0ZQaUVldmFWSnZYcnRJZkFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYld3MGN6RnhNV0kwV21WeFYwTktNMFZuT1VaYU0wcGlOelpMT0hBNU1rcHZXbTU0Y2tNeVpubHBUbGc0TURaMlRGQmZhREpRV1hKVVNtUXRRa3h5ZEdadlpGQlhVVmw2ZURaek0yMXpOMFZPYVY5S1FYbzNVekJGVWpFNVIxcG9PRVJDVVZCWE4wNUROVGRNVDNwMk1Ga3lVV3ByT0RKNlZUQlJRa2RVYkVKMU5HdEdVRFIyWVRCSU1ITkNRWEZRZWxKWWVYaGFUV280YUhRNVpGSk5hMkpGTkhSRlNrZEJXakJJTjJkVFJrRkxhUzFYY1VSTVdFb3lYMlJ4U1c1MWNqZzBUMWhrVVdoeGFWOHdabmR4Y1RseU1VZEVYMEpGTlV3NWJYcE1ZMHN3TnpWaVVFcDVPR0Y2Tm04NGREbGZUUklYVEdkNU1scGxTM0ZCWVVkdGNYUnpVRzFqVXpZMlFWRWFJa0ZRV0dodE5XSXpWVGh2TkZoUk5rZElPSHBuY0U5UVNHcEpiM3BTVlZFMFdHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE5IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbGVhZC1zb2Z0d2FyZS1lbmdpbmVlci1jJTIzLW5ldC1hdC10eWxlci10ZWNobm9sb2dpZXMtMzc1NDYwNTU0NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer senior",
+          "value": "engineer senior"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Consulting",
+          "value": "consulting"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Assistant",
+          "value": "assistant"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "Contractor",
+          "value": "contractor"
+        },
+        {
+          "text": "Data architect",
+          "value": "data architect"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Desktop engineer",
+          "value": "desktop engineer"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineering",
+          "value": "engineering"
+        },
+        {
+          "text": "Engineering specialist",
+          "value": "engineering specialist"
+        },
+        {
+          "text": "Lead engineer",
+          "value": "lead engineer"
+        },
+        {
+          "text": "Onsite",
+          "value": "onsite"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Sr. director",
+          "value": "sr. director"
+        },
+        {
+          "text": "Staff engineer",
+          "value": "staff engineer"
+        },
+        {
+          "text": "Summer associate",
+          "value": "summer associate"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Chicago, IL",
+          "value": "7cv00DwsDogAwMAJrabgrw=="
+        },
+        {
+          "text": "Pittsburgh, PA",
+          "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+        },
+        {
+          "text": "Columbus, OH",
+          "value": "cd6QucGJOIgztbHP-GYy5A=="
+        },
+        {
+          "text": "Dearborn, MI",
+          "value": "a9jAyQY1O4jANsrvQdMPBw=="
+        },
+        {
+          "text": "Grand Rapids, MI",
+          "value": "FShQu2BUGIjQqNMby6qTpQ=="
+        },
+        {
+          "text": "Milwaukee, WI",
+          "value": "50eLV9cCBYiEe0G1IhlfRA=="
+        },
+        {
+          "text": "Detroit, MI",
+          "value": "dR3LEAHKJIjSxLk1ToZ2Vw=="
+        },
+        {
+          "text": "Cleveland, OH",
+          "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+        },
+        {
+          "text": "Ann Arbor, MI",
+          "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+        },
+        {
+          "text": "Dayton, OH",
+          "value": "AxTdrtWAQIjkTA7ykuNApg=="
+        },
+        {
+          "text": "Troy, MI",
+          "value": "E8yLMQrEJIind5F-xgBLtA=="
+        },
+        {
+          "text": "Beavercreek, OH",
+          "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+        },
+        {
+          "text": "Buffalo, NY",
+          "value": "oeXfUmES04lxgR8YpQQjmA=="
+        },
+        {
+          "text": "Coraopolis, PA",
+          "value": "m0dACEFeNIg8WdurXrQvCg=="
+        },
+        {
+          "text": "Dublin, OH",
+          "value": "H6FQ1MTsOIgokGgVaBfCAA=="
+        },
+        {
+          "text": "Kalamazoo, MI",
+          "value": "uZIxSXmdF4gJMFdJ0vh82g=="
+        },
+        {
+          "text": "Miamisburg, OH",
+          "value": "jVJnuoBiQIj3IlYUjxZaDg=="
+        },
+        {
+          "text": "North Canton, OH",
+          "value": "xacgQ2TRNojjhE55Er_a3A=="
+        },
+        {
+          "text": "Novi, MI",
+          "value": "bZmKsj2pJIj-m4uVuM62zw=="
+        },
+        {
+          "text": "Westerville, OH",
+          "value": "VyNMY2X1OIhBP12wVDChRg=="
+        },
+        {
+          "text": "Bloomfield Hills, MI",
+          "value": "pb5Fg76wJIgAYZh7UKEm4A=="
+        },
+        {
+          "text": "Carmel, IN",
+          "value": "HfozMJetFIj8OHtfXwm5Qw=="
+        },
+        {
+          "text": "Cranberry Township, PA",
+          "value": "D2EEK1p9NIjTHvd9YXlJfg=="
+        },
+        {
+          "text": "Deerfield, IL",
+          "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+        },
+        {
+          "text": "Elk Grove Village, IL",
+          "value": "z0ymcheuD4iWkxBjJLBesA=="
+        },
+        {
+          "text": "Evendale, OH",
+          "value": "O0oMNxJSQIgSLWI_GMLLug=="
+        },
+        {
+          "text": "Farmington Hills, MI",
+          "value": "fzx-jC-uJIi8OwB-Iqt4GQ=="
+        },
+        {
+          "text": "Fishers, IN",
+          "value": "2f5h4HezFIg7UMeYUJFwXA=="
+        },
+        {
+          "text": "Lansing, MI",
+          "value": "N4wxfxzAIoienQKJI7Z4Qw=="
+        },
+        {
+          "text": "Royal Oak, MI",
+          "value": "9yvNbPnFJIgQM8rvQdMPBw=="
+        },
+        {
+          "text": "South Bend, IN",
+          "value": "E9NhSsQyEYgEMqNvs9lKlw=="
+        },
+        {
+          "text": "Sterling Heights, MI",
+          "value": "57HShnvcJIjnIju58DEc9Q=="
+        },
+        {
+          "text": "Valparaiso, IN",
+          "value": "C0BDeA6aEYhMQueOo0XCgA=="
+        },
+        {
+          "text": "Allen Park, MI",
+          "value": "m5Yp_mI2O4g9H_5DnnfWmw=="
+        },
+        {
+          "text": "Anderson, IN",
+          "value": "A8BchIXZFIhDQwtkFQMXkA=="
+        },
+        {
+          "text": "Arcanum, OH",
+          "value": "86z3rKSNP4hAsXhVjku5hA=="
+        },
+        {
+          "text": "Auburn Hills, MI",
+          "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+        },
+        {
+          "text": "Beachwood, OH",
+          "value": "DfjVw44DMYhrpa8UdEWiYA=="
+        },
+        {
+          "text": "Bedford Park, IL",
+          "value": "29dGbjw3DoikjALierC1wA=="
+        },
+        {
+          "text": "Blue Ash, OH",
+          "value": "eVnFs7hTQIiod2Bmj_O5xQ=="
+        },
+        {
+          "text": "Buffalo Grove, IL",
+          "value": "3xc-tw28D4jV5t02eW-4kw=="
+        },
+        {
+          "text": "Butler, PA",
+          "value": "yXWxleliM4hn-3V9fR-fiA=="
+        },
+        {
+          "text": "Canonsburg, PA",
+          "value": "izTZZodTNIh0oKBZazRq4A=="
+        },
+        {
+          "text": "Carroll, OH",
+          "value": "C8n16Q53OIjbX1PQ6K4Ivw=="
+        },
+        {
+          "text": "Cicero, IL",
+          "value": "j9uBfJYzDoggMQB8x3JYvA=="
+        },
+        {
+          "text": "Commerce Charter Township, MI",
+          "value": "7WkomIOmJIhOIb66vGQiTQ=="
+        },
+        {
+          "text": "Dexter, MI",
+          "value": "3ardGka0PIhrjeNKOLIgdw=="
+        },
+        {
+          "text": "East Pittsburgh, PA",
+          "value": "KcOyxcbuNIjna4BQy1DvsQ=="
+        },
+        {
+          "text": "Erie, PA",
+          "value": "H_eyPeF_LYgKWx0SLq7ziQ=="
+        },
+        {
+          "text": "Fort Wayne, IN",
+          "value": "S4Ei_93kFYiT90J2FHsHgA=="
+        },
+        {
+          "text": "Franklin, WI",
+          "value": "hWD-pXUSBYjU3sJwY31i0A=="
+        },
+        {
+          "text": "Lincolnshire, IL",
+          "value": "DT9v_Gq-D4h_O78vdlAMUg=="
+        },
+        {
+          "text": "Maumee, OH",
+          "value": "BanTPSh3PIg-J2ZlHdGKkg=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        },
+        {
+          "text": "Advertising",
+          "value": "/business/naics2007/5418"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Foods & Beverages",
+          "value": "/business/naics2007/311"
+        },
+        {
+          "text": "Legal",
+          "value": "/business/naics2007/5411"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "J.P. Morgan",
+          "value": "/m/01hlwv"
+        },
+        {
+          "text": "Morningstar",
+          "value": "/m/04xn05"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "Motorola Solutions",
+          "value": "/m/03dzwt_"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Northwest Bancshares",
+          "value": "/g/11c6r9hn74"
+        },
+        {
+          "text": "Carnegie Mellon University",
+          "value": "/m/0cwx_"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Emergent Software",
+          "value": "/m/09mjr27"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "GE",
+          "value": "/m/02ywsn"
+        },
+        {
+          "text": "JPMorgan Chase Bank, N.A.",
+          "value": "/m/0221wv"
+        },
+        {
+          "text": "Accenture",
+          "value": "/m/01rp2c"
+        },
+        {
+          "text": "Allstate",
+          "value": "/m/03ct7b"
+        },
+        {
+          "text": "Bose Corporation",
+          "value": "/m/027f4z"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Dick's Sporting Goods",
+          "value": "/m/06fgv_"
+        },
+        {
+          "text": "Diebold Nixdorf",
+          "value": "/g/122jkhlq"
+        },
+        {
+          "text": "Gentherm",
+          "value": "/m/0ztb1_x"
+        },
+        {
+          "text": "GeoLogics Corporation",
+          "value": "/g/11f018pzl5"
+        },
+        {
+          "text": "Giant Eagle",
+          "value": "/m/05f0pg"
+        },
+        {
+          "text": "Glocomms",
+          "value": "/g/11t42n5g9b"
+        },
+        {
+          "text": "Google",
+          "value": "/m/045c7b"
+        },
+        {
+          "text": "Insight Global",
+          "value": "/m/0b773zq"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Northrop Grumman",
+          "value": "/m/01frmh"
+        },
+        {
+          "text": "Renesas Electronics",
+          "value": "/m/0crd_ct"
+        },
+        {
+          "text": "Rivian",
+          "value": "/m/0gj8vdm"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Rockwell Automation",
+          "value": "/m/047bkd"
+        },
+        {
+          "text": "Stripe",
+          "value": "/m/0h3qnb8"
+        },
+        {
+          "text": "University of Chicago",
+          "value": "/m/07wrz"
+        },
+        {
+          "text": "Walgreens",
+          "value": "/m/02rx2k"
+        },
+        {
+          "text": "ALSTOM",
+          "value": "/m/011wfk"
+        },
+        {
+          "text": "AbbVie",
+          "value": "/m/0rzs09c"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        }
+      ]
+    }
+  ]
+}

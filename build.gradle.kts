@@ -1,9 +1,13 @@
+import de.undercouch.gradle.tasks.download.Download
+import groovy.json.JsonSlurper
+
 plugins {
     kotlin("jvm") version "1.9.22"
+    application
     id("app.cash.sqldelight") version "2.0.1"
     id("com.google.devtools.ksp") version "1.9.22-1.0.17"
     id("com.jaredsburrows.license") version "0.9.7"
-    application
+    id("de.undercouch.download").version("5.5.0")
 }
 
 group = "edu.bridgew.comp490"
@@ -60,11 +64,52 @@ dependencies {
 
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
 
+    testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
-    testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.10")
-    testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.1")
+    testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0-RC2")
+    testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.2")
     testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
+}
+
+val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchResults") {
+    val searchResultsUrls = file("src/main/resources/edu/bridgew/comp490/proj1/data/debug/search_result_urls.txt")
+    inputs.file(searchResultsUrls)
+        .withPropertyName("searchResultUrlsFile")
+        .skipWhenEmpty()
+
+    val outputDir = layout.buildDirectory.dir("test-data/raw")
+
+    src(resources.text.fromFile(searchResultsUrls).asReader().readLines())
+    dest(outputDir)
+    tempAndMove(true)
+    overwrite(false)
+    eachFile {
+        val baseName = sourceURL.path.split('/').removeLast()
+        name = baseName
+    }
+
+    finalizedBy(tasks["renameTestSearchResults"])
+}
+
+val renameTestSearchResults by tasks.register<Copy>("renameTestSearchResults") {
+    val inputFiles = files(downloadTestSearchResults.outputFiles)
+    from(inputFiles)
+
+    val jsonSlurper = JsonSlurper()
+    rename { oldName ->
+        val file = inputFiles.single { it.name.contains(oldName) }
+        val json: Map<String, Map<String, Any>> = jsonSlurper.parse(file) as Map<String, Map<String, Any>>
+        val searchQ = (json["search_parameters"]!!["q"]!! as String).replace(' ', '_')
+        val createdAt = (json["search_metadata"]!!["created_at"]!! as String).split(' ')
+        val start = json["search_parameters"]!!["start"] as Int? ?: 0
+        "$searchQ-${createdAt[0].filterNot { it == '-' }}${createdAt[1].filterNot { it == ':' }}-$start.json"
+    }
+
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    into(layout.buildDirectory.dir("test-data"))
 }
 
 sqldelight {
@@ -92,8 +137,10 @@ val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
 }
 
 tasks.test {
+    dependsOn(downloadTestSearchResults)
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
+    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.buildDirectory.dir("test-data").get().asFile.absolutePath)
 }
 
 val copyDist by tasks.register<Copy>("copyDist") {

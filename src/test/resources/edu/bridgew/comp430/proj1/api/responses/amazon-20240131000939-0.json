@@ -1,0 +1,1310 @@
+{
+  "search_metadata": {
+    "id": "65b98fc3c90e0a3f1c22b7f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fee3ffd9a92c2070/65b98fc3c90e0a3f1c22b7f4.json",
+    "created_at": "2024-01-31 00:09:39 UTC",
+    "processed_at": "2024-01-31 00:09:39 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=amazon&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/fee3ffd9a92c2070/65b98fc3c90e0a3f1c22b7f4.html",
+    "total_time_taken": 1.57
+  },
+  "search_parameters": {
+    "q": "amazon",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Finance Manager, Amazon",
+      "company_name": "Amazon",
+      "location": "  Seattle, WA   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nThis Finance Manager role will serve as the main point of contact for the People Engagement (PE) within the People Experience and Technology (PXT) organization. People Engagement connects Amazonians with the information, resources, and insights they need through best-in-class solutions fueled by data and science. PE owns the technology for A to Z, Science-Backed Surveys, Enterprise... Search, Enterprise Document Management, Amazon Learn, Engagement & Recognition Tools, and Reporting. The team is comprised of three primary teams People Experience Foundation (PXF), People Engagement Experience (PEX), and PeopleInsight (PI).\n\nKey job responsibilities\n\nThis business partnering support role sits within Amazon’s Corporate FP&A organization, PXT Finance function. This high visibility finance role will provide reliable data and analysis to help with decision making and planning, as well as become a world-class business advisor to the leaders of that organization. The ideal candidate is a quick learner and comfortable with ambiguity. The candidate possesses a keen attention to detail, has a passion for analytics and enjoys working in a fast-paced environment. The role entails interaction with HR leadership and requires a balance of strong verbal communication and partnership skills, delivering results, and inventing new processes. With technology leading the innovation within this organization, this role requires the ability to develop ROI models to support business investment decisions.\n\nA day in the life\n• Collaborate with partners to identify and understand challenges and propose creative solutions\n• Championing technology and automation, including the implementation of new operational tools;\n• Providing finance support to the business leaders related to demand planning, productivity, metrics and reporting;\n• Partnering directly with the business leaders of operations team and other central HR groups to standardize reporting, metrics, goals, and business reviews;\n• Diving deep into the financial data and becoming a subject matter expert\n• Building and fostering effective relationships and networks with the organization;\n• Clearly articulating business results and recommendations and presenting to senior management\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nSeattle, WA, USA\n\nBasic Qualifications\n• 5+ years of tax, finance or a related analytical field experience\n• 5+ years of multiple finance and accounting roles experience\n• 6+ years of Accounts Receivable or Account Payable experience\n• 6+ years of applying key financial performance indicators (KPIs) to analyses experience\n• 6+ years of building financial and operational reports/data sets that inform business decision-making experience\n• 6+ years of creating process improvements with automation and analysis experience\n• 6+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience\n• Bachelor's degree in engineering, statistics or business, or Bachelor's degree and 5+ years of quantitative role (engineering, process re-engineering, quality assurance) experience\n• Experience performing ad hoc analysis using advanced Excel\n• Experience building and managing financial models for business forecasting and problem solving\n\nPreferred Qualifications\n• 6+ years of identifying incomplete or inaccurate data, identifying the root cause and creating/implementing an escalation plan experience\n• 6+ years of solving complex business challenges by delivering accurate and timely financial models, analysis, and recommendations that have a proven impact on business (e.g., financial savings, operational improvements, or customer benefits) experience\n• MBA, or CPA\n• Knowledge of SQL/ETL\n• Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)\n• Experience delivering forecasting, budgeting, and variance analysis, and data interpretation of results\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $81,100/year in our lowest geographic market up to $179,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.\n\nCompany - Amazon.com Services LLC\n\nJob ID: A2479460",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate is a quick learner and comfortable with ambiguity",
+            "The candidate possesses a keen attention to detail, has a passion for analytics and enjoys working in a fast-paced environment",
+            "5+ years of tax, finance or a related analytical field experience",
+            "5+ years of multiple finance and accounting roles experience",
+            "6+ years of Accounts Receivable or Account Payable experience",
+            "6+ years of applying key financial performance indicators (KPIs) to analyses experience",
+            "6+ years of building financial and operational reports/data sets that inform business decision-making experience",
+            "6+ years of creating process improvements with automation and analysis experience",
+            "6+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience",
+            "Bachelor's degree in engineering, statistics or business, or Bachelor's degree and 5+ years of quantitative role (engineering, process re-engineering, quality assurance) experience",
+            "Experience performing ad hoc analysis using advanced Excel",
+            "Experience building and managing financial models for business forecasting and problem solving"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This Finance Manager role will serve as the main point of contact for the People Engagement (PE) within the People Experience and Technology (PXT) organization",
+            "This high visibility finance role will provide reliable data and analysis to help with decision making and planning, as well as become a world-class business advisor to the leaders of that organization",
+            "Collaborate with partners to identify and understand challenges and propose creative solutions",
+            "Championing technology and automation, including the implementation of new operational tools;",
+            "Providing finance support to the business leaders related to demand planning, productivity, metrics and reporting;",
+            "Partnering directly with the business leaders of operations team and other central HR groups to standardize reporting, metrics, goals, and business reviews;",
+            "Diving deep into the financial data and becoming a subject matter expert",
+            "Building and fostering effective relationships and networks with the organization;",
+            "Clearly articulating business results and recommendations and presenting to senior management"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay for this position ranges from $81,100/year in our lowest geographic market up to $179,500/year in our highest geographic market",
+            "Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCNoJ",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "1 hour ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 hour ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNlIE1hbmFnZXIsIEFtYXpvbiIsImh0aWRvY2lkIjoiblZtWjM1MXhYc2RabEg5V0FBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYTJwMllrRTRNWFY2TlVWR2VtRm1la3hKYVc1T1lXeFRjbEJEYlZobVYzbzRVRU5DU0dWS09WTjRTRE41U2xCeFZFRldSaTB4YzNSWlVGWjJia2RZZEVadGF6UnZjRWxTYVV4WFJFNWpVbk5HUTIweVNtdHdaelJhTjJ4SWFEVlFSM0EwVlU0eExXUmhaa2hSUlZKWWMxaExVR2xKVFVaVFpIcHdUVk5tTVRkcmQwUmtVM053VEhwR1RVUmpaV010TW5kRFR6QlZiMEZzY1RCUVYwRnJNMEZxWWxkd2QzSnpiRGxzV2tzM1gyRm5lSGsyTm5aUWRXODBhbGc1TUdaamRqTXdSVWxURWhkM05DMDFXbU42TFV4MlpYSTFUbTlRTUV0eGFqaEJSUm9pUVZCWWFHMDFZa3cyWDJoSWFXUklRWGxIUlRGR05reExTVTVoY2xGbFl6RkVVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9maW5hbmNlLW1hbmFnZXItYW1hem9uLWF0LWFtYXpvbi0zODEzNjg0Mjc1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Principal TPM, Delivery Technology Organization",
+      "company_name": "Amazon",
+      "location": "  Bellevue, WA   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nCome, join a fun-loving, diverse, and creative team at Amazon, involved in building innovative new technologies for delivering billions of customer packages at the customer doorstep! The Last Mile Technical team owns the technical solutions that helps deliver billions of packages world wide. We are instrumental in impacting customer satisfaction directly, by devising innovative ways... to deliver packages quickly and cost-effectively to the customers, and at scale using Artificial Intelligence (AI) and Machine Learning solutions.\n\nOur team is seeking a Technical Program Manager to manage large, cutting-edge programs with multi-year projects. In this role, you will be responsible for managing cross-cutting programs across the Last Mile org and our partners, delivering large solutions that span multiple businesses, technology, and operational teams. These projects will include initiatives, such as, rolling out new technology to new geographies as we expand, creating technical solutions to support new businesses and strategic Amazon initiatives, and building great technology platforms that can scale to Amazon’s size and global market places.\n\nThe right candidate will possess a strong program management background, will have demonstrated experience-leading medium to large projects across multiple teams, and will have a well-rounded technical background in current web technologies. You will thrive and succeed in an entrepreneurial environment, and not be hindered by ambiguity or priorities. This means you are not only able to develop and drive high-level strategic initiatives, but can also roll up your sleeves, dig in and get the job done. As a seasoned TPM, you will anticipate bottlenecks, provide escalation management, anticipate and make tradeoffs, and balance the business needs versus technical constraints. An ability to take large, complex projects and break them down into manageable pieces, develop functional specifications, then deliver them in a successful and timely manner is expected. Maturity, high judgment, negotiation skills, ability to influence, analytical talent and leadership are essential to success in this role.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nBellevue, WA, USA\n\nBasic Qualifications\n• 10+ years of engineering experience\n• 7+ years of technical product or program management experience\n• 4+ years of software development experience\n• Experience managing programs across cross functional teams, building processes and coordinating release schedules\n\nPreferred Qualifications\n• 8+ years of hands-on work managing complex technology projects experience\n• Experience managing projects across cross functional teams, building sustainable processes and coordinating release schedules\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $141,600/year in our lowest geographic market up to $275,300/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.\n\nCompany - Amazon.com Services LLC - A57\n\nJob ID: A2530457",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You will thrive and succeed in an entrepreneurial environment, and not be hindered by ambiguity or priorities",
+            "This means you are not only able to develop and drive high-level strategic initiatives, but can also roll up your sleeves, dig in and get the job done",
+            "Maturity, high judgment, negotiation skills, ability to influence, analytical talent and leadership are essential to success in this role",
+            "10+ years of engineering experience",
+            "7+ years of technical product or program management experience",
+            "4+ years of software development experience",
+            "Experience managing programs across cross functional teams, building processes and coordinating release schedules"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will be responsible for managing cross-cutting programs across the Last Mile org and our partners, delivering large solutions that span multiple businesses, technology, and operational teams"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay for this position ranges from $141,600/year in our lowest geographic market up to $275,300/year in our highest geographic market",
+            "Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCKwK",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "13 hours ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "13 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgVFBNLCBEZWxpdmVyeSBUZWNobm9sb2d5IE9yZ2FuaXphdGlvbiIsImh0aWRvY2lkIjoiNU83NENST2ZxLVNrTDFPcEFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYlhaWGN6RlRkbEF4ZGtwdExVMVFVMmxNUzNOMWNuZDZNbVpNVlZFMmRYQjRiMVJoYjBWYWFWQnZWVk42TkRONFEyWjFiMkZ2VjFkMGRHMHhkRFJJU2pNNVZuTmtXVUZtWmxkSFJrODJjVlZmVlhWMVNURktPR1pFUTJWV1RtOHpaWFZmU0haRlNHOUNhamQ1Y0dnM1dEbFBNVVkyZVRaT01uZzFTVkpJTldJM1kzUmxWVEo1TTBoWGFrTm9WVkEwZUdOcU9URk1UWHBDU2xGWlV6VTJNWHBTWkVRNFNXVklRMWxtZWxoSVdrVkdXV015ZFVWT1YxQlphRXhETVVsbVRXOVRSa3B0Y1ZKVWVVczJZbTQwTTNweFlucHFUVUl4Tms5WFdqWk9NbUZFV21seU5tWkphemN6YVRaNmNpMUxOVE5LVERGalNHZEtkV05aY20xcFV6bEliMDVMVXhJWGR6UXROVnBqZWkxTWRtVnlOVTV2VURCTGNXbzRRVVVhSWtGUVdHaHROVm95ZWxwU2NrOWpXSFJpV2pseVJHbExTVGs0UzJsalZrMU9YMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvcHJpbmNpcGFsLXRwbS1kZWxpdmVyeS10ZWNobm9sb2d5LW9yZ2FuaXphdGlvbi1hdC1hbWF6b24tMzgxMzE5Mjg0MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Assistant Manager, Amazon Fresh Stores",
+      "company_name": "Amazon",
+      "location": "  Lorton, VA   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nWe are looking for an Assistant Manager who can bring Amazon’s customer obsession to life in a grocery environment. You will direct day-to-day store operations and lead a team of engaged grocery associates to deliver a one of a kind shopping experience for customers. You will play a vital role in maintaining a vibrant store culture based on customer obsession, trust, respect... continuous learning, safety, and fun.\n\nAssistant Managers are experienced in leading large teams to deliver against standard operating procedures. Assistant Managers are natural leaders who are comfortable with change and are always looking for ways to improve their operation. Assistant Managers demonstrate a strong work ethic, excellent ownership, the ability to meet deadlines, a willingness to learn new things, and a commitment to the customer and employee experience.\n\nKey job responsibilities\n• Act as the manager on duty in the store, focused on delivering results while enabling a positive customer and employee experience.\n• Manage a team of associates, including relaying expectations, managing performance, providing regular feedback, and supporting career development.\n• Delegate effectively to drive results in your store, including executing standard operating procedures, identifying areas of improvement, implementing solutions, and providing ongoing feedback to store employees.\n• Maintain a culture of engagement by routinely listening to feedback from leaders, associates, and customers and implementing solutions to solve problems.\n• Identify areas of opportunity, determine root causes, and seek support to implement solutions to continuously improve the overall performance and culture of the store.\n• Maintain a safe, clean, and secure environment to ensure the security of all employees, customers, and products in your store.\n• You are comfortable working in a physical environment. You have the ability to lift up to 49 pounds and be on your feet for a shift.\n• Must be able to work a flexible schedule/shift/work area, including weekends, nights, and/or holidays.\n\nCandidates must be at least 18 years of age.\n\nAmazon does not sponsor for immigration, including for H-1B, TN, and other non-immigrant visas, for this role.\n\nAbout The Team\n\nAmazon Fresh Stores is a unique extension of Amazon.com that focuses on in-person shopping experiences throughout our grocery stores. We are passionate about creating a shopping experience that provides our customers with a wide selection, low prices and convenience. If you enjoy being both a leader and an inventor and you want to join a fast-paced, cutting-edge team that is making history and breaking new ground for Amazon’s grocery stores, this is the place for you.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nLorton, VA, USA\n\nBasic Qualifications\n• 2+ years leadership experience in a customer-facing retail, hospitality, or grocery environment or 2+ years of Amazon (Blue Badge/FTE) experience or Bachelor’s degree from an accredited university.\n\nPreferred Qualifications\n• 2+ years of Amazon Fresh Stores (Blue Badge/FTE) experience.\n• 2+ years of customer-facing grocery industry experience.\n• Strong verbal communication and interpersonal skills.\n• Experience working independently in an ambiguous environment with minimal supervision.\n• Demonstrated ability to use data and metrics to back up assumptions and implement effective solutions.\n• Demonstrated success in problem solving and delivering results.\n• Demonstrated ability to attract, hire, and develop high-performing teams.\n• Passion for Amazon and committed to delighting customers.\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nCompany - Amazon Retail LLC\n\nJob ID: A2545504",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You have the ability to lift up to 49 pounds and be on your feet for a shift",
+            "Must be able to work a flexible schedule/shift/work area, including weekends, nights, and/or holidays",
+            "Candidates must be at least 18 years of age",
+            "2+ years leadership experience in a customer-facing retail, hospitality, or grocery environment or 2+ years of Amazon (Blue Badge/FTE) experience or Bachelor’s degree from an accredited university"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will direct day-to-day store operations and lead a team of engaged grocery associates to deliver a one of a kind shopping experience for customers",
+            "You will play a vital role in maintaining a vibrant store culture based on customer obsession, trust, respect, continuous learning, safety, and fun",
+            "Assistant Managers are experienced in leading large teams to deliver against standard operating procedures",
+            "Assistant Managers demonstrate a strong work ethic, excellent ownership, the ability to meet deadlines, a willingness to learn new things, and a commitment to the customer and employee experience",
+            "Act as the manager on duty in the store, focused on delivering results while enabling a positive customer and employee experience",
+            "Manage a team of associates, including relaying expectations, managing performance, providing regular feedback, and supporting career development",
+            "Delegate effectively to drive results in your store, including executing standard operating procedures, identifying areas of improvement, implementing solutions, and providing ongoing feedback to store employees",
+            "Maintain a culture of engagement by routinely listening to feedback from leaders, associates, and customers and implementing solutions to solve problems",
+            "Identify areas of opportunity, determine root causes, and seek support to implement solutions to continuously improve the overall performance and culture of the store",
+            "Maintain a safe, clean, and secure environment to ensure the security of all employees, customers, and products in your store",
+            "You are comfortable working in a physical environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCP4K",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3Npc3RhbnQgTWFuYWdlciwgQW1hem9uIEZyZXNoIFN0b3JlcyIsImh0aWRvY2lkIjoiTmNFSWVBakxQeFAxRmdOYUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYlZWYVdUZEJaamt3TlVKQmNWQmpNa1ozZUVKcFJHSmlVM00xWjFWaGJuQmpXRVZwYld4MlZsZGFRV3N3V0ZjMlRGVkhOR041U2pkT2MwVTNhbW8xTVdwYVdISmpiRVJ0TmpocVVrdzRSVWhGWW5OamFHUk5hMEV3TUZwdVV5MVVTVTFvWkROVWJsbEJORTFrWkZORVdXSklTMHhoTUVSVE5FcHROR2MxVVdabVpGQkVPRzltWWtoWlJrOW9ObEV4ZG5OdGRFSmpUSGN3YVVkR1JXOVBkRXAwTFZKQ1NISTJjMDlvYWxORU5IaEdjRzU2YUZreFRFYzRUbEZOZG5VNVVHZzRXalJCTkdsamVWOUJkVzk0VWtkcmN6Vm1WMk5PWkhGT2R4SVhkelF0TlZwamVpMU1kbVZ5TlU1dlVEQkxjV280UVVVYUlrRlFXR2h0TlZsVVZqbGFPVkZoWWsxbmN6RnNWazE2Um5GSGFraFFUa0l6V0djIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L2Fzc2lzdGFudC1tYW5hZ2VyLWFtYXpvbi1mcmVzaC1zdG9yZXMtYXQtYW1hem9uLTM4MTMxNDQxNzc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Sr. Product Marketing Manager, North American Stores Marketing",
+      "company_name": "Amazon",
+      "location": "  Seattle, WA   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nNorth America Stores Marketing is on a mission to make Amazon’s stores the most-loved shopping destination. We aspire to meet customers where they are with a steady drumbeat of inspiring, relevant, and automated content that builds upon recent shopping missions while also introducing customers to new and timely ideas. As a part of the NASM family, the seasonal events team is focused... on maximizing the customer experience as it relates to events, specifically not HVE events such as Valentine’s Day, Mother’s Day, Back to School, and beyond. In 2024 we are rapidly expanding customer facing events by increasingly relying on automation through our partnership with DiscoTec by guiding the creation and piloting the usage of new tools build specifically to enable marketers to efficiently scale. To help us achieve our goal, we are looking for a Sr Product Marketing Manager to pioneer and scale high impact full funnel, cross platform marketing programs focused in the event space.\n\nIdeal Candidate\n\nThe ideal candidate is a strategic marketer that is customer obsessed. They are relentless using customer anecdotes and behavioral data to shape their strategies and align stakeholders with different business objectives under a common vision. They evaluate communications through the lens of their customer and have a hunger for building personalized marketing communications at scale. They have good instincts prioritizing where to invest and where to lean into automated evergreen programs to achieve their objectives. They strive for operational excellence in everything they do and are always scrutinizing current processes to find new ways to serve unique customers more efficiently. They can work extremely effectively in a matrix organization, develop win-win partnerships with other teams and write powerful documents that align key stakeholders to their vision.\n\nKey job responsibilities\n\nThis role will develop the growth plan to scale our events beyond our core offering. More specifically they will:\n• Identify channel opportunities outside our integrated marketing that over index in reaching specific customer cohorts\n• Define a test, learn and scale approach to grow event shopping penetration for selected segments and work with appropriate channel partners to implement\n• Partner with the Associates team to make influencers and publishers a best in class channel for event discoverability\n• Drive creative excellence in all cross-channel campaign executions\n• Invent net new targeting capabilities that drive HVAs and expand event reach\n• Create integrated cross-benefit experiences around relevant cultural events in partnership with Prime marketing\n• Document and manage feedback on automation to ensure our progress towards our goals are both measurable and significant\n\nYou will be successful in this role if you have:\n• Experience and deep understanding of Amazon site merchandising tools such as Content Symphony, and Babel\n• Experience building, executing and scaling cross-functional programs or marketing campaigns from concept to completion\n• Proven experience developing and maintaining strong cross-functional relationships\n• Experience using data and metrics to drive improvements\n• Experience managing and measuring marketing performance in various channels\n\nA day in the life\n\nYou start your morning reviewing the weekly performance metrics for live events with the appropriate channel partners to deep dive into any unique trends. You then review creative and UX wireframes for an upcoming cross-channel campaign for a net new to Amazon event experience. You attend a campaign planning meeting to learn about upcoming opportunity to contribute to key Prime goals, provide feedback as to their relevance to your content calendar and targeting and message priorities to reflect these conversations. After that you meet with various technical and marketing partners to plan experiments for the upcoming quarter. Finally, you end your day collaborating with the speed and gifting team to deliver net new ways for customers to shop last minute for event related needs.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nNew York, NY, USA | San Diego, CA, USA | Santa Monica, CA, USA | Seattle, WA, USA\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nLos Angeles, CA, USA | New York, NY, USA | Santa Monica, CA, USA | Seattle, WA, USA\n\nBasic Qualifications\n• 6+ years of professional non-internship marketing experience\n• Experience using data and metrics to drive improvements\n• Experience with Excel or Tableau (data manipulation, macros, charts and pivot tables)\n• Experience building, executing and scaling cross-functional marketing programs\n• Experience leading go-to-market for consumer software or hardware product launches\n\nPreferred Qualifications\n• Experience using any of SQL or other analytical tools for conducting data analysis\n• Experience with customer segmentation, profiling, and targeting\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nPursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $114,300/year in our lowest geographic market up to $212,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.\n\nCompany - Amazon.com Services LLC\n\nJob ID: A2545755",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate is a strategic marketer that is customer obsessed",
+            "Experience and deep understanding of Amazon site merchandising tools such as Content Symphony, and Babel",
+            "Experience building, executing and scaling cross-functional programs or marketing campaigns from concept to completion",
+            "Proven experience developing and maintaining strong cross-functional relationships",
+            "Experience using data and metrics to drive improvements",
+            "Experience managing and measuring marketing performance in various channels",
+            "6+ years of professional non-internship marketing experience",
+            "Experience with Excel or Tableau (data manipulation, macros, charts and pivot tables)",
+            "Experience leading go-to-market for consumer software or hardware product launches"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "They are relentless using customer anecdotes and behavioral data to shape their strategies and align stakeholders with different business objectives under a common vision",
+            "They evaluate communications through the lens of their customer and have a hunger for building personalized marketing communications at scale",
+            "They have good instincts prioritizing where to invest and where to lean into automated evergreen programs to achieve their objectives",
+            "They can work extremely effectively in a matrix organization, develop win-win partnerships with other teams and write powerful documents that align key stakeholders to their vision",
+            "This role will develop the growth plan to scale our events beyond our core offering",
+            "Identify channel opportunities outside our integrated marketing that over index in reaching specific customer cohorts",
+            "Define a test, learn and scale approach to grow event shopping penetration for selected segments and work with appropriate channel partners to implement",
+            "Partner with the Associates team to make influencers and publishers a best in class channel for event discoverability",
+            "Drive creative excellence in all cross-channel campaign executions",
+            "Invent net new targeting capabilities that drive HVAs and expand event reach",
+            "Create integrated cross-benefit experiences around relevant cultural events in partnership with Prime marketing",
+            "Document and manage feedback on automation to ensure our progress towards our goals are both measurable and significant",
+            "You then review creative and UX wireframes for an upcoming cross-channel campaign for a net new to Amazon event experience",
+            "You attend a campaign planning meeting to learn about upcoming opportunity to contribute to key Prime goals, provide feedback as to their relevance to your content calendar and targeting and message priorities to reflect these conversations",
+            "After that you meet with various technical and marketing partners to plan experiments for the upcoming quarter",
+            "Finally, you end your day collaborating with the speed and gifting team to deliver net new ways for customers to shop last minute for event related needs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay for this position ranges from $114,300/year in our lowest geographic market up to $212,600/year in our highest geographic market",
+            "Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCNAL",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "13 hours ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "13 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gUHJvZHVjdCBNYXJrZXRpbmcgTWFuYWdlciwgTm9ydGggQW1lcmljYW4gU3RvcmVzIE1hcmtldGluZyIsImh0aWRvY2lkIjoibk1WUE4weWhVMW9zaEZYSUFBQUFBQT09IiwiZmMiOiJFdUlDQ3FJQ1FVNTFWMmhqYXpkSFJsbGpRMGhRVmxsclpURTJOVVppVGxOWlRWWlhYMkZoUlRCSU1VcEJUM28yTVROT2FEZHRSRTlJY1dRMFRqbHBiV3hqUlROVFpUTk5MWGRWVW1ObFRGWnBjVWxMY3pSa2FHcExkMlZGUVRaNGNtTjZUVUZtWjNBeU5VUkdZbmhJT1ZseWVYSkdUWFp5WTBJNFIzVlVkbmhETUV3M2JFbFNkM2hmYUVGTWNXZFFRM1JCTUVaWmNpMTBRWEJsZEVnek5pMWpaek5oY20xeFVUaGhOWFpqZG0xdFIycExla05JUmxkSk5IUmFhM1ZNYjFwVVpEUXRjVUp5TFhCamJGa3RRVVpXYkY5V1h6bGxabXBNV1d4aGJFSlNkWFpGYzNKSFIyNVdOR00yWkZJd2QyWlJiRVZpVURoUVozbGFjakZ6ZWtwMFNtbEpXazgxTTA1aVh6Tm9OSEp6V1hOSU0xZGlaVGhNVVRadGJ6QkNYMkl6T1RKaWJWRVNGM2MwTFRWYVkzb3RUSFpsY2pWT2IxQXdTM0ZxT0VGRkdpSkJVRmhvYlRWWk1sWkRjVU5rVDI1eVNsVjFlVE5LU0dKeVJFUmphMUp0YUhsMyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zci1wcm9kdWN0LW1hcmtldGluZy1tYW5hZ2VyLW5vcnRoLWFtZXJpY2FuLXN0b3Jlcy1tYXJrZXRpbmctYXQtYW1hem9uLTM4MTMxODk5MDg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Amazon Picker Packer - Flexible Shifts",
+      "company_name": "Amazon Warehouse",
+      "location": "  Hallsville, MO   ",
+      "via": "via SaluteMyJob",
+      "description": "Amazon Delivery Station Warehouse Associate\n\nJob Overview...\n\nYou'll be part of the dedicated Amazon team at the delivery station - the last stop before we deliver smiles to customers. Our fast-paced, physical roles receive trucks full of orders, then prepare them for delivery. You'll load conveyor belts, and transport and stage deliveries to be picked up by drivers. You may even be part of the team that works with larger items, such as large screen TVs, furniture, and appliances, and be trained on how to use technology to handle these heavy bulk items.\n\nDuties & Responsibilities\n\nSome of your duties may include:\n• Receive and prepare inventory for delivery\n• Use technology like smartphones and handheld devices to sort, scan, and prepare orders\n• View prompts on screens and follow direction for some tasks\n• Build, wrap, sort, and transport pallets and packages\n• Receive truck deliveries\n\nYou'll also need to be able to:\n• Lift up to 49 pounds\n• Stand, walk, push, pull, squat, bend, and reach during shifts\n• Use carts, dollies, hand trucks, and other gear to move items around\n• Go up and down stairs (where applicable)\n• Work at a height of up to 40 feet on a mezzanine (where applicable)\nWhat it's like at an Amazon Delivery Station\n• Safety. Your safety is important to us, so we provide protective gear. All teams share safety tips daily.\n• Surroundings. You'll be working around moving machines - order pickers, stand-up forklifts, turret trucks, and mobile carts.\n• Activity. Some activities may require standing in one place for long periods, walking around, or climbing stairs.\n• Temperature. Even with climate controls, temperatures can vary between 60°F and 90°F in some parts of the warehouse; on hot days, temperatures can be over 90°F in the truck yard or inside trailers.\n• Noise level. It can get noisy at times. We provide hearing protection if you need it.\n• Dress code. Relaxed, with a few rules to follow for safety. Comfortable, closed-toe shoes are required and protective safety footwear are required in select business units. Depending on the role or location, Amazon provides a $110 Zappos gift code towards the purchase of shoes, in order to have you prepared for your first day on the job.\nWhy You ll Love this Job\n• Stay busy. You and your team are engaged the entire shift.\n• Shift flexibility. Depending on where you work, schedules may include full-time (40 hours), reduced-time (30-36 hours) or part-time (20 hours or less), all with the option of working additional hours if needed. Learn more about our schedules .\n• Schedule options. Work when it works for you. Shifts may include overnight, early morning, day, evening, and weekend. You can even have four-day workweeks and three-day weekends. Find out more about our shifts .\n• Anytime Pay. You can instantly cash out up to 70% of your earnings immediately after your shift (for select employee groups, within select businesses). Learn more about Anytime Pay .\n• Career advancement. We have made a pledge to upskill our employees and offer a variety of free training and development programs, and we also have tuition support options for select employee groups. See where your Amazon journey can take you.\n• New skills. Depending on the role and location, you'll learn how to use the latest Amazon technology - including handheld devices and robotics.\n• Team environment. Work on small or large teams that support each other.\nWhy You'll Love Amazon\nMany of our jobs come with great benefits - including healthcare, parental leave, ways to save for the future, and opportunities for career advancement - all in a safe and inclusive environment that's been ranked among the best workplaces in the world. Some offerings are dependent upon the role, work schedule, or location, and can include the following:\n• Competitive wage paid weekly, with overtime for more than 40 hours\n• Healthcare (medical, dental, vision, prescription drugs)\n• Medical Advice Line\n• Network of Support (health & well-being on and off the job)\n• Adoption Assistance\n• Maternity and Parental Leave\n• 401(k) savings plan\n• Paid Time Off (PTO)\n• Holiday pay opportunities\n• Employee discounts\n• Basic life insurance\n• AD&D insurance\n• Company-paid Short-Term and Long-Term Disability\n• On-the-job training and skills development\n• Employee Assistance Program\n\nLearn more about Amazon Benefits and Culture .\n\nRequirements:\n• Candidates must be 18 years or older with the ability to understand and adhere to all job requirement and safety guidelines.\n\nHow To Get Started\nYou can begin by applying above. If you need help with your application or to learn more about our hiring process, you can find support here: #/ .\n\nIf you have a disability and need an accommodation during the application and hiring process, including support for the New Hire Event, or need to initiate a request prior to starting your Day 1, please visit #/ or contact the Applicant-Candidate Accommodation Team (ACAT). You can reach us by phone at 888-435-9287, Monday through Friday, between 6 a.m. and 4 p.m. PT.\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Lift up to 49 pounds",
+            "Work at a height of up to 40 feet on a mezzanine (where applicable)",
+            "Comfortable, closed-toe shoes are required and protective safety footwear are required in select business units",
+            "Candidates must be 18 years or older with the ability to understand and adhere to all job requirement and safety guidelines"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Our fast-paced, physical roles receive trucks full of orders, then prepare them for delivery",
+            "You'll load conveyor belts, and transport and stage deliveries to be picked up by drivers",
+            "You may even be part of the team that works with larger items, such as large screen TVs, furniture, and appliances, and be trained on how to use technology to handle these heavy bulk items",
+            "Receive and prepare inventory for delivery",
+            "Use technology like smartphones and handheld devices to sort, scan, and prepare orders",
+            "View prompts on screens and follow direction for some tasks",
+            "Build, wrap, sort, and transport pallets and packages",
+            "Stand, walk, push, pull, squat, bend, and reach during shifts",
+            "Use carts, dollies, hand trucks, and other gear to move items around",
+            "Go up and down stairs (where applicable)",
+            "You'll be working around moving machines - order pickers, stand-up forklifts, turret trucks, and mobile carts",
+            "Some activities may require standing in one place for long periods, walking around, or climbing stairs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Dress code",
+            "Depending on the role or location, Amazon provides a $110 Zappos gift code towards the purchase of shoes, in order to have you prepared for your first day on the job",
+            "Stay busy",
+            "You can even have four-day workweeks and three-day weekends",
+            "You can instantly cash out up to 70% of your earnings immediately after your shift (for select employee groups, within select businesses)",
+            "Learn more about Anytime Pay",
+            "We have made a pledge to upskill our employees and offer a variety of free training and development programs, and we also have tuition support options for select employee groups",
+            "Many of our jobs come with great benefits - including healthcare, parental leave, ways to save for the future, and opportunities for career advancement - all in a safe and inclusive environment that's been ranked among the best workplaces in the world",
+            "Competitive wage paid weekly, with overtime for more than 40 hours",
+            "Healthcare (medical, dental, vision, prescription drugs)",
+            "Maternity and Parental Leave",
+            "401(k) savings plan",
+            "Paid Time Off (PTO)",
+            "Holiday pay opportunities",
+            "Employee discounts",
+            "Basic life insurance"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon+Warehouse&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCKMM",
+          "text": "See web results for Amazon Warehouse"
+        }
+      ],
+      "extensions": [
+        "1 day ago",
+        "Full-time and Part-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbWF6b24gUGlja2VyIFBhY2tlciAtIEZsZXhpYmxlIFNoaWZ0cyIsImh0aWRvY2lkIjoiODVJeFNKdnJVVlR1NndHbUFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYkY5bWVYQjZhSHBIVmxCRFpGbE1Va2cxYTJ0RmEwbG5TVFIyZGxoaFNsRTBSMWh5Y0hnMlh6UnFjME5JTkhCeVowa3pUMGR1U0VweU5XWldaRzVvVDJwUE5tMVRNVGxSYmprMlpUZHJiRVpEVkVwaWFXNVdTQzFRYVVWVE1tYzVWRW95VUZsb2QyMUJlREJyYlVJeFNsY3lUV05TZHpONU4xUm1YMVkxWkV0Rk5VUjNXbUk0V0dSUFNraG5WM2xJVG1NelVFazJhelk1UVVJelgwdGxNVVJpTkVaV1VrRklhamRPZEROWU5tOWtlbFpFWlRCUVIzbGlPSFJZYVVSbE9HdFRVVzAxT1hGV1dXdzNTR3RUUkVwcFNGWXhOa3RqVTI4NU16TkpZV3BhY0ZoV2JtRmxSWFJsUkRaSmJERjBZeElYZHpRdE5WcGplaTFNZG1WeU5VNXZVREJMY1dvNFFVVWFJa0ZRV0dodE5XRk5OSFZWUW1Sc1MyODJVMGR3TlhOa1JVMUtUekJsUkZOSWNGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU2FsdXRlTXlKb2IiLCJsaW5rIjoiaHR0cHM6Ly9zYWx1dGVteWpvYi5jb20vam9icy9hbWF6b24tcGlja2VyLXBhY2tlci1mbGV4aWJsZS1zaGlmdHMtaGFsbHN2aWxsZS1taXNzb3VyaS8xMjIwODE4MTc2LTIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Systems Development Engineer, ESS - Amazon Dedicated Cloud (ADC)",
+      "company_name": "Amazon Development Center U.S., Inc.",
+      "location": "  Virginia Beach, VA   ",
+      "via": "via SaluteMyJob",
+      "description": "The AWS Region Services team is hiring a cleared Systems Development Engineer to support cloud security services for the U.S. Intelligence Community. Our team is tasked with protecting the AWS infrastructure that is used by our National Security customers. Join our mission to help lead, deploy, and support the security systems that raise the security bar for the U.S. Government.\n\nAs a Systems... Development Engineer on our team, you will be instrumental in managing the operational load to scale a massive & always-on distributed system, proactively automating away problems in order to improve the quality of service for our security operations customers.\n\nIf you thrive in operating complex systems, diagnosing and resolving the hardest corner case operations problems, please apply! Our systems engineers don't just solve problems - we look to engineer services to scale with lots of automation, decreasing effort along the way. We know that the really interesting problems are hiding inside this automation challenge.\n\nYou'll work side-by-side with our security engineers and service development teams to deploy and maintain the security information and event management (SIEM) platform they use every day. We have a lot of log data to process and we need your help! You'll implement mechanisms to drive our availability metrics up and our latency metrics down. We're need you to \"think big\" and ensure that we're set up to scale for the future. We need you to Invent and Simplify new operational tools to improve the velocity of our Security Operations service customers.\n\nWe're not looking for hands or button pressers - we're looking for motivated individuals who want to scale security systems and change the way the business operates as a result. You need to be open to new challenges and willing to learn new technologies. In addition to using internal Amazon tooling, we are huge advocates for using public AWS services to build our platform, You should always be thinking, \"how could this work without me involved\" and then working to build those tools to achieve it.\n\nIf Arlington, VA:\n\nThis role will sit in our new headquarters in Northern Virginia, where Amazon will invest $2.5 billion dollars, occupy 4 million square feet of energy efficient office space, and create at least 25,000 new Full time jobs. Our employees and the neighboring community will also benefit from the associated investments from the Commonwealth including infrastructure updates, public transportation improvements, and new access to Reagan National Airport.\n\nBy working together on behalf of our customers, we are building the future one innovative product, service, and idea at a time. Are you ready to embrace the challenge? Come build the future with us.\n\nSecurity Clearance Requirements\n\nThis position requires that the candidate selected be a US Citizen and must currently possess an active TS/SCI security clearance with polygraph security clearance. The position further requires that, after start, the selected candidate maintain an active TS/SCI security clearance with polygraph and satisfy other security related requirements.\n\nKey job responsibilities\n- Operate within the team of peer engineers with lots of personal autonomy to solve complex systems engineering problems through innovative approaches.\n\n- Provide guidance on system architecture and recommend solutions in alignment with systems engineering best practices.\n\n- Calmly and quickly diagnose and fix critical system failures in high pressure situations to reduce Mean Time to Resolve (MTTR).\n\n- Engineer Operational Improvements to reduce operational efforts to Keep the Lights On.\n\n- Troubleshoot unknown-unknown problems into known-known root causes using your holistic knowledge of systems to break the problem down and isolate the cause(s); then drive them to resolution\n\nA day in the life\nHere at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon's culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.\n\nAbout the team\nWe are dedicated to supporting our new team members. Our team has a broad mix of experience levels and Amazon tenures, and we're building an environment that celebrates knowledge sharing and mentorship.\n\nOur team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren't focused on how many hours you spend at work or online. Instead, we're happy to offer a flexible schedule so you can have a more productive and well-balanced life-both in and outside of work.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nAnnapolis Junction, MD, USA | Arlington, VA, USA | Herndon, VA, USA | Seattle, WA, USA\nBASIC QUALIFICATIONS - 3+ years of non-internship professional software development experience\n- 1+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience\n- 3+ years of administrative experience in networking, storage systems, operating systems and hands-on systems engineering experience\n- Knowledge of systems engineering fundamentals (networking, storage, operating systems)\n- Experience programming with at least one modern language such as C+, C#, Java, Python, Golang, PowerShell, Ruby\nPREFERRED QUALIFICATIONS - Experience in automating, deploying, and supporting large-scale infrastructure\n- Experience working in an Agile environment using the Scrum methodology\n- Experience with PowerShell (preferred), Python, Ruby, or Java\n- Experience working in an Agile environment using the Scrum methodology\n- 4+ years of development/programming/scripting language (Python/Java/Bash/Perl) experience\n- Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations\n- Excellent problem solving skills with a strong attention to detail\n- Experience with agile software development practices\n- Experience with service-oriented architecture and current web service technologies\n- Meets/exceeds Amazon's leadership principles requirements for this role\n- Meets/exceeds Amazon's functional/technical depth and complexity for this role\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $103,400/year in our lowest geographic market up to $201,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You need to be open to new challenges and willing to learn new technologies",
+            "This position requires that the candidate selected be a US Citizen and must currently possess an active TS/SCI security clearance with polygraph security clearance",
+            "The position further requires that, after start, the selected candidate maintain an active TS/SCI security clearance with polygraph and satisfy other security related requirements",
+            "BASIC QUALIFICATIONS - 3+ years of non-internship professional software development experience",
+            "1+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience",
+            "3+ years of administrative experience in networking, storage systems, operating systems and hands-on systems engineering experience",
+            "Knowledge of systems engineering fundamentals (networking, storage, operating systems)",
+            "Experience programming with at least one modern language such as C+, C#, Java, Python, Golang, PowerShell, Ruby"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Systems Development Engineer on our team, you will be instrumental in managing the operational load to scale a massive & always-on distributed system, proactively automating away problems in order to improve the quality of service for our security operations customers",
+            "If you thrive in operating complex systems, diagnosing and resolving the hardest corner case operations problems, please apply!",
+            "You'll implement mechanisms to drive our availability metrics up and our latency metrics down",
+            "Operate within the team of peer engineers with lots of personal autonomy to solve complex systems engineering problems through innovative approaches",
+            "Provide guidance on system architecture and recommend solutions in alignment with systems engineering best practices",
+            "Calmly and quickly diagnose and fix critical system failures in high pressure situations to reduce Mean Time to Resolve (MTTR)",
+            "Engineer Operational Improvements to reduce operational efforts to Keep the Lights On",
+            "Troubleshoot unknown-unknown problems into known-known root causes using your holistic knowledge of systems to break the problem down and isolate the cause(s); then drive them to resolution"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Instead, we're happy to offer a flexible schedule so you can have a more productive and well-balanced life-both in and outside of work",
+            "The base pay for this position ranges from $103,400/year in our lowest geographic market up to $201,200/year in our highest geographic market",
+            "Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon+Development+Center+U.S.,+Inc.&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCPoM",
+          "text": "See web results for Amazon Development Center U.S., Inc."
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTeXN0ZW1zIERldmVsb3BtZW50IEVuZ2luZWVyLCBFU1MgLSBBbWF6b24gRGVkaWNhdGVkIENsb3VkIChBREMpIiwiaHRpZG9jaWQiOiJIUFZxbmxqUExId3NMT2FBQUFBQUFBPT0iLCJmYyI6IkVvd0RDc3dDUVU1MVYyaGpiVlpuTVdRdGFEUmhXazFxYW1samRpMDJkbFoxWlRoelYweExjRmR1YUdKdWVpMXVZVGxxTVVSV2JGTnhOekZXYjB4QmIyNDFRWEpQWjE5dGRqRTVPV2hJVm5WWGEzWkRiamx6YlhVMGEwMUNYeTB4VVRneGJrUm9aMkZ3Ylc5cmFEQTJiMDFaZVZOc1ZXbFdPVWRLYVVwR1pUTnlVbTFvV0ZkcU1TMVFha2t4T0doc2MwbzNXbTVRUjJWMlkzSTVRV1JoUzNnelJsaEhjemgxT0ZwRFZGWTRVMGRpYkhGeldYWlhkVFl6YVRCVFIwdEVTRWhYZVVwUlpVVlVUM0pLYm5GRWJWZHNORkJqZW5sNmRUVlpXUzFaWldWNVFUUTFYMVF0V25aWVNHSmxWbmhLTmtKNk9YaG9lVnB1YVhGNWNWVkhjbFZXZDJ0VE5HTmlVV2xZY1U1NkxYbFJhSEp2Ym1Gak5EZEdSVUphWDNBeWEwdExRVFJFTWkxbVVqRTBWRmhaTFZNeWJVaDJWR3MzTUdGTmFqQXlkelZ0Vm10dFMzZG1aRjlHY2poTFltaEdUellTRjNjMExUVmFZM290VEhabGNqVk9iMUF3UzNGcU9FRkZHaUpCVUZob2JUVmlSMmhGVHpkamEzVTVhVlZMVDJaSk1qa3RSRE54VERob00xVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTYWx1dGVNeUpvYiIsImxpbmsiOiJodHRwczovL3NhbHV0ZW15am9iLmNvbS9qb2JzL3N5c3RlbXMtZGV2ZWxvcG1lbnQtZW5naW5lZXItZXNzLWFtYXpvbi1kZWRpY2F0ZWQtY2xvdWQtYWRjLXZpcmdpbmlhLWJlYWNoLXZpcmdpbmlhLzEyMTk2NDQ0MjMtMi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Amazon Building Operations Technician - Day 1 Benefits",
+      "company_name": "Amazon",
+      "location": "  Blanchard, LA   ",
+      "via": "via SaluteMyJob",
+      "description": "About Maintenance at Amazon:\nOperations is at the heart of Amazon's business. We are known for our speed, accuracy, and exceptional service. Our buildings deliver tens of thousands of products to hundreds of countries worldwide, every day. Reliability Maintenance & Engineering (RME) are the business partners that work tirelessly behind the scenes to make it all happen. We drive continuous... improvement, and maintain all of the Material Handling Equipment (MHE) to ensure our customers are met with the Amazon smile. Come join us, on our journey!\n\nIf you do not meet 100% of the preferred qualifications outlined in this job description, we still encourage you to apply. We understand that skills and competencies can be gained in many ways and we are primarily interested in a demonstrated commitment to the work and the potential to grow. Experience comes in many forms and passion goes a long way. If your experience is close to what we're looking for, please consider applying.\n\nAbout the Role:\nAs a Maintenance Technician II, you will use your skills to support the Operations Maintenance team in repairing and maintaining material handling equipment and pneumatic systems throughout the building. You will have the opportunity to install, maintain and repair automated packaging and distribution equipment. In addition to developing your skills, you will mentor junior technicians to grow in their roles.\n\nWhat Do We Offer?\nAmazon offers competitive compensation packages including comprehensive healthcare benefits starting on Day 1, matching 401(k) program, and up to 20 weeks of paid parental leave. But wait, there's more: we don't wear suits and ties! Come as you are because jeans, t-shirts, sneakers and sometimes a neon safety vest will be your daily outfit.\n\nHere is what you can expect with the Reliability Maintenance Engineering (RME) selection process for Maintenance Technician II: (Timeframe: Approximately 30-days)\n\nStep 1: Congratulations! You successfully submitted your application!\n\nStep 2: Amazon Recruiting will review your application and invite the most qualified candidate to complete a pre-employment assessment.\n\nStep 3: If you meet the role qualifications for Maintenance Technician II, you will receive an invitation from Amazon Recruiting (do-not-reply@) to begin your Criteria assessment. You have 5 days to complete.\n\nStep 4: Once you successfully meet the pre-employment assessment requirements, you will be invited to complete a video interview. Your video interview invitation will be from HireVue (interviews@) and you will have 7 days to record your interview.\n\nStep 5: Your video interview will be reviewed by Amazon Hiring Team and you will be notified of next steps via email within 5 business days.\n\nKey job responsibilities\nResponsibilities include, but are not limited to\n- Promote a safe working environment by following all safety procedures\n- Complete preventative maintenance routines with proper documentation\n- Troubleshoot electrical and mechanical problems related to all Material Handling Equipment (MHE) which includes belts, motors, photo-eyes, relays, and more\n- Maintain a positive working relationships across all of the Amazon Operations facility\n- Track and store department inventory\n- Move up to 49lbs as well as stand and walk during shifts lasting up to 12 hours, with or without reasonable accommodation\n\nPlease note that while we strive to accommodate employees' preferences for shift assignments, due to operational requirements and scheduling constraints, we cannot guarantee a specific shift assignment.\n\nThe following are typical shifts in the Maintenance Tech role:\n\nFront Half Day Shift:\nSchedule: 4 days on, 3 days off. The days can be set according to your operational needs, a common pattern is working Sunday to Wednesday.\nHours: Typically, this shift might start in the morning and end in the late afternoon. For a 10-hour shift, this could be 6:00 AM to 4:30 PM, with a half-hour break included.\n\nBack Half Day Shift:\nSchedule: 4 days on, 3 days off. Often, this shift could be Wednesday to Saturday to complement the Front Half Day Shift.\nHours: Like the Front Half Day shift, this shift would also occur during daytime hours. Depending on your downtime windows, a typical schedule might be from 7:00 AM to 5:30 PM, with a half-hour break.\n\nFront Half Night Shift:\nSchedule: 4 days on, 3 days off. The days can be arranged as per your needs, such as Sunday to Wednesday.\nHours: This shift would occur during the night. For example, it could run from 6:00 PM to 4:30 AM, with a half-hour break.\n\nBack Half Night Shift:\nSchedule: 4 days on, 3 days off. To complement the Front Half Night Shift, this might run from Wednesday to Saturday.\nHours: Like the Front Half Night shift, this shift would take place during the night. Depending on your downtime windows, a typical schedule might be from 7:00 PM to 5:30 AM, with a half-hour break.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nShreveport, LA, USA\nBASIC QUALIFICATIONS\n- 1+ years of Microsoft Office products and applications experience\n- High school or equivalent diploma\n- Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays\nPREFERRED QUALIFICATIONS\n- Associates or higher degree from a vocational school or college with a focus in the Mechanical or Electrical field\n- 2+ years of experience with automated conveyor systems and controls\n- 2+ years of experience in the repair of material handling equipment\n- 2+ years of experience conducting predictive and preventative maintenance procedures\n- 1+ years of metal and wood fabrication\n- 1+ years of blueprint and electrical schematic reading\n- 1+ year of knowledge with electrical and electronic principles\n- 2+ years apprenticeship or equivalent experience in the Mechanical or Electrical field\n- Experience with Material Handling Equipment (MHE) safety standards accordance with Original Equipment Manufacturer (OEM) and Safety standards\n- Project Management experience\n- Experience with a Computerized Maintenance Management System (CMMS)\n- Experience with robotic operation and maintenance\n- Able to troubleshoot basic input and output functions\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit .\n\nPursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "1+ years of Microsoft Office products and applications experience",
+            "High school or equivalent diploma",
+            "Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Maintenance Technician II, you will use your skills to support the Operations Maintenance team in repairing and maintaining material handling equipment and pneumatic systems throughout the building",
+            "You will have the opportunity to install, maintain and repair automated packaging and distribution equipment",
+            "Promote a safe working environment by following all safety procedures",
+            "Complete preventative maintenance routines with proper documentation",
+            "Troubleshoot electrical and mechanical problems related to all Material Handling Equipment (MHE) which includes belts, motors, photo-eyes, relays, and more",
+            "Maintain a positive working relationships across all of the Amazon Operations facility",
+            "Track and store department inventory",
+            "Move up to 49lbs as well as stand and walk during shifts lasting up to 12 hours, with or without reasonable accommodation",
+            "The days can be set according to your operational needs, a common pattern is working Sunday to Wednesday",
+            "Hours: Typically, this shift might start in the morning and end in the late afternoon",
+            "For a 10-hour shift, this could be 6:00 AM to 4:30 PM, with a half-hour break included",
+            "Hours: Like the Front Half Day shift, this shift would also occur during daytime hours",
+            "Depending on your downtime windows, a typical schedule might be from 7:00 AM to 5:30 PM, with a half-hour break",
+            "For example, it could run from 6:00 PM to 4:30 AM, with a half-hour break",
+            "To complement the Front Half Night Shift, this might run from Wednesday to Saturday",
+            "Hours: Like the Front Half Night shift, this shift would take place during the night"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Amazon offers competitive compensation packages including comprehensive healthcare benefits starting on Day 1, matching 401(k) program, and up to 20 weeks of paid parental leave",
+            "Schedule: 4 days on, 3 days off"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCMsN",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbWF6b24gQnVpbGRpbmcgT3BlcmF0aW9ucyBUZWNobmljaWFuIC0gRGF5IDEgQmVuZWZpdHMiLCJodGlkb2NpZCI6IkZzbmNHV1pFSmFQT0FMT2JBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamEwVlhVbWhLZW5sNU4xVjJjV0p2YjBWdGFtTnlabFpSVDNwblZucE9VMkpKTFhoaFpGbE9aMk00VUdGRGIzZHpTM2QxVEhwbGRtUmZUVE5VTjA5Q1ZWOVhZbDlxVGkxb1duZGlTV2t6Ym1RdGJ6RnFVRUp6V25Rek1tWktTMU5EYjBwUVNVWklNRGxWYlcxSlpGSXlWRXR2Y0dSRk5sRTFNWGh3YmxOTFYzQnVka1UzVFZBemJEbElVa1EzVVZONmNWZ3dha05JTldock1rZGFTRXhPUVRreVRuQnRPVzV0VG13dE1UaEVZMHh2TVVoRVptRjVTbVJ0TTJ4NWNVWlVPVnBGYTIxcFVFcGhiRkppTUdOa2VtMXFOemRrYkhkV1NUTXhkRVpFTm1Kc1FXZFlNMFpqTFZkclV6VmtXVzl5VkdSdmFraGlOek5HYWtaRGJ6bFRURGhoTFdWdVlSSVhkelF0TlZwamVpMU1kbVZ5TlU1dlVEQkxjV280UVVVYUlrRlFXR2h0TldKWE9IVTROMWx2YzFadlpUWkVZMjR4VlhWbGIyMVRkMUZSYVZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU2FsdXRlTXlKb2IiLCJsaW5rIjoiaHR0cHM6Ly9zYWx1dGVteWpvYi5jb20vam9icy9hbWF6b24tYnVpbGRpbmctb3BlcmF0aW9ucy10ZWNobmljaWFuLWRheS0xLWJlbmVmaXRzLWJsYW5jaGFyZC1sb3Vpc2lhbmEvMTIxOTUxNjA0NC0yLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Manager, Commerce – Display (Amazon)",
+      "company_name": "Omnicom Media Group",
+      "location": "  Chicago, IL   ",
+      "via": "via LinkedIn",
+      "description": "As a leading global media network, Omnicom Media Group (OMG) sets itself apart with an agile, client-first approach that helps businesses thrive today and into the future. With more than 21,000 employees globally, OMG has the talent, expertise and clout to deliver unprecedented levels of innovation for our clients. The group is comprised of some of the world's most awarded agencies. From... leadership to entry-level talent, we are a diverse mix of ages, genders, ethnicities, skill sets and backgrounds. This role will be on a highly visible team, fully dedicated to the success of this important partnership with our client, L’Oréal.\n\nFor more than a century, L’Oréal has devoted its energy, innovation, and scientific excellence solely to one business: Beauty. Their goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.\n\nQualifications\n• At least 3-5 years of programmatic retail media experience across one or more eRetail platforms and DSPs (Amazon, Walmart, TTD, etc.)\n• Demonstrable expertise across all aspects of programmatic retail media with the ability to plan and run self-serve DSP campaigns with little supervision.\n• Skilled at planning and managing enterprise level client engagements and budgets.\n• Experience with at least one or more tech providers such as Pacvue, Skai, Helium10, MerchantWords, Jungle Scout, Analytic Index, etc.\n• Proven track record of flawless execution, driving growth, client retention, and exceeding various stakeholder expectations.\n• Ability to engage with clients in, for example, campaign strategy setting discussions, weekly performance calls, campaign reviews, etc.\n• Clear and concise communicator with the ability to create and present compelling performance narratives across a wide set of data.\n• Deep understanding of retail readiness as well as additional paid and organic drivers of success (operations, promotions, content, paid search, off-platform media, etc.)\n• Ability to write a campaign strategy document and a campaign review document.\n• The ideal candidate can operate at a very high level as an individual contributor yet is on the cusp of leading a team. Team leadership is a near term growth opportunity for this role.\n• Able to work in an agile environment. Able and comfortable dealing with ambiguity to make decisions and take action for the betterment of our clients.\n• Team player. Curious. Ambitious.\n• Individual must also maintain an extreme level of confidentiality in dealing with all information that flows through the office.\n\nBonus experience (nice to have):\n• Working knowledge of retail paid search with the ability to communicate the value of a full-funnel approach to clients.\n• Direct, hands-on experience with planning, creating, managing, and measuring retail paid search campaigns.\n• Understanding of how to plan and measure off-platform media activations driving to eRetailer sites.\n• Experience with planning and executing Shopper Marketing programs and/or coordinating with Shopper Marketing teams.\n• Working or advanced knowledge of Amazon Marketing Cloud and other various data clean rooms.\n\nResponsibilities\n• Plan, create, optimize, and measure on-site and off-site programmatic media campaigns for clients across Amazon DSP, Walmart DSP, Kroger/KPM PMP, Target/Roundel, TTD, and others.\n• Partner with internal and client teams to provide best in class connected commerce capabilities (retail media, shopper marketing, operations, content, analytics, etc.).\n• Manage campaigns to meet and exceed a wide range of specified performance goals such as advertising efficiency, profitability, growth, new product launches, and more.\n• Ensure client budgets are properly paced, met, and not exceeded.\n• Remain at the forefront of the retail media industry, helping to define best practices, identify new opportunities, and actively contribute to our body of knowledge and expertise across the company.\n• Plan campaigns including writing campaign briefs to specify budgets, media needs, performance goals, measurement needs, etc. Coordinate with project management and ad operations teams to activate media.\n• Manage self-service DSP campaigns as well as plan and oversee managed service campaigns.\n• Help guide development of retail media services and drive growth of this practice, partnering with business development and account teams to pitch and win new business.Support various teams with proactive thought leadership and content to help internal training and capability development.\n\nCompensation Range: $50,000 - $100,000 annually. This is the pay range the Company believes it will pay for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on relevant experience, other job-related qualifications/skills, and geographic location (to account for comparative cost of living). The Company reserves the right to modify this pay range at any time. For this role, Benefits include: health/vision/dental insurance, 401(k), Healthcare Flexible Spending Account, Dependence Care Flexible Spending Account, vacation, sick, personal days, paid parental leave, and paid medical leave, STD/LTD insurance benefits.\n\nOMG is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "At least 3-5 years of programmatic retail media experience across one or more eRetail platforms and DSPs (Amazon, Walmart, TTD, etc.)",
+            "Demonstrable expertise across all aspects of programmatic retail media with the ability to plan and run self-serve DSP campaigns with little supervision",
+            "Skilled at planning and managing enterprise level client engagements and budgets",
+            "Experience with at least one or more tech providers such as Pacvue, Skai, Helium10, MerchantWords, Jungle Scout, Analytic Index, etc",
+            "Proven track record of flawless execution, driving growth, client retention, and exceeding various stakeholder expectations",
+            "Ability to engage with clients in, for example, campaign strategy setting discussions, weekly performance calls, campaign reviews, etc",
+            "Clear and concise communicator with the ability to create and present compelling performance narratives across a wide set of data",
+            "Deep understanding of retail readiness as well as additional paid and organic drivers of success (operations, promotions, content, paid search, off-platform media, etc.)",
+            "Ability to write a campaign strategy document and a campaign review document",
+            "The ideal candidate can operate at a very high level as an individual contributor yet is on the cusp of leading a team",
+            "Able to work in an agile environment",
+            "Able and comfortable dealing with ambiguity to make decisions and take action for the betterment of our clients",
+            "Individual must also maintain an extreme level of confidentiality in dealing with all information that flows through the office",
+            "Working knowledge of retail paid search with the ability to communicate the value of a full-funnel approach to clients",
+            "Direct, hands-on experience with planning, creating, managing, and measuring retail paid search campaigns",
+            "Understanding of how to plan and measure off-platform media activations driving to eRetailer sites",
+            "Experience with planning and executing Shopper Marketing programs and/or coordinating with Shopper Marketing teams",
+            "Working or advanced knowledge of Amazon Marketing Cloud and other various data clean rooms"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Plan, create, optimize, and measure on-site and off-site programmatic media campaigns for clients across Amazon DSP, Walmart DSP, Kroger/KPM PMP, Target/Roundel, TTD, and others",
+            "Partner with internal and client teams to provide best in class connected commerce capabilities (retail media, shopper marketing, operations, content, analytics, etc.)",
+            "Manage campaigns to meet and exceed a wide range of specified performance goals such as advertising efficiency, profitability, growth, new product launches, and more",
+            "Ensure client budgets are properly paced, met, and not exceeded",
+            "Remain at the forefront of the retail media industry, helping to define best practices, identify new opportunities, and actively contribute to our body of knowledge and expertise across the company",
+            "Plan campaigns including writing campaign briefs to specify budgets, media needs, performance goals, measurement needs, etc",
+            "Coordinate with project management and ad operations teams to activate media",
+            "Manage self-service DSP campaigns as well as plan and oversee managed service campaigns",
+            "Help guide development of retail media services and drive growth of this practice, partnering with business development and account teams to pitch and win new business"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation Range: $50,000 - $100,000 annually",
+            "This is the pay range the Company believes it will pay for this position at the time of this posting",
+            "For this role, Benefits include: health/vision/dental insurance, 401(k), Healthcare Flexible Spending Account, Dependence Care Flexible Spending Account, vacation, sick, personal days, paid parental leave, and paid medical leave, STD/LTD insurance benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.omnicommediagroup.com/",
+          "text": "omnicommediagroup.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Omnicom+Media+Group&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCJ0O",
+          "text": "See web results for Omnicom Media Group"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ErVctTOYgt0OVfD5wGzS17tVndo1tMBI0WFKmBQ&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBDb21tZXJjZSDigJMgRGlzcGxheSAoQW1hem9uKSIsImh0aWRvY2lkIjoiM2NxVGdITGlvcTBTZGVyNkFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYkRseVdIRXhWekJEYmtodlFXNUJZV2d5ZWpka1pUbGlRblJmVkdRMlJ6bHFkRXhRVVVnd2NqZHZRMUZaTkdSVU9VSTNiVGx4WVZVdFFXVmZNbVZMWWpjeE1WYzRhRTlJVEhwR2RWa3lhV3MxUW5SMGFWaFlRME5pY1hBMVUzRk9ZMlJHVTJGeU5uSnBSbWhzYVRWb1lrUXhTVFV5UVVKc1kyMU5abFZPTUd0aVQwWkhRbXQzUTJWWlJESXRXalZCVlRZM1h6bE1jRVJDVlVoQ2NYaDBRMWxtVHpWVlNEaDRNR3RSV1VjeFRFWlZialYwWlhWbFZXeHdWazlGTTA1eGFUSmhOak5pWVdwWFZuSkpUVmRFTkU4eE0wSlRTbXhsT0U4NE0yVmljM0ptU2xWTVlVSjBTbm81VmxodE5FTmxRMHBNYjA1Q2JtczJORWM1Y21oQmVXcGlTSEZZZWhJWGR6UXROVnBqZWkxTWRtVnlOVTV2VURCTGNXbzRRVVVhSWtGUVdHaHROVmxHVVhsV09UbENTbkJLV0VWcVdVMXZNRzVPYTBKeExYaExVMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L21hbmFnZXItY29tbWVyY2UtJUUyJTgwJTkzLWRpc3BsYXktYW1hem9uLWF0LW9tbmljb20tbWVkaWEtZ3JvdXAtMzgxMzA4NTY0Nj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Onsite Medical Representative",
+      "company_name": "Amazon",
+      "location": "  Fishkill, NY   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nThe Amazon Workplace Health & Safety (WHS) team aims to provide tools, resources, and environments that support safe, efficient, healthy behaviors and encourage employees to proactively manage their health and wellbeing. To support these goals, Amazon is seeking an experienced and innovative Onsite Medical Representative (OMR) to join our team. In this position, you will work closely... with the WHS site manager, WHS specialist, and Injury Prevention Specialist (IPS). You will be required to independently evaluate and provide first aid (e.g., for musculoskeletal injuries), advise Amazon Associates (AAs) on occupational and non-occupational injuries, have great verbal communication skills, and be able to connect with AAs, as well as Amazon Managers. You should enjoy learning and applying your knowledge about health & wellness to provide care for AAs on a daily basis. You will refer care to outside medical providers as needed, and learn about OSHA regulations, risk, and analysis. Practical ergonomics experience is advantageous. However, ergonomics topics will also be covered in ongoing training.\n\nResponsibilities\n\nThe OMR will function as a part of the larger team onsite, helping to provide assistance with all first aid needs and support operations as needed. This includes attending weekly associate committee meetings, greeting all new hires for the site, either within a group setting at New Hire Orientation or through one-on-one interaction. The OMR will also participate, as needed in incident investigations and weekly case management review meetings. Responsibilities include but are not limited to:\n• Provide triage, first aid, and/or referral to outside medical providers, if indicated.\n• Minimize the AA risk of injury through awareness, education and proactive engagement.\n• Maintain all records of care provided to AAs.\n• Develop a first aid care plan for AAs recovering from an injury, focused on injury improvement, including self-care instructions as needed.\n• Facilitate and maintain the workers’ compensation and return to work process for associates with work related injuries.\n• Provide daily activity logs and end of shift reports.\n• Spend frequent time on the warehouse floor to interact and engage with AAs and managers to coach on observed at-risk work habits.\n• Maintain a clean and orderly environment.\n• Monitor and ensure appropriate medical supply inventory is maintained.\n• Participate in special projects and ad hoc tasks as assigned.\n• Willing to be trained to teach first aid, CPR, and AED certification classes.\n• Work flexible shifts which could include days, nights, and/or weekends.\n• Communicate effectively.\n• Display professional behavior.\n• Multitask and have exceptional time management skills.\n• Work in and embrace inclusive and diverse atmosphere.\n• Follow direction, policy, and procedures.\n• Maintain composure in emergencies and lead emergency response at the site.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nFishkill, NY, USA\n\nBasic Qualifications\n• High school or equivalent diploma\n• High school or equivalent diploma\n• Must have valid certification of successful completion for these 3 courses: AED, First Aid and CPR from the American Heart Association or American Red Cross at time of application. Note: Basic Life Support (BLS) certification does not include First Aid, therefore a First Aid certification must also be obtained.\n• Must have ONE of the following listed below:\n• Current Emergency Medical Technician Basic Certification from the Department of Health OR the National Registry of Emergency Medical Technicians (NREMT), OR\n• Valid Provincial Primary Care Paramedic Certification from the Ministry of Health OR the Canadian Organization of Paramedic Regulators, OR\n• In the last three years, six months job experience as a Military Medical Technician (Canada), Combat Medic (USA), Field Medic (USA), Healthcare Specialist (USA), Hospital Corpsman (USN), Aerospace Medical Service Technician (USAF), OR\n• In the last three years, six months job experience in a care provider role AND a Bachelor’s degree from an accredited academic institution in: Exercise Sciences, Exercise Physiology, Health Sciences or Kinesiology\n\nPreferred Qualifications\n• Certified to teach first aid, CPR, and AED training from American Heart Association or American Red Cross\n• Proficient in Microsoft Office\n• Experience with an industrial wellness program\n• Passion for promoting health and wellness\n• Experience coaching on body mechanics\n• Experience managing musculoskeletal disorders\n• Experience in ergonomics\n• Experience with OSHA regulations\n• Experience with Workers Compensation\n• Proficient in digital recordkeeping\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $31,200/year in our lowest geographic market up to $69,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.\n\nCompany - Amazon.com Services LLC\n\nJob ID: A2528320",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Practical ergonomics experience is advantageous",
+            "High school or equivalent diploma",
+            "Must have valid certification of successful completion for these 3 courses: AED, First Aid and CPR from the American Heart Association or American Red Cross at time of application",
+            "Note: Basic Life Support (BLS) certification does not include First Aid, therefore a First Aid certification must also be obtained",
+            "Current Emergency Medical Technician Basic Certification from the Department of Health OR the National Registry of Emergency Medical Technicians (NREMT), OR",
+            "Valid Provincial Primary Care Paramedic Certification from the Ministry of Health OR the Canadian Organization of Paramedic Regulators, OR",
+            "In the last three years, six months job experience as a Military Medical Technician (Canada), Combat Medic (USA), Field Medic (USA), Healthcare Specialist (USA), Hospital Corpsman (USN), Aerospace Medical Service Technician (USAF), OR",
+            "In the last three years, six months job experience in a care provider role AND a Bachelor’s degree from an accredited academic institution in: Exercise Sciences, Exercise Physiology, Health Sciences or Kinesiology"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The OMR will function as a part of the larger team onsite, helping to provide assistance with all first aid needs and support operations as needed",
+            "This includes attending weekly associate committee meetings, greeting all new hires for the site, either within a group setting at New Hire Orientation or through one-on-one interaction",
+            "The OMR will also participate, as needed in incident investigations and weekly case management review meetings",
+            "Provide triage, first aid, and/or referral to outside medical providers, if indicated",
+            "Minimize the AA risk of injury through awareness, education and proactive engagement",
+            "Maintain all records of care provided to AAs",
+            "Develop a first aid care plan for AAs recovering from an injury, focused on injury improvement, including self-care instructions as needed",
+            "Facilitate and maintain the workers’ compensation and return to work process for associates with work related injuries",
+            "Provide daily activity logs and end of shift reports",
+            "Spend frequent time on the warehouse floor to interact and engage with AAs and managers to coach on observed at-risk work habits",
+            "Maintain a clean and orderly environment",
+            "Monitor and ensure appropriate medical supply inventory is maintained",
+            "Participate in special projects and ad hoc tasks as assigned",
+            "Work flexible shifts which could include days, nights, and/or weekends",
+            "Communicate effectively",
+            "Display professional behavior",
+            "Multitask and have exceptional time management skills",
+            "Work in and embrace inclusive and diverse atmosphere",
+            "Follow direction, policy, and procedures",
+            "Maintain composure in emergencies and lead emergency response at the site"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay for this position ranges from $31,200/year in our lowest geographic market up to $69,600/year in our highest geographic market",
+            "Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCPIO",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJPbnNpdGUgTWVkaWNhbCBSZXByZXNlbnRhdGl2ZSIsImh0aWRvY2lkIjoia2dpNDZIMlBCODBkeTRhOEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTJwT1gyUXhjVlJTZFRaVVJtdEdkRkpWZFVaV2R6ZDJZbGg0YjBGT1lraExhSGh5WjNoS1RXVjZRVGhVYW14T1ptdHlObFJTZEcwdGRuTkxkMG95Wm1adFNEVnFWMFprVVhGRWNHNHlRa2hwVmxCUFMxTkNUa3hWY2sxblpsRndWWFpxYWtWdGIxZG1hMXBvVjI5UldHaDBUalZvTjJwSlRsVktUa2hXVmpsaFlqaFRjbWxRVHpSQ1FYSkRVR1JhVDNOV2RVUmFjR1E1Yms1cU1sRkdjbTFqZVRsaGNXVnVNMDg1YjBwSlRXOXRRV2x4WTFsVFQyZFZlVm94VXkxaVlVRm1iM1F3UjNadVpuRkhNa3RWZERjM1oxa3dla1YwYjNSQlVSSVhkelF0TlZwamVpMU1kbVZ5TlU1dlVEQkxjV280UVVVYUlrRlFXR2h0TldGRFVERkNiSFpZTUV4RVFreENTV2xZY0hoMlYxVndjMk42YWtFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9vbnNpdGUtbWVkaWNhbC1yZXByZXNlbnRhdGl2ZS1hdC1hbWF6b24tMzgxMjA1NTQ5Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr. Launch Manager",
+      "company_name": "Amazon",
+      "location": "  Chicago, IL   ",
+      "via": "via LinkedIn",
+      "description": "Description\n\nWe are looking for a Sr. Launch Manager lead store projects within Amazon Fresh Stores. As part of our Worldwide Grocery Stores organization, you will lead a team of salaried Field Launch Managers (FLM) to plan and execute on-the-ground store activities, ensuring standards of quality are met and tracked in accordance with budgets and timelines. In partnership with store operations... you will work cross functionally with a variety of stakeholders throughout these projects.\n\nYour responsibilities include managing a team of high-performing FLMs to take ownership of renovations and launch specific deliverables, coordinating activities, training, standards adherence. The Sr. Launch Manager is someone who looks around corners to proactively identify problems and create scalable solutions and mechanisms to simplify and grow the business.\n\nAs a Sr. Launch Manager, you will travel across North America for site visits to meet critical milestones and readiness tasks. This role will be assigned a region but will need to be flexible in support outside of the region. You will hire, train, and develop your team of FLMs. You will utilize a suite of dashboards to monitor, identify, and solve for concerns impacting the project.\n\nA Sr. Launch Manager must be able to operate autonomously with strong personal motivation. You must be able to thrive and succeed in an entrepreneurial environment, and not be hindered by ambiguity or competing priorities. High judgment, ability to influence, organization, communication, and leadership skills are essential to success in this role.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nChicago, IL, USA\n\nBasic Qualifications\n• 5+ years of working cross functionally with tech and non-tech teams experience\n• 5+ years of team management experience\n• 5+ years of cross functional project delivery experience\n• 5+ years of program or project management experience\n• Experience defining program requirements and using data and metrics to determine improvements\n• Bachelor’s degree or equivalent experience in opening and operating physical retail stores for 10+ years\n• 5+ years people management experience.\n• 75% - 100% travel depending on business needs\n• Experience escalating issues, anticipating and making tradeoffs, balancing the business need versus other constraints, and maximizing business benefit while building great customer experiences\n• Experience in defining metrics for larger, more complex projects and productivity\n• Demonstrated ability to anticipate and manage change in a highly dynamic environment\n• Demonstrated ability to work in ambiguous situations and across organizational boundaries\n• Excellent written and verbal communication skills\n• Proficient in Microsoft Office\n• Ability to work effectively with tight deadlines in a fast-paced environment\n• Proven ability to manage multiple, competing priorities simultaneously\n• Strong sense of ownership, urgency, and drive\n• Sense of humor!\n\nPreferred Qualifications\n• Experience managing, analyzing and communicating results to senior leadership\n• 5+ years of multi-unit leadership\n• Experience in understanding needs of business and end customers and translating them into right solutions\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.\n\nCompany - Amazon.com Services LLC\n\nJob ID: A2541508",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Launch Manager must be able to operate autonomously with strong personal motivation",
+            "You must be able to thrive and succeed in an entrepreneurial environment, and not be hindered by ambiguity or competing priorities",
+            "High judgment, ability to influence, organization, communication, and leadership skills are essential to success in this role",
+            "5+ years of working cross functionally with tech and non-tech teams experience",
+            "5+ years of cross functional project delivery experience",
+            "5+ years of program or project management experience",
+            "Experience defining program requirements and using data and metrics to determine improvements",
+            "Bachelor’s degree or equivalent experience in opening and operating physical retail stores for 10+ years",
+            "75% - 100% travel depending on business needs",
+            "Experience escalating issues, anticipating and making tradeoffs, balancing the business need versus other constraints, and maximizing business benefit while building great customer experiences",
+            "Experience in defining metrics for larger, more complex projects and productivity",
+            "Demonstrated ability to anticipate and manage change in a highly dynamic environment",
+            "Demonstrated ability to work in ambiguous situations and across organizational boundaries",
+            "Excellent written and verbal communication skills",
+            "Proficient in Microsoft Office",
+            "Ability to work effectively with tight deadlines in a fast-paced environment",
+            "Proven ability to manage multiple, competing priorities simultaneously",
+            "Strong sense of ownership, urgency, and drive",
+            "Sense of humor!"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As part of our Worldwide Grocery Stores organization, you will lead a team of salaried Field Launch Managers (FLM) to plan and execute on-the-ground store activities, ensuring standards of quality are met and tracked in accordance with budgets and timelines",
+            "In partnership with store operations, you will work cross functionally with a variety of stakeholders throughout these projects",
+            "Your responsibilities include managing a team of high-performing FLMs to take ownership of renovations and launch specific deliverables, coordinating activities, training, standards adherence",
+            "Launch Manager is someone who looks around corners to proactively identify problems and create scalable solutions and mechanisms to simplify and grow the business",
+            "Launch Manager, you will travel across North America for site visits to meet critical milestones and readiness tasks",
+            "This role will be assigned a region but will need to be flexible in support outside of the region",
+            "You will hire, train, and develop your team of FLMs",
+            "You will utilize a suite of dashboards to monitor, identify, and solve for concerns impacting the project"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.amazon.com/",
+          "text": "amazon.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=a5e127585df5ae09&q=Amazon&sa=X&ved=0ahUKEwiM7LOPq4aEAxX3FVkFHVDVCB4QmJACCMcP",
+          "text": "See web results for Amazon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8Q2833XPZXBfO8Jt48as6n5Kcb-PIU-e7IFBcr8&s",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTGF1bmNoIE1hbmFnZXIiLCJodGlkb2NpZCI6IllFcHpmTDNURks5TmRGMUVBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJtMDFMVTVxU1dWclNrVkJRVVY0VEY5Q1VHWlBOVGczVmxsRFEzTnFXRUY2VGt4R1JFVjRURXBRTWpObmRUSklNVmxpTTBzMlZHRmlZa2xXYlRoSFpXeFJiV2hSVkVVNWRGbzBRVU42UlZsVU1VNXVaVzFvZFRkMWJHVmZZMU5UTjJkaWJYTnJlbEoxTVRodk5WRklWMVozVGtwMWVVbERSbGREVHpGdk9IUnZXV0ZzTFZBMGNUUTFVa2xvZWpGT1JrUlNWazlKZDJSclptRlZSVlEyYzJJdFQxWTJXVnAxUVRoS2VGZHllV3hsTjJ4cGREa3pRM3BJVlRWd1JtNU5NamxNZERkcEVoZDNOQzAxV21ONkxVeDJaWEkxVG05UU1FdHhhamhCUlJvaVFWQllhRzAxWWxOVU9ISjNUVjh6UVRWVk5GZFRVRWgzVWxvNVl6SjVZV2hTUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3NyLWxhdW5jaC1tYW5hZ2VyLWF0LWFtYXpvbi0zODEyNjMyNDM2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Delivery driver",
+          "value": "delivery driver"
+        },
+        {
+          "text": "Staffing",
+          "value": "staffing"
+        },
+        {
+          "text": "Warehouse worker",
+          "value": "warehouse worker"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Program manager",
+          "value": "program manager"
+        },
+        {
+          "text": "Driver",
+          "value": "driver"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Medical representative",
+          "value": "medical representative"
+        },
+        {
+          "text": "Area manager",
+          "value": "area manager"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Warehouse associate",
+          "value": "warehouse associate"
+        },
+        {
+          "text": "Administrator",
+          "value": "administrator"
+        },
+        {
+          "text": "Assistant manager",
+          "value": "assistant manager"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "Corporate counsel",
+          "value": "corporate counsel"
+        },
+        {
+          "text": "Finance manager",
+          "value": "finance manager"
+        },
+        {
+          "text": "Associate partner",
+          "value": "associate partner"
+        },
+        {
+          "text": "Cloud engineer",
+          "value": "cloud engineer"
+        },
+        {
+          "text": "Dev engineer",
+          "value": "dev engineer"
+        },
+        {
+          "text": "Executive assistant",
+          "value": "executive assistant"
+        },
+        {
+          "text": "Hire",
+          "value": "hire"
+        },
+        {
+          "text": "Maintenance technician",
+          "value": "maintenance technician"
+        },
+        {
+          "text": "Marketing manager",
+          "value": "marketing manager"
+        },
+        {
+          "text": "Picker",
+          "value": "picker"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Product manager",
+          "value": "product manager"
+        },
+        {
+          "text": "Research scientist",
+          "value": "research scientist"
+        },
+        {
+          "text": "Service representative",
+          "value": "service representative"
+        },
+        {
+          "text": "Technician",
+          "value": "technician"
+        },
+        {
+          "text": "Account executive",
+          "value": "account executive"
+        },
+        {
+          "text": "Agent",
+          "value": "agent"
+        },
+        {
+          "text": "Ambassador",
+          "value": "ambassador"
+        },
+        {
+          "text": "Applied scientist",
+          "value": "applied scientist"
+        },
+        {
+          "text": "Assistant",
+          "value": "assistant"
+        },
+        {
+          "text": "Assurance engineer",
+          "value": "assurance engineer"
+        },
+        {
+          "text": "Business analyst",
+          "value": "business analyst"
+        },
+        {
+          "text": "Cdl driver",
+          "value": "cdl driver"
+        },
+        {
+          "text": "Chain manager",
+          "value": "chain manager"
+        },
+        {
+          "text": "Channel manager",
+          "value": "channel manager"
+        },
+        {
+          "text": "Construction manager",
+          "value": "construction manager"
+        },
+        {
+          "text": "Consultant",
+          "value": "consultant"
+        },
+        {
+          "text": "Coordinator",
+          "value": "coordinator"
+        },
+        {
+          "text": "Customer service",
+          "value": "customer service"
+        },
+        {
+          "text": "Design engineer",
+          "value": "design engineer"
+        },
+        {
+          "text": "Development manager",
+          "value": "development manager"
+        },
+        {
+          "text": "Digital marketing",
+          "value": "digital marketing"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Economist",
+          "value": "economist"
+        },
+        {
+          "text": "End engineer",
+          "value": "end engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Seattle, WA",
+          "value": "VTPokywQkFSa1URpRmUlEA=="
+        },
+        {
+          "text": "Bellevue, WA",
+          "value": "QWCmo89rkFRlB9DqglTPug=="
+        },
+        {
+          "text": "New York, NY",
+          "value": "Owg_06VPwoli_nfhBo8LyA=="
+        },
+        {
+          "text": "Arlington, VA",
+          "value": "D6ene522t4mTsPZFyG_P-A=="
+        },
+        {
+          "text": "Herndon, VA",
+          "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+        },
+        {
+          "text": "Austin, TX",
+          "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+        },
+        {
+          "text": "Louisville, TN",
+          "value": "0cu_d-ImXIhbFvy5LNgxrQ=="
+        },
+        {
+          "text": "Nashville, TN",
+          "value": "PZDrEzLsZIig2umh0Lk_fQ=="
+        },
+        {
+          "text": "Providence, RI",
+          "value": "XXN-Q-BE5IkntrNITXzfaQ=="
+        },
+        {
+          "text": "Boston, MA",
+          "value": "GzE9DS1l44mg6GIBJL98eA=="
+        },
+        {
+          "text": "Chicago, IL",
+          "value": "7cv00DwsDogAwMAJrabgrw=="
+        },
+        {
+          "text": "San Francisco, CA",
+          "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+        },
+        {
+          "text": "Huntington Beach, CA",
+          "value": "tSrI-SIk3YABO2akyYXtRQ=="
+        },
+        {
+          "text": "North Reading, MA",
+          "value": "z0OHihwM44lMKI-OAz053A=="
+        },
+        {
+          "text": "Pataskala, OH",
+          "value": "yR4p98RoOIjWOPxMwhZFDQ=="
+        },
+        {
+          "text": "Wilmington, DE",
+          "value": "b69GXBgPx4kAjDB3UNoWhQ=="
+        },
+        {
+          "text": "Abilene, TX",
+          "value": "RWkGKjmOVoZfqSMiv-bZBw=="
+        },
+        {
+          "text": "Akron, OH",
+          "value": "t_oui5XXMIgEbSb9lWzJKQ=="
+        },
+        {
+          "text": "Albany, NY",
+          "value": "S_tPzDQK3onEKOegEmOh4Q=="
+        },
+        {
+          "text": "Albuquerque, NM",
+          "value": "e4MJ090KIof99tm4zvjTwA=="
+        },
+        {
+          "text": "Anoka, MN",
+          "value": "UYZ7YbwXs1Lm87qLroyMaw=="
+        },
+        {
+          "text": "Atlanta, GA",
+          "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+        },
+        {
+          "text": "Auburndale, FL",
+          "value": "TTCBOZIU3YjL6Ed0oZct9A=="
+        },
+        {
+          "text": "Baton Rouge, LA",
+          "value": "y3RfMmc4JIYdmleR2_EjIQ=="
+        },
+        {
+          "text": "Belcher, LA",
+          "value": "7RFXGU2xNoY3TAdEUQPvmw=="
+        },
+        {
+          "text": "Bellevue, WI",
+          "value": "idG05OfiAoi8kIgW6bg5RA=="
+        },
+        {
+          "text": "Bethel Park, PA",
+          "value": "sWEsfAr5NIizrjoPXfQi9g=="
+        },
+        {
+          "text": "Beverly Hills, CA",
+          "value": "q0fR1gS8woDRHgj9ecPH1g=="
+        },
+        {
+          "text": "Blanchard, LA",
+          "value": "86UUXb3INoaSHeyzJqoDbw=="
+        },
+        {
+          "text": "Bordentown, NJ",
+          "value": "eTzODphbwYljfN6LABWmcA=="
+        },
+        {
+          "text": "Bossier City, LA",
+          "value": "8R3_KkLLNoYP62DeFVmwMQ=="
+        },
+        {
+          "text": "Bowie, MD",
+          "value": "SfEGwo3qt4lVbq5KSSK3yg=="
+        },
+        {
+          "text": "Bowling Green, KY",
+          "value": "0-T66bzoZYhPLHkgkKwKpw=="
+        },
+        {
+          "text": "Breinigsville, PA",
+          "value": "I54dUn4yxIl1PT0WkKOK7A=="
+        },
+        {
+          "text": "Bridgeport, CT",
+          "value": "GTd4lioJ6InOzk8Jp_yL3w=="
+        },
+        {
+          "text": "Broadalbin, NY",
+          "value": "ecohPzpf3okdAXM-HZzS9Q=="
+        },
+        {
+          "text": "Buford, GA",
+          "value": "caSgZuqT9Ygvtp7q1YY4QA=="
+        },
+        {
+          "text": "Camp Dennison, OH",
+          "value": "N3oc5EBVQIhJTqmD2yC13g=="
+        },
+        {
+          "text": "Candia, NH",
+          "value": "R9BmVI1b4omJ0eCoEAcKvQ=="
+        },
+        {
+          "text": "Canton, MI",
+          "value": "PyLdYb5TO4ggqXVlAoP8TA=="
+        },
+        {
+          "text": "Canton, MS",
+          "value": "XbIU4d3YKYa9MVvxUVhpvA=="
+        },
+        {
+          "text": "Cedar Rapids, IA",
+          "value": "UUIvoHpf5IfA3eYsQ2DuVQ=="
+        },
+        {
+          "text": "Central Islip, NY",
+          "value": "h7szaTcx6Il4w3Zs-c0SyQ=="
+        },
+        {
+          "text": "Cicero, IL",
+          "value": "j9uBfJYzDoggMQB8x3JYvA=="
+        },
+        {
+          "text": "Cincinnati, OH",
+          "value": "-SE43rFRQIgXk8Dki377aQ=="
+        },
+        {
+          "text": "Clear Lake, MN",
+          "value": "1V_sSLqFtFLV_WpRKapfKg=="
+        },
+        {
+          "text": "Colorado Springs, CO",
+          "value": "K9LmoS5BE4cTa-j1kuuOQQ=="
+        },
+        {
+          "text": "Concord, NC",
+          "value": "S_yqzmIFVIi9rs0-wLih8A=="
+        },
+        {
+          "text": "Coral Springs, FL",
+          "value": "ZeB2GTQF2YgrICmRtbAHiQ=="
+        },
+        {
+          "text": "Crawford, GA",
+          "value": "9RLceaVG9ogP7W1zjJAvzA=="
+        },
+        {
+          "text": "Culver City, CA",
+          "value": "nXN32x66woD-WetL0emFMQ=="
+        },
+        {
+          "text": "Dallas, TX",
+          "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+        },
+        {
+          "text": "Daytona Beach, FL",
+          "value": "g1YCJZTb5ojrKssdtztqNg=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Toiletries",
+          "value": "/business/naics2007/3256"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Amazon",
+          "value": "/m/0mgkg"
+        },
+        {
+          "text": "Amazon Web Services (AWS)",
+          "value": "/m/0rznzt1"
+        },
+        {
+          "text": "WayUp",
+          "value": "/g/11gfj67hvn"
+        },
+        {
+          "text": "MCQ6 Logistix",
+          "value": "/g/11rn32ptrx"
+        },
+        {
+          "text": "Upwork",
+          "value": "/m/02pzh5d"
+        },
+        {
+          "text": "Amazon Development Center U.S., Inc.",
+          "value": "/g/11rxnkj1mk"
+        },
+        {
+          "text": "Amazon Retail LLC",
+          "value": "/g/11f00sjtl5"
+        },
+        {
+          "text": "Amazon Corporate LLC",
+          "value": "/m/09m9mpp"
+        },
+        {
+          "text": "Amazon Games",
+          "value": "/g/11c2nstym2"
+        },
+        {
+          "text": "Black Bear Transportation Inc.",
+          "value": "/m/09mcsvy"
+        },
+        {
+          "text": "DECOPAC INC.",
+          "value": "/m/0131834_"
+        },
+        {
+          "text": "Hasbro",
+          "value": "/m/0hpt3"
+        },
+        {
+          "text": "L'Oréal",
+          "value": "/m/0366v2"
+        },
+        {
+          "text": "Northwest Center",
+          "value": "/g/11vb4bgw39"
+        },
+        {
+          "text": "Omnicom Media Group",
+          "value": "/m/09myksl"
+        },
+        {
+          "text": "Ring",
+          "value": "/m/0r4sjp1"
+        },
+        {
+          "text": "Sol de Janeiro",
+          "value": "/g/11vhy1430z"
+        },
+        {
+          "text": "Therabody",
+          "value": "/g/11knl77756"
+        }
+      ]
+    }
+  ]
+}

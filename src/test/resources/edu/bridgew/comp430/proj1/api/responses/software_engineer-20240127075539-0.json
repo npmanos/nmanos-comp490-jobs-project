@@ -1,0 +1,1246 @@
+{
+  "search_metadata": {
+    "id": "65b4b6fbc90e0a81b934c151",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b4b6fbc90e0a81b934c151.json",
+    "created_at": "2024-01-27 07:55:39 UTC",
+    "processed_at": "2024-01-27 07:55:39 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b4b6fbc90e0a81b934c151.html",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer, Early Career",
+      "company_name": "Viasat, Inc.",
+      "location": "  United States  (+1 other)    ",
+      "via": "via Viasat Careers",
+      "description": "About us\n\nOne team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive... impact to join our team.\n\nWhat you'll do\n\nWe are looking for ambitious software engineers to independently work on the requirements, design, implementation, integration, and test of embedded and application software. Members of our team develop code from the driver level in C, to the application level, all the way to the user interface level using HTML and JavaScript. We additionally prepare operations technical documentation and support our global services team by troubleshooting field issues. Your \"can do\" attitude and the drive to learn new things will help continue to drive Viasat’s success.\n\nThe day-to-day\n• Work with your scrum team on designing and implementing new features\n• Help support/debug field issues\n• Fixing bugs\n\nWhat you'll need\n• Bachelor’s Degree or higher in Computer Science, Electrical Engineering, Computer Engineering, or related subject area\n• Expertise with multi-threaded applications and inter-process communication\n• Understanding of real-time concepts on embedded Linux or RTOS platforms\n• Experience with C/C++\n• Scripting expertise with Bash, Python or similar\n• Experience with development tools such as Perforce, Git, Swarm, Jenkins, JIRA\n\nWhat will help you on the job\n• Master’s Degree or higher in Computer Science, Electrical Engineering, Computer Engineering, or related subject area\n• Linux expertise\n• Linux device driver experience\n• Web-based user interface development experience\n• Experience with large-scale wireless communication systems (SATCOM, LTE, etc.)\n• Networking experience: TCP/IP, NAT, L2 Switching, Firewalls, AAA, DHCP\n• Experience managing Cisco switches and routers\n• Experience with Docker\n• Technical writing/documentation experience (Wiki, Word, Visio)\n• Ability to obtain a United States Secret Clearance\n\nSalary range\n\n$113,100.00 - $196,600.00 / annually\n\nAt Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience. Base pay may vary depending on job-related knowledge, skills, and experience. Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered. Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits.\nEEO statement\n\nViasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree or higher in Computer Science, Electrical Engineering, Computer Engineering, or related subject area",
+            "Expertise with multi-threaded applications and inter-process communication",
+            "Understanding of real-time concepts on embedded Linux or RTOS platforms",
+            "Experience with C/C++",
+            "Scripting expertise with Bash, Python or similar",
+            "Experience with development tools such as Perforce, Git, Swarm, Jenkins, JIRA",
+            "Linux expertise",
+            "Linux device driver experience",
+            "Web-based user interface development experience",
+            "Experience with large-scale wireless communication systems (SATCOM, LTE, etc.)",
+            "Networking experience: TCP/IP, NAT, L2 Switching, Firewalls, AAA, DHCP",
+            "Experience managing Cisco switches and routers",
+            "Experience with Docker",
+            "Technical writing/documentation experience (Wiki, Word, Visio)",
+            "Ability to obtain a United States Secret Clearance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We additionally prepare operations technical documentation and support our global services team by troubleshooting field issues",
+            "Work with your scrum team on designing and implementing new features",
+            "Help support/debug field issues",
+            "Fixing bugs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$113,100.00 - $196,600.00 / annually",
+            "At Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience",
+            "Base pay may vary depending on job-related knowledge, skills, and experience",
+            "Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered",
+            "Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.viasat.com/",
+          "text": "viasat.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Viasat,+Inc.&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCOAJ",
+          "text": "See web results for Viasat, Inc."
+        }
+      ],
+      "extensions": [
+        "13 hours ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "13 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRWFybHkgQ2FyZWVyIiwiaHRpZG9jaWQiOiJNUXAwQmZ6Q2sxNkJZNlZtQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiR1pEWWs4d1oxOVllRGszWmtGeVNtSldTMkV4ZGxGRGRYRmlaV0pETlZWUGNTMTRRVXgyZUVWd2RsQk5iRXRMV1doWVRUVkJWRmc1YlZSeE1FdDBkVVpqZWtGUllVcGxVV293VG1STmNYVnVURmRQV0ZJd1gyUklaRk5TTFZNd1pVRTRhRjlrVEc4MWVtVnVhMUZRVHpoblJHOWtOM1pPY2xsd01YUnBjRXhyYkhWeVpsRnpSVUo0WVdSaWFqRlRibVIxU1ZwQ2IzZFBkM1ZXT0VsMlUyOXVWa3htTjFNeE0zRTFlREZJUTB3d1FtaFFVbkZQVEd0cE5EUnlhbXhhY2xwamIzZENjbWt0YUdsbFdrcFpiWE0yUnpKQ2NFbDRXbWhJUVJJWExUZGhNRnBtVUhSTWRHRmxOVTV2VUdkemFVTTRRV3NhSWtGUVdHaHROVnBxUWkxNFNWVm1hbTh0Y0ZkUlRFWlZORzFMUzB4YVNsUkxXV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIFZpYXNhdCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy52aWFzYXQuY29tL2pvYnMvMjUyND9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer- IMMEDIATE NEED",
+      "company_name": "TEKsystems",
+      "location": "  Shawnee Mission, KS   ",
+      "via": "via TEKsystems Careers",
+      "description": "Description:\n\nWhat you will be responsible for...\n\nComplete product technical/architectural design and prototyping/software development.\nPerform system analysis and programming activities which may require extensive research and analysis.\nProvide cost estimates and comparisons of technical designs utilizing various technologies.\nProvide individual and team-level time estimations for the implementation of technical designs.\nDevelops and tests applications based on business requirements and industry best practices.\nConduct unit testing and integration testing for functionality and limits.\nCollaboratively work with Business Analysts, QA engineers, and DevOps Engineers to ensure timely delivery of high-quality products.\nCreate required technical documentation.\nPerform release validation testing and beta support for products.\nAdhere to documented departmental and corporate standards. Participate in the definition and documentation of standards.\nProvide technical/engineering support for new and existing applications from code delivery until the retirement of the application/service.\nMay perform other job duties as assigned.\n\nSkills:\n\nC#, Sql, .net, Software development, Agile, Microservices, go, go programming, docker, kubernetes\n\nTop Skills Details:\n\nC#,Sql,.net,Software development,Agile,Microservices\n\nAdditional Skills & Qualifications:\n\nWhat you will need to have:\n\nMinimum of 4 years of software development experience.\nExperience developing cloud-based microservices exposing REST APIs with .NET core.\nAble to travel 5 % for internal meetings, workshops, and/or training.\nWhat would be nice for you to have:\n\nBachelor’s degree in software engineering or computer Science.\nStrong interest in mentoring other developers and presenting apps & technologies to stakeholders.\nMicrosoft .NET Core, C# 8.0, GO, or Java microservices.\nBuilding RESTful API’s according to industry standards and integrating with SOAP-based API’s and web services.\nDocker Containers, Kubernetes, or Azure Kubernetes Service experience.\nPerformance testing and optimizing services and the scaling of those services.\nConfiguring/utilizing APMs to ensure service stability.\nDefining Service Level Objectives and Indicators according to consumer needs.\nKey Vaults and Certificate Management experience.\nSQL and NoSQL (MongoDB) database experience.\nApache or Confluent Kafka experience.\nElasticStack, LogStash/Fluentd, Kibana.\nExperience using Angular or React.\nGit-based repositories.\n\nExperience Level:\n\nExpert Level\n\nAbout TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "C#, Sql, .net, Software development, Agile, Microservices, go, go programming, docker, kubernetes",
+            "Minimum of 4 years of software development experience",
+            "Experience developing cloud-based microservices exposing REST APIs with .NET core",
+            "Bachelor’s degree in software engineering or computer Science",
+            "Strong interest in mentoring other developers and presenting apps & technologies to stakeholders",
+            "Microsoft .NET Core, C# 8.0, GO, or Java microservices",
+            "Building RESTful API’s according to industry standards and integrating with SOAP-based API’s and web services",
+            "Docker Containers, Kubernetes, or Azure Kubernetes Service experience",
+            "Key Vaults and Certificate Management experience",
+            "SQL and NoSQL (MongoDB) database experience",
+            "Apache or Confluent Kafka experience",
+            "ElasticStack, LogStash/Fluentd, Kibana",
+            "Experience using Angular or React"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Complete product technical/architectural design and prototyping/software development",
+            "Perform system analysis and programming activities which may require extensive research and analysis",
+            "Provide cost estimates and comparisons of technical designs utilizing various technologies",
+            "Provide individual and team-level time estimations for the implementation of technical designs",
+            "Develops and tests applications based on business requirements and industry best practices",
+            "Conduct unit testing and integration testing for functionality and limits",
+            "Collaboratively work with Business Analysts, QA engineers, and DevOps Engineers to ensure timely delivery of high-quality products",
+            "Create required technical documentation",
+            "Perform release validation testing and beta support for products",
+            "Adhere to documented departmental and corporate standards",
+            "Participate in the definition and documentation of standards",
+            "Provide technical/engineering support for new and existing applications from code delivery until the retirement of the application/service",
+            "May perform other job duties as assigned",
+            "Configuring/utilizing APMs to ensure service stability"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.teksystems.com/",
+          "text": "teksystems.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=TEKsystems&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCK4K",
+          "text": "See web results for TEKsystems"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz446Brglusi2CkI79qvMDYHQoYzzjFImUSG3Jc7I&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlci0gSU1NRURJQVRFIE5FRUQiLCJodGlkb2NpZCI6ImVGcjFwQkw1TWlmS0JlcTFBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJrdzJSVTFCY2pGbFZGUkJaWGs0WjBoM1VHRlVPRGhyWlRSR2VuazRlbFZOV2t4WGJubFJWRFJQYlZoQ2NFVTFTeTAzU21wSVgySjNWREl3VGtGSVNtcExVMlJIVWs5alpFbEtMVXBMYkdKdlNXbHBNMlZxUkVGUk1uTlRObE51V0VsQ1lYUnNUM1ZKTXpWZllXOXdNWHBzYlc1NmQxVkxPVFZ0VldGUldVaE5iVlZqVGsxaFQxWmtPRFowY0hka1pVcEhlWGszYzBORlIwSlJZa0pmWVRGelRIQnZURFJoTVV4TFNuRXhWekJrWlROR2IxaGtZa0pQUzBJdGJVeExVRmQ0TnpGcVRVbEhhVXRHYTJ0eVZURlVYMEpWYkhvNFNFdFFVVEE1YkY5clNuSldaMWxOUTNGRVUwMUVjVXhPV1JJWExUZGhNRnBtVUhSTWRHRmxOVTV2VUdkemFVTTRRV3NhSWtGUVdHaHROVmt6Y0ZsNlVVRlZYMFJYWVdSNFptZGxialJZVWpVemEweGllWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRFS3N5c3RlbXMgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMudGVrc3lzdGVtcy5jb20vdXMvZW4vam9iL0pQLTAwNDI3NzAzOC9Tb2Z0d2FyZS1FbmdpbmVlci1JTU1FRElBVEUtTkVFRD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Citadel",
+      "location": "  United States   ",
+      "via": "via Citadel",
+      "description": "At Citadel, Software Engineers are responsible for building the systems that power every aspect of our investment process, from research and analysis to trading, risk management, funding and settlement. Working side by side with investors and quantitative researchers, we use our technical skills to drive critical commercial outcomes. If you’re interested in financial markets and excited by the... prospect of having real impact in a fast-paced environment where everyone is inspired to be their best, we’re excited to meet you.\n\nOur most successful engineers are critical thinkers who know how to dissect the problem as proficiently as they know how to build the solution. While we look for technical acumen, commercial acumen is just as important. That includes the ability to flex, change course, and iterate without always having pre-defined specs.\n\nYOUR OPPORTUNITY:\nFrom system engineers who create next-gen platforms to desk-aligned developers who partner with investment teams to increase efficiency and maximize returns, our engineering opportunities are as varied as they are challenging. If you are selected for an interview, one of our recruiters will be in touch to review the specific roles, teams and regions that best align with your skills, seniority, and experience.\n\nYOUR SKILLS & TALENTS:\n• 6+ years of professional software engineering experience\n• Solid computer science fundamentals\n• Expert level programing skills in at least one of the following: Java, C++, Python\n• Proven track record in software design and development\n• Excellent analysis / problem solving skills\n• Strong communication and teamwork skills\n• Ability to manage multiple tasks in a demanding and dynamic environment\n• Minimum of a Bachelor’s degree in Computer Science or a related STEM discipline\n\nIn accordance with New York City’s Pay Transparency Law, the base salary range for this role is $150,000 to $300,000. Base salary does not include other forms of compensation or benefits",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "6+ years of professional software engineering experience",
+            "Solid computer science fundamentals",
+            "Expert level programing skills in at least one of the following: Java, C++, Python",
+            "Proven track record in software design and development",
+            "Excellent analysis / problem solving skills",
+            "Strong communication and teamwork skills",
+            "Ability to manage multiple tasks in a demanding and dynamic environment",
+            "Minimum of a Bachelor’s degree in Computer Science or a related STEM discipline"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base salary does not include other forms of compensation or benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.citadel.com/",
+          "text": "citadel.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Citadel&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCPkK",
+          "text": "See web results for Citadel"
+        }
+      ],
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiSEZzc2dfQ0xCT0F4MHgtS0FBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYTNSWWEyYzJWMUZsZUd4bFkwZElZWGR5ZFdWVmMwbGllbmswUlVOVmIxZ3ljbVk0YTAxMFUzTkdkVFJ1TjJ0T1FqUlNObEpHYzBoRlpXTTVXV1pYTjJ4aE1GWTVhblpHY0VSUVlUZDVlRlJWYlU5WU5GRjJSekJDWTJWeWN6aFFjbHBwYm10clNrMVFhbTVVTUc0eVpGbElTRzF1Wmt4NFMzSmFaa3BPVmxWa2JGTlhlRnAzVDNsS2NHOHhNWHBVVG1GUmJIcDBZVTlJYUZsalVubFFjMXBXVTFBemVHY3hUSGMzUzJOU2FIbHdOak5NVEVKWVdXWjNNWGh3UkVjNGNUTnRUR3R2RWhjdE4yRXdXbVpRZEV4MFlXVTFUbTlRWjNOcFF6aEJheG9pUVZCWWFHMDFZVFpYYUhKdmIycHRSelJSZGtKNmFYUktkR2hsTURaT1ZGcFdadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2l0YWRlbCIsImxpbmsiOiJodHRwczovL3d3dy5jaXRhZGVsLmNvbS9jYXJlZXJzL2RldGFpbHMvc29mdHdhcmUtZW5naW5lZXIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "(USA) Software Engineer II",
+      "company_name": "Walmart",
+      "location": "  Bentonville, AR   ",
+      "via": "via Careers.Walmart.com",
+      "description": "Position Summary...\n\nWhat you'll do...\n\nWhat you'll do...\n\nIt’s exciting time to join our Walmart journey. We are seeking a Software Engineer III to support the Finance Technology.  \n\nAbout the Team\n\nAs a part of Walmart Finance Technology – Finance Data Factory (FDF), we build industry defining Data platform/workflows that process large quality of general ledger data and applications that run on data platform for visualization also, Machine Learning and statistical modeling that enable transparency, governance, and automation. The goals include improved Business partner user experience; standardizing the core and utilizing reporting/predictive analytics to uncover insights faster.\n\nYou will be in the unique position to be of service to associates as a member of this organization supporting all segments of Walmart Finance. If you are the type of person who feels a personal stake in everything that you work on, has a strong sense of ownership, has a love for financial data, enjoys solving complex problems, has a passion for privacy, knows how to foster strong relationships and build trust, and works for the success of the product - then this role could be for you. The ideal candidate will be a driver for any given workstream within the program, working closely with the engineering and business teams to take an idea thru implementation and stabilization.\n\nAlso, you will be positioned to work on building re-usable frameworks for centralized data flow monitoring & Data Quality like impact-based alerting, orchestrate with multiple systems in the landscape to provide end-to-end visibility and connectivity between the systems to achieve a business goal. Identifies data gaps upfront. Provides visibility into data correctness, completeness, accuracy for downstream systems. Enabling data transparency, insights hence help kick off the data remediation process in upstream systems.\n\nYou’ll really wow us if…\n• You are a driver, takes responsibility to ensure timely delivery.\n• You are passionate, driven and humble in your approach.\n• You’re excited about solving challenges.\n• You’re team-centric in spirit and in execution.\n• You’re leading and participating in medium- to large-scale, complex, cross-functional projects by reviewing project requirements, translating requirements into technical solutions, gathering requested information (for example, design documents, product requirements, wire frames).\n• You’re writing and developing code; conducting unit testing, communicating status and issues to team members and stakeholders, collaborating with project team and cross functional teams.\n\nYou’ll make an impact by…\n• Effectively translating requirements into project parameters while working with agility.\n• Helping cross-functional teams to solve for business problems and develop solutions that enable us to redefine a “best-in-class” customer experience.\n• Encouraging the project teams that you oversee to work collaboratively and to aim for insight-driven outcomes.\n\nResponsibilities & Qualifications…\n• Experience in Technical Solutions Architecture and design leadership.\n• Experience using Javascript, HTML/CSS, ReactJs or next.js\n• Strong Java, Spring framework, Kafka, SQL and cloud experience such as Azure.\n• Strong experience in RESTful Microservices\n• Container technologies such as Docker on Kubernetes\n• Strong API design, development, and management\n• Experience with cloud native technology, CI/CD (KITT)\n• Experience with third-party libraries and APIs\n• Clear Communication, including the ability to create functional charts.\n• Ability to multitask between several different requirements and features concurrently.\n• Superior analytical skills with a good problem-solving attitude.\n• Ability to perform in a team environment.\n• Being an independent thinker and problem solver\n• Being able to understand UI tech stack, needs and limitations.\n• Strong sense of urgency\n\nExperience\n• 3 to 4 years of software development experience\n• Professional frontend development experience using Javascript, HTML/CSS, ReactJs or next.js\n• Strong experience with UI tech stack using React JS, React native\n• Experience with UI testing frameworks like Jest\n• Software development (Java or Python, Pysprak is preferable)\n• Solid skills in java stack (Spring, Maven, Hibernate)\n• Solid experience with REST APIs\n• Strong experience within the Cloud Services using Azure or Google GCP\n• Experience with Spark Engine (Databrick or DataProc)\n• Experience working with building Data Engineering Pipelines\n• Experience using source control systems (git)\n• Experience with working with CI/CD (Jenkins/Travis)\n• Experience with working with cloud deployments (scaling, resiliency, load balancing etc)\n• Experience with SQL and NoSQL databases (MSSQL, GCP BigQuery)\n• Experience working with message stream systems (Pub/Sub -Kafka, RabbitMQ)\n• Experience working in agile environment (Scrum, daily standups etc)\n• Experience of delivering and supporting a large-scale production system\n• Experience with being a core contributor to a software project: understanding domain and business requirements, being responsible for critical parts of the application.\n• Experience working with logging and application monitoring stack: Splunk, Dynatrace,Grafana\n• Good communication skills, working in multi-team project.\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area.Option 2: 3 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertification in Security+, Network+, GISF, or GSEC\n\nPrimary Location...\n608 SW 8TH ST, BENTONVILLE, AR 72712-6207, United States of America",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You are passionate, driven and humble in your approach",
+            "You’re excited about solving challenges",
+            "You’re team-centric in spirit and in execution",
+            "Experience in Technical Solutions Architecture and design leadership",
+            "Strong Java, Spring framework, Kafka, SQL and cloud experience such as Azure",
+            "Strong experience in RESTful Microservices",
+            "Container technologies such as Docker on Kubernetes",
+            "Strong API design, development, and management",
+            "Experience with cloud native technology, CI/CD (KITT)",
+            "Experience with third-party libraries and APIs",
+            "Clear Communication, including the ability to create functional charts",
+            "Ability to multitask between several different requirements and features concurrently",
+            "Superior analytical skills with a good problem-solving attitude",
+            "Ability to perform in a team environment",
+            "Being an independent thinker and problem solver",
+            "Being able to understand UI tech stack, needs and limitations",
+            "Strong sense of urgency",
+            "3 to 4 years of software development experience",
+            "Professional frontend development experience using Javascript, HTML/CSS, ReactJs or next.js",
+            "Strong experience with UI tech stack using React JS, React native",
+            "Experience with UI testing frameworks like Jest",
+            "Software development (Java or Python, Pysprak is preferable)",
+            "Solid skills in java stack (Spring, Maven, Hibernate)",
+            "Solid experience with REST APIs",
+            "Strong experience within the Cloud Services using Azure or Google GCP",
+            "Experience with Spark Engine (Databrick or DataProc)",
+            "Experience working with building Data Engineering Pipelines",
+            "Experience using source control systems (git)",
+            "Experience with working with CI/CD (Jenkins/Travis)",
+            "Experience with working with cloud deployments (scaling, resiliency, load balancing etc)",
+            "Experience with SQL and NoSQL databases (MSSQL, GCP BigQuery)",
+            "Experience working with message stream systems (Pub/Sub -Kafka, RabbitMQ)",
+            "Experience working in agile environment (Scrum, daily standups etc)",
+            "Experience of delivering and supporting a large-scale production system",
+            "Experience with being a core contributor to a software project: understanding domain and business requirements, being responsible for critical parts of the application",
+            "Experience working with logging and application monitoring stack: Splunk, Dynatrace,Grafana",
+            "Good communication skills, working in multi-team project",
+            "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area",
+            "Option 2: 3 years’ experience in software engineering or related area",
+            "Certification in Security+, Network+, GISF, or GSEC"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be in the unique position to be of service to associates as a member of this organization supporting all segments of Walmart Finance",
+            "Also, you will be positioned to work on building re-usable frameworks for centralized data flow monitoring & Data Quality like impact-based alerting, orchestrate with multiple systems in the landscape to provide end-to-end visibility and connectivity between the systems to achieve a business goal",
+            "Identifies data gaps upfront",
+            "Provides visibility into data correctness, completeness, accuracy for downstream systems",
+            "Enabling data transparency, insights hence help kick off the data remediation process in upstream systems",
+            "You’ll make an impact by…",
+            "Effectively translating requirements into project parameters while working with agility",
+            "Helping cross-functional teams to solve for business problems and develop solutions that enable us to redefine a “best-in-class” customer experience",
+            "Encouraging the project teams that you oversee to work collaboratively and to aim for insight-driven outcomes"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.walmart.com/",
+          "text": "walmart.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Walmart&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCM0L",
+          "text": "See web results for Walmart"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5FvH34ZOATLYnu5r4x6771B-yvvnvALrzttQHGCAW5FqQKRnaG-bXyo&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiIoVVNBKSBTb2Z0d2FyZSBFbmdpbmVlciBJSSIsImh0aWRvY2lkIjoiaTdqRDVVd05yZXB2d2JiMkFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYlZJNFoxSmZSRE5pZERac1QwY3hkMUIzTFdJelpteGhWMFJKWlZwUmMwdHRiM1kwZEhWcVV6TkdTMUZpWW5OR1JtbzVVWEJTYVdOcWVtNDRlVFJ2V0VSZk5HbGFWR1UxZG5vNVlXeFFVM2RWTjNoMVpUUndiMWxDYTBOUFJESXdWMjFtUTB0UVpITkZXVEIxY1RSM1dVeEJYek40VGxOTVlYVnVOME5hTm10TFpraElVR0ZHYUdJeWFWb3lhbEZvTkdnMWJFTmllV2hzZUUxMGJHbFpUV1JoUjI5U01FZEJUVWxzYWpBeGRYTnJSRVk0U1RGdVNtWTVhelZMTm5NM1RTMU1MVTlDWDAxVVprRkxTSEJ6YTJ4NVdGVjZVRzVHYzFkS2VIQm5hV0YzYTBWbk5HUjVRa1JYUkhGd1NXeHBWUklYTFRkaE1GcG1VSFJNZEdGbE5VNXZVR2R6YVVNNFFXc2FJa0ZRV0dodE5WbHZNbkJTTXpOaWQxRjNTbXBtY0ZvMmNUaEhhRWxmVDFSdlptYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycy5XYWxtYXJ0LmNvbSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2FsbWFydC5jb20vdXMvam9icy9XRDE3NzMzMDgtdXNhLXNvZnR3YXJlLWVuZ2luZWVyLWlpP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Lead Software Engineer",
+      "company_name": "Leidos",
+      "location": "  Lawton, OK   ",
+      "via": "via Leidos Careers",
+      "description": "Description\n\nThe CEMA Dept at Leidos Defense Systems is seeking a talented Senior Lead Software Engineer in Lawton, OK to join our local development team to create unique solutions for complex problems in system security, engineering, and defense domains...\n\nAs a Senior Lead Software Engineer, you will bring your passion of software design and development to design, build, deploy and maintain mission critical solutions that support our customers’ mission objectives. You will also be responsible for working with other software engineers and product managers, contributing directly to feature design and architecture.\n\nOur team is primarily in-person in Lawton. Culturally, we place emphasis on trust, respect, asynchronous communication, creativity, and valuing the mission of our customers.\n\nThe Senior Lead Software Engineer is a key individual contributor role and an opportunity to apply your unique combination of technical skills to developing our customers’ solutions. In addition, you will leverage your skills as a leader and a mentor to develop the software engineers you work with.\n\nPrimary Responsibilities\n• Demonstrate technical leadership to a team of software engineers in developing offensive and defensive cyber tools focused on Radar and C2 systems\n• Develop simulations to emulate threat realistic CEMA environments.\n• Mentor and develop other software engineers.\n• Research current and future cyber security threats against military systems.\n• Drive continuous improvement by pushing for changes that improve reliability and velocity.\n• Define the technical direction of our products technology stack.\n• Work with subject matter experts and customer liaisons to define and develop solutions that solve our customer’s problems.\n\nQualifications\n• Candidate must possess at least a Bachelor’s Degree in Electrical Engineering, Computer Engineering, Software Engineering, Computer Science, or related technical degree.\n• Minimum of eight years of full-time of related experience in an agile software engineering team environment. An MS degree in a relevant field can be used in lieu of two years of experience.\n• Expert in C++ or Python.\n• Deep understanding of Linux platforms\n• Experience and interest in fundamental networking implementations and concepts.\n• Candidate must be willing to travel approx. 10% each year if necessary — moderate travel to testing locations, typically CONUS.\n\nCandidate must live in or be willing to relocate to Lawton, OK area.\n\nDesired Skills:\n• Strong written and verbal communication skills\n• Extensive experience with software engineering and should be prepared to demonstrate:\n• Expert experience in software architecture and design\n• Minimum 3 years’ experience leading Software Development team(s)\n• Experience with Agile software development, CI/CD toolchains and DevOps (e.g., Atlassian suite, git, Jenkins, Artifactory)\n• Experience with the following tools, concepts, and products is a plus:\n• Ubuntu, Red Hat, Kali Linux, or similar\n• Networking Protocols\n• Wireshark\n\nSecurity Requirements:\n\nCandidate must be a US Citizen and possess (and be able to maintain) a Final Top Secret/SSBI Clearance or meet the eligibility to obtain (and maintain) a Final Top Secret Clearance.\n\nPay Range:\nPay Range $101,400.00 - $183,300.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nOriginal Posting Date:\n01/24/2024\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidate must possess at least a Bachelor’s Degree in Electrical Engineering, Computer Engineering, Software Engineering, Computer Science, or related technical degree",
+            "Minimum of eight years of full-time of related experience in an agile software engineering team environment",
+            "An MS degree in a relevant field can be used in lieu of two years of experience",
+            "Expert in C++ or Python",
+            "Deep understanding of Linux platforms",
+            "Experience and interest in fundamental networking implementations and concepts",
+            "Candidate must be willing to travel approx",
+            "10% each year if necessary — moderate travel to testing locations, typically CONUS",
+            "Candidate must live in or be willing to relocate to Lawton, OK area",
+            "Candidate must be a US Citizen and possess (and be able to maintain) a Final Top Secret/SSBI Clearance or meet the eligibility to obtain (and maintain) a Final Top Secret Clearance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Lead Software Engineer, you will bring your passion of software design and development to design, build, deploy and maintain mission critical solutions that support our customers’ mission objectives",
+            "You will also be responsible for working with other software engineers and product managers, contributing directly to feature design and architecture",
+            "In addition, you will leverage your skills as a leader and a mentor to develop the software engineers you work with",
+            "Demonstrate technical leadership to a team of software engineers in developing offensive and defensive cyber tools focused on Radar and C2 systems",
+            "Develop simulations to emulate threat realistic CEMA environments",
+            "Research current and future cyber security threats against military systems",
+            "Drive continuous improvement by pushing for changes that improve reliability and velocity",
+            "Define the technical direction of our products technology stack",
+            "Work with subject matter experts and customer liaisons to define and develop solutions that solve our customer’s problems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $101,400.00 - $183,300.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.leidos.com/",
+          "text": "leidos.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Leidos&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCJ8M",
+          "text": "See web results for Leidos"
+        }
+      ],
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTGVhZCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoib0oxekZSZDEwOVZYU25fOEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYXpVMlFrWlRNVzVpYUdsNlFuSmxRVzlpUVhWalMxbEdlRGROZGtKYU0wWkNibEZMYkY4M1VEWkdTRlUzYlRWMGVXdEdTSEpUYnpsSVEwSmtkbk0xWlMxVFYzRjFWMDlyVjNoWFQzWm9VRFV4U1U1WmJYSlFWV015T0drM1RrMW5hR0p4TkdJMk9WVmZjMXBuTUVwWVgwOU1lREV4YmpKWlJXUTNPV2xYWWtSWlpVWnNUMGRWWWpkcFEzSlZZV1V4V0U1S01rbFhTa052TTFKamVHUmpSbEp6YTFVeFYzUmpOVXhFWTNOeE1WSlZXV0ZaVWs0NWJVaFNVSFEyVDI1Sk1GOTVkRXgzVlZWc2JYZE1NblJuTlVwd2F6ZDVhVnBRTFhwT1FSSVhMVGRoTUZwbVVIUk1kR0ZsTlU1dlVHZHphVU00UVdzYUlrRlFXR2h0TlZsaU4yVnROMkkwTTFObmNrRTFObkJ0Um1oTVFuSjJiVTF6WldjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZWlkb3MgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMubGVpZG9zLmNvbS9qb2JzLzEzODg4MzYzLXNlbmlvci1sZWFkLXNvZnR3YXJlLWVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer II",
+      "company_name": "Cox Enterprises",
+      "location": "  United States   (+2 others)   ",
+      "via": "via Jobs At Cox - Cox Enterprises",
+      "description": "Cox Automotive is currently hiring a Software Engineer (Python, AWS, APIs, and Nodejs) to join our team in Dallas , TX .\n\nThe Team...\n\nWe are responsible for creating and operating solutions for the data needs of all of Cox Automotive as part of the Cox Automotive Data Solutions Group. Our specific domain is Vehicle Description and Valuations. We make it easier to correctly list, advertise, and represent vehicles online. Our customers need accurate vehicle descriptions with the correct details for Year, Make, Model, and Trim. We output data models from our data science team to aid product pricing with an nth degree of variables. Whether we are writing code to decode a VIN number, or sifting through vehicle data to integrate more accurate information in vehicle descriptions our engineers have fun doing it. We enjoy collaborative software\n\ndesign sessions and writing fault tolerant Python based solutions, centralizing data repositories with APIs and working across the Cox Automotive footprint.\n\nThe Role\n\nYou will work on creating products which deliver data to business units across Cox Automotive such as Kelly Blue Book, Autotrader, and Manheim Auto Auctions. These include APIs with traffic in the hundreds to a few thousand requests per second and processes to produce data sets for export. You will also work on web application tooling used internally for reviewing, creating, and managing parts of this data.\n\nAs a Software Engineer at Cox Automotive you will:\n• Build solutions primarily using AWS technologies and offerings including SNS and SQS, S3, DynamoDB, Lambda Functions, Athena, Aurora, Glue, and Firehose.\n• Have end to end ownership of solutions, from participation in clarifying requirements to collaborating on architectural design, technical documentation, programming, manual and automated testing, building, deploying, validating, monitoring, and after-hours rotating operational support.\n• Take an active role in identifying and prioritizing opportunities for investment in the technical, non-functional requirements of the system.\n• Learn and become familiar with a supporting platform built using Circle CI, Nomad, Consul, Vault, Kong, using Docker containers (plus a few Lambdas). This platform encourages patterns and an approach inspired by 12 Factor App Methodology.\n• Participate in evaluations of new technologies, platforms, frameworks, and techniques, collaborating with your peers to help shape the direction of the engineering group.\n\nQualifications - Preferred\n• Bachelor's degree in Computer Science or related field, or equivalent work experience. The right candidate could also have a different combination, such as a master's degree and up to 2 years' experience; or 6 years' experience in a related field.\n• Python or Node.js\n• CRUD\n• AWS or other cloud experience\n• Performance\n• Schema design\n• Experience managing versioning and branching for project code\n• CI/CD pipeline delivery and pipeline automation experience\n• Experience developing test coverage for applications\n• Experience with Production Monitoring tools like cloud logs, metrics, application/db analytics for:\n• Maintenance\n• Latency\n• Optimization\n\nWhat We Look For\n• Working knowledge of Git and branching patterns\n• Openness to feedback and ability to creatively adapt multiple ideas into a solution\n• Ability to take direction at the level of problems to solve and provide options and direction on potential solutions\n• Analytical skills and the ability to break complex and challenging problems and defects down until they become actionable\n• Familiarity with producing technical writing including high and low level diagramming techniques\n• A desire to succeed as a team and contribute to a culture of continuous improvement and growth of all team members; including;\n• Mentorship - both formal and informal\n• Experience with lean methodologies\n• Familiarity with Terraform, Ansible, and patterns of Infrastructure as Code\n• Experience with non-relational data stores, especially Elasticsearch and DynamoDB\n• Experience with monitoring solutions like Datadog or New Relic",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The right candidate could also have a different combination, such as a master's degree and up to 2 years' experience; or 6 years' experience in a related field",
+            "Python or Node.js",
+            "CRUD",
+            "AWS or other cloud experience",
+            "Schema design",
+            "Experience managing versioning and branching for project code",
+            "CI/CD pipeline delivery and pipeline automation experience",
+            "Experience developing test coverage for applications",
+            "Experience with Production Monitoring tools like cloud logs, metrics, application/db analytics for:",
+            "Working knowledge of Git and branching patterns",
+            "Openness to feedback and ability to creatively adapt multiple ideas into a solution",
+            "Ability to take direction at the level of problems to solve and provide options and direction on potential solutions",
+            "Analytical skills and the ability to break complex and challenging problems and defects down until they become actionable",
+            "Familiarity with producing technical writing including high and low level diagramming techniques",
+            "A desire to succeed as a team and contribute to a culture of continuous improvement and growth of all team members; including;",
+            "Mentorship - both formal and informal",
+            "Experience with lean methodologies",
+            "Familiarity with Terraform, Ansible, and patterns of Infrastructure as Code",
+            "Experience with non-relational data stores, especially Elasticsearch and DynamoDB",
+            "Experience with monitoring solutions like Datadog or New Relic"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will work on creating products which deliver data to business units across Cox Automotive such as Kelly Blue Book, Autotrader, and Manheim Auto Auctions",
+            "These include APIs with traffic in the hundreds to a few thousand requests per second and processes to produce data sets for export",
+            "You will also work on web application tooling used internally for reviewing, creating, and managing parts of this data",
+            "Build solutions primarily using AWS technologies and offerings including SNS and SQS, S3, DynamoDB, Lambda Functions, Athena, Aurora, Glue, and Firehose",
+            "Have end to end ownership of solutions, from participation in clarifying requirements to collaborating on architectural design, technical documentation, programming, manual and automated testing, building, deploying, validating, monitoring, and after-hours rotating operational support",
+            "Take an active role in identifying and prioritizing opportunities for investment in the technical, non-functional requirements of the system",
+            "Learn and become familiar with a supporting platform built using Circle CI, Nomad, Consul, Vault, Kong, using Docker containers (plus a few Lambdas)",
+            "This platform encourages patterns and an approach inspired by 12 Factor App Methodology",
+            "Participate in evaluations of new technologies, platforms, frameworks, and techniques, collaborating with your peers to help shape the direction of the engineering group"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Cox+Enterprises&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCO4M",
+          "text": "See web results for Cox Enterprises"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSSIsImh0aWRvY2lkIjoieHlzQXZBNDJEbjVxaGtSOEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkRoRlF6UjZkMFJ0UmtreFYxSjRaSGhrUzA5NmRuTkpUMVV5VjBGTU5rYzFZMkpyVm10WVpXczBWV05xYUhoWWMyZGlNbkpuVFZWTFQyODJNbm80YzJOU1FTMWhZVVpQWkhCWVl6Tm1kemxhYm5WbVlXWnphV2N0VDI0ek1YUlRUR3hLVWxCNk0wTnNjR3hOZFhWWVpTMHRjRlEyU0hsWlFtcFJlbEJmZVZsTFVHbERNRlZOTlhwa1JqWTJja2RLYXpkTk0wdGpVbXRvWWt4bFlrOWhUWGRzVGs5M2VFRTBOVTB4TURRNE5VaDNWV0ZWVDFGTllXVldRWE5JZFdkNk9HazBPVmxDZEUxVE0yTXdWM1ZEYVZwQ2MyMVpXV2haV0hkSVVSSVhMVGRoTUZwbVVIUk1kR0ZsTlU1dlVHZHphVU00UVdzYUlrRlFXR2h0TlZsVWR6Um9RbmxPY21FeVozQkZVVTVtV2tkc2JURmFaalpGVjBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyBBdCBDb3ggLSBDb3ggRW50ZXJwcmlzZXMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmNveGVudGVycHJpc2VzLmNvbS9lbi9qb2JzL2pvYi9yMjAyNDM3OTQyLXNvZnR3YXJlLWVuZ2luZWVyLWlpLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Noom",
+      "location": "  Kansas   ",
+      "via": "via Eightfold AI",
+      "description": "Noom is a digital healthcare company that connects people to content, coaching, community, and clinicians to build healthy habits and promote better living. We’re a mission-driven, high-growth organization that’s powered by science, technology, and world-class talent.\n\nWe are always looking to connect with Software Engineers who are passionate about building the tools to help our users improve... their lives. We value people who are not afraid to dig into other people’s code, think that code is the best documentation, and like to experiment with new technologies but understand the risk of pushing them to production. We like to work with engineers who believe learning a concept is more important than learning a framework. They pick technologies outside their comfort zone when they believe they’re the best tool for solving a particular problem. Noom’s engineering team is a mission-driven team, powered by science, technology, and world-class talent. As a senior team member, you will be at the forefront of our top challenges, solving complex technical problems centered around habits, behavior, and lifestyle.\n\nWhat You’ll Do\n• Working on problems that affect the lives of real people. Our users depend on us to positively change their health and lives.\n• Basing your work on scientifically-proven, peer-reviewed methodologies that medical professionals design\n• Collaborating with an onsite and offsite team -- about 50% of our engineering team is fully remote; we worry about results, not time spent in seats.\n\nWhat We Look For\n• 8+ years of experience designing and managing complex web-based applications, with a focus on picking the right tool for the job. We are built on AWS technologies and our teams use Django, Java/Kotlin, Spring, React, with MySQL and PostgreSQL as the backing data store, but we’re always looking for technologies that can make our job easier.\n• An appreciation for the importance of striking a balance between getting code out quickly and following best practices. We move fast, but we like to build good software and manage risk carefully.\n• Excellent communicator: you’re comfortable explaining technical problems in person and writing.\n• Team player: you enjoy teaching new concepts to, and collaborating with, the team.\n• Strong sense of responsibility and ownership; you will come from an environment where people are responsible for their own code.\n\nWhat Makes This Job Amazing\n• You’ll be helping millions of people lead healthier lives every day\n• You’ll experience huge learning & professional growth opportunities. Noom believes in supporting you; we’ll cover the cost of books, courses, conferences… you name it!\n• You’ll become part of our transparent, high-performing, and close-knit team.\n• We guarantee you will learn a tremendous amount in a short time. There is a significant opportunity for advancement for those who value and excel in transparent, high-intensity, and high-impact environments.\n\nBase Salary:\n• The US base salary range for this full-time position is $166,000 - $224,000.\n• Our salary ranges are determined by role, level, and location. The range displayed on each job posting is based on Noom’s estimate as of the date of publication and reflects the minimum and maximum target for the position across all US locations. The actual placement of the candidate within the range is based on factors including but not limited to relevant experience, assessment of functional skills and behavioral competencies, scope, and location. This range is not inclusive of any discretionary bonus or equity package.\n\nOther Elements of the Rewards Package:\n• Noom currently offers a comprehensive and generous total rewards package. This package generally includes discretionary performance-based bonus, stock awards, healthcare & retirement benefits, paid holidays, paid time off, disability benefits and various wellness programs, etc.\n\nLocation:\n• By applying to this position you will have an opportunity to share your preferred working location from the following:\n• In-office Location: New York, NY, USA\n• Remote location(s): United States.\n• Your recruiter can share more about the specific compensation package for your preferred location during the hiring process\n\nMore About Noom:\n\nAt Noom, we believe that the individual is the greatest force for good, not just in their health but in unlocking their fullest potential. We apply the same principles inside Noom. Across our dynamic organization, we empower our teams to execute on big ideas and we start and end each day with responsibility to make the world a healthier place. Fortune, Inc., Glassdoor, and Crain’s have all named Noom a Best Place to Work including being named on Fortune’s lists for Best Workplaces in New York, Best Workplaces in Technology, Best Workplaces for Women, and Best Workplaces for Millennials.\n\nNoom is proud to be an Equal Opportunity Employer, and all applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, caste, national origin, physical or mental disability, protected veteran status, age, or any other characteristic protected by applicable law. Noom is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities. To request reasonable accommodation, please email accommodations-help@noom.com.\n\nTo help protect against potential hiring scams, please be aware that all email communications from the Noom Talent team and/or hiring managers will come only from an @noom.com email address. Our assessment process includes multiple phone and/or video interview rounds, and we will never ask you for personal payment, require you to purchase equipment, or extend a job offer without the completion of this interview process. If you are unsure about the validity of a Noom job posting on another website, we strongly encourage you to instead apply directly through our website",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8+ years of experience designing and managing complex web-based applications, with a focus on picking the right tool for the job",
+            "We are built on AWS technologies and our teams use Django, Java/Kotlin, Spring, React, with MySQL and PostgreSQL as the backing data store, but we’re always looking for technologies that can make our job easier",
+            "Excellent communicator: you’re comfortable explaining technical problems in person and writing",
+            "Team player: you enjoy teaching new concepts to, and collaborating with, the team",
+            "Strong sense of responsibility and ownership; you will come from an environment where people are responsible for their own code"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Working on problems that affect the lives of real people",
+            "Basing your work on scientifically-proven, peer-reviewed methodologies that medical professionals design"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "You’ll be helping millions of people lead healthier lives every day",
+            "You’ll experience huge learning & professional growth opportunities",
+            "Noom believes in supporting you; we’ll cover the cost of books, courses, conferences… you name it!",
+            "You’ll become part of our transparent, high-performing, and close-knit team",
+            "The US base salary range for this full-time position is $166,000 - $224,000",
+            "Our salary ranges are determined by role, level, and location",
+            "This range is not inclusive of any discretionary bonus or equity package",
+            "Noom currently offers a comprehensive and generous total rewards package",
+            "This package generally includes discretionary performance-based bonus, stock awards, healthcare & retirement benefits, paid holidays, paid time off, disability benefits and various wellness programs, etc",
+            "Your recruiter can share more about the specific compensation package for your preferred location during the hiring process"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.noom.com/",
+          "text": "noom.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Noom&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCLsN",
+          "text": "See web results for Noom"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDXlhXFDCHfSk31Fi7W2mVMJO9XXmLx5maooW&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiS1BxbzNOZk5ZWTExNmJIQkFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYTBkV2FsZGpZemRqTUVWdlNGQnhXbU5yUVdsSWRWbzFiakZTVW5SeGRYZHNaM05LTlRkblluQmliMUpzUlZOd1lXMDRRV3BZWm5adVgxZHdXRlZXTTBzMVNHVXRiVXB4UkV0SFgxQnZPVGhCWVVSalRXaFNOSHBRUVVoQmNYZEdOMlYyZVhsYWFIazFlVEo2U0dKdlNsRnVabVZKZGxCa1dsTm9jVGRaWm0xa2FGUlFaV3hxUlZWNWFtdEVSVXBTVVc5NlVXaHViRFZ2V1cweVJISmlSSFZEWm05TFlWZDZSUzFFV1ZacVlXdHBOMTh0YjFwQlltZENlR1JQVm1WRGVtRjFOMHhORWhjdE4yRXdXbVpRZEV4MFlXVTFUbTlRWjNOcFF6aEJheG9pUVZCWWFHMDFZblEyZWtWTlFrdHdkME5JVUVwak5FdENZMWM0VVV0WFdWQjJVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVpZ2h0Zm9sZCBBSSIsImxpbmsiOiJodHRwczovL25vb20uZWlnaHRmb2xkLmFpL2NhcmVlcnMvam9iLzEzNzQ1OTI2Mjg5OC1zb2Z0d2FyZS1lbmdpbmVlci11bml0ZWQtc3RhdGVzP2RvbWFpbj1ub29tLmNvbVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Specialist, Software Engineer, Digital Solutions",
+      "company_name": "Merck",
+      "location": "  United States  (+1 other)    ",
+      "via": "via Merck Careers",
+      "description": "Job Description\n\nSpecialist, Software Engineer will work within the Human Health Insights, Analytics and Data area to contribute to development of our advanced data science application platform. We are realizing the vision of a cohesive commercial decision support suite, helping stakeholders make data-driven decisions to optimize delivery of our product to patients...\n\nThe Software Engineers solve complex problems, work with others in and across the teams. You will be responsible for designing and developing software solutions and collaborate through to successful delivery. You will deliver on schedule, using appropriate technologies and current software engineering best practices. Communication is an integral part of this role; you will engage with stakeholders on planning and communication of project deliverables. In the event of problems, you are able to troubleshoot, research the root cause, thoroughly resolve defects whilst maintain ongoing communication with stakeholders and customers.\n\nResponsibilities:\n• Design, develop, implement, test, and document distributed software applications, tools, systems, and services.\n• Translate functional requirements into robust, efficient, supportable solutions that work well within the overall system architecture.\n• Participate in the full development cycle, end-to-end, from design, implementation, and testing to documentation, delivery, and maintenance.\n• Produce comprehensive, usable software documentation.\n• Evaluate and make decisions around the use of new or existing software products and tools.\n• Mentor junior development engineers.\n\nEducation:\n• A minimum of BS (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, or an equivalent scientific/commercial discipline.\n• Masters/PhD preferred.\n\nKnowledge and skills:\n• 2+ years’ building and delivering production-quality systems.\n• Highly proficient in at least one modern programming language such as Python, Java, C++, Go, C#, TypeScript etc.\n• Strong knowledge of Computer Science fundamentals, including data structures, object-oriented programming, design, and analysis of algorithms.\n• Excellent analytical and problem-solving skills. Excellent organization and time management skills.\n• Excellent written and verbal communication skills.\n• Ability to provide in-depth evaluation and analysis of unique complex technological issues.\n\nPreferred knowledge and skills:\n• Knowledge of designing and developing large-scale, multi-tiered, multi-threaded, or distributed software applications, tools, systems, and services.\n• Good understanding with the application of security principles in cloud services development.\n• working with data extraction systems and data processing technologies such as Airflow, Spark, Kafka, etc expected.\n• Knowledge of working with Amazon Web Services technologies such as EC2, S3, Redshift, and EMR.\n• Exposure and understanding of machine learning lifecycle, data science algorithms such as advanced statistical methods, Machine Learning/Artificial Intelligence, Natural Language Processing (NLP), Large Language Models and Generative AI (LLM/GenAI), modeling and model evaluation.\n\nNOTICE FOR INTERNAL APPLICANTS\n\nIn accordance with Managers' Policy - Job Posting and Employee Placement, all employees subject to this policy are required to have a minimum of twelve (12) months of service in current position prior to applying for open positions.\n\nIf you have been offered a separation benefits package, but have not yet reached your separation date and are offered a position within the salary and geographical parameters as set forth in the Summary Plan Description (SPD) of your separation package, then you are no longer eligible for your separation benefits package. To discuss in more detail, please contact your HRBP or Talent Acquisition Advisor.\n\nEmployees working in roles that the Company determines require routine collaboration with external stakeholders, such as customer-facing commercial, or research-based roles, will be expected to comply not only with Company policy but also with policies established by such external stakeholders (for example, a requirement to be vaccinated against COVID-19 in order to access a facility or meet with stakeholders). Please understand that, as permitted by applicable law, if you have not been vaccinated against COVID-19 and an essential function of your job is to call on external stakeholders who require vaccination to enter their premises or engage in face-to-face meetings, then your employment may pose an undue burden to business operations, in which case you may not be offered employment, or your employment could be terminated. Please also note that, where permitted by applicable law, the Company reserves the right to require COVID-19 vaccinations for positions, such as in Global Employee Health, where the Company determines in its discretion that the nature of the role presents an increased risk of disease transmission.\n\nCurrent Employees apply HERE\n\nCurrent Contingent Workers apply HERE\n\nUS and Puerto Rico Residents Only:\n\nOur company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.\n\nWe are an Equal Opportunity Employer, committed to fostering an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status, or other applicable legally protected characteristics. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:\n\nEEOC Know Your Rights\n\nEEOC GINA Supplement​\n\nPay Transparency Nondiscrimination\n\nWe are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.\n\nLearn more about your rights, including under California, Colorado and other US State Acts\n\nU.S. Hybrid Work Model\n\nEffective September 5, 2023, employees in office-based positions in the U.S. will be working a Hybrid work consisting of three total days on-site per week, generally Tuesday, Wednesday and either Monday or Thursday, although the specific days may vary by site or organization, with Friday designated as a remote-working day, unless business critical tasks require an on-site presence. This Hybrid work model does not apply to, and daily in-person attendance is required for, field-based positions; facility-based, manufacturing-based, or research-based positions where the work to be performed is located at a Company site; positions covered by a collective-bargaining agreement (unless the agreement provides for hybrid work); or any other position for which the Company has determined the job requirements cannot be reasonably met working remotely. Please note, this Hybrid work model guidance also does not apply to roles that have been designated as “remote”.\n\nUnder New York State, Colorado State, Washington State, and California State law, the Company is required to provide a reasonable estimate of the salary range for this job. Final determinations with respect to salary will take into account a number of factors, which may include, but not be limited to the primary work location and the chosen candidate’s relevant skills, experience, and education.\n\nExpected salary range:\n$83,100.00 - $130,900.00\n\nAvailable benefits include bonus eligibility, health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and sick days. For Washington State Jobs, a summary of benefits is listed here.\n\nSearch Firm Representatives Please Read Carefully\nMerck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.\n\nEmployee Status:\nRegular\n\nRelocation:\nDomestic\n\nVISA Sponsorship:\nYes\n\nTravel Requirements:\n25%\n\nFlexible Work Arrangements:\nFlex Time, Remote Work\n\nShift:\nNot Indicated\n\nValid Driving License:\nNo\n\nHazardous Material(s):\nN/A\n\nRequired Skills:\nData Engineering, Data Visualization, Design Applications, Perform Testing, Python (Programming Language), Software Development, System Designs, Systems Integration\n\nPreferred Skills:\nArtificial Intelligence (AI), Computer Programming, Data Science, Machine Learning\n\nRequisition ID:R276845",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A minimum of BS (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, or an equivalent scientific/commercial discipline",
+            "2+ years’ building and delivering production-quality systems",
+            "Highly proficient in at least one modern programming language such as Python, Java, C++, Go, C#, TypeScript etc",
+            "Strong knowledge of Computer Science fundamentals, including data structures, object-oriented programming, design, and analysis of algorithms",
+            "Excellent analytical and problem-solving skills",
+            "Excellent organization and time management skills",
+            "Excellent written and verbal communication skills",
+            "Ability to provide in-depth evaluation and analysis of unique complex technological issues",
+            "Data Engineering, Data Visualization, Design Applications, Perform Testing, Python (Programming Language), Software Development, System Designs, Systems Integration"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Engineers solve complex problems, work with others in and across the teams",
+            "You will be responsible for designing and developing software solutions and collaborate through to successful delivery",
+            "You will deliver on schedule, using appropriate technologies and current software engineering best practices",
+            "Communication is an integral part of this role; you will engage with stakeholders on planning and communication of project deliverables",
+            "In the event of problems, you are able to troubleshoot, research the root cause, thoroughly resolve defects whilst maintain ongoing communication with stakeholders and customers",
+            "Design, develop, implement, test, and document distributed software applications, tools, systems, and services",
+            "Translate functional requirements into robust, efficient, supportable solutions that work well within the overall system architecture",
+            "Participate in the full development cycle, end-to-end, from design, implementation, and testing to documentation, delivery, and maintenance",
+            "Produce comprehensive, usable software documentation",
+            "Evaluate and make decisions around the use of new or existing software products and tools",
+            "Mentor junior development engineers",
+            "Employees working in roles that the Company determines require routine collaboration with external stakeholders, such as customer-facing commercial, or research-based roles, will be expected to comply not only with Company policy but also with policies established by such external stakeholders (for example, a requirement to be vaccinated against COVID-19 in order to access a facility or meet with stakeholders)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Final determinations with respect to salary will take into account a number of factors, which may include, but not be limited to the primary work location and the chosen candidate’s relevant skills, experience, and education",
+            "$83,100.00 - $130,900.00",
+            "Available benefits include bonus eligibility, health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and sick days",
+            "Flex Time, Remote Work"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.merck.com/",
+          "text": "merck.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Merck&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCJUO",
+          "text": "See web results for Merck"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXNeT93Sq9Ce3Ecv8Fpsg436rKTPOgW4_PXPxaPc&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTcGVjaWFsaXN0LCBTb2Z0d2FyZSBFbmdpbmVlciwgRGlnaXRhbCBTb2x1dGlvbnMiLCJodGlkb2NpZCI6Inl6bWRScVdUcy0xQTFkT0tBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJHZHpOa3N4Wm0xVlVVNXdjMU5xUm5OaVVFZFJhMWxxTkVVd1ZUVXdVV3BVVFZWUGFVaEVMVzQyWlZWbWNtUjZZVXMzTUdSVGFtMTJVVXBLUm1WNFZHVTVXRlpSV0U1WWFYUmFUa3R2WTBoTmVYSlFPVVZDYlVaV1MxRlNNbkk1YzBwS1dqaDFiVVJ0Y1ZrMVFVcENNM1ZOTlhKWlVEaE1SVWRoT1VkdFJEZFlYelo2WkVab04xTkVjRVJGUmt0SVZVOUhRV2gzUVVOaVdrWjFlWHBLYW5Obk1HcFZZVUUzU1ZJMmQyUklNSGhXU1doMlgxWnZkRk52VFhCbFRXWkpZVlV0VWxrMFUzSkVOMUUwWTBoc2VGOXdaRmxQZERkWWFIaHVhMWRaWDFWVVNFOVNhV05HTm5aNFRWTmhTbFptVmtKd2FIUXhhbW8zWWtaMVUwRnJRMW94ZFRkMVFoSVhMVGRoTUZwbVVIUk1kR0ZsTlU1dlVHZHphVU00UVdzYUlrRlFXR2h0TlZsMGRuVjRUazVLVVRCQ1VGTm1TVEpoVGs1NGRtVnVPSFZUUzBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTWVyY2sgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2pvYnMubWVyY2suY29tL3VzL2VuL2pvYi9SMjc2ODQ1L1NwZWNpYWxpc3QtU29mdHdhcmUtRW5naW5lZXItRGlnaXRhbC1Tb2x1dGlvbnM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "System Soft Technologies",
+      "location": "  United States   ",
+      "via": "via LinkedIn",
+      "description": "Application Developers\n\nSoftware Engineers...\n\nWeb Application Developers\n\nSystems Application Engineers\n\nWe are seeking C#/.Net Development Engineering (Software/Web dev/App/Mobile) Professionals for Direct-hire fulltime roles in the greater Philadelphia, PA Area. Qualified candidates must be hands-on development & individual contributors ready to work on a dynamic web applications team. The salary range is $160K- $180K depending on experience. Other perks are included (bonuses, relocation packages, gym membership, full health benefits, Visa sponsorship, etc.)\n\nResponsibilities\n• Develop & maintain New and Existing software and web applications\n• Develop tracking software for internal reporting\n• Design highly scalable, testable code\n• Optimize performance of applications & websites while fixing any bugs that pop up\n\nQualifications\n• Bachelor's degree (Computer Science, Information Technology, Engineering, Mathematics, etc.)\n• Minimum of 7 years of fullstack software & web applications development with C# or .Net\n• Proficient in all phases of SDLC\n\nSubmit your Resume below & Make it happen in 2024",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Qualified candidates must be hands-on development & individual contributors ready to work on a dynamic web applications team",
+            "Bachelor's degree (Computer Science, Information Technology, Engineering, Mathematics, etc.)",
+            "Minimum of 7 years of fullstack software & web applications development with C# or .Net",
+            "Proficient in all phases of SDLC"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop & maintain New and Existing software and web applications",
+            "Develop tracking software for internal reporting",
+            "Design highly scalable, testable code",
+            "Optimize performance of applications & websites while fixing any bugs that pop up"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The salary range is $160K- $180K depending on experience",
+            "Other perks are included (bonuses, relocation packages, gym membership, full health benefits, Visa sponsorship, etc.)"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=System+Soft+Technologies&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCN8O",
+          "text": "See web results for System Soft Technologies"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrYfn-0-DfrQTKaHuwRYm9orB5jVdDT_JDknI3vo&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiUmwyYWM0TG1rdE0zMTh0bEFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYm0wMkxWOU9UblZWUmpSRVUyZE9ZVXBXYlY5RlZVbEdPVzB5UldVd2VIUkRNVGhQWDFKMmFraEJXWHBLV25sTk5YQm9iekpPV0VkU2FrdElWMGR2Vkc1MlpHRnFObk4xVW1wUGVUTjNjWFJPVWpOd2VYVXlOMkYyVG5kR1VIZzNNRXhZUWxGQlkzTlZZVTFXWXpKVmVFcGlUSGhZZDA1dVVWRmtaVFl6T0d0TFRFMDJPWFEyTlZKa0xYSmtWVmRTYkhGbE4zVk1SSFJ5Tmt0VlMydHRSMmRGYkZkNU4wY3lPWGxrT0dKa09EbG1OWGxuYkVST2JXaENTVUpJTjBaWWMxTkdZalpVRWhjdE4yRXdXbVpRZEV4MFlXVTFUbTlRWjNOcFF6aEJheG9pUVZCWWFHMDFXamRMTmpZMVMwOVVUMmRtWkZaMk5XdEdNV2QyWW1Gbk1rWlNkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc29mdHdhcmUtZW5naW5lZXItYXQtc3lzdGVtLXNvZnQtdGVjaG5vbG9naWVzLTM4MTM4MjMyMjI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer - Backend",
+      "company_name": "Ascension",
+      "location": "  United States   ",
+      "via": "via Ascension Careers",
+      "description": "Details\n• Department: Engineering and Product Delivery\n• Schedule: Full Time Monday - Friday 8am-5pm CT...\n• Location: Remote\nBenefits\n\nPaid time off (PTO)\nVarious health insurance options & wellness plans\nRetirement benefits including employer match plans\nLong-term & short-term disability\nEmployee assistance programs (EAP)\nParental leave & adoption assistance\nTuition reimbursement\nWays to give back to your community\n• Please note, benefits and benefits eligibility can vary by position, exclusions may apply for some roles (for example: PRN, Short-Term Option, etc.). Actual compensation offer will vary based upon role, education, experience, location, and qualifications. Connect with your Talent Advisor for additional specifics.\nResponsibilities\n\nAs a Sr. Software Engineer with Ascension Digital Studio, you will contribute to the expansion of our robust cloud-native enterprise solutions in the rapidly growing digital space within the healthcare industry. You will be a member of the development scrum team working collaboratively with Architectes, Product Managers, and Engineers to deliver solutions that sustain and improve the flow of vital healthcare information to individuals and communities that we serve.\n\nResponsibilities:\n• Develop high quality code that is aligned with architectural design patterns using Java and SpringBoot 3.x.\n• Develop secure and scalable RESTful services and APIs.\n• Define requirements and implement test cases following the Test Driven Development (TDD) process.\n• Work with team members to ensure that delivered code meets specifications based on functional/technical specifications.\n• Participate in all scrum ceremonies and Program Increment (PI) Planning.\n• Maintain a minimum of 80% code coverage for all non POJO based implementation.\n• Deliver on committed features on time with high quality solutions.\n• Provide guidance, advice, feedback and support to team members.\n• Outline solutions for new features through documentation, sequence diagrams, and other architectural designs.\n• Assist in documenting technical details in story creation during sprint refinement where necessary.\n• Perform code reviews.\n\nCharacteristics We Seek:\n• Be curious about technology. The software engineering industry is constantly changing and evolving. At Ascension, we embrace change and are curious to learn how the latest technology can be used to improve the lives of patients and our clinicians.\n• Learn and grow professionally. We strive for continuous improvement of our Digital Studio organization and our team members do the same. This comes from the path of constant learning, in addition to reflecting on past experiences for improvement opportunities.\n• Always ready for change. A rolling stone gathers no moss, and neither do we. We accept that change is always around us, and our work is no exception. We navigate change through early and often communication; engage the ambiguous; promote diversity; accept new ideas; and lean on learning agility.\n• Seek feedback. Feedback is important to us. We use it as a guide for our own development, and we build our software with feedback built into the process. It is incorporated into our software development lifecycle with design, code reviews, unit tests, and continuous integration. Feedback is also integrated into our shipped solutions with application performance monitoring (APM) and usage analytics to help us learn methods to improve.\n• Demonstrate positivity. Our organization's focus is all about solving problems, and most of these problems are challenging. We try not to let that get in our way of thinking positively -- instead it's what motivates us to reach higher.\n• Work with your team. We understand that our best work comes from working together. Our teams enjoy working together, sharing knowledge, helping, mentoring, and delivering our best for the communities we serve.\n• Live Ascension’s core values. The Ascension core values are the standard that we hold ourselves to and a source of pride for us. We live by them. Our core values include: service of the poor; reverence; integrity; wisdom; creativity; and dedication.\nRequirements\n\nEducation:\n• High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required.\n\nWork Experience:\n• 1 year of experience required.\n• 4 years of experience preferred.\n• 2 years of leadership or management experience preferred.\nAdditional Preferences\n• Experience with microservices design and development\n• Experience developing cloud-native applications in a distributed system\n• Advanced knowledge of Computer Science fundamentals in OOAD, design patterns (Gang of Four), data structures, and algorithms\n• Strong understanding of relational and NoSQL databases (MySql, Postgres, MongoDB)\n• Experience designing, developing and consuming RESTful API’s\n• Experience using message broker/event queue technologies (e.g. Rabbit, PubSub, etc.)\n• Experience using container management software (e.g. Docker, Kubernetes, etc.)\n• 5-7 years of professional software development experience required in an Agile environment\n• Excellent verbal and written communication skills\n• Openness to new ideas and an unceasing desire to learn new things\n• Basic understanding of Oauth 2.0 concept\n• Experience integrating with external systems\n• Experience developing within Google Cloud Platform (GCP)\n• Experience with Behavior-Driven Development (BDD).\n• Experience using Pivotal Cloud Foundry (PCF) for continuous delivery and managing application life cycle\n• Experience with Atlassian tools: JIRA, Confluence\n• Experience with Oauth 2.0\n• Knowledge of HL7 FHIR Standards is a plus\n\n#AscensionStudio #LI-Remote\nWhy Join Our Team\n\nAscension associates are key to our commitment of transforming healthcare and providing care to all, especially those most in need. Join us and help us drive impact through reimagining how we can deliver a people-centered healthcare experience and creating the solutions to do it. Explore career opportunities across our ministry locations and within our corporate headquarters.\n\nAscension is a leading non-profit, faith-based national health system made up of over 150,000 associates and 2,600 sites of care, including more than 140 hospitals and 40 senior living communities in 19 states.\n\nOur Mission, Vision and Values encompass everything we do at Ascension. Every associate is empowered to give back, volunteer and make a positive impact in their community. Ascension careers are more than jobs; they are opportunities to enhance your life and the lives of the people around you.\nEqual Employment Opportunity Employer\n\nAscension will provide equal employment opportunities (EEO) to all associates and applicants for employment regardless of race, color, religion, national origin, citizenship, gender, sexual orientation, gender identification or expression, age, disability, marital status, amnesty, genetic information, carrier status or any other legally protected status or status as a covered veteran in accordance with applicable federal, state and local laws.\n\nFor further information, view the EEO Know Your Rights (English) poster or EEO Know Your Rights (Spanish) poster.\n\nAs a military friendly organization, Ascension promotes career flexibility and offers many benefits to help support the well-being of our military families, spouses, veterans and reservists. Our associates are empowered to apply their military experience and unique perspective to their civilian career with Ascension.\n\nPay Non-Discrimination Notice\n\nPlease note that Ascension will make an offer of employment only to individuals who have applied for a position using our official application. Be on alert for possible fraudulent offers of employment. Ascension will not solicit money or banking information from applicants.\n\nE-Verify Statement\n\nThis employer participates in the Electronic Employment Verification Program. Please click the E-Verify link below for more information.\n\nE-Verify",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Be curious about technology",
+            "High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required",
+            "1 year of experience required",
+            "Experience with microservices design and development",
+            "Experience developing cloud-native applications in a distributed system",
+            "Advanced knowledge of Computer Science fundamentals in OOAD, design patterns (Gang of Four), data structures, and algorithms",
+            "Strong understanding of relational and NoSQL databases (MySql, Postgres, MongoDB)",
+            "Experience designing, developing and consuming RESTful API’s",
+            "Experience using message broker/event queue technologies (e.g. Rabbit, PubSub, etc.)",
+            "Experience using container management software (e.g",
+            "Docker, Kubernetes, etc.)",
+            "5-7 years of professional software development experience required in an Agile environment",
+            "Excellent verbal and written communication skills",
+            "Openness to new ideas and an unceasing desire to learn new things",
+            "Basic understanding of Oauth 2.0 concept",
+            "Experience integrating with external systems",
+            "Experience developing within Google Cloud Platform (GCP)",
+            "Experience with Behavior-Driven Development (BDD)",
+            "Experience using Pivotal Cloud Foundry (PCF) for continuous delivery and managing application life cycle",
+            "Experience with Atlassian tools: JIRA, Confluence",
+            "Experience with Oauth 2.0"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be a member of the development scrum team working collaboratively with Architectes, Product Managers, and Engineers to deliver solutions that sustain and improve the flow of vital healthcare information to individuals and communities that we serve",
+            "Develop high quality code that is aligned with architectural design patterns using Java and SpringBoot 3.x",
+            "Develop secure and scalable RESTful services and APIs",
+            "Define requirements and implement test cases following the Test Driven Development (TDD) process",
+            "Work with team members to ensure that delivered code meets specifications based on functional/technical specifications",
+            "Participate in all scrum ceremonies and Program Increment (PI) Planning",
+            "Maintain a minimum of 80% code coverage for all non POJO based implementation",
+            "Deliver on committed features on time with high quality solutions",
+            "Provide guidance, advice, feedback and support to team members",
+            "Outline solutions for new features through documentation, sequence diagrams, and other architectural designs",
+            "Assist in documenting technical details in story creation during sprint refinement where necessary",
+            "Perform code reviews",
+            "Feedback is also integrated into our shipped solutions with application performance monitoring (APM) and usage analytics to help us learn methods to improve",
+            "Demonstrate positivity"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Paid time off (PTO)",
+            "Various health insurance options & wellness plans",
+            "Retirement benefits including employer match plans",
+            "Long-term & short-term disability",
+            "Employee assistance programs (EAP)",
+            "Parental leave & adoption assistance",
+            "Tuition reimbursement",
+            "Ways to give back to your community",
+            "Please note, benefits and benefits eligibility can vary by position, exclusions may apply for some roles (for example: PRN, Short-Term Option, etc.). Actual compensation offer will vary based upon role, education, experience, location, and qualifications",
+            "Work with your team"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.ascension.visitpay.com/",
+          "text": "ascension.visitpay.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=601955363&q=Ascension&sa=X&ved=0ahUKEwiz1-zoi_2DAxVWD1kFHQKkAJ4QmJACCLIP",
+          "text": "See web results for Ascension"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4eMV2hYB6P4DFhqcyvaqqJVB3LxXBtVAfF4EyNk&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAtIEJhY2tlbmQiLCJodGlkb2NpZCI6InI2eWtFT0VKaVhCZzc2MjhBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJtSllZemRKY2tac1NreERZMmg1WW1sc1kwaFhjMjFNYUY5UlRUQnZObmc1TVVaSllrcHBOMmM0WXpkU1JraDJiVVV0VjJwblZqaGlhM2xIWkVOblpFd3lWREpXVlhkaGMzbGpXbUpvUzA1SGIyZGtSakpqUTJGRVMwVmZSMFZJZW5wd1owVlpOakJwTm1kWUxXNUJTMFYwVW5kek1YUTJTSEZaVEU5c00yeGpPV3hLVjFKRlpUQTFNVWhHYm5KVk1sSjRUWEk0ZFVaTlJIZHhZbmR1UXpobVNVeEhRMHh1U1U5MVdsSXpSbEJMVkd4VVVFTkRNVXhFTFV0dlFrVm1iWHBpVEZWUmMwMUtOVUpJYm5jMlIyRXRlWGgzWm1OQk5HaExRUklYTFRkaE1GcG1VSFJNZEdGbE5VNXZVR2R6YVVNNFFXc2FJa0ZRV0dodE5XSmhTMDF1YlhOVVJFNXlaMkYwU1RodlRtUmpjVXRRZVhoS2RuYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE4IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFzY2Vuc2lvbiBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vam9icy5hc2NlbnNpb24ub3JnL3VzL2VuL2pvYi9BSEVBSFVVUzMwNTI2N0VYVEVSTkFMRU5VUy9Tb2Z0d2FyZS1FbmdpbmVlci1CYWNrZW5kP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Network services",
+          "value": "network services"
+        },
+        {
+          "text": "Science",
+          "value": "science"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Test engineer",
+          "value": "test engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Oklahoma City, OK",
+          "value": "gdL4flSKrYedOk_RdBKiMw=="
+        },
+        {
+          "text": "Kansas City, MO",
+          "value": "l5npr173wIeiUapq5iWFVQ=="
+        },
+        {
+          "text": "Centerton, AR",
+          "value": "99IuBIgFyYehPLOyXut7XQ=="
+        },
+        {
+          "text": "Olathe, KS",
+          "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+        },
+        {
+          "text": "Paris, TX",
+          "value": "mysnFgZYSoZJ89MvZgm5yQ=="
+        },
+        {
+          "text": "Broken Arrow, OK",
+          "value": "EU6rbj1itodcJqZGOKslKA=="
+        },
+        {
+          "text": "Decatur, AR",
+          "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+        },
+        {
+          "text": "Elm Springs, AR",
+          "value": "weUZtbASyYc-0yhD2qMB6A=="
+        },
+        {
+          "text": "Farmington, AR",
+          "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+        },
+        {
+          "text": "Johnson, AR",
+          "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+        },
+        {
+          "text": "Overland Park, KS",
+          "value": "0zgmp1GVwIfI-UQ460_OJA=="
+        },
+        {
+          "text": "Rogers, AR",
+          "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+        },
+        {
+          "text": "Wichita, KS",
+          "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+        },
+        {
+          "text": "Cassville, MO",
+          "value": "OUvy21DQyIc6hF_OIVWVzg=="
+        },
+        {
+          "text": "Goshen, AR",
+          "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+        },
+        {
+          "text": "Kansas City, KS",
+          "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+        },
+        {
+          "text": "Noel, MO",
+          "value": "j1H-t1pTyIfdC4IScI3jLA=="
+        },
+        {
+          "text": "Pea Ridge, AR",
+          "value": "6xf8mywZyYe6kgw_pTHC3w=="
+        },
+        {
+          "text": "Springdale, AR",
+          "value": "eYV1ArMUyYdavDvUreoxoQ=="
+        },
+        {
+          "text": "Tontitown, AR",
+          "value": "o_pMF5RyyYfEvqij54Opug=="
+        },
+        {
+          "text": "Tulsa, OK",
+          "value": "jy7R3biStof3atkbyBBp5w=="
+        },
+        {
+          "text": "Anderson, MO",
+          "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+        },
+        {
+          "text": "Bartlesville, OK",
+          "value": "8b3HNk8St4c2oSjV4ALw3g=="
+        },
+        {
+          "text": "Benton, AR",
+          "value": "gwSnon5RzYfnX4QNNsNvtA=="
+        },
+        {
+          "text": "Cave Springs, AR",
+          "value": "OQxJ3_MRyYe62iSa1sSt8w=="
+        },
+        {
+          "text": "Columbia, MO",
+          "value": "yYKBu_Or3Icgb726LWkRoA=="
+        },
+        {
+          "text": "Fayetteville, AR",
+          "value": "nT61L3tvyYfPyLT8afAZRQ=="
+        },
+        {
+          "text": "Gravette, AR",
+          "value": "w8TGtmupyYfe37-QmZ2BFg=="
+        },
+        {
+          "text": "Greenland, AR",
+          "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+        },
+        {
+          "text": "Huntsville, KS",
+          "value": "b4rO53ONpIcqxhYmgAxYVA=="
+        },
+        {
+          "text": "Independence, KS",
+          "value": "aXhEokUruIdHkOg2KXGhiw=="
+        },
+        {
+          "text": "Lawton, OK",
+          "value": "RQ0hWeIerYdSTnLyxvosYQ=="
+        },
+        {
+          "text": "Mission, KS",
+          "value": "4Q3sAs7twIegN_6kDLgDHA=="
+        },
+        {
+          "text": "Springfield, MO",
+          "value": "P5jIRfdiz4egDWkes2z9aw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Business Support",
+          "value": "/business/naics2007/5614"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Management",
+          "value": "/business/naics2007/55"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Personal Services",
+          "value": "/business/naics2007/8129"
+        },
+        {
+          "text": "Professional Services",
+          "value": "/business/naics2007/5419"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Oracle",
+          "value": "/m/05njw"
+        },
+        {
+          "text": "Netflix",
+          "value": "/m/017rf_"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "HubSpot",
+          "value": "/m/02yxmbc"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11bwf70g1f"
+        },
+        {
+          "text": "FlightSafety International",
+          "value": "/m/0bh8vr"
+        },
+        {
+          "text": "Insight Global",
+          "value": "/m/0b773zq"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Ascension",
+          "value": "/g/11jfc272qc"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Citadel",
+          "value": "/m/08vx4k"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "Paychex",
+          "value": "/m/026qjz"
+        },
+        {
+          "text": "Plaid",
+          "value": "/g/11dzdwgy65"
+        },
+        {
+          "text": "Primary.com",
+          "value": "/g/11c73_xmld"
+        },
+        {
+          "text": "Sprout Social",
+          "value": "/g/11bzspfgc1"
+        },
+        {
+          "text": "The Browser Company",
+          "value": "/g/11y1f4h4qy"
+        },
+        {
+          "text": "1upHealth",
+          "value": "/g/11h3lglvf1"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "Accretive Technology Group",
+          "value": "/g/11c73_tb56"
+        },
+        {
+          "text": "Airbnb",
+          "value": "/m/010qmszp"
+        },
+        {
+          "text": "Akamai Technologies, Inc",
+          "value": "/m/02fqbt"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "Alignment Health",
+          "value": "/g/11f01fpptr"
+        },
+        {
+          "text": "Apartment List",
+          "value": "/g/11f018f5xw"
+        },
+        {
+          "text": "Auxilius",
+          "value": "/g/11t396c1h0"
+        },
+        {
+          "text": "Axiom Exergy",
+          "value": "/g/11fy280sqv"
+        },
+        {
+          "text": "Axon",
+          "value": "/m/0cl_m7"
+        },
+        {
+          "text": "BAE Systems, Inc.",
+          "value": "/m/05dbpb"
+        },
+        {
+          "text": "BP",
+          "value": "/m/0k5b5"
+        },
+        {
+          "text": "Backblaze",
+          "value": "/g/11fy1qndrz"
+        },
+        {
+          "text": "Banfield Pet Hospital",
+          "value": "/m/05b1c14"
+        },
+        {
+          "text": "Barbaricum",
+          "value": "/g/11g9n9j5dl"
+        },
+        {
+          "text": "Bectran, Inc.",
+          "value": "/g/11dym9v6zb"
+        },
+        {
+          "text": "Belcan",
+          "value": "/m/0kqjj_"
+        },
+        {
+          "text": "CACI",
+          "value": "/m/0310bt"
+        }
+      ]
+    }
+  ]
+}

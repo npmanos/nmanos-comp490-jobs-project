@@ -1,0 +1,1223 @@
+{
+  "search_metadata": {
+    "id": "65b60c2c10d744e390d37770",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dc6c141208f1292e/65b60c2c10d744e390d37770.json",
+    "created_at": "2024-01-28 08:11:24 UTC",
+    "processed_at": "2024-01-28 08:11:24 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=2",
+    "raw_html_file": "https://serpapi.com/searches/dc6c141208f1292e/65b60c2c10d744e390d37770.html",
+    "total_time_taken": 3.69
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 2
+  },
+  "jobs_results": [
+    {
+      "title": "Associate IT Software Engineer",
+      "company_name": "Duke Energy Corporation",
+      "location": "  Charlotte, NC   ",
+      "via": "via LinkedIn",
+      "description": "More than a career - a chance to make a difference in people's lives.\n\nBuild an exciting, rewarding career with us – help us make a difference for millions of people every day. Consider joining the Duke Energy team, where you'll find a friendly work environment, opportunities for growth and development, recognition for your work, and competitive pay and benefits...\n\nJob Summary\n\nThe Associate IT Software Engineer is an individual who is dedicated to building exceptional software. Under close supervision, develops and tests software systems or applications for software enhancements and new products. Develops software and tools in support of design, infrastructure and technology platforms. Associate Software Engineers are primarily responsible for building defined solutions, investigating, and fixing bugs, and writing tests.\n\nThis Role Will Be Responsible For\n• Design and build software solutions using agile/XP/TDD.\n• Program well-designed, efficient code with broad supervision.\n• Collaborate with designers, developers, and product owners to build cloud native software solutions targeting PCF, Azure, AWS, mobile iOS/Android, etc.\n• Clearly communicate progress and identify blocking issues.\n• Participate in paired programming and code reviews with seniors to expand knowledge and understanding of software engineering.\n• Complete independent research to refine best practices and present work to peers.\n\nAssociate Software Engineers Will Typically Possess\n• Experience building software solutions both independently and as part of a team (could be through independent projects, internships, advanced education).\n• Able to navigate and operate IDEs efficiently.\n• Have understanding, though possibly limited exposure, to APIs.\n• Is familiar with several frameworks for development – have previous experience working with multiple frameworks and know the common, well-known ones in their language stack.\n• Is familiar with cloud-native software engineering best practices. Can explain the benefits of container-based solutions, the use of microservices and principles of DevOps.\n• Self-sufficient in at least one programming language. Able to pick up a new language and implement a semi-stable, non-complex solution independently.\n• Understanding of, and some exposure to working with, databases. Should understand DB basic design techniques.\n• A basic understanding of cyber security principles such as authentication, authorization, and encryption. Ability to leverage common security libraries applicable to their language stack.\n\nResponsibilities\n• Assist with development of software and tools in support of design, infrastructure and technology platforms and frameworks. Assist in designs, develops, troubleshoots and debugs less complex software programs for enhancements and new products. Assists in coding, testing, and debugging new software or making enhancements to existing software for customers.\n• Maintain services, monitor system health, and continually look for improvements.\n• Scale systems sustainably using continuous deployment and automation.\n• Implement design patterns recommended by Leads.\n• Work in an agile environment and engage in practices such as XP, test driven development. Collaborate with other software engineers, developers, designers, and product owners.\n\nBasic/Required Qualifications\n• Associates degree in Information Technology or other related degree OR High School/GED plus 2 related work experience in lieu of the Associates degree above.\n\nDesired Qualifications\n• Knowledge of programming languages, operating systems and computer networks\n• Full-stack development experience\n• Familiarity with Angular (or other JavaScript based framework), Java, Python and private and/or public cloud (Pivotal Cloud Foundry, Azure, AWS, etc.) environments.\n• Experience with Infrastructure as a Service (IaaS) and Infrastructure as Code (IaC).\n\nWorking Conditions\n• Hybrid Mobility Classification – Work will be performed from both remote and onsite locations after the onboarding period. However, hybrid employees should live within a reasonable daily commute to a Duke Energy facility.\n• Office Environment\n\nTravel Requirements\n\nNot required\n\nRelocation Assistance Provided (as applicable)\n\nNo\n\nRepresented/Union Position\n\nNo\n\nVisa Sponsored Position\n\nNo\n\nPosting Expiration Date\n\nSaturday, February 3, 2024\n\nAll job postings expire at 12:01 AM on the posting expiration date.\n\nPlease note that in order to be considered for this position, you must possess all of the basic/required qualifications.\n\nPrivacy\n\nDo Not Sell My Personal Information (CA)\n\nTerms of Use\n\nAccessibility",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience building software solutions both independently and as part of a team (could be through independent projects, internships, advanced education)",
+            "Able to navigate and operate IDEs efficiently",
+            "Have understanding, though possibly limited exposure, to APIs",
+            "Is familiar with several frameworks for development – have previous experience working with multiple frameworks and know the common, well-known ones in their language stack",
+            "Is familiar with cloud-native software engineering best practices",
+            "Self-sufficient in at least one programming language",
+            "Able to pick up a new language and implement a semi-stable, non-complex solution independently",
+            "Should understand DB basic design techniques",
+            "A basic understanding of cyber security principles such as authentication, authorization, and encryption",
+            "Ability to leverage common security libraries applicable to their language stack",
+            "Associates degree in Information Technology or other related degree OR High School/GED plus 2 related work experience in lieu of the Associates degree above"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Under close supervision, develops and tests software systems or applications for software enhancements and new products",
+            "Associate Software Engineers are primarily responsible for building defined solutions, investigating, and fixing bugs, and writing tests",
+            "This Role Will Be Responsible For",
+            "Design and build software solutions using agile/XP/TDD",
+            "Program well-designed, efficient code with broad supervision",
+            "Collaborate with designers, developers, and product owners to build cloud native software solutions targeting PCF, Azure, AWS, mobile iOS/Android, etc",
+            "Clearly communicate progress and identify blocking issues",
+            "Participate in paired programming and code reviews with seniors to expand knowledge and understanding of software engineering",
+            "Complete independent research to refine best practices and present work to peers",
+            "Understanding of, and some exposure to working with, databases",
+            "Assist with development of software and tools in support of design, infrastructure and technology platforms and frameworks",
+            "Assist in designs, develops, troubleshoots and debugs less complex software programs for enhancements and new products",
+            "Assists in coding, testing, and debugging new software or making enhancements to existing software for customers",
+            "Maintain services, monitor system health, and continually look for improvements",
+            "Scale systems sustainably using continuous deployment and automation",
+            "Implement design patterns recommended by Leads",
+            "Work in an agile environment and engage in practices such as XP, test driven development",
+            "Collaborate with other software engineers, developers, designers, and product owners",
+            "Hybrid Mobility Classification – Work will be performed from both remote and onsite locations after the onboarding period"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Office Environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.duke-energy.com/",
+          "text": "duke-energy.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=Duke+Energy+Corporation&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAII1wk",
+          "text": "See web results for Duke Energy Corporation"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNrGw14BdTX_oaHBoBIsecBKznUKlHDvbPvuQayc&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgSVQgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlhrOWhhcnItQWVlbzJBZk5BQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJFVkhOM2hZYjBaeWFVdG5MWHB2VlhOTE1ESk5lazlTYkdaSVZXTXhMV3hRWjE5SmNXcG9kSE5LYkVvdE1WWlhlVVZ0TjFKWGFuaHliVE5FUkc1bk1XRjVNekp4TjFWMVlrdFpRM2xNUkVKaVJqbERRbEpRU0dKemFUUXdaMnN6VVhWcGIzTjBiVUp2U0hBMGFsSm1SbDlYVUdGaWJFdGpibUpPTlV0alZuZG9VRE5xU0dKUGIzaDVORlptWldkWFNFVTRTazkzTVhWa2NtdG1iRVJxZUhkYVdYZDZPVEkyY21kTWJXUTVYeTFuYms1a2FXeEJXalZyWHpWNU1FNTRiVWRYUWtkdldVZHdjMUZYUW01eVVYUm5NMWt3WDJ0TWVVTllVVm94VTI1c1JrMW9WRGx5VlV3MlIyc3pVbmhLY3hJWFRHZDVNbHBoYms1TmNEWnpOVTV2VUhOWmRWSjVRVTBhSWtGUVdHaHROVnBGY0ZwMlZXOTVMWHBxYkhoZmRWZDBRV3hmZHkwMVZIZGtaV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYXNzb2NpYXRlLWl0LXNvZnR3YXJlLWVuZ2luZWVyLWF0LWR1a2UtZW5lcmd5LWNvcnBvcmF0aW9uLTM4MTU5MzY1MTI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company_name": "Cloud Software Group",
+      "location": "  Raleigh, NC   ",
+      "via": "via Careers - Cloud Software Group",
+      "description": "Do you thrive in a startup vibe? Were you built for a small, nimble and dynamic team that's ready to win? If you answered yes, we want to talk to you! ShareFile is now going back to our roots as a standalone business unit to focus on our SaaS business—an area where we see growth potential. This business unit is unique, and we certainly aren’t afraid to stand out from the crowd and tackle the... bigger competitors.\n\nAs a Lead Software Engineer in Client Solutions, you will spearhead a team of skilled engineers in executing critical initiatives that enhance customer value. We seek a robust technical leader capable of implementing exceptional full-stack solutions and fostering cross-functional collaboration, all while aligning with our broader strategic goals.\n\nOverview:\n• Deliver high-quality code, prioritizing design patterns, security, and performance optimizations.\n• Ensure code testability beyond unit tests, encompassing integration, end-to-end, and behavioral testing.\n• Support and advocate for best practices within the team through collaborative code reviews and knowledge-sharing platforms.\n• Act as a technical lead, independently driving initiatives by collaborating across teams, breaking them down into milestones for the team.\n• Propose process improvements to enhance team efficiency and promote high performance.\n• Mentor and guide team members, seizing opportunities for knowledge sharing.\n\nYour Superhero Uniform Includes (Required Experience and Skills):\n• Minimum of 8+ years of software development experience.\n• Strong communication and teamwork skills.\n• Proficiency in a JavaScript-based frontend technology (e.g., ReactJS, Ember Js, Angular, etc.).\n• Competence in object-oriented programming languages such as C#, Ruby, Java, or others.\n• Experience in designing and developing scalable applications.\n• Familiarity with cloud services, preferably AWS/Azure.\n• Experience working with REST APIs and relational databases.\n• Proficiency with version control systems (e.g., Git/BitBucket).\n• Excellent problem-solving and debugging skills.\n\nYour Superhero Strengths Include (Preferred Experience and Skills):\n• Experience with TypeScript.\n• Proficient knowledge of React, including hooks, context, and routing.\n• Familiarity with .Net, including ASP.Net Core, C#, and Entity Framework.\n• Exposure to NoSQL, Redis, Elastic search preferred.\n• Expertise in Docker and Kubernetes considered a bonus.\n• Understanding of Agile development practices preferred.\n• Experience with unit testing, integration testing, and end-to-end testing.\n• Familiarity with continuous integration and continuous delivery (CI/CD).\n\nIf you are an experienced full-stack engineer passionate about delivering tangible value, apply today to join our fast-paced team and contribute significantly to the future of ShareFile.\n\nAbout Us:\n\nCitrix and TIBCO recently merged to create Cloud Software Group, now one of the world’s largest cloud solution providers, serving more than 100 million users around the globe. When you join Cloud Software Group, you are making a difference for real people, each of whom count on our suite of cloud-based products to get work done — from anywhere. Members of our team will tell you that we value diverse lived experiences, passion for technology, and the courage to take risks. Everyone is empowered to learn, dream, and build the future of work. We are on the brink of another Cambrian leap -- a moment of immense evolution and growth. And we need your expertise and experience to do it. Now is the perfect time to move your skills to the cloud.\n\nCloud Software Group is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination. All qualified applicants will receive consideration for employment without regard to age, race, color, creed, sex or gender, sexual orientation, gender identity, gender expression, ethnicity, national origin, ancestry, citizenship, religion, genetic carrier status, disability, pregnancy, childbirth or related medical conditions (including lactation status), marital status, military service, protected veteran status, political activity or affiliation, taking or requesting statutorily protected leave and other protected classifications.\n\nIf you need a reasonable accommodation due to a disability during any part of the application process, please contact us at (800) 424-8749 or email us at AskHR@cloud.com for assistance",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum of 8+ years of software development experience",
+            "Strong communication and teamwork skills",
+            "Proficiency in a JavaScript-based frontend technology (e.g., ReactJS, Ember Js, Angular, etc.)",
+            "Competence in object-oriented programming languages such as C#, Ruby, Java, or others",
+            "Experience in designing and developing scalable applications",
+            "Familiarity with cloud services, preferably AWS/Azure",
+            "Experience working with REST APIs and relational databases",
+            "Proficiency with version control systems (e.g., Git/BitBucket)",
+            "Excellent problem-solving and debugging skills",
+            "Net Core, C#, and Entity Framework",
+            "Expertise in Docker and Kubernetes considered a bonus",
+            "Experience with unit testing, integration testing, and end-to-end testing",
+            "Familiarity with continuous integration and continuous delivery (CI/CD)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Deliver high-quality code, prioritizing design patterns, security, and performance optimizations",
+            "Ensure code testability beyond unit tests, encompassing integration, end-to-end, and behavioral testing",
+            "Support and advocate for best practices within the team through collaborative code reviews and knowledge-sharing platforms",
+            "Act as a technical lead, independently driving initiatives by collaborating across teams, breaking them down into milestones for the team",
+            "Propose process improvements to enhance team efficiency and promote high performance",
+            "Mentor and guide team members, seizing opportunities for knowledge sharing"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tibco.com/",
+          "text": "tibco.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=Cloud+Software+Group&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIIqgo",
+          "text": "See web results for Cloud Software Group"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYB44wR01kofGvhSanxSwWl83X-qe-Ux2vbYLxOU&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJkZ3hIdlJtY0ZkY1RWaFFRQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiRGxVWDBwWlJUWjZkVmhGVlRGSU1taDFVRkV0YUUxSGEzZzFiWGRFZVRGdmQxVjBVMUkwVGxKalNXOU1jMjlMWXpkdWFXWkNRVUZSUm0wdGFWUkNZUzFZT0hFd2REbFpXamhtZGxkTE5qZHhOV0V5UkdwNGEwSk5abGhoZDNGMmJreEdWa05RVDNSTVpVZENjVFJVUmxSalFUZG5aalIxVjFOT2JrUjVOM2xxV0VsSE9FOHlka2hTY1VzME16ZExVMWhvU1hSa1FqaENOR3BWVDNGdmNHZGZSWFptWVRsSlZrMHhjR0ZLUVdsVE5GRndjbFl6UzFock5WUm9OVWh1VVZKdGVEaGZjamhPWTFKWFVHZ3dNMHhEY21KcFdGbGtNbTF5WnhJWFRHZDVNbHBoYms1TmNEWnpOVTV2VUhOWmRWSjVRVTBhSWtGUVdHaHROV0ZZTXpGMVlqSmlOblpGTldwUmFUSmhXWFJIYzJOdlFqWnVkRkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgLSBDbG91ZCBTb2Z0d2FyZSBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY2xvdWQuY29tL2pvYnMvbGVhZC1zb2Z0d2FyZS1lbmdpbmVlci1yYWxlaWdoLW5vcnRoLWNhcm9saW5hLXVuaXRlZC1zdGF0ZXMtYmI1MmQwMGEtNThhMy00NzVhLTk0NjgtYmNjMDA5MTcwMzgyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Sr Software Engineer - Full Stack",
+      "company_name": "Lowes",
+      "location": "  Charlotte, NC   ",
+      "via": "via Lowe's Careers",
+      "description": "Expand your career possibilities.\n\nThank you for dedicating your time and talent to Lowe’s. We want to give you more opportunities to learn and grow, so if you find a position you’re interested in below, we encourage you to apply...\n\nFind Your Home to More Possibilities.\n\nJob Summary\nThe primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications.\n\nMinimum Qualifications\n• Bachelor's degree in computer science, CIS, or related field (or equivalent work experience in a related field)\n• 5 years of experience in software development or a related field\n• 5 years of experience with integration development using REST APIs, Java/J2EE microservices.\n• 4 years of experience in database technologies\n• 4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC)\n\nPreferred Qualifications\n• Master's degree in computer science, CIS, or related field\n• 5 years of experience building the APIs using spring framework, spring boot or related framework.\n• 3 years of experience with GCP, Azure Cloud or any other cloud technology\n• 3 years of experience working with no-SQL databases such as Cassandra, MongoDB, Couchbase etc.\n• 2 years of experience in design, creating and executing automation scripts using Selenium, Rest Assured, Cucumber etc.\n• 2 years of experience with Messaging/Event Streaming technologies such as Kafka/MQ\n• 5 years of IT experience developing and implementing business systems within an organization\n• 5 years of experience working with defect or incident tracking software\n• 5 years of experience writing technical documentation in a software development environment\n• 3 years of experience working with an IT Infrastructure Library (ITIL) framework\n• 3 years of experience leading teams, with or without direct reports\n• 5 years of experience working with source code control systems\n• Experience working with Continuous Integration/ Continuous Deployment tools\n• 5 years of experience in systems analysis, including defining technical requirements and performing high level design for complex solutions\n\nAbout Lowe's\nLowe's Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 17 million customer transactions a week in the U.S. With total fiscal year 2022 sales of over $97 billion, approximately $92 billion of sales were generated in the U.S., where Lowe's operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe's supports the communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.\n\nLowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in computer science, CIS, or related field (or equivalent work experience in a related field)",
+            "5 years of experience in software development or a related field",
+            "5 years of experience with integration development using REST APIs, Java/J2EE microservices",
+            "4 years of experience in database technologies",
+            "4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions",
+            "This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments",
+            "This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.lowes.com/",
+          "text": "lowes.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=Lowes&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAII9wo",
+          "text": "See web results for Lowes"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzuN7M0pPUxDG0B6_5Ym5GJF-cIHJz2Hch0er&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBTb2Z0d2FyZSBFbmdpbmVlciAtIEZ1bGwgU3RhY2siLCJodGlkb2NpZCI6IlliSWtVWEV4ejV3dXZKX3pBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJESjVPVVp1ZFVkNU5IcDFTM1pDU2xCWllVZFZPV05IYlVaNk9WUllVbE5rWTJoQmRYcERNbTFzVmpWd2RVdGhkRFJzUzFadE1reFVMVEoxU0RseVNrcHRRbnB1Vm5oc1owWkdMVFJZUTFoZmNIbHBlV3BRVTJGVVdHRjRPRk5YTW1KUVVHZzJibE15TkZsYVZHUm1aM1l6V201c1MxTktXR2RDWXpGbWIydEhVSHBaWWpWNlZ6aDFSV3hFWjA5YVdXbDRObTFQTWtWNGIxQndiVkE0WDFSeVZVMWhYM2xNYTJzd1FYQnVhMUJMWjNKcldXVkVlVmd0YzBkTU56YzJWR0pFUTNSMFkzZFNjemR1VEc5WmVGOWxYekp2TVhoR1kxSndkeElYVEdkNU1scGhiazVOY0Raek5VNXZVSE5aZFZKNVFVMGFJa0ZRV0dodE5WbFNURk0xUVhwV1R6aHhTSGt4Wm1aV2VrWlNUalZNU2toT2JFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTG93ZSdzIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly90YWxlbnQubG93ZXMuY29tL3VzL2VuL2pvYi9KUi0wMTU5Nzc0Ny9Tci1Tb2Z0d2FyZS1FbmdpbmVlci1GdWxsLVN0YWNrP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Lockheed Martin",
+      "location": "  North Charleston, SC   ",
+      "via": "via Lockheed Martin",
+      "description": "Description:This position is participating in our External Referral Program. If you know somebody who may be a fit, click here to submit a referral. If your referral is hired, you'll receive a $3000 payment!\ncode-extrefer\n...\nOur collaborative cyber test and training teams define one-of-a-kind solutions tailored to the cyber warfighter. These teams deliver actionable results to increase the cyber resiliency of our nation’s most important systems.\n\nOur Cyber and Intelligence group is seeking a Software Engineer with a flexible skillset who enjoys learning new technologies to join its cyber range team. The successful candidate will lead the development, enhancement, and maintenance of a set of cyber test tools used to design and execute cyber testing and training events. The Software Engineer will be responsible for all aspects of the Software Development Lifecycle in regards to running Cyber Test and Training Events - ensuring that our software solutions meet government cyber testing needs.\n\nThe Software Engineer should have a background in automation, system administration, software development including scripting, and basic understanding of other various computing and cyber topics.\n\nResponsibilities include:\n\n• Own the software development process\n• Identify and lead Digital Transformation initiatives\n• Maintain multiple baselines\n• Contribute to schedule and cost baseline development\n• Metrics tracking and reporting\n• Develop and maintain productivity/estimating data\n• Coordinate software enhancement needs with Cyber Event Designers and Leads\n• Represent software in customer interactions\n• Support of technical and programmatic reviews\n• Architectural and software design review and input\n• Obsolescence identification and remediation/development\nBasic Qualifications:\n• Bachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined education, with 9 years of professional experience; or 7 years of professional experience with a related Masters degree with a focus in computer science, or a focus in computer and information sciences, information technology, management information systems, or a related discipline with corresponding experience and demonstrated mastery of relevant computer science and software engineering topics.\n\n• Prior usage or knowledge of infrastructure configuration automation tools such as Ansible, Puppet, Chef, Salt, etc.\n\n• 2+ years of systems administration experience (can overlap with other experience).\n\n• 3+ years of experience with software development and software engineering (can overlap with other experience).\nDesired Skills:\n• Expert knowledge of: software development to include agile software development practices; programming languages; operating systems; networks; enterprise and consumer IT concepts, architectures, and systems (computer, network, storage).\n• Expert knowledge of PowerShell, bash scripting, python scripting, and C/C++ development.\n• Experience developing or modifying web applications using web development frameworks such as Django, Ruby on Rails, Flask, Angular, Bottle, jQuery, Meteor.\n• Prior usage or knowledge of one or more continuous integration tools such as Jenkins.\n• Prior usage or knowledge of one or more of the following MySQL, MariaDB, mongoDB, Postgres SQL, or no SQL.\n• Knowledge of Networking protocols such as TCP/IP, HTTP, HTTPS, TFTP, DNS, FTP.\n• 2+ years of experience with cyber testing or training to include experience with defensive and offensive cyber tools and TTPs or relevant experience (can overlap with other experience).\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: TS/SCI\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: Non- standard 40 hour work week as assigned by leader\nLockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nJoin us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.\n\nAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: No\nCareer Area: Cyber Security Engineering\nType: Task Order/IDIQ\nShift: First",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined education, with 9 years of professional experience; or 7 years of professional experience with a related Masters degree with a focus in computer science, or a focus in computer and information sciences, information technology, management information systems, or a related discipline with corresponding experience and demonstrated mastery of relevant computer science and software engineering topics",
+            "Prior usage or knowledge of infrastructure configuration automation tools such as Ansible, Puppet, Chef, Salt, etc",
+            "2+ years of systems administration experience (can overlap with other experience)",
+            "3+ years of experience with software development and software engineering (can overlap with other experience)",
+            "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Engineer will be responsible for all aspects of the Software Development Lifecycle in regards to running Cyber Test and Training Events - ensuring that our software solutions meet government cyber testing needs",
+            "The Software Engineer should have a background in automation, system administration, software development including scripting, and basic understanding of other various computing and cyber topics",
+            "Own the software development process",
+            "Identify and lead Digital Transformation initiatives",
+            "Maintain multiple baselines",
+            "Contribute to schedule and cost baseline development",
+            "Metrics tracking and reporting",
+            "Develop and maintain productivity/estimating data",
+            "Coordinate software enhancement needs with Cyber Event Designers and Leads",
+            "Represent software in customer interactions",
+            "Support of technical and programmatic reviews",
+            "Architectural and software design review and input",
+            "Obsolescence identification and remediation/development"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "If your referral is hired, you'll receive a $3000 payment!",
+            "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+            "Schedule for this Position: Non- standard 40 hour work week as assigned by leader"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.lockheedmartin.com/",
+          "text": "lockheedmartin.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=Lockheed+Martin&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIIyAs",
+          "text": "See web results for Lockheed Martin"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiVGlXMnd6X3dVOGQtZi1WWEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYlhrelpVNU9UVEpLUWpodGVsTnphRVo0TldZeVRVeDZiV3N3V25sbFJISTJhVXd3Y0ZkSU0zWTNkMkZDYjJaQmRtSXphRUV3VjNSTE1GWnRkV0ZyVGt0TmVXcDZjREprU0RoQ1lVeFpWRzk0TjFnNWVXODFMVWRaY21aV1l6aE1jVU0yVG5wMlV6UnZaVUp6VjFCTE9URllWMEpIV0RreWNVczNRVTlEVVVOVFFqWmhkVFpzU1ZWa1NYTm5WVEJXUlZKbVVGQk5UazlUUTJvM1VWOXJjVTl1UkZOUVF6YzFUSEZ2YlhCV2JITnJWM1pzTmt0c2RGaGhTREExUjJSaFlYTlNZbE5KVlZsUFUyUk5XVEJZZERBNGNsZFZhVWszYmxBMlp4SVhUR2Q1TWxwaGJrNU5jRFp6TlU1dlVITlpkVko1UVUwYUlrRlFXR2h0TlZsc1NVSk9YemQxV2xSVk9GbG9kSFpNWlhGUGR6ZHphbTh4VTNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMb2NraGVlZCBNYXJ0aW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubG9ja2hlZWRtYXJ0aW5qb2JzLmNvbS9qb2Ivbm9ydGgtY2hhcmxlc3Rvbi9zb2Z0d2FyZS1lbmdpbmVlci82OTQvNTMzOTYwMDYyNTY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer, Mainframe (Remote)",
+      "company_name": "People Center",
+      "location": "  Virginia   ",
+      "via": "via Capital One Careers",
+      "description": "Locations: US Remote, United States of America\n\nSenior Software Engineer, Mainframe (Remote...\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Mainframe Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions with development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages Cobol and Assembler\n• Work on proofs of concept, modeling development approaches and being part of new innovative products. In this role, you’ll have the opportunity to leverage a wide range of tools and technologies\n\nBasic Qualifications:\n• Bachelor's Degree\n• At least 4 years experience in software engineering (Internship experience does not apply)\n• At least 2 years of core banking application experience (Profile or Systematics)\n• At least 2 years of professional Mainframe development or administration experience: Cobol, JCL or Java\n\nPreferred Qualifications:\n• Master’s Degree\n• 5+ years of professional experience developing on Systematics application (Impacs, RM/CIS or GN/TS) batch and CICS\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nRemote (Regardless of Location): $140,000 - $159,800 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree",
+            "At least 4 years experience in software engineering (Internship experience does not apply)",
+            "At least 2 years of core banking application experience (Profile or Systematics)",
+            "At least 2 years of professional Mainframe development or administration experience: Cobol, JCL or Java"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions with development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages Cobol and Assembler",
+            "Work on proofs of concept, modeling development approaches and being part of new innovative products",
+            "In this role, you’ll have the opportunity to leverage a wide range of tools and technologies"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "Remote (Regardless of Location): $140,000 - $159,800 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=People+Center&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIIkAw",
+          "text": "See web results for People Center"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIE1haW5mcmFtZSAoUmVtb3RlKSIsImh0aWRvY2lkIjoiZnJ6QktlbC16VE90Qi1xNUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTNGMlEyUnhNRUZzV1dGMExWcHJiR1ExUm5sQlQxRkRMUzE1Ymw5eVMzQnVlWGxoUmxCemNVRmhkVmhMVUZFMVduVmtURWxoUlZwRGJGSlJNRVJRT1VKRGFXUXlVVkZFVEVJNVNsY3dRMlE0ZFVsRWNreFpTM05wYnpsSVRXMUJZM2MxTlhoc2FubFhRa3MzTWtzNVptbzRkRkZTYlRaRVREZzBiREZ4Wm1WaldUVTFaVFp3V1dkamQzVnRPRVJKYWtScVpsYzFUVWd3VUUwMExWSmZTRVl6YTNCcE4xWkZSVzFhZVRaa1VsWnNZMWhGY2xvNGNWQkNSV0l6YldKTmVXUmtSRkZwWHpSeWVERlpURTgzY1VwNVUyaE5WazUzWW5FNVVSSVhUR2Q1TWxwaGJrNU5jRFp6TlU1dlVITlpkVko1UVUwYUlrRlFXR2h0TldGVVh6QTFSa2d4ZDFjd056Z3RXbVZOVUdKNlZteHNUazh6TTNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXBpdGFsIE9uZSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LmNhcGl0YWxvbmVjYXJlZXJzLmNvbS9qb2IvcmVtb3RlL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1tYWluZnJhbWUtcmVtb3RlLzE3MzIvNjA0NjQ0NzUyNjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Deluxe",
+      "location": "  Richmond, VA   ",
+      "via": "via LinkedIn",
+      "description": "The Senior Software Engineer works collaboratively with engineering management, product managers and other software engineers to develop new product offerings and improve existing installed or SAAS solutions for clients within the financial services industry.\n• Work closely with executive leadership, product managers and other software engineers to develop new product offerings and improve... existing SAAS solution for clients within the financial services industry\n• Develop and coordinate estimates for software defects, new features, and enhancements that are included in service releases\n• Participate in discussions regarding new product development and product enhancements\n• Design, document, code and deploy new features and defects for system related issues (including the creation of T-SQL queries, creation of web services, client-side JavaScript (including jQuery) and .NET development)\n• Participate in high-level estimates for proposed projects, poker planning for future features, and task estimates for software defects and features at sprint planning\n\nBasic Qualifications:\n\nEducation and Experience: Bachelors and 3 years or HS/GED and 7 years\n\nPreferred Qualifications:\n\nEducation: Bachelors in Computer Science or related field\n\nExperience: 8 years in full cycle design development, or .bnet solutions\n\nAdditional Basic Qualifications:\n\nMust be 18 years of age or older\n\nDeluxe Corporation is an Equal Opportunity / Affirmative Action employer:\n\nAll qualified applicants will receive consideration for employment without regard to race, color, creed, religion, disability, sex, age, ethnic or national origin, marital status, sexual orientation, gender identity or presentation, pregnancy, genetics, veteran status or any other status protected by state or federal law.\n\nEOE/Minorities/Females/Vet/Disability\n\nPlease view the electronic EEO is the Law Poster which serves to inform you of your equal employment opportunity protections as part of the application process.\n\nReasonable Accommodation for Job Seekers with a Disability: If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to deluxecareers@deluxe.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Education and Experience: Bachelors and 3 years or HS/GED and 7 years",
+            "Education: Bachelors in Computer Science or related field",
+            "Experience: 8 years in full cycle design development, or .bnet solutions",
+            "Must be 18 years of age or older"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Senior Software Engineer works collaboratively with engineering management, product managers and other software engineers to develop new product offerings and improve existing installed or SAAS solutions for clients within the financial services industry",
+            "Develop and coordinate estimates for software defects, new features, and enhancements that are included in service releases",
+            "Participate in discussions regarding new product development and product enhancements",
+            "Design, document, code and deploy new features and defects for system related issues (including the creation of T-SQL queries, creation of web services, client-side JavaScript (including jQuery) and .NET development)",
+            "Participate in high-level estimates for proposed projects, poker planning for future features, and task estimates for software defects and features at sprint planning"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=Deluxe&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAII2Aw",
+          "text": "See web results for Deluxe"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyHQZ0Jcai_59qgsmhYEgu0mMzBIu1F68Fw6Uq8A&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6Ik5UXzhsZ1l2aGpscURUdzhBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJVeHBNRWhLZFVGc1VEVXlSV0p6TTJnd0xXeENRM1ZsY1RONFR6TkZSa3c0VTJoaldEaHlPRFJNU0daWll6QTVNbEJHT0VzM1ZHbFdXVnB1V0RZd1ZVVjBRamhEVkRoa04wWk5TRXB4VVdwUmIyODVkVFpNUWxKRE5HWlJSWGM0YkV4UVFUVjRUbTFRZEY4M2RVOXBjR0kxZFd3MmQwcG9PRzV0Y21oYVgwZElUWGxCZVVOeE1WQTFlRXRZVjBJd1ZXazBNbnBpVkdrMU1FVXlWa04wY1ZGZk5VVk1lWFZ6U2pKNlFWUjFhUzFVV1RkMFRHZHZhVFExWkhGUE0wdHVZaTFQUVVKa1Z5MDFOVjlMVW1FMVJqSjBWVTFUUTBkdlRuRXdRUklYVEdkNU1scGhiazVOY0Raek5VNXZVSE5aZFZKNVFVMGFJa0ZRV0dodE5WazVkazVHVjJaRE5rNDNUbEkxY1dGelNURnpTekpFU0ZCNk4yYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWF0LWRlbHV4ZS0zODE0NjQ4NzM2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer (C/C++ Systems)",
+      "company_name": "NetApp",
+      "location": "  Durham, NC   ",
+      "via": "via NetApp Careers",
+      "description": "About NetApp\n\nWe’re forward-thinking technology people with heart. We make our own rules, drive our own opportunities, and try to approach every challenge with fresh eyes. Of course, we can’t do it alone. We know when to ask for help, collaborate with others, and partner with smart people. We embrace diversity and openness because it’s in our DNA. We push limits and reward great ideas. What is... your great idea?\n\n'At NetApp, we fully embrace and advance a diverse, inclusive global workforce with a culture of belonging that leverages the backgrounds and perspectives of all employees, customers, partners, and communities to foster a higher performing organization.' -George Kurian, CEO\nJob Summary\n\nNetApp is developing new portfolio of data-centric storage platforms and services to help the world's leading organizations harness their data in new and interesting ways. NetApp is bringing its industry leading, enterprise class data storage technologies into the world's biggest public clouds and the simplicity & flexibility of cloud into customer data centers.\n\nAs a software engineer you will work as part of an exceptionally talented engineering team responsible for driving product development and strategy. The overall focus of the team will be on delivering innovative technologies to address competitive market and customer requirements with enterprise-class product quality and time-to-market. The team will also be responsible for maintenance & enhancements to existing technologies & products.\n\nEssential Functions\n• Apply current software engineering skills and use up-to-date technologies to contribute to team deliverables\n• Contributions to Design, Coding, Debug & Test, Performance analysis & improvement tasks\n• Contributions to technical discussions within the immediate team and across functions\n• Be a technical resource to other engineers and across functions\n• Willingness to work on additional tasks and responsibilities that will contribute towards team, department and company goals.\n\nJob Requirements\n• Job Requirements\n• Experience with development with C/C++ in LINUX/UNIX environments\n• Experience with applying standard software engineering practices\n• Proficient with systems engineering domain concepts such as computer architecture, operating systems, file systems, networking, algorithms & data structures\n• Ability to work collaboratively with other engineers\n• Knowledge of storage or cloud technologies is a plus\n• Strong oral & written communication skills are a plus\n\nEducation\n• Requires a minimum of 3 years of related experience\n• A Bachelor of Science Degree in Electrical Engineering or Computer Science, a Master Degree or a PhD; or equivalent experience is required.\n\nEqual Opportunity Employer:\n\nNetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.\n\nUSA and Canada Residents Only:\n\nThe base salary hiring wage range for this position which the Company reasonably and in good faith expects to pay for the position in the specified geographic areas or locations, is $132,210 – $185,790. Final compensation will be dependent on various factors relevant to the position and candidate such as geographical location, candidate qualifications, certifications, relevant job-related work experience, education, skillset and other relevant business and organizational factors, consistent with applicable law. In addition, the position may include some of the following comprehensive benefits such Medical, Dental, Vision, Life, 401(K), Paid Time off (PTO), sick time, leave of absence as per the FMLA and other relevant leave laws, Company bonus/commission, employee stock purchase plan, and/or restricted stocks (RSU’s",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience with development with C/C++ in LINUX/UNIX environments",
+            "Experience with applying standard software engineering practices",
+            "Proficient with systems engineering domain concepts such as computer architecture, operating systems, file systems, networking, algorithms & data structures",
+            "Ability to work collaboratively with other engineers",
+            "Requires a minimum of 3 years of related experience",
+            "A Bachelor of Science Degree in Electrical Engineering or Computer Science, a Master Degree or a PhD; or equivalent experience is required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The overall focus of the team will be on delivering innovative technologies to address competitive market and customer requirements with enterprise-class product quality and time-to-market",
+            "The team will also be responsible for maintenance & enhancements to existing technologies & products",
+            "Apply current software engineering skills and use up-to-date technologies to contribute to team deliverables",
+            "Contributions to Design, Coding, Debug & Test, Performance analysis & improvement tasks",
+            "Contributions to technical discussions within the immediate team and across functions",
+            "Be a technical resource to other engineers and across functions",
+            "Willingness to work on additional tasks and responsibilities that will contribute towards team, department and company goals"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary hiring wage range for this position which the Company reasonably and in good faith expects to pay for the position in the specified geographic areas or locations, is $132,210 – $185,790",
+            "Final compensation will be dependent on various factors relevant to the position and candidate such as geographical location, candidate qualifications, certifications, relevant job-related work experience, education, skillset and other relevant business and organizational factors, consistent with applicable law",
+            "In addition, the position may include some of the following comprehensive benefits such Medical, Dental, Vision, Life, 401(K), Paid Time off (PTO), sick time, leave of absence as per the FMLA and other relevant leave laws, Company bonus/commission, employee stock purchase plan, and/or restricted stocks (RSU’s)"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.netapp.com/",
+          "text": "netapp.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=NetApp&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIIpQ0",
+          "text": "See web results for NetApp"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5wr-XUYfnTDfB_0gK-Z1r1lvYMe5_chADX0T&s=0",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoQy9DKysgU3lzdGVtcykiLCJodGlkb2NpZCI6Il8yQW5Gb2lJTUpqMHJoMk9BQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJsOUJVbXhVYjFVNWJtOXNhREpzVEV4alJYZEhRVmQwZURKZlpXRTFjVk5VTmtwWWNWVkhkVkJSVXpVdFNXOUdPRXd6UlVwUk9HdDRXbWhyV0ZaaFdGbFhVMkpFU0dFMFJuWlNjMVZmVm5WRVdFNTBTR2hFY1dwUFdFRTRhRWx4VEZreVgwUnpibk0xV1VoT2F6QnNMVTFIU0Zwdk9VNDFOa3R5VUVWd1ZsWjJOVkZIT1dJM2VrRkVha3BuZFZwamNrMTNSbXQ0UW14YVpUVXdZaTFYVldWTVh6QnpTRVpqY1d0V1dGVkJNMHREUmtkR1VsTkhSVlpaWW1kUGRFbHVPRm94ZEVaV2JEZ3daWGczYTJKWFUzaFVhalF5VVc5NlVtOU5RUklYVEdkNU1scGhiazVOY0Raek5VNXZVSE5aZFZKNVFVMGFJa0ZRV0dodE5XRkVhVzFhYW5KWGFEbEhhV0YzVHkxUWNGY3RValpGZVhsYVgyYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE5ldEFwcCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5uZXRhcHAuY29tL2pvYi9yZXNlYXJjaC10cmlhbmdsZS1wYXJrL3NvZnR3YXJlLWVuZ2luZWVyLWMtYy1zeXN0ZW1zLzI3NjAwLzU3NjA5NDA1NjY0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer, Front End",
+      "company_name": "People Center",
+      "location": "  Richmond, VA   ",
+      "via": "via Capital One Careers",
+      "description": "West Creek 5 (12075), United States of America, Richmond, Virginia\n\nSenior Software Engineer, Front End...\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Front End Software Engineers who are passionate about using cutting-edge open source frameworks with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Work with a team of developers with deep experience in distributed microservices and full stack systems\n• Perform software development on Front End Applications leveraging a test-driven development pattern\n• Own the technical design and development of cross-functional, multi-platform application systems\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: JavaScript, React, Angular, Node, TypeScript, or Java\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Work with a team of developers with deep experience in distributed microservices and full stack systems",
+            "Perform software development on Front End Applications leveraging a test-driven development pattern",
+            "Own the technical design and development of cross-functional, multi-platform application systems",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=People+Center&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAII8g0",
+          "text": "See web results for People Center"
+        }
+      ],
+      "extensions": [
+        "5 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEZyb250IEVuZCIsImh0aWRvY2lkIjoiaS1CNGVoVGNpR0x0dV9mQ0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkc0eWNVdHZNbFpIYlhBNFNYZDFVR3AzYlVaUGVrTjFTMEkzVVdZeFVUTnBWaTA1WW5sSFJVRjJiak55ZHpGNFIzbzBNVEJaUm5SSlIwMWlibGswZEUxcU4ybFJOMXBvT0RreVdWWmxURzlQYUdGRWIzRjJZa3RWY1dNd2QzcDBibTVzVm1Odk5XeFpNakY0YVhwSFoxWlFOazFyYjI5cWMxOUlWRkZOU3pscWVVSTFYMlpvU2tGdFMyeGlWVE5uVGxSTlYzaFFhbWh4WTFwUVpWZHNWalpPZG01WU5GUjFZbk53WW5sNlZIbHJjVEJGVFVacVdVaDBVRGRPU1ZWNFVuUTNNbXMwV0VwRU1uaEtkREpqZDFFMFpVdDRVMHhDYTNvelVSSVhUR2Q1TWxwaGJrNU5jRFp6TlU1dlVITlpkVko1UVUwYUlrRlFXR2h0TldFeFNYQlZaRU5RWkUwdFkySldZbTQwVm05bU1XZGpXRGwxTm5jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FwaXRhbCBPbmUgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL3d3dy5jYXBpdGFsb25lY2FyZWVycy5jb20vam9iL3JpY2htb25kL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mcm9udC1lbmQvMTczMi82MDM3NDkwNTEzNj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "TQL",
+      "location": "  Charlotte, NC   ",
+      "via": "via TQL Careers",
+      "description": "About the role:\nAs a Senior Software Developer, you will be joining one of our Agile Scrum teams responsible for developing web-based versions of our core applications as well as identifying opportunities to trial and deploy new applications and tools. You will use your full stack software engineering experience to develop a mix of custom and third-party solutions to help us maintain our... leadership position in transportation technology.\n\nWhat’s in it for you:\n• $105,000-$125,000 base salary\n• Position based in Charlotte, NC – relocation assistant provided\n• Advancement opportunities with aggressive and structure career paths\n• Access to the latest emerging technologies\n• Reimbursement for continuous education and technical training\n• TQL's IT Team offers a hybrid work environment with the ability to work remotely 40 hours per month\n• We win wherever we go – Voted a 2019-2023 Computerworld Best Places to Work in IT\n\nWhat you'll be doing:\n• Design, develop, and maintain complex software applications using .Net, or any modern platform for full stack development\n• Design and develop hybrid, on-prem and cloud-based solutions\n• Lead and mentor other developers in the team\n• Collaborate with cross-functional teams to identify and resolve software issues\n• Participate in code reviews and ensure code quality\n• Participate and lead in the full SDLC, including technical research, requirements gathering, design, development, testing, deployment, and maintenance\n• Implement and manage CI/CD processes to enable efficient software development and deployment\n• Develop and implement APIs and web based applications\n• Develop and maintain technical documentation and user manuals\n• Actively participate in event-driven architecture and worker services\n• Stay up to date with emerging trends and technologies in software engineering\n• Building industry leading solutions to help support rapid growth of our business\n\nWhat you need:\n• Bachelor’s degree in Computer Science or a related field\n• 5+ years of hands-on full stack development experience in SQL Server, .NET, and C# framework\n• 5+ years of experience with Microservices, JavaScript frameworks (Angular, React), JSON, REST Technologies\n• Experience with Automation as a Code, Terraform, Docker and Kubernetes, GitHub and Azure DevOps, ServiceNow\n• Experience with Kafka and other messaging systems\n• Strong knowledge of software development best practices, including object-oriented design, design patterns, and clean code principles\n• Ability to deal with ambiguity is a must\n• Experience with code management technologies like Github and modern code management practices\n• Microsoft Azure and cloud technology experience is a plus\n• Extensive experience with horizontally scalable and highly available system design and implementation, with focus on performance and resiliency\n• Excellent communication and collaboration skills\n• Strong analytical and problem-solving skills\n• Willingness to commit extra effort to meet deadlines as required on a high profile and business critical project\n\nWhere you'll be: 200 Regency Executive Park Dr., Suite 100 & 200, Charlotte, NC 28217",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science or a related field",
+            "5+ years of hands-on full stack development experience in SQL Server, .NET, and C# framework",
+            "5+ years of experience with Microservices, JavaScript frameworks (Angular, React), JSON, REST Technologies",
+            "Experience with Automation as a Code, Terraform, Docker and Kubernetes, GitHub and Azure DevOps, ServiceNow",
+            "Experience with Kafka and other messaging systems",
+            "Strong knowledge of software development best practices, including object-oriented design, design patterns, and clean code principles",
+            "Ability to deal with ambiguity is a must",
+            "Experience with code management technologies like Github and modern code management practices",
+            "Extensive experience with horizontally scalable and highly available system design and implementation, with focus on performance and resiliency",
+            "Excellent communication and collaboration skills",
+            "Strong analytical and problem-solving skills",
+            "Willingness to commit extra effort to meet deadlines as required on a high profile and business critical project"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Software Developer, you will be joining one of our Agile Scrum teams responsible for developing web-based versions of our core applications as well as identifying opportunities to trial and deploy new applications and tools",
+            "You will use your full stack software engineering experience to develop a mix of custom and third-party solutions to help us maintain our leadership position in transportation technology",
+            "Design, develop, and maintain complex software applications using .Net, or any modern platform for full stack development",
+            "Design and develop hybrid, on-prem and cloud-based solutions",
+            "Lead and mentor other developers in the team",
+            "Collaborate with cross-functional teams to identify and resolve software issues",
+            "Participate in code reviews and ensure code quality",
+            "Participate and lead in the full SDLC, including technical research, requirements gathering, design, development, testing, deployment, and maintenance",
+            "Implement and manage CI/CD processes to enable efficient software development and deployment",
+            "Develop and implement APIs and web based applications",
+            "Develop and maintain technical documentation and user manuals",
+            "Actively participate in event-driven architecture and worker services",
+            "Stay up to date with emerging trends and technologies in software engineering",
+            "Building industry leading solutions to help support rapid growth of our business"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$105,000-$125,000 base salary",
+            "Position based in Charlotte, NC – relocation assistant provided",
+            "Advancement opportunities with aggressive and structure career paths",
+            "Access to the latest emerging technologies",
+            "Reimbursement for continuous education and technical training",
+            "TQL's IT Team offers a hybrid work environment with the ability to work remotely 40 hours per month"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tql.com/",
+          "text": "tql.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=TQL&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIIxg4",
+          "text": "See web results for TQL"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hq21n3YfSbcZuhMOFG13fPS_whrxXTMmWngqe1I&s",
+      "extensions": [
+        "26 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "26 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlNULWhKZVJvZGcyNnlUWjVBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJGaEZPSEpXY1hCRk0zSkVkVXBSU0dGS2JXaGpUblZITVY5RGFYSmlUQzFNU1hCclJXeFpOR2QwTm05SVNWUkNOVzFpVUVkdlJDMW1iMkZ5WWpoS1dWRnhhVVJOUVRsVk5HWjRRa2xuTkdkaFFsTnNhemxrZWxwT00zaGljRWQzV0hBdFJIZGpTbnB6YkMxYVoxbGZNekp2WkVKVmNtTkRNbnBvWmkxMWJDMVRRWEJMVEV0dE1UUjBPV0V4ZVZWUVVFZGZhblp6WDBJNExVcExVMlJNUjFsSmIyeHBWUzB0YzNobFVIcERVMFJsWTFabk0wSTNUSFphTmpjeVFYRnlabE5SY21WWmRqSk5lRlptY0Y5b1JrTkpYMlJTWTNGS05VVkRaeElYVEdkNU1scGhiazVOY0Raek5VNXZVSE5aZFZKNVFVMGFJa0ZRV0dodE5XRXpPVzFmYVhsRVVsaFJPRzFFY0dSSE1XZDVkVzFRYW5SSWRHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRRTCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy50cWwuY29tL3VzL2VuL2pvYi8yMzEwMTkxMS9TZW5pb3ItU29mdHdhcmUtRW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Developer Intern (Hybrid), Summer 2024",
+      "company_name": "BAE Systems",
+      "location": "  Durham, NC   ",
+      "via": "via BAE Systems Jobs",
+      "description": "Job Description The BAE Systems GXP Software Team, based in Durham NC near Research Triangle Park, is seeking highly motivated engineering students to join our team as an intern. We are looking for candidates that will enjoy developing unique, cutting-edge solutions that help people make sense of exquisite imagery, video, and other sophisticated remote sensor data. We value those who are curious... to explore the \"what\", \"when\", \"how\", and \"why\" of world events using advanced technologies. We encourage attitudes towards problem solving driven by persistence, innovation, teamwork and a willingness to meet challenges head on.\n\nOur team develops state-of-the art software for sensor-data processing, analysis, storage, and visualization for challenging problems in the areas of video analytics, image processing, and other temporal data sources. We utilize the most advanced techniques for data science, machine learning, computer vision, statistical analysis, and cloud computing to discover hidden patterns in big data. We develop end-to-end applications that process data for desktop, web, embedded platforms, and large scale cloud computing environments. We believe collaboration is key, as such, you will be paired with a mentor to facilitate a smooth onboarding process as you become familiar with our products and the technologies we employ.\n\nOur commercial software products include:\n• GXP InMotion Server - ingests and streams real-time data feeds, providing recording and analytics capabilities\n• GXP InMotion Desktop - video and image analysis application\n• Track Analytics Software Suite (TASS) - a suite of algorithms for analyzing geospatial data\n• MOVINT Database - a geospatial big-data store with RESTful web service interfaces\n• GXP InMotion Web / MOVINT- a browser-based front end for visualizing and analyzing geospatial data\n\nYou can read more about our software and solutions here:\nInMotion Desktop and Server - https://www.geospatialexploitationproducts.com/content/gxpinmotion/\nMOVINT Solutions - https://www.geospatialexploitationproducts.com/content/movint/\n\nAs an intern, you will be working directly embedded with one of our small software teams. Depending on your background and interests your responsibilities may include one of the following:\n• Implementing new features in our web-based, cloud, and server-based products.\n• Investigating new technologies and open-source software for inclusion into our products.\n• Designing new enhancements to our software.\n• Working with a mentor to learn about software principles / technical development.\n• Development in Python, C++, Java, and/or JavaScript.\nPlease note that pursuant to a government contract, this specific position requires US citizenship status.\n\nBecause this role involves a combination of collaborative/in-person and independent work, it will take the form of a hybrid work format, with time split between working onsite and remotely.\n\nRequired Education, Experience, & Skills We are seeking candidates that are motivated to develop skills in new technical areas, solve challenging and unique problems, and enjoy working on a diverse range of assignments. Developers that know how to profile, optimize, and test their own code will fit best within our skilled and dynamic small team. Other job requirements include:\n• Enrolled in an accredited engineering/technical undergraduate or graduate degree program pursing a degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics\n• Basic understanding of and skills in software design and coding, including object-oriented analysis & design.\n• Exposure to at least one of Python, C++, Java, or JavaScript.\nPreferred Education, Experience, & Skills While not critical to the open position, experience with the following skills are useful in our organization and will be helpful as you expand your roles and responsibilities:\n• Course work one or more: Algorithms, Artificial Intelligence, Computer Architecture, Computer Graphics, Computer Networking, Data Science, Database Systems, Machine Learning, Operating Systems, UI/UX Design, Cloud technologies\n• Familiarity with software development/engineering, including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution.\n• Experience with IDEs such as Visual Studio, PyCharm, or NetBeans.\n• Experience with configuration management tools such as git.\n• Experience with build systems such as cmake, Maven, or Ant.\n• Experience with one or more of image processing, data science, or machine learning.\n\nPay Information\nFull-Time Salary Range: $42931 - $57949\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nTemporary employees generally are not eligible for BAE Systems benefits, but can elect to participate in the 401(k) savings plan. Temporary employees working 20+ hours per week are eligible for medical benefits, the employee assistance program, and business travel accident insurance.\nAbout BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve. At BAE Systems, we celebrate the array of skills, experiences, and perspectives our employees bring to the table. For us, differences are a source of strength. We’re laser-focused on high performance, and we work hard every day to nurture an inclusive culture where all employees can innovate and thrive. Here, you will not only build your career, but you will also enjoy work-life balance, uncover new experiences, and collaborate with passionate colleagues",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Please note that pursuant to a government contract, this specific position requires US citizenship status",
+            "Required Education, Experience, & Skills We are seeking candidates that are motivated to develop skills in new technical areas, solve challenging and unique problems, and enjoy working on a diverse range of assignments",
+            "Enrolled in an accredited engineering/technical undergraduate or graduate degree program pursing a degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics",
+            "Basic understanding of and skills in software design and coding, including object-oriented analysis & design",
+            "Exposure to at least one of Python, C++, Java, or JavaScript"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Implementing new features in our web-based, cloud, and server-based products",
+            "Investigating new technologies and open-source software for inclusion into our products",
+            "Designing new enhancements to our software",
+            "Working with a mentor to learn about software principles / technical development"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Full-Time Salary Range: $42931 - $57949",
+            "Please note: This range is based on our market pay structures",
+            "Temporary employees generally are not eligible for BAE Systems benefits, but can elect to participate in the 401(k) savings plan",
+            "Temporary employees working 20+ hours per week are eligible for medical benefits, the employee assistance program, and business travel accident insurance"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.baesystems.com/",
+          "text": "baesystems.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602116154&q=BAE+Systems&sa=X&ved=0ahUKEwipnJab0f-DAxUeFlkFHbFFBDk4AhCYkAIImQ8",
+          "text": "See web results for BAE Systems"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time and Internship",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time and Internship"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXIgSW50ZXJuIChIeWJyaWQpLCBTdW1tZXIgMjAyNCIsImh0aWRvY2lkIjoiUXdmQjRYdjVQOW5ZQTNhN0FBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYmpaelpFRkhiVkJvYkZoMmEweDZkV2RKZHpVMllXTlJjMncxVFdKeFoyVlhhVWRKYjJOMFVqaFBRMnQzYzBWMlF6ZE9Tamw0WDBzemJXNTZYelZLZG10bGIwRkRiRGN0TFdRMWQxVm9hMnN5YWxSMmFUVlhObGx0VDNWTk5sQTRhR1kyVlVGVk4wMVRVR0l0YVUxNmFEaDRlVmRUVHpKSlp6ZG5XRFJ0TUZaWGFWSjRMWEZsWmpOWWRXUnJiVjgzTWt0dU4za3hhRFYzVGpWdGExRnVlV1pWWDAxbVJHbG5OelprWWtGTWVWbFdVMjFKUWpNMGFUTllVa2hDTVZObVJsUlVTVXBNTmkweVNFZGtja3hrYkd0cmJUWlJWRTlmWmpWWmNsOUxlRXh1VGxwRWNsUjJWMUF5TW1GbVR6SlJTSFU0YkVwMGQweG5iRkJ1ZFVsc05VZFhPRlprVHhJWFRHZDVNbHBoYms1TmNEWnpOVTV2VUhOWmRWSjVRVTBhSWtGUVdHaHROVmxmTW01UmFUQk9NVGd4VTI1SFJrMWlRVzQyTm1GMmJsbEtkWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCQUUgU3lzdGVtcyBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy5iYWVzeXN0ZW1zLmNvbS9nbG9iYWwvZW4vam9iLzk1NDAwQlIvU29mdHdhcmUtRGV2ZWxvcGVyLUludGVybi1IeWJyaWQtU3VtbWVyLTIwMjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Coordinator",
+          "value": "coordinator"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Dev engineer",
+          "value": "dev engineer"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Integration engineer",
+          "value": "integration engineer"
+        },
+        {
+          "text": "It engineer",
+          "value": "it engineer"
+        },
+        {
+          "text": "Performance engineer",
+          "value": "performance engineer"
+        },
+        {
+          "text": "Platform engineer",
+          "value": "platform engineer"
+        },
+        {
+          "text": "Project engineer",
+          "value": "project engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Software programmer",
+          "value": "software programmer"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        },
+        {
+          "text": "Technical leader",
+          "value": "technical leader"
+        },
+        {
+          "text": "Test engineer",
+          "value": "test engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Charlotte, NC",
+          "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+        },
+        {
+          "text": "Raleigh, NC",
+          "value": "9-BRny9arImt8BGKUraQZw=="
+        },
+        {
+          "text": "Chantilly, VA",
+          "value": "GXJnGVZBtomDrRZD_PBBQA=="
+        },
+        {
+          "text": "Richmond, VA",
+          "value": "7cmZVwkRsYnFPELibT7Yvw=="
+        },
+        {
+          "text": "Arlington, VA",
+          "value": "D6ene522t4mTsPZFyG_P-A=="
+        },
+        {
+          "text": "Durham, NC",
+          "value": "8WYPEnHkrIl-8kaKidp64Q=="
+        },
+        {
+          "text": "Fredericksburg, VA",
+          "value": "JeDquuvBtomhkaYhCkWmfw=="
+        },
+        {
+          "text": "Springfield, VA",
+          "value": "nTrlhehNtokEpfoWJG_nZw=="
+        },
+        {
+          "text": "Dahlgren, VA",
+          "value": "dVKV5Z0Zt4m186akTSyHZw=="
+        },
+        {
+          "text": "Virginia Beach, VA",
+          "value": "pycV_OjBuolzAS6jgBAWBA=="
+        },
+        {
+          "text": "Alexandria, VA",
+          "value": "8aukkz5NtoksAcHbhib11w=="
+        },
+        {
+          "text": "Charleston, SC",
+          "value": "dySo3EJ6_ohr7OGu4Pf6NQ=="
+        },
+        {
+          "text": "Charlottesville, VA",
+          "value": "j6RQ6i2Gs4n8dIvDlvCGkA=="
+        },
+        {
+          "text": "Quantico, VA",
+          "value": "se6SyfT7tonq9kWWjRVARw=="
+        },
+        {
+          "text": "Fairfax, VA",
+          "value": "zZFLOZZOtolAhkSF5yYjBw=="
+        },
+        {
+          "text": "Fort Belvoir, VA",
+          "value": "3-oBRQAAt4mClX1eQIlrxQ=="
+        },
+        {
+          "text": "Tysons, VA",
+          "value": "-Vv4YvBKton6332u8QVIfA=="
+        },
+        {
+          "text": "Cary, NC",
+          "value": "Q4tK_1S9rInhS0Ra249WRA=="
+        },
+        {
+          "text": "Centreville, VA",
+          "value": "855KeoFEtoks2skWESuTCQ=="
+        },
+        {
+          "text": "Columbia, SC",
+          "value": "49ExeWml-IiW-nmz9Ago8w=="
+        },
+        {
+          "text": "Greensboro, NC",
+          "value": "eXvHOD8ZU4jIEr54lMS5kw=="
+        },
+        {
+          "text": "Morrisville, NC",
+          "value": "10H8rmWSrIk-q6M_Ay-_4Q=="
+        },
+        {
+          "text": "Salisbury, MD",
+          "value": "YZ6SVroDuYmTO2pbsYMqzA=="
+        },
+        {
+          "text": "Blacksburg, VA",
+          "value": "w9wG3AqVTYgt2kJI6rjOhg=="
+        },
+        {
+          "text": "Burnsville, NC",
+          "value": "TaOKDO5cVIiMfGS_SJEPmA=="
+        },
+        {
+          "text": "Chesapeake, VA",
+          "value": "mW0vgHqluol5C3GQFxt7TA=="
+        },
+        {
+          "text": "Fort Mill, SC",
+          "value": "92xGtFSEVogCel2lOwFDfw=="
+        },
+        {
+          "text": "Harrisonburg, VA",
+          "value": "VXEHP8OStIlfe73auWVOCA=="
+        },
+        {
+          "text": "Knightdale, NC",
+          "value": "-z14gahcrIkWR9xhsSs65g=="
+        },
+        {
+          "text": "Manassas, VA",
+          "value": "i9Zl1IBbtolS5_u2XptSgw=="
+        },
+        {
+          "text": "Norfolk, VA",
+          "value": "RcoiUzqXuokKHnrOfxCZqw=="
+        },
+        {
+          "text": "Warrenton, VA",
+          "value": "_-wj_HZ8tokzooNdvO7v2w=="
+        },
+        {
+          "text": "Burlington, NC",
+          "value": "u-PY68QrU4hed4rFOY2RjA=="
+        },
+        {
+          "text": "Chapel Hill, NC",
+          "value": "p35uIRzDrInL5EME4LoDfw=="
+        },
+        {
+          "text": "Claremont, NC",
+          "value": "-R0QSzlJUYgKTPi0-V1BjA=="
+        },
+        {
+          "text": "Cleveland, NC",
+          "value": "a3FbCdTkU4iqL_LXr04SJg=="
+        },
+        {
+          "text": "Duncan, SC",
+          "value": "hYhFjsx4V4iQHLz0RTxLDQ=="
+        },
+        {
+          "text": "Falls Church, VA",
+          "value": "rWNGem5LtolZlz2XiGZTbg=="
+        },
+        {
+          "text": "Fayetteville, NC",
+          "value": "I0qSQk8Tq4mbO3YSdZ6row=="
+        },
+        {
+          "text": "Gainesville, VA",
+          "value": "2bkRnyJmtolXLMoyS21BTA=="
+        },
+        {
+          "text": "Greer, SC",
+          "value": "W717_QsqWIjz_nPT4M9KEQ=="
+        },
+        {
+          "text": "Hampton, VA",
+          "value": "7ZVLmwGFuoldc4S1IkJWTA=="
+        },
+        {
+          "text": "Jeffersonton, VA",
+          "value": "JdxS68SBtokvT9F2FGg7XQ=="
+        },
+        {
+          "text": "King George, VA",
+          "value": "N9pKbA4gt4nNKxbniVxfUQ=="
+        },
+        {
+          "text": "Lexington Park, MD",
+          "value": "6cawhd9ht4kYCF-t3dN6iw=="
+        },
+        {
+          "text": "Liberty, NC",
+          "value": "2TOjEs05U4g4SjaiKwz2vA=="
+        },
+        {
+          "text": "Manassas Park, VA",
+          "value": "ubEj6XNbtokch2_vPAu8pw=="
+        },
+        {
+          "text": "Matthews, NC",
+          "value": "kbgLkvAjVIiAR5je9xMWBw=="
+        },
+        {
+          "text": "Mount Pleasant, SC",
+          "value": "9eUerhZt_ojjAV19n1CQaw=="
+        },
+        {
+          "text": "North Charleston, SC",
+          "value": "4_kLOK9j_ohwTfRLwJoeBw=="
+        },
+        {
+          "text": "Oakland, SC",
+          "value": "5RXtKeBc_4jvmD5S6V6svw=="
+        },
+        {
+          "text": "Pineville, NC",
+          "value": "o1wAvYucVogC2JhiowV-vA=="
+        },
+        {
+          "text": "Reston, VA",
+          "value": "5WUWJkdAtomfrnGo6K_fYw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Lowes",
+          "value": "/m/037922"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Parsons",
+          "value": "/m/0dxqn8"
+        },
+        {
+          "text": "Amentum",
+          "value": "/g/11j2vydq82"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Emergent Software",
+          "value": "/m/09mjr27"
+        },
+        {
+          "text": "GRAIL",
+          "value": "/g/11m_gx35t8"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "General Dynamics Corporation",
+          "value": "/m/0dq23"
+        },
+        {
+          "text": "HII's Mission Technologies division",
+          "value": "/g/11fy1t1m6q"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Markel",
+          "value": "/m/06zckd"
+        },
+        {
+          "text": "NetApp",
+          "value": "/m/03hm8t"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "Amazon",
+          "value": "/m/0mgkg"
+        },
+        {
+          "text": "Berriehill Research",
+          "value": "/g/11fy1vy5kb"
+        },
+        {
+          "text": "Booz Allen Hamilton",
+          "value": "/m/05jlg3"
+        },
+        {
+          "text": "CarMax",
+          "value": "/m/08763h"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "ENSCO Inc.",
+          "value": "/m/043jrqx"
+        },
+        {
+          "text": "Fidelity",
+          "value": "/m/028q26"
+        },
+        {
+          "text": "KBR",
+          "value": "/m/01p3w3"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "Peraton",
+          "value": "/g/11g9mq8fj6"
+        },
+        {
+          "text": "Regions",
+          "value": "/m/09hssh"
+        },
+        {
+          "text": "Splunk",
+          "value": "/m/05nzwm"
+        },
+        {
+          "text": "Veeva",
+          "value": "/g/11cnwjsbmh"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "AMERICAN SYSTEMS",
+          "value": "/g/1dv9y8cy"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Aeyon",
+          "value": "/g/11pzkf8wrl"
+        },
+        {
+          "text": "Agile Defense",
+          "value": "/g/11tmxgm2yl"
+        },
+        {
+          "text": "Align",
+          "value": "/m/02h67kb"
+        },
+        {
+          "text": "Allied Associates International",
+          "value": "/g/11c73t7b9x"
+        },
+        {
+          "text": "Austal USA",
+          "value": "/m/0fqbqv"
+        }
+      ]
+    }
+  ]
+}

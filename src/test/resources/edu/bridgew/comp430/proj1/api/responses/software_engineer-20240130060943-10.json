@@ -1,0 +1,1260 @@
+{
+  "search_metadata": {
+    "id": "65b892a737014c0cbcc95bde",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7427a2a1d27a8477/65b892a737014c0cbcc95bde.json",
+    "created_at": "2024-01-30 06:09:43 UTC",
+    "processed_at": "2024-01-30 06:09:43 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=10",
+    "raw_html_file": "https://serpapi.com/searches/7427a2a1d27a8477/65b892a737014c0cbcc95bde.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 10
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer (Platform Engineering) Remote",
+      "company_name": "Glocomms",
+      "location": "  Boston, MA   ",
+      "via": "via Glocomms",
+      "description": "Senior Software Engineer (Platform Engineering) - Cloud IoT Leader (Remote)\n\nAn innovative IoT solutions leader has an exciting opportunity for a Senior Software Engineer to join their Platform Engineering team. This firm creates IoT and cloud-based printing, imaging, and analytics systems that are used by a wide range of businesses and industries. They are known for their innovation... collaborative teams, commitment to their customer goals, and building the next generation of IoT imaging systems.\n\nThe Platform Engineering Team\n\nThis team is responsible for building and supporting their award-winning cloud platform, which is the primary system that allows them to build and deliver their next gen features. Specifically, their new cloud-hosted customer offerings in analytics, workflow, and automation. These new features have been very well received by customers because they help streamline the management, functionality, and usability of complex networks of IoT devices.\n\nYour Role\n\nWithin the Platform Engineering team, this role will be responsible for developing modern CI/CD pipelines, and developer and infrastructure tools with a cutting-edge tech stack. This role will collaborate closely with development teams to proactively anticipate and solve their engineering pain points, increase the overall velocity of development, and make their applications more maintainable and scalable.\n\nResponsibilities:\n• Design and build platform/infrastructure/developer tools using modern best practices\n• Work closely with Development teams to enhance CI/CD pipelines, improve the speed and quality of releases, and reduce friction for large-scale deployments\n• Modernize and make more efficient monitoring and application support\n• Automating and enhancing the responsiveness and elasticity of their cloud platform as workload requirements evolve\n\nQualifications:\n• 5+ years of experience in object-oriented programming with Python, Java, or Go\n• 3+ years of experience with modern IaC tools like Terraform, Cloudformation, Ansible, Chef, etc.\n• 3+ years of experience with AWS or Azure\n• 3+ years of experience with container/orchestration tools like Docker and Kubernetes\n• Demonstrated experience in Linux based development or administration\n\nBenefits:\n• Extremely competitive employee benefits program, 401K, and compensation package\n• One of the best-rated work cultures and work/life balances in the business\n• Casual dress, collaborative teams, and remote flexibility",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of experience in object-oriented programming with Python, Java, or Go",
+            "3+ years of experience with modern IaC tools like Terraform, Cloudformation, Ansible, Chef, etc",
+            "3+ years of experience with AWS or Azure",
+            "3+ years of experience with container/orchestration tools like Docker and Kubernetes",
+            "Demonstrated experience in Linux based development or administration"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Within the Platform Engineering team, this role will be responsible for developing modern CI/CD pipelines, and developer and infrastructure tools with a cutting-edge tech stack",
+            "This role will collaborate closely with development teams to proactively anticipate and solve their engineering pain points, increase the overall velocity of development, and make their applications more maintainable and scalable",
+            "Design and build platform/infrastructure/developer tools using modern best practices",
+            "Work closely with Development teams to enhance CI/CD pipelines, improve the speed and quality of releases, and reduce friction for large-scale deployments",
+            "Modernize and make more efficient monitoring and application support",
+            "Automating and enhancing the responsiveness and elasticity of their cloud platform as workload requirements evolve"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Extremely competitive employee benefits program, 401K, and compensation package",
+            "One of the best-rated work cultures and work/life balances in the business",
+            "Casual dress, collaborative teams, and remote flexibility"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.glocomms.com/",
+          "text": "glocomms.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Glocomms&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII3Ak",
+          "text": "See web results for Glocomms"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5vjApR2j1tbBAbsVM8f6s5PvbBc3BUKdpbOQL34&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKFBsYXRmb3JtIEVuZ2luZWVyaW5nKSBSZW1vdGUiLCJodGlkb2NpZCI6Ijh4WFp2QXgtV24tc0xJd1VBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamExcEhhMlJwWVZwMVkycG5RVk5WZFZwbExXc3phM1JSYW14SFkyRnRUME5EWDFaclZtSlZUbUo1WWsxT1lrOU5jSEJ5WkZWNVlYRlZRakY0WVY5aVRVbDZaVVpxWWxkdGFHTTRPWE5sWlc1bVgzZExZak5CUjBKcVZIUllkMkpLYW1OMGIyUkxWazAwTTBsclExTjNTVmc0TFRGbGVXVlNVSEoyYldaU2RIbE9ibU5OVTNKWldXbzNUVWhYWkVWSFIxbHpNM04xVWtGbGFEWnJMVXhOTkZwd1ZGQkZZbFZFUkdONWJtZFBYMnhWVERsSVJtZEpXVmRpZVUxVVVsZEJSRVpFZW5VeWF6ZERVa0ozWjBkWFQyOVFRelY2U1ROUllYWnhhbTVWUjFOd1FUbHJNVWxyYWtWdlZWTklNR2R6YTBoaFp6QXpjRWxUYVdWSGQyNUdNaTFxUjNnemNCSVhjRFZMTkZwamVUVkpkR3BrY0hSUlVHcHdMVzh0UVVrYUlrRlFXR2h0TldGeVdYWTJMWEEwTFZWRldUWlZlRTk0U0VGQmNtZHJWMGxrWDJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBHbG9jb21tcyIsImxpbmsiOiJodHRwczovL3d3dy5nbG9jb21tcy5jb20vam9iL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1wbGF0Zm9ybS1lbmdpbmVlcmluZy1yZW1vdGUtMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Java Software Engineer-Full Stack",
+      "company_name": "Fidelity Investments Careers",
+      "location": "  Boston, MA   ",
+      "via": "via Fidelity Careers - Fidelity Investments",
+      "description": "Job Description:\n\nThe Role...\n\nAsset Management Technology is seeking Senior Software Engineers for multiple teams in the organization (Equity, Fixed Income, High Income, Strategic Advisors, among others).\n\nOur team provides technology strategy and solutions to Asset Management. We deliver both Asset-Class [Equity, Fixed Income, High-Income, Institutional] as well as Core [Data, Common Platform] capabilities. We deliver innovative technology solutions and 'run-the-business' product support in partnership with investment teams in Asset Management.\n\nIn this role you will produce high-quality, testable code for sophisticated investment management products and efficiently deploy them onto AWS. We advocate the culture of leadership at all levels and this role is an excellent fit for those who demonstrate leadership and have a continuous technology progressive mentality.\n\nThese positions can be located in Boston, Merrimack, Durham ,Westlake , Smithfield .\n\nThe Expertise and Skills You Bring\n• Bachelor's degree (or above) in either Engineering or Computer Science related field\n• 5+ years’ experience as a full stack software engineer, delivering software using Agile methodology, scrum-based development practices and Agile-focused tools (Jira)\n• Deep knowledge of middleware Java stack, Spring framework, Oracle, messaging technologies (EMS or KAFKA) RESTful APIs and web containers\n• Exposure to test automation frameworks (JUNIT, Cucumber / FITNESS, Karate) that support all types of testing (unit, component, integration, system etc.) executed through CI/CD pipelines\n• Exposure to SQL/PLSQL\n• Proven understanding of fundamental design principles for building a scalable application\n• Experienced with AWS-based service implementation and deployment\n• Experience with UI tech stack/Single Page Applications desirable: HTML, JavaScript, and Angular is a plus\n• Strong contributor with a collaborative work style in building, crafting and reviewing code\n• Brings curiosity and a questioning mind-set to work, asking always about the “why” and the “value” of an activity or task\n\nCompany Overview\n\nAt Fidelity, we are passionate about making our financial expertise broadly accessible and effective in helping people live the lives they want! We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com. Fidelity Investments is an equal opportunity employer. Fidelity will reasonably accommodate applicants with disabilities who need adjustments to complete the application or interview process. Please email us at accommodations@fmr.com or call 800-835-5099, prompt 2, option 2 if you would like to request an accommodation.\n\nCertifications:\n\nCompany Overview\n\nFidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.\n\nJoin Us\n\nAt Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees’ Choice Award, we have been recognized by our employees as a Best Place to Work in 2023. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you’ve always imagined.\n\nAt Fidelity, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we’re calling “Dynamic Working”. Most associates will have a hybrid schedule with a requirement to work onsite at a Fidelity work location for at least one week, 5 consecutive days, every four weeks. These requirements are subject to change.\n\nWe invite you to Find Your Fidelity at fidelitycareers.com.\n\nFidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.\n\nFidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.\n\nAt Fidelity, we value honesty, integrity, and the safety of our associates and customers within a heavily regulated industry. Certain roles may require candidates to go through a preliminary credit check during the screening process. Candidates who are presented with a Fidelity offer will need to go through a background investigation and may be asked to provide additional documentation as requested. This investigation includes but is not limited to a criminal, civil litigations and regulatory review, employment, education, and credit review (role dependent). These investigations will account for 7 years or more of history, depending on the role. Where permitted by federal or state law, Fidelity will also conduct a pre-employment drug screen, which will review for the following substances: Amphetamines, THC (marijuana), cocaine, opiates, phencyclidine",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree (or above) in either Engineering or Computer Science related field",
+            "5+ years’ experience as a full stack software engineer, delivering software using Agile methodology, scrum-based development practices and Agile-focused tools (Jira)",
+            "Deep knowledge of middleware Java stack, Spring framework, Oracle, messaging technologies (EMS or KAFKA) RESTful APIs and web containers",
+            "Exposure to test automation frameworks (JUNIT, Cucumber / FITNESS, Karate) that support all types of testing (unit, component, integration, system etc.) executed through CI/CD pipelines",
+            "Exposure to SQL/PLSQL",
+            "Proven understanding of fundamental design principles for building a scalable application",
+            "Experienced with AWS-based service implementation and deployment",
+            "Strong contributor with a collaborative work style in building, crafting and reviewing code",
+            "Brings curiosity and a questioning mind-set to work, asking always about the “why” and the “value” of an activity or task"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role you will produce high-quality, testable code for sophisticated investment management products and efficiently deploy them onto AWS"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.fidelity.com/",
+          "text": "fidelity.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Fidelity+Investments+Careers&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAIIqQo",
+          "text": "See web results for Fidelity Investments Careers"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd0mAjymYiWFTIrwJHk6jFUWPYUbfFBgBlYP7&s=0",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSmF2YSBTb2Z0d2FyZSBFbmdpbmVlci1GdWxsIFN0YWNrIiwiaHRpZG9jaWQiOiJ0Yk1Td2huTnhhU1o2aThMQUFBQUFBPT0iLCJmYyI6IkV1SUNDcUlDUVU1MVYyaGpibUZaZDNSUFkwWTRWalpaU1dGM01UTllNREpJYmtoMFdXOVVhVXBDVnpGWFMwOXhWVFpaZUcxT2F6ZE1NVWh6Umt0RFNXeGplR1phTlZCemRFVnhTVkpVUlhWcE5FcFBaazFrY1cxcVkxbENXRlpZTFRkTGRqVjZWRFF6ZHpOMWVEVmZkM2hXYkVSNGVrVm1XbTltZURjelp5MUdNWEJLYld4c2JVTjNjR2RXU3kxME1HVlRiMTlpUzFKV2RIRm9NRzV3TFhRMlkwOVNiVGRLZEhkdlFVMVJMVGwzZERRdFEycHVhbm8wTlVReWVubE9YMHMxYW1sT1JqWnVTMDFGWldGQ1QxTTJjR1kyU1ZkV1MwcGpNbVpUTFRsU1JITnBiemx4YUZGT1ZXWm1MVFJMVG1KdVZrSXdTemQyYWt0T2RXWnhkSFZQUmxKak1HWk9ha05tUjNsQlJFdFFaR3A2UWpKd1lWaEZOR1pvYVdwalpVMDJUM0pEVW1jU0YzQTFTelJhWTNrMVNYUnFaSEIwVVZCcWNDMXZMVUZKR2lKQlVGaG9iVFZoUkVkdVNtZzVhelprWVRBd1ozQmxRelZZUkdSdVFXeGtUMFpSIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBGaWRlbGl0eSBDYXJlZXJzIC0gRmlkZWxpdHkgSW52ZXN0bWVudHMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmZpZGVsaXR5LmNvbS9qb2ItZGV0YWlscy8xNzgyMjY2Mi9zZW5pb3ItamF2YS1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineering Lead, Vice President",
+      "company_name": "State Street",
+      "location": "  Quincy, MA   ",
+      "via": "via State Street Careers",
+      "description": "Who we are looking for\n\nState Street is embarking on a multi-year program to modernize the payment initiation experience of clients. In order to augment the team, we are looking for a senior engineering lead who has had experience developing and deploying highly performant web based applications and REST service end-points on cloud infrastructure...\n\n.\n\nSelect if ONSITE: Due to the role requirements this job needs to be performed primarily in the office with some flex work opportunities available.\n\nWhat you will be responsible for\n\nAs Vice President – Software Engineering Lead, you will\n• Strong understanding on Cloud Infrastructure as Code and Cloud Native Application Development\n• Lead the Application Architecture, Design & Development activities\n• Manage cross-functional engineering teams.\n• Drive prioritization of technical investment on in-scope platforms\n• Design performant, efficient, effective, and reusable technical solutions (partnering with architecture)\n• Manage projects, ensuring that they are completed on time and within budget.\n• Partner effectively with DevOps, Production Support, and peer platform teams\n• Review/Pickup stories, code reviews, and support production platforms\n• Hire, train, and develop team members to ensure that they have the skills and knowledge required to deliver high-quality software solutions.\n• End-to end platform owner and engineer: design, build, and support resilient services/solutions\n• Partner with business owners to define platform roadmaps and scope for initiatives/features\n• Lead Migration of legacy platforms to cutting edge cloud based services\n• Experience in DBs like Oracle, PostgreSQL, migration, and analysis activities\n• Design and implement cross tool integrations\n\nWhat we value\n\nThese skills will help you succeed in this role\n• Experience in any legacy modernization and transformation\n• Should have expert knowledge in Java/J2EE technology with expertise in Microservices architecture, service mesh, design and integration patterns\n• Experience in Application CI/CD pipeline and automation\n• Experience in cloud platform like Azure, AWS, VMC on AWS\n• Experience with IaC or Terraform\n\nEducation & Preferred Qualifications\n• Degree in Computer Science or related field\n• At least 10 years of experience working with J2EE and Web based applications with Oracle or any other relational database. Experience developing REST based web services.\n• Experience migrating applications to AWS/Azure cloud platforms.\n• AWS or Azure certifications highly preferred.\n\nAdditional requirements\n\nAre you the right candidate? Yes!\n\nWe truly believe in the power that comes from the diverse backgrounds and experiences our employees bring with them. Although each vacancy details what we are looking for, we don’t necessarily need you to fulfil all of them when applying. If you like change and innovation, seek to see the bigger picture, make data driven decisions and are a good team player, you could be a great fit.\n\nWhy this role is important to us\n\nOur technology function, Global Technology Services (GTS), is vital to State Street and is the key enabler for our business to deliver data and insights to our clients. We’re driving the company’s digital transformation and expanding business capabilities using industry best practices and advanced technologies such as cloud, artificial intelligence and robotics process automation.\n\nWe offer a collaborative environment where technology skills and innovation are valued in a global organization. We’re looking for top technical talent to join our team and deliver creative technology solutions that help us become an end-to-end, next-generation financial services company.\n\nJoin us if you want to grow your technical skills, solve real problems and make your mark on our industry.\n\nAbout State Street\n\nWhat we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.\n\nWork, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.\n\nInclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you.\n\nState Street is an equal opportunity and affirmative action employer.\n\nSalary Range:\n$110,000 - $185,000 Annual\n\nThe range quoted above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range could differ",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience in any legacy modernization and transformation",
+            "Should have expert knowledge in Java/J2EE technology with expertise in Microservices architecture, service mesh, design and integration patterns",
+            "Experience in Application CI/CD pipeline and automation",
+            "Experience in cloud platform like Azure, AWS, VMC on AWS",
+            "Experience with IaC or Terraform",
+            "Experience migrating applications to AWS/Azure cloud platforms"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As Vice President – Software Engineering Lead, you will",
+            "Strong understanding on Cloud Infrastructure as Code and Cloud Native Application Development",
+            "Lead the Application Architecture, Design & Development activities",
+            "Manage cross-functional engineering teams",
+            "Drive prioritization of technical investment on in-scope platforms",
+            "Design performant, efficient, effective, and reusable technical solutions (partnering with architecture)",
+            "Manage projects, ensuring that they are completed on time and within budget",
+            "Partner effectively with DevOps, Production Support, and peer platform teams",
+            "Review/Pickup stories, code reviews, and support production platforms",
+            "Hire, train, and develop team members to ensure that they have the skills and knowledge required to deliver high-quality software solutions",
+            "End-to end platform owner and engineer: design, build, and support resilient services/solutions",
+            "Partner with business owners to define platform roadmaps and scope for initiatives/features",
+            "Lead Migration of legacy platforms to cutting edge cloud based services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our benefits packages are competitive and comprehensive",
+            "Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks",
+            "You’ll have access to flexible Work Programs to help you match your needs",
+            "And our wealth of development programs and educational support will help you reach your full potential",
+            "You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you",
+            "$110,000 - $185,000 Annual"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.statestreet.com/",
+          "text": "statestreet.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=State+Street&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII_Ao",
+          "text": "See web results for State Street"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKUvVoZmAUfXc_qa2evRqIxPRR5ZnbGMxgNCKsnI&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyBMZWFkLCBWaWNlIFByZXNpZGVudCIsImh0aWRvY2lkIjoiRGhnRURxNkNnNWx6dG1jRUFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYm1KQmNXOXVVMDVEUTNoNWRHSnNNM1ppUkROUWFWWnNTRFE0U1VWcWVrbE1la2xFZUVGek5XUjFTelZYVmxreVVuZHlWM2hEU0RaMGRrNXhPVzR4YUVReU1EZGlkVVl0TUZadFpHRkhOa2hEWkRGR056VkdVblF3YVhaSlUweE1aWFpRU0dSbFNIVjFNbUZ4YmsxdFkwa3hOakI0Um1aeE9YZGlibGx1UldGSGVuVkpZV2QxWTJad2VqRmpSSFZDV1RsSWRsZFdTRWhUU2twdVMzcEpZWGhuVWt0MFRrSmhhVFk0YTNVeVpsTkVlbFpuT1dSVWExVTJVVVo1ZGpCWWRqZFRjbXRsTVU1SVRWcFhkVkpWU25kSE5VZHVhR2xsY1Zrd1lXSnlNVjkwVkVGRlNWTXlSVE5uV1hOaFgxWjNWUklYY0RWTE5GcGplVFZKZEdwa2NIUlJVR3B3TFc4dFFVa2FJa0ZRV0dodE5XRkZWbEZ2Um5WVFRYVlpNMEprWkY5UllpMWpUV2t6YWpSbVdXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU3RhdGUgU3RyZWV0IENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnN0YXRlc3RyZWV0LmNvbS9nbG9iYWwvZW4vam9iL1NUU1RHTE9CQUxSNzQxODEwRVhURVJOQUxFTkdMT0JBTC9Tb2Z0d2FyZS1FbmdpbmVlcmluZy1MZWFkLVZpY2UtUHJlc2lkZW50P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "Ascensus",
+      "location": "  Boston, MA   ",
+      "via": "via Ascensus Career Opportunities",
+      "description": "At Ascensus, technology is more than just a solution. It powers the business that helps millions of people save for what matters—retirement, education, and healthcare. Our technology experts tackle exciting challenges in collaborative teams, but work in an environment where individual and career development is always valued. Technology associates leverage their talents and passion, building new... and innovative platforms, creating programs founded in automation in agile frameworks, and driving existing and new markets—all of which supports the rapid growth of a dynamic industry leader.\nPosition Summary\n\nAs a Principal Software Engineer at Ascensus, you will be working in a high-energy team, writing beautiful code using the best engineering practices in the industry today. Passion for problem solving and and all aspects of software development is a critical. We are building teams that are empowered to solve the business needs by having a rapid development and deployment pipeline with a focus on automation and continuously releasing software.\nAs a key contributor to the Scrum team, you will be responsible for leading the team to deliver solutions that adhere to the software architecture strategy, coding standards, and established organizational policies and procedures and providing technical and architecture guidance to others in your areas of expertise\n\nJob Functions, Essential Duties and Responsibilities\n• Analyze software requirements to determine best solution to deliver business goals including estimating and planning throughout an agile software development lifecycle\n• Modify codebase to implement complex software modifications following appropriate standards for coding and design patterns, source code control, unit testing, and continuous integration and deployment\n• Analyze and troubleshoot complex errors in software application to determine root cause and resolution\n• Assist with testing and written description of application software changes\n• Collaborate with team members, actively participate in all Scrum ceremonies and activities including pair programming and peer code review with a constant focus on continuous improvement\n• Establishes alignment with Product Owner & Product Manager to understand, influence, and deliver on road maps with a sense of responsibility for application architecture and technical execution\n• Be a driver for innovation on the scrum team by leading or assisting in technical research initiatives, working with other teams, participating in technical architecture discussions to influence decisions and maintain consistency across the organization.\n• Lead by example, act as a role model, coach, mentor and provide continuous feedback to other team members, especially in the areas of technical and architecture expertise or when production issues arise\n• Responsible for protecting, securing, and proper handling of all confidential data held by Ascensus to ensure against unauthorized access, improper transmission, and/or unapproved disclosure of information that could result in harm to Ascensus or our clients\n• Our I-Client service philosophy and our Core Values of People Matter, Quality First and Integrity Always® should be visible in your actions on a day to day basis showing your support of our organizational culture\n\nSupervision\n• None\n\nExperience, Skills, Knowledge Requirements\n• Bachelor’s degree in computer science, engineering or related experience preferred.\n• Minimum 8 years of professional experience developing in Java, Angular and SQL based databases\n• Experience with modern version control systems (e.g. Git) and CI/CD deployment pipelines and methodologies\n• Successfully led projects driven by a product organization, including change leadership, solutioning and incremental releases\n• Strong technical leadership skills for effective participation in design discussions with both technical and non-technical audiences creating technical documentation and diagrams\n• Experience mentoring and technical coaching less experienced developers\n• Strong experience with distributed systems, Services Oriented Architecture, RESTful services and Microservices development\n• Extensive understanding of good object oriented design principles (patterns, cohesion/coupling, S.O.L.I.D., data structures and algorithms)\n• Strong experience writing clean and maintainable code using engineering best practices such as unit testing, TDD, continuous integration and deployment, automation, design patterns, refactoring, etc\n• Strong experience with Agile SDLC practices\n• Excellent problem solving and communication skills\n• Strong trouble shooting skills\n\nThe national average salary range for this role is $100k-180k in base pay, exclusive of any bonuses and benefits. This base salary range represents the low and high end of the salary range for this position. Actual salary offered will vary and may be above or below the range based on various factors including but not limited to location, experience, performance, and internal pay alignment. We do not anticipate that candidates hired will begin at the top of the range however, from time to time, it may occur on a case-by-case basis.  Other rewards and benefits may include: 401(k) match, Medical, Dental, Vision, Paid-Time-Off, etc.  For more information, please visit careers.ascensus.com/#Benefits.\n\nBe aware of employment fraud. All email communications from Ascensus or its hiring managers originate from @ascensus.com or @futureplan.com email addresses. We will never ask you for payment or require you to purchase any equipment. If you are suspicious or unsure about validity of a job posting, we strongly encourage you to apply directly through our website",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum 8 years of professional experience developing in Java, Angular and SQL based databases",
+            "Experience with modern version control systems (e.g",
+            "Git) and CI/CD deployment pipelines and methodologies",
+            "Strong technical leadership skills for effective participation in design discussions with both technical and non-technical audiences creating technical documentation and diagrams",
+            "Experience mentoring and technical coaching less experienced developers",
+            "Strong experience with distributed systems, Services Oriented Architecture, RESTful services and Microservices development",
+            "Extensive understanding of good object oriented design principles (patterns, cohesion/coupling, S.O.L.I.D., data structures and algorithms)",
+            "Strong experience writing clean and maintainable code using engineering best practices such as unit testing, TDD, continuous integration and deployment, automation, design patterns, refactoring, etc",
+            "Strong experience with Agile SDLC practices",
+            "Excellent problem solving and communication skills",
+            "Strong trouble shooting skills"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Principal Software Engineer at Ascensus, you will be working in a high-energy team, writing beautiful code using the best engineering practices in the industry today",
+            "As a key contributor to the Scrum team, you will be responsible for leading the team to deliver solutions that adhere to the software architecture strategy, coding standards, and established organizational policies and procedures and providing technical and architecture guidance to others in your areas of expertise",
+            "Analyze software requirements to determine best solution to deliver business goals including estimating and planning throughout an agile software development lifecycle",
+            "Modify codebase to implement complex software modifications following appropriate standards for coding and design patterns, source code control, unit testing, and continuous integration and deployment",
+            "Analyze and troubleshoot complex errors in software application to determine root cause and resolution",
+            "Assist with testing and written description of application software changes",
+            "Collaborate with team members, actively participate in all Scrum ceremonies and activities including pair programming and peer code review with a constant focus on continuous improvement",
+            "Establishes alignment with Product Owner & Product Manager to understand, influence, and deliver on road maps with a sense of responsibility for application architecture and technical execution",
+            "Be a driver for innovation on the scrum team by leading or assisting in technical research initiatives, working with other teams, participating in technical architecture discussions to influence decisions and maintain consistency across the organization",
+            "Lead by example, act as a role model, coach, mentor and provide continuous feedback to other team members, especially in the areas of technical and architecture expertise or when production issues arise",
+            "Responsible for protecting, securing, and proper handling of all confidential data held by Ascensus to ensure against unauthorized access, improper transmission, and/or unapproved disclosure of information that could result in harm to Ascensus or our clients",
+            "Our I-Client service philosophy and our Core Values of People Matter, Quality First and Integrity Always® should be visible in your actions on a day to day basis showing your support of our organizational culture",
+            "Successfully led projects driven by a product organization, including change leadership, solutioning and incremental releases"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The national average salary range for this role is $100k-180k in base pay, exclusive of any bonuses and benefits. This base salary range represents the low and high end of the salary range for this position",
+            "Actual salary offered will vary and may be above or below the range based on various factors including but not limited to location, experience, performance, and internal pay alignment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.ascensus.com/",
+          "text": "ascensus.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Ascensus&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII0Qs",
+          "text": "See web results for Ascensus"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlNUMDRrSEd5YnFMNm9KSlBBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJqZDFXV3RVVXpNd01qUklWRGgzUkhSR2IwMU5TMEpMZW5CRGExUlljVzlJUnkxWmJ6UkdUMkoyVkV4SFpYQmxWSHBqZEdZeGFHSkxTbU56VlRodVVuaHRUa2RwZEdSdGRHOURWMm8xYUVNdGNFNHhNMG8yV25GUGR6QlFkbmxsZFVwUllteEtNMVZpZG5CSWVEQjVOVTFsYUhGblUwaERObEU0UWxGTVpHTkliR05RYkhObU4xTXpSRUZMU0hkQmIyTmxha0UwZG1oWWQxWmlNMDVJYXpNNVVtWnpMVk5yWlhWNU4wUlpaa1o1TmtGWVR6bFpOMnR0T0RNelpGbE9aWE5rWmtwM1EyWnhPREJyZEVKeVMwdDZXRmR6U0RRek5FRjVVUklYY0RWTE5GcGplVFZKZEdwa2NIUlJVR3B3TFc4dFFVa2FJa0ZRV0dodE5WbGFWMFEzWVdsdGVrVkJSRlY1V1Vsa1VsRnpWRUZTWjJ4RlNFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQXNjZW5zdXMgQ2FyZWVyIE9wcG9ydHVuaXRpZXMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmFzY2Vuc3VzLmNvbS9qb2JzL3ByaW5jaXBhbC1zb2Z0d2FyZS1lbmdpbmVlci1ib3N0b24tbWFzc2FjaHVzZXR0cy11bml0ZWQtc3RhdGVzLWZjM2JlN2Q0LTRlMzEtNDc5ZS1hYTMyLTczMGE0NGFhY2E3ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "Bright Horizons Family Solutions",
+      "location": "  Newton, MA   ",
+      "via": "via Bright Horizons Careers",
+      "description": "Primary Purpose\n\nReporting to the Senior Director, IT Application Development, the Principal Software Engineer is responsible for developing and delivering development solutions...\n\nEssential Functions/Responsibilities\n• Be part of a fast paced, highly technical development team responsible for developing and delivering SaaS solutions to HR organizations\n• Serve as a lead architect in the design, and develop software systems and subsystems. Work within the software team and across other lines of business to determine the proper approach to software development challenges.\n• Research and champion new technologies and approaches.\n• Learn and prototype. Make recommendations based on upcoming product and project roadmaps.\n• Conduct design and code reviews and provide feedback on engineering best practices.\n• Mentor and guide other software engineers within the team\n• Participate in all phases of SDLC: from system analysis to technical design and development and test to deployment and support.\n\nAdditional Job Requirements\n• Expert in back-end development using .NET core/ .NET, C#, Rest/GraphL Api, SQL Server.\n• Expert in front-end development using Angular, HTML5, Typescript, JavaScript, Unit test framework\n• MVC frameworks (Spring a strong plus)\n• Database Development (MS SQL Server a strong plus)\n• Web Development (Angular, jQuery a strong plus, RESTful Web Services\n• Agile methodologies experience (e.g. Scrum) a strong plus\n• Excellent understanding of engineering best practices and software design\n• Ability to thrive in a collaborative team environment.\n• Mobile app development experience a plus, Mobile First and Responsive Web Design experience a plus.\n\nEducation\nRequired/Preferred Education Level Description\n• Required Bachelor's Degree Computer Science or Engineering\n• Preferred Master's Degree Computer Science or Engineering\nExperience\nRequired/Preferred Years of Experience Description\nRequired 8+ years of programming experience\n\nThe range of compensation listed here or that may be discussed in the interview process is what Bright Horizons in good faith anticipates offering for this job opening. Actual compensation offers will depend on a variety of factors including experience, education and training, certifications, geography, and other relevant business or organizational factors.\n\nLife at Bright Horizons:\n\nOur home office employees support all facets of our business — and no matter which department you join, you’ll be part of a passionate team doing work that makes a difference in the lives of children and families.\n\nOur people are the heart of our company. Because we’re as committed to our own employees as we are to the clients we serve, our collaborative workplaces are designed to grow careers and support personal lives. Here, you’ll find traditional perks (health insurance, 401(k), PTO, and flex spending) plus childcare discounts, education assistance, and so much more. Join us to experience how we support our people to realize their passion, possibilities, and purpose both at work and at home. All in a workplace where you can be you. Come build a brighter future with us.\n\nHAVING TECHNICAL ISSUES WITH YOUR APPLICATION?\n\nContact us at bhrecruit@brighthorizons.com or 855-877-6866\n\nBright Horizons is dedicated to creating a workforce that promotes and supports diversity and inclusion. We provide equal employment opportunities to all individuals without discrimination. Bright Horizons complies with the laws and regulations set forth in the following EEO is the Law Poster: EEO – English and EEO – Spanish along with information on the Family and Medical Leave Act (FMLA) and Employee Polygraph Protection Act (EPPA).\n\nApplicants requiring a reasonable accommodation for any part of the application and hiring process should contact the recruitment helpdesk at 855-877-6866 or bhrecruit@brighthorizons.com. Determinations on requests for reasonable accommodation will be made on a case-by-case basis",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Expert in back-end development using .NET core/ .NET, C#, Rest/GraphL Api, SQL Server",
+            "Expert in front-end development using Angular, HTML5, Typescript, JavaScript, Unit test framework",
+            "MVC frameworks (Spring a strong plus)",
+            "Database Development (MS SQL Server a strong plus)",
+            "Web Development (Angular, jQuery a strong plus, RESTful Web Services",
+            "Agile methodologies experience (e.g",
+            "Scrum) a strong plus",
+            "Excellent understanding of engineering best practices and software design",
+            "Ability to thrive in a collaborative team environment",
+            "Required 8+ years of programming experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Reporting to the Senior Director, IT Application Development, the Principal Software Engineer is responsible for developing and delivering development solutions",
+            "Be part of a fast paced, highly technical development team responsible for developing and delivering SaaS solutions to HR organizations",
+            "Serve as a lead architect in the design, and develop software systems and subsystems",
+            "Work within the software team and across other lines of business to determine the proper approach to software development challenges",
+            "Research and champion new technologies and approaches",
+            "Learn and prototype",
+            "Make recommendations based on upcoming product and project roadmaps",
+            "Conduct design and code reviews and provide feedback on engineering best practices",
+            "Mentor and guide other software engineers within the team",
+            "Participate in all phases of SDLC: from system analysis to technical design and development and test to deployment and support"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Actual compensation offers will depend on a variety of factors including experience, education and training, certifications, geography, and other relevant business or organizational factors",
+            "Here, you’ll find traditional perks (health insurance, 401(k), PTO, and flex spending) plus childcare discounts, education assistance, and so much more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.brighthorizons.com/",
+          "text": "brighthorizons.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Bright+Horizons+Family+Solutions&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAIIpww",
+          "text": "See web results for Bright Horizons Family Solutions"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlMbSIrChbEK9ru__ZUY5_2sX57DORkZLYgbXPzk&s",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InN3YlJtWjNEUHk3U3kzYXBBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJVVlNkWE53ZFdOUlVXbHVZMEZvY2pSTFZFOW5kRGxhZWtoZlRrRnRNbE51VjNSQ1VFUmlVWHBqTjJ0NWVrZ3lUMk5SUzBWd1ozcEdjSGx5WWxaVE4yUnNZMnBMZFROWk1VOVdNbFF3VG5sVFdIWkdRVFp2YWtsRWNXcDVOR3QyVFUxTGEyaHNUM28xTlhsa2JHWjJNMHh0U0V4SWRtd3dhMjFSWWs1UExUTjJOVFZTVW0xRVdra3RjR3BJYVVsYVREWlZWemw0VUVOU01WQk5Vbk5NTVZjdE5VdEhYMTg0ZWxwWGRtOURVVXhFYUZCb1VGZ3paRlZmYVRkb1FYSktSaTFuUTBGd04xSjJkMWxWU0hweGVHWkVNQzAyUlhKbmJXSkphRkpJVG14V1dqQlBNemRWUlVoVlVGSlJSbFJ0UjBKV1ZtMHlXWEUzYTFaMVpTMVdhVUpDYlZGUlJoSVhjRFZMTkZwamVUVkpkR3BrY0hSUlVHcHdMVzh0UVVrYUlrRlFXR2h0TldGNFJuSlZURFZSUkZneFEwTkRORVEzUlhKU2RXZDBiM1ZzYkdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCcmlnaHQgSG9yaXpvbnMgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYnJpZ2h0aG9yaXpvbnMuY29tL3VzL2VuL2pvYi9KUi0wOTUwMjkvUHJpbmNpcGFsLVNvZnR3YXJlLUVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Sr. Backend Software Engineer",
+      "company_name": "Topline Pro",
+      "location": "  Boston, MA   ",
+      "via": "via Y Combinator",
+      "description": "About Topline Pro\n\nWe’re building AI powered Shopify for service businesses. We help service pros (e.g., roofers, landscapers, painters) acquire direct business, fast. Up and running within minutes using Generative AI, our digital storefront products help pros get discovered, trusted, and booked repeatedly...\n\nTopline Pro is co-founded by Nick Ornitz (CEO) and Shannon Kay (CPO) with an excellent team of 30+ rockstars including VP of Engineering, Goss Nuzzo-Jones, with plans to expand to more in 2024. We serve over 1,000 local service businesses and were named as one of the 2023 top 50 Tech Companies building for SMBs.\n\nWe're YC-backed and well funded through a recent Series A with several years runway, and we’ve experienced rapid growth in 2023. We're looking for an engineering teammate who can not only help us shape our product and engineering culture but also shape the company itself.\n\nWe care deeply about a culture that is inclusive and equitable for people of all backgrounds and experiences. We particularly encourage people from communities that tend to be underrepresented to apply, including but not limited to women, people of color, and people who identify as LGBTQ+.\n\nWe believe “great candidates” do not come about through simply a checkmark next to past experiences. We believe in hiring people not just skills. Even if you do not check every box but find excitement at the prospect of working with us in this capacity, please apply.\n\n⚡ What you'll do\n• Design, develop, test, deploy, maintain and improve our web application and services\n• Manage individual priorities, deadlines, and deliverables\n• Work closely with our engineering leaders, contributing strategically and play a key role in the product development process\n• Help to drive robust software engineering process and practice\n• Consider opportunity for team leadership as our engineering organization grows\n\n🎯 What we're looking for\n• 6+ years experience as a software engineer or similar engineering role\n• Excellent problem-solving skills to address dynamic and complex problems\n• Required experience with the following: Python, JavaScript/TypeScript, Node.js,\n• Preferred experience with some of the following: Django, Celery, frontend web UI framework\n• Preferred experience with the following: PostgreSQL, cloud deployment\n• Experience in an Agile Scrum environment, bonus points if you have experience as a scrum master\n• Excellent written and verbal communication skills\n\n🤗 Who you are\n• Team player with a passion for learning\n• Goofball who loves having fun\n\n🙌 What we offer\n• Competitive cash compensation ($150k - $180k) and equity package\n• Full Medical, Dental and Vision Health Coverage\n• Computer and workspace enhancements\n• Monthly stipend for mental and physical health\n• 401(k) plan\n• Unlimited vacation, 7 company holidays including election day, and 1 personal volunteer day a year\n• Opportunity as one of our first engineering hires to take on significant responsibility and ownership in building a product that can change the lives of home service pros\n• Fun-filled team that doesn’t take themselves too seriously, including virtual cameos from the team dog mascots Caro and Alta\n\n🌎 Where you'll work\n\nWe're a hybrid team with presence in Boston and NYC. Preference is for at least 4 days per week in the Boston office. You can view our website at toplinepro.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "6+ years experience as a software engineer or similar engineering role",
+            "Excellent problem-solving skills to address dynamic and complex problems",
+            "Required experience with the following: Python, JavaScript/TypeScript, Node.js,",
+            "Experience in an Agile Scrum environment, bonus points if you have experience as a scrum master",
+            "Excellent written and verbal communication skills",
+            "Team player with a passion for learning",
+            "Goofball who loves having fun"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, develop, test, deploy, maintain and improve our web application and services",
+            "Manage individual priorities, deadlines, and deliverables",
+            "Work closely with our engineering leaders, contributing strategically and play a key role in the product development process",
+            "Help to drive robust software engineering process and practice",
+            "Consider opportunity for team leadership as our engineering organization grows"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive cash compensation ($150k - $180k) and equity package",
+            "Full Medical, Dental and Vision Health Coverage",
+            "Computer and workspace enhancements",
+            "Monthly stipend for mental and physical health",
+            "401(k) plan",
+            "Unlimited vacation, 7 company holidays including election day, and 1 personal volunteer day a year",
+            "Opportunity as one of our first engineering hires to take on significant responsibility and ownership in building a product that can change the lives of home service pros"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Topline+Pro&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII_gw",
+          "text": "See web results for Topline Pro"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEI9c3iUUTJG4YxA3qNHh5xWPTSkGigmTUYQyNgWI&s",
+      "extensions": [
+        "150K–180K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "150K–180K a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQmFja2VuZCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiVHdXQjJXNnl0V0dxbnM3R0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYmtwdFNqazNZMGh2YW5ocmJVWkZNUzFMTlZaRVVVNXJORE5ITTFKWldVZHJUVmxLV1UxcFNEQnpaMUpMVVVSRVpWQlBXVFZ2ZVVad2RWTjBZV1EyUkdWb1puQkllRnB1TVhGT01YSTJhRUZRU2tWMWJFOURORWx6WXpGU1ozbDRTemRPV1dWdVdFTm5PVk5CYzBoeWVXVmFiMGRGU1Vsc2NqYzNSVVl5TFVObE4wRldSM2QyTkMxSGNsWnhkREk1YlU1blNqTkpUa1Z1UVRCc1JreEZVVWcyTmpWRldGODRTRGxOY2pWc1p6UndhblF0ZUdwelRHZEpVbWsyYzNoNGMyUmxRMXBPWVhWeVNuaE9ibVF5Y1ZwUk5GOTBSR0ZwVldNMlp4SVhjRFZMTkZwamVUVkpkR3BrY0hSUlVHcHdMVzh0UVVrYUlrRlFXR2h0TldKNFZYbDBRVVU0VjIxblYwTjFaelJUUWxsSVRWZFhZVFV5ZGtFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWSBDb21iaW5hdG9yIiwibGluayI6Imh0dHBzOi8vd3d3Lnljb21iaW5hdG9yLmNvbS9jb21wYW5pZXMvdG9wbGluZS1wcm8vam9icy9QNWRpY0QxLXNyLWJhY2tlbmQtc29mdHdhcmUtZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "company_name": "RISE Robotics",
+      "location": "  Somerville, MA   ",
+      "via": "via Jobs By Workable",
+      "description": "As a Senior Embedded Software Engineer for our robotic motion control systems, you'll play a pivotal role in the development and enhancement of the software that powers our state-of-the-art lifting solutions. You'll collaborate with cross-functional teams, contribute to the design and implementation of critical software components, and ensure the reliability and performance of our systems.\n\nKey... Responsibilities:\n\nEmbedded Software Development: Design, develop, and maintain embedded software for our robotic lift systems, ensuring high performance, reliability, and safety.\n\nSystem Integration: Collaborate with hardware engineers to integrate software with the RISE platform's hardware components.\n\nAlgorithm Development: Create and optimize control algorithms for precise and efficient robotic lifting operations.\n\nReal-time Systems: Develop and implement software for real-time control, feedback systems, and sensor integration.\n\nTesting and Debugging: Conduct thorough testing and debugging of software to identify and resolve issues, ensuring robust and error-free operation.\n\nDocumentation: Maintain comprehensive documentation for software design, development, and testing processes.\n\nCollaboration: Work closely with cross-functional teams, including mechanical engineers, electrical engineers, and application specialists, to achieve project goals.\n\nThis position is a hybrid role with 2-3 days/week in Somerville, MA and will report to the Director of Embedded Systems.\n• At least 5 years of professional experience developing C/C++ applications and platforms in an electromechanical product environment, with a minimum 3 years developing tools and infrastructure using python\n• Proven expertise in applying mathematical and statistical methods to analyze data sets, make data-driven decisions, and develop innovative solutions\n• Demonstrated ability to operate independently, producing robust and documented software modules\n• Experience successfully managing and improving embedded release processes\n• Experience designing and interfacing with motor control systems, battery management systems, wireless communications, and/or automotive telematics\n• Demonstrated experience using common embedded communications interfaces: CAN, SPI, I2C, UART\n• Familiarity with modern microcontroller systems on at least ARM and one more family such as MIPS or PowerPC\n• Ability to read and understand complex technical literature such as datasheets, schematics, production process diagrams\n• Bonus points if you have:\n• Developed IoT communications systems using common services like MQTT, Wi-Fi, Bluetooth or cellular communications\n• Experience developing CAN interfaces including J1939, CANOpen, OBD, or other onboard diagnostic services\n• Experience with ISO 26262, IEC 61508, DO-178C or other software safety standards\n• Competitive compensation package, including equity options\n• Health, dental, life, and disability insurance\n• Blue Cross Blue Shield health insurance policy- RISE™ pays 70% of the premium\n• 401(k) program\n• Twenty days PTO and ten office holidays\n• Flexible/hybrid work options\n• Weekly lunches and company outings (holiday parties, milestone celebrations)\n• Free parking/T accessible\n• Located in Union Square in Somerville, MA\n\nAbout RISE™Robotics\n\nFounded in 2011 by graduates of Massachusetts Institute of Technology (MIT) and Rhode Island School of Design (RISD), RISE™Robotics is a high-growth technology company backed by The Engine, a Tough Tech venture capital fund built by MIT, Greentown Labs, and Techstars. RISE™Robotics is leading the way to Zero Emission heavy machinery by providing the world's most efficient and productive alternative to hydraulics. To support the growth and success of the RISE team and technology, we are looking for an experienced engineer to take on critical work at RISE.\n\nRISE™Robotics is an equal opportunity employer that values diversity at all levels. All individuals, regardless of personal characteristics, are encouraged to apply",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "At least 5 years of professional experience developing C/C++ applications and platforms in an electromechanical product environment, with a minimum 3 years developing tools and infrastructure using python",
+            "Proven expertise in applying mathematical and statistical methods to analyze data sets, make data-driven decisions, and develop innovative solutions",
+            "Experience designing and interfacing with motor control systems, battery management systems, wireless communications, and/or automotive telematics",
+            "Demonstrated experience using common embedded communications interfaces: CAN, SPI, I2C, UART",
+            "Familiarity with modern microcontroller systems on at least ARM and one more family such as MIPS or PowerPC",
+            "Ability to read and understand complex technical literature such as datasheets, schematics, production process diagrams",
+            "Experience developing CAN interfaces including J1939, CANOpen, OBD, or other onboard diagnostic services",
+            "Experience with ISO 26262, IEC 61508, DO-178C or other software safety standards"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Embedded Software Engineer for our robotic motion control systems, you'll play a pivotal role in the development and enhancement of the software that powers our state-of-the-art lifting solutions",
+            "You'll collaborate with cross-functional teams, contribute to the design and implementation of critical software components, and ensure the reliability and performance of our systems",
+            "Embedded Software Development: Design, develop, and maintain embedded software for our robotic lift systems, ensuring high performance, reliability, and safety",
+            "System Integration: Collaborate with hardware engineers to integrate software with the RISE platform's hardware components",
+            "Algorithm Development: Create and optimize control algorithms for precise and efficient robotic lifting operations",
+            "Real-time Systems: Develop and implement software for real-time control, feedback systems, and sensor integration",
+            "Testing and Debugging: Conduct thorough testing and debugging of software to identify and resolve issues, ensuring robust and error-free operation",
+            "Documentation: Maintain comprehensive documentation for software design, development, and testing processes",
+            "Collaboration: Work closely with cross-functional teams, including mechanical engineers, electrical engineers, and application specialists, to achieve project goals",
+            "This position is a hybrid role with 2-3 days/week in Somerville, MA and will report to the Director of Embedded Systems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive compensation package, including equity options",
+            "Health, dental, life, and disability insurance",
+            "Blue Cross Blue Shield health insurance policy- RISE™ pays 70% of the premium",
+            "401(k) program",
+            "Twenty days PTO and ten office holidays",
+            "Weekly lunches and company outings (holiday parties, milestone celebrations)",
+            "Free parking/T accessible"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.riserobotics.com/",
+          "text": "riserobotics.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=RISE+Robotics&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII1w0",
+          "text": "See web results for RISE Robotics"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMCjcH5gdjLqt7KNcymTRuXZTYS1GUWmr2IgKGM4&s",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRW1iZWRkZWQgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlU3VE5rbFdpZDhwRU52dGNBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJGRjJjWFJMUzNRM1YxTlFaWFJoYzBOd2RrUTFPQzF1U2xCRlMwbG1NblY1VVZWQk4wVXRMVlJVTWpGNll6aHFZMWxtWTBNMmFFSmZNRTV0VlVaNWVURTVYMVJOVjNOblNUbHVObFl3Y1U1aVRXVm9RMFp6Y2pRdFNISk5UMlZUT0RWRFJuVnFlVlJJV0RoRGVGOTBTMDVQVFhCWE5VaG1WekpXTlVwWmRGZHBVUzFSUjI4dE5HUjNVbkJHT1dsNFVtVjNSbWxNTVZOMmVuUjFRbHBaVjJ4WE0yWjJSbFY0ZFU5elJtc3piVUkxVG5wNlMydEVUSEZMTWt3MVp6TmxiRTl5ZG5SUlpGWm5kbk4xTTBwQ1ZEUnJhemhETm5selpsaHRlVmwxTjJ0V2FtaHBYMjFZVkRjMFpYUlBWWEppUlJJWGNEVkxORnBqZVRWSmRHcGtjSFJSVUdwd0xXOHRRVWthSWtGUVdHaHROV0pzVldvdGNEQmFPWFp1UWkxeWFERkNOV1Z0VFRWbWN6WXlXRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBKb2JzIEJ5IFdvcmthYmxlIiwibGluayI6Imh0dHBzOi8vYXBwbHkud29ya2FibGUuY29tL3Jpc2Utcm9ib3RpY3Mvai83MjI3NEY5ODA1Lz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Finish Line Staffing Services",
+      "location": "  Foxborough, MA   ",
+      "via": "via Finish Line Staffing",
+      "description": "Our client, a medical device contract manufacturing company, has an immediate opening for a Software Engineer. This role will provide software and firmware design, development, and validation of new medical devices and equipment.\n\nResponsibilities...\n• Lead the technical aspects of software development on assigned projects\n• Participate in the development and selection of system architectures and technologies\n• Conceive and develop the software architecture\n• Author software development plans, software requirements specifications, and software risk\nassessments\n• Design, code, and implement software for medical devices in conformance with software development and life-cycle processes under IEC 62304\n• Generate software design history documentation\n• Design and execute software testing as necessary to verify software design and performance\n• Participate in software validation activities including code reviews and validation test documentation development\n\nRequirements:\n• B.S. Degree in Software Engineering, Electrical Engineering, or equivalent; M.S. degree preferred\n• 8 or more years overall software development experience with C, C++\n• 2 years or more experience with C#, GUI implementations, and Python\n• 8 or more years experience with embedded microprocessor software/firmware development and debug experience, ARM-based, DSP and mixed signal microcontroller embedded environments\n• Experience with sensor data acquisition and processing, motor controls, temperature controls, bootloader design, networking, GUI, touchscreen, and device drivers required\n• Experience with communication buses (such as I2C, SPI, RS232, 1-wire, etc.) and Ethernet and associated protocols\n• Experience in the medical device industry is preferred, including an understanding of IEC 62304 software quality standards\n• A working understanding of FDA QSR principles is preferred\n• Requires a motivated individual that can work with minimal supervision\n• Full range of motion for wrist, hand, and finger dexterity\n• Sitting, working at a computer for long periods of time\n• Could include lifting up to 25 pounds and standing for long periods of time\n• This position requires 100% on-site attendance",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8 or more years overall software development experience with C, C++",
+            "2 years or more experience with C#, GUI implementations, and Python",
+            "8 or more years experience with embedded microprocessor software/firmware development and debug experience, ARM-based, DSP and mixed signal microcontroller embedded environments",
+            "Experience with sensor data acquisition and processing, motor controls, temperature controls, bootloader design, networking, GUI, touchscreen, and device drivers required",
+            "Experience with communication buses (such as I2C, SPI, RS232, 1-wire, etc.) and Ethernet and associated protocols",
+            "Requires a motivated individual that can work with minimal supervision",
+            "Full range of motion for wrist, hand, and finger dexterity",
+            "Sitting, working at a computer for long periods of time",
+            "Could include lifting up to 25 pounds and standing for long periods of time",
+            "This position requires 100% on-site attendance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role will provide software and firmware design, development, and validation of new medical devices and equipment",
+            "Lead the technical aspects of software development on assigned projects",
+            "Participate in the development and selection of system architectures and technologies",
+            "Conceive and develop the software architecture",
+            "Author software development plans, software requirements specifications, and software risk",
+            "Design, code, and implement software for medical devices in conformance with software development and life-cycle processes under IEC 62304",
+            "Generate software design history documentation",
+            "Design and execute software testing as necessary to verify software design and performance",
+            "Participate in software validation activities including code reviews and validation test documentation development"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Finish+Line+Staffing+Services&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAIIpQ4",
+          "text": "See web results for Finish Line Staffing Services"
+        }
+      ],
+      "extensions": [
+        "26 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "26 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiM2s3bTB2c1RrWkdZcW5rREFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYmpoUlVIUmhiSFZSUzA5RE5ubzVNakp1TW5kNE56RjVUREZNYVc5amQybDFNRmhIYkZRMFFUQlRTRmhmVTNscU5GaFFkMlYxYWtac2JsaHlRVGxzT0hKT1lXdGhjbUZpU25Cak9ITkNVVXBOVTNodGFFSkVhMlpaWmtvelYyeDZaR1JtTlZKaVRsa3hRMUpKVEV3MFpuTjFlakZYYURNNVdYQldRMUpzUWpSbmQwSktaazlXT0U1dGNrRXhhSFl0VG1Kd2MxUmtUM2xLWlRKelpXeDBSbWxIZUV4R2R6TnBhbVpFY0dwWVdVWnJSRlJ0VlVoRWVXWXRUVTVUVmtGb2R6WktiemxWU1hSeWMzcHFSV05LTjJzMGRHb3hRVEZpVlVOeU9WSTBRblJoWkdwZmNsRkVZVUpxT1cxNWFXWXRaeElYY0RWTE5GcGplVFZKZEdwa2NIUlJVR3B3TFc4dFFVa2FJa0ZRV0dodE5XRm1kRWgzTFZWQloybG5WVVZRVVRka1RrWmhkelJDTTBFeGNrRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZpbmlzaCBMaW5lIFN0YWZmaW5nIiwibGluayI6Imh0dHBzOi8vd3d3LmZpbmlzaGxpbmVzdGFmZmluZy5jb20vam9iL3NvZnR3YXJlLWVuZ2luZWVyLTMvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "SimpliSafe",
+      "location": "  Boston, MA   ",
+      "via": "via Greenhouse",
+      "description": "About SimpliSafe\n\nWe’re a high-tech home security company that’s passionate about protecting the life you’ve built and our mission of keeping Every Home Secure. And we’ve created a culture here that cares just as deeply about the career you’re building. Ours is a no-ego culture of collaboration and innovation where those seeking their next challenge can find big opportunities and make a huge... impact on the lives of all those who we protect. We don’t just want you to work here. We want you to grow and thrive here.\n\nWe’re embracing a hybrid work model that enables our teams to split their time between office and home. Hybrid for us means we expect our teams to come together in our state-of-the-art office on two core days, typically Tuesday and Wednesday, to work together in person, and teams can choose where they work for the remainder of the week. We all benefit from flexibility and get to use the best of both worlds to get our work done.\n\nWhy are we hiring?\n\nWell, we’re growing and thriving. So, we need smart, talented, and humble people who share our values to join us as we disrupt the home security space and relentlessly pursue our mission of keeping Every Home Secure.\n\nWhat You’ll Do\n\nAt SimpliSafe, we design, develop, manufacture, and sell our own line of wireless, connected home security systems: home sensors, cameras, and locks. Our technology and service platform secures the homes of millions of Americans without the hassles, long term contracts, or fees of traditional Home Security.\n\nSimpliSafe is looking for a Principal Software Engineer to join our Camera software development team driving our current and next generation camera platforms. In this role, you will:\n• Lead the architectural design and development for our current and next generation camera platforms.\n• Collaborate with internal (Product, QA, cloud engineering) and third-party engineering teams to develop effective software solutions that aligns with business development.\n• Create documentation for software design, implementation, and testing methodologies.\n• Affect organization-wide initiatives involving software architecture and best practices.\n\nAbout You\n• Experience leading and building (architecture and implementation) consumer-grade, cross-functional software systems\n• 10+ years in a software development role with a track-record as a technical lead\n• Providing technical guidance and mentorship to engineers\n• Established Modern C++ (C++11, 14 and higher) language skills with experience in object-oriented software development in embedded applications\n• Values testing (unit, mock, integration) and test-based/driven software development.\n• Experience developing on 32-bit embedded systems running an RTOS or embedded Linux.\n• Experience working with finite state machines and event-driven architectures\n\nGood to have\n• Experience with video/audio encoding standards (MJPEG, H.264, MPEG-3) and streaming protocols (WebRTC preferred)\n• Experience integrating AWS Kinesis or similar SDKs into embedded products.\n• Experience working with consumer IoT products.\n\nBenefits & Perks\n• Health, dental and vision coverage - We cover 80% of plans\n• Unlimited paid time off - To give you the flexibility and work/life balance you seek\n• 401k Matching and Company Equity - To help you prepare for the future\n• Commuter Pre-Tax Benefits - To help cover the costs of transportation and parking at our Downtown Boston HQ\n• And many more!\n\nWe wholeheartedly embrace and actively seek applications from all individuals, no matter how they identify. We are committed to cultivating a diverse and inclusive workplace, and we believe our work is enriched when we incorporate a multitude of perspectives, backgrounds, and experiences. We want everyone who works here to thrive and contribute to not only our mission of keeping every home secure, but also to making our workplace safe and supportive for others. If a reasonable accommodation may be needed to fully participate in the job application or interview process, to perform the essential functions of a position, or to receive other benefits and privileges of employment, please contact careers@simplisafe.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience leading and building (architecture and implementation) consumer-grade, cross-functional software systems",
+            "10+ years in a software development role with a track-record as a technical lead",
+            "Providing technical guidance and mentorship to engineers",
+            "Established Modern C++ (C++11, 14 and higher) language skills with experience in object-oriented software development in embedded applications",
+            "Values testing (unit, mock, integration) and test-based/driven software development",
+            "Experience developing on 32-bit embedded systems running an RTOS or embedded Linux",
+            "Experience working with finite state machines and event-driven architectures",
+            "Experience integrating AWS Kinesis or similar SDKs into embedded products",
+            "Experience working with consumer IoT products"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Lead the architectural design and development for our current and next generation camera platforms",
+            "Collaborate with internal (Product, QA, cloud engineering) and third-party engineering teams to develop effective software solutions that aligns with business development",
+            "Create documentation for software design, implementation, and testing methodologies",
+            "Affect organization-wide initiatives involving software architecture and best practices"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health, dental and vision coverage - We cover 80% of plans",
+            "Unlimited paid time off - To give you the flexibility and work/life balance you seek",
+            "401k Matching and Company Equity - To help you prepare for the future",
+            "Commuter Pre-Tax Benefits - To help cover the costs of transportation and parking at our Downtown Boston HQ"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://simplisafe.com/",
+          "text": "simplisafe.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=SimpliSafe&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII-w4",
+          "text": "See web results for SimpliSafe"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_DkbM4QfsjSZBNyKb_0XboLhcbTgNgfLY-Ri5lE&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjNTdmQxS2dnZEZBRVBXaUJBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJHdFNkemd6ZVd4U01UaHFiVUl0TWpaWmMySmtZbmxFVEZwVkxXMU9lbDgwTVhOemRWQmFTekZ4Y0ZCMVVXMTZWekYxUWtocVJWVTNXbk0zVkRWSVpYZ3hiMWhIV2tKM05YTk1OVGd0UVhvNWRXUjNka3B1VGxKWFJFZHFWbU5QYldJeVdIazBMVUV0ZUU4eE1UaEVNUzF2YzNjelRIcG1NRWc1WDFOdk5DMDFValF4T0VGTFFYbG1PR2wxTTB0a1gxUmxVMnBCZUVsTFVEUnVNbVpMV1ZvMVgyeHhVSEZ1VTA4eldHUTFjbm8wV1V0MGNHUnNMVUV0UldsS09YbElUVk5HTFdkNlFUSkdTMmt4WDJkdVVVOXBRVGhxWkhrd1pWaExaeElYY0RWTE5GcGplVFZKZEdwa2NIUlJVR3B3TFc4dFFVa2FJa0ZRV0dodE5XSlpUR0ZFTTFrd1RXVk9NVFZ4Y0dWclowc3hSV0pyTVUxaE0xRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEdyZWVuaG91c2UiLCJsaW5rIjoiaHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9zaW1wbGlzYWZlL2pvYnMvNTQxMjI0MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer - Foundation",
+      "company_name": "Wasabi Technologies",
+      "location": "  Boston, MA   ",
+      "via": "via Lever",
+      "description": "At Wasabi, we’re a proven collection of pioneers, visionaries and disruptive doers. We see things differently than our competitors, and we make our mark in the industry by challenging the norm and delivering the unexpected and improbable. We’re a fast-growing company taking the Cloud Storage industry by storm and recognized as one of the best places to work in Boston.\n\nWasabi hot cloud storage is... a new class and category of cloud storage, breaking all traditional barriers and boundaries of storage with a disruptive value proposition of being 1/5th the cost of AWS S3, faster than the competition, with no fees for egress or API request and delivered as a single-tier solution. Cloud storage has never been so simple, so fast and so inexpensive. It’s all part of our vision to make cloud storage the next great global utility, just like electricity.\n\nRole Description: Senior Software Engineer - Foundation\n\nRole Purpose:\n\nTo be successful in this role, you should have expertise in agile software development, be able to collaborate with team members, and be a strategic problem-solver. In this position, you should demonstrate excellent communication skills, an ability to connect with other engineers and developers, and have a solid foundation in software design.\n• Principals Only. No Recruiters.\n\nResponsibilities:\n• We’re seeking a Kubernetes expert to design, deploy, and oversee Kubernetes clusters across multiple global data centers managed by Wasabi.\n• Implementing design patterns for distributed systems, configuring, and managing CI/CD pipelines and create the container infrastructure platform.\n• You will play a critical role in ensuring the scalability, availability, and security of our applications while collaborating closely with cross-functional teams to deliver high-quality solutions.\n• Implement security best practices in Kubernetes configurations, container images, and cloud environments ensuring compliance with industry standards and regulations.\n• Work with a highly effective agile team helping define and build our global application and services framework.\n• Create documentation for deployment processes, infrastructure architecture, and troubleshooting guides.\n• Maintain a consistent level of communication between developers and the application stakeholders.\n• Contribute to the improvement of the team’s software and agile process.\n\nRequirements:\n• 7+ years of software development experience.\n• Proven experience in designing, deploying, and managing large scale distributed Kubernetes clusters in production environments is a must.\n• Proven experience in containerization technologies and familiarity with container orchestration patterns is a must.\n• Understanding and expertise with Linux and scripting a must. Experience with Ansible, Terraform and related tools.\n• Experience with any public cloud environments (AWS, Azure, etc).\n• Understanding of web services and modern API best practices (HTTP, REST, GRPC).\n• Working knowledge of TCP/IP, UDP and SSL/TLS.\n• Experience with Agile software development principles and methodologies.\n• Bonus:\n• Previous experience in a cloud storage environment.\n• Possess a good attitude and a “team-first” mentality.\n\nWasabi Technologies is an Equal Opportunity Employer. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "In this position, you should demonstrate excellent communication skills, an ability to connect with other engineers and developers, and have a solid foundation in software design",
+            "7+ years of software development experience",
+            "Proven experience in designing, deploying, and managing large scale distributed Kubernetes clusters in production environments is a must",
+            "Proven experience in containerization technologies and familiarity with container orchestration patterns is a must",
+            "Understanding and expertise with Linux and scripting a must",
+            "Experience with Ansible, Terraform and related tools",
+            "Experience with any public cloud environments (AWS, Azure, etc)",
+            "Understanding of web services and modern API best practices (HTTP, REST, GRPC)",
+            "Working knowledge of TCP/IP, UDP and SSL/TLS",
+            "Experience with Agile software development principles and methodologies",
+            "Previous experience in a cloud storage environment",
+            "Possess a good attitude and a “team-first” mentality"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "To be successful in this role, you should have expertise in agile software development, be able to collaborate with team members, and be a strategic problem-solver",
+            "We’re seeking a Kubernetes expert to design, deploy, and oversee Kubernetes clusters across multiple global data centers managed by Wasabi",
+            "Implementing design patterns for distributed systems, configuring, and managing CI/CD pipelines and create the container infrastructure platform",
+            "You will play a critical role in ensuring the scalability, availability, and security of our applications while collaborating closely with cross-functional teams to deliver high-quality solutions",
+            "Implement security best practices in Kubernetes configurations, container images, and cloud environments ensuring compliance with industry standards and regulations",
+            "Work with a highly effective agile team helping define and build our global application and services framework",
+            "Create documentation for deployment processes, infrastructure architecture, and troubleshooting guides",
+            "Maintain a consistent level of communication between developers and the application stakeholders",
+            "Contribute to the improvement of the team’s software and agile process"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://wasabi.com/",
+          "text": "wasabi.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Wasabi+Technologies&sa=X&ved=0ahUKEwiMqZXeuYSEAxXYrokEHY4PCi84ChCYkAII0g8",
+          "text": "See web results for Wasabi Technologies"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOUak48mjxU4bZhKlBdL6H3pfQwDTc__nLJGJ&s=0",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBGb3VuZGF0aW9uIiwiaHRpZG9jaWQiOiJQUWVocU92bnMzX1dmT2dqQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpibmxMZEVSMFluQTNMVWhaYVU1NlUyNUlNalUyZFMxdFVsZzVhRzEwYUVJeGRYTlRWRkF3WDBoT01WQkJlVk00VG1aNk9XRmxWVzR3YTBzd2VsaEJPWGRwTkMxVFVsa3lWblpwYWxWclZtVlhUaTFWWDNkS2FFSkNVVU4yWWtkNVVqTktNMHhWVEVOQ1EwMWpiblZOUVc1WGJ6aFFVbVpYUlhWTFNXdHdPVVJqUmt0c01YSkZObE51YVZkQk1HMXJlR1JaWVV4aWMwZFRNeTA1YUhsRGNFaExiRXRsY2swNFZVUnViRFJpUlZWNFNHMTJSMFZKUkc0eVJXNXNUMUo2ZUVvMGIxQkxSRkozVjNwU09VcG1WVkV4VEhOeVNtcE1MVUpoWVdKb05sSjJUMU5WTjNwUWNVaHdPVmd3Y1dsamVuRndWVFJ6V0U5TlFYZEVMVUZYZVVsbU5FTXdWQklYY0RWTE5GcGplVFZKZEdwa2NIUlJVR3B3TFc4dFFVa2FJa0ZRV0dodE5WcFZXR3hJVVZCcGRFUlJVbEZLZVVaSFlVbGlXVTR5ZUZwMk4wRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExldmVyIiwibGluayI6Imh0dHBzOi8vam9icy5sZXZlci5jby93YXNhYmkvMmU4NjNlM2MtMzRjNy00NThjLTg0ZGMtMDYwMzA5N2Q3NjMzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Graduate",
+          "value": "graduate"
+        },
+        {
+          "text": "Apprentice",
+          "value": "apprentice"
+        },
+        {
+          "text": "Architect",
+          "value": "architect"
+        },
+        {
+          "text": "Associate director",
+          "value": "associate director"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Engineer senior",
+          "value": "engineer senior"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sr manager",
+          "value": "sr manager"
+        },
+        {
+          "text": "Technical",
+          "value": "technical"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "New York, NY",
+          "value": "Owg_06VPwoli_nfhBo8LyA=="
+        },
+        {
+          "text": "Boston, MA",
+          "value": "GzE9DS1l44mg6GIBJL98eA=="
+        },
+        {
+          "text": "Philadelphia, PA",
+          "value": "60u11Ni3xonBWD6M2BT1iQ=="
+        },
+        {
+          "text": "Jersey City, NJ",
+          "value": "3a-_JdJQwonZJc2iE_BJAg=="
+        },
+        {
+          "text": "Cambridge, MA",
+          "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+        },
+        {
+          "text": "Scranton, PA",
+          "value": "u0tIdzrZxIno-purIHny_w=="
+        },
+        {
+          "text": "Hoboken, NJ",
+          "value": "0TMVjWBXwomHvzcRasq2RA=="
+        },
+        {
+          "text": "Newark, NJ",
+          "value": "HQ6aMnBTwolz5P7cKty84Q=="
+        },
+        {
+          "text": "Bala Cynwyd, PA",
+          "value": "7e-ZaKK4xols4Jb3ae4UaQ=="
+        },
+        {
+          "text": "Hartford, CT",
+          "value": "pVER8hFT5omZWX3pqEqOzA=="
+        },
+        {
+          "text": "Keene, NH",
+          "value": "cxohhHh04Ym988LHrkxToA=="
+        },
+        {
+          "text": "Merrimack, NH",
+          "value": "1efXpFe044l54yBVgEdgtw=="
+        },
+        {
+          "text": "New Haven, CT",
+          "value": "5XCAOkTY54ntZLJZxlSj9g=="
+        },
+        {
+          "text": "Princeton, NJ",
+          "value": "8VnQcsHmw4nC1hNKk0nNPw=="
+        },
+        {
+          "text": "Elizabeth, NJ",
+          "value": "HQVC7l9NwomtA2tSG1mFMg=="
+        },
+        {
+          "text": "King of Prussia, PA",
+          "value": "LWNuLDWUxomVU8G_MZcJ-g=="
+        },
+        {
+          "text": "Yarmouth, ME",
+          "value": "hdEcQRWBskyELMiFukdDMA=="
+        },
+        {
+          "text": "Albany, NY",
+          "value": "S_tPzDQK3onEKOegEmOh4Q=="
+        },
+        {
+          "text": "Atlantic City, NJ",
+          "value": "IcdcblfdwIliUmfpQ8tvSg=="
+        },
+        {
+          "text": "Burlington, MA",
+          "value": "P_ntUvj244kNqYFbrDQY7g=="
+        },
+        {
+          "text": "Foxborough, MA",
+          "value": "KYmCiN9i5ImzaNgIVYe8sg=="
+        },
+        {
+          "text": "Hackensack, NJ",
+          "value": "Sd7vtxv6wonXFt1oiK0KQg=="
+        },
+        {
+          "text": "Manchester, NH",
+          "value": "o2xmaNZO4ol5cTUfRjIEaw=="
+        },
+        {
+          "text": "Marlborough, MA",
+          "value": "be5haA6L44nEr_VVS6rpxw=="
+        },
+        {
+          "text": "Middletown Township, NJ",
+          "value": "hUseZQItwonRqKE7V_EdPg=="
+        },
+        {
+          "text": "Moorestown, NJ",
+          "value": "Cf1erJhKwYlE5OFLXyl4tg=="
+        },
+        {
+          "text": "Nashua, NH",
+          "value": "hb_6LeSw44lV6otCEQhmtg=="
+        },
+        {
+          "text": "Newton, MA",
+          "value": "pSUHhAmC44l-r3CbewiSVQ=="
+        },
+        {
+          "text": "Paterson, NJ",
+          "value": "gUIFaTT8wonaJPvHYNHKvg=="
+        },
+        {
+          "text": "Providence, RI",
+          "value": "XXN-Q-BE5IkntrNITXzfaQ=="
+        },
+        {
+          "text": "Quincy, MA",
+          "value": "Ze_yl8Fk44ljQcUamLT4zA=="
+        },
+        {
+          "text": "Rome, NY",
+          "value": "DYryPb4O2Yn3s_xscRqgSg=="
+        },
+        {
+          "text": "Stamford, CT",
+          "value": "C7zHsmShwolutzSci4ZDhw=="
+        },
+        {
+          "text": "Trenton, NJ",
+          "value": "ubs9LUhDwYm811yJf1YWzw=="
+        },
+        {
+          "text": "Waltham, MA",
+          "value": "3eQad-F344nEWv4aYofa3g=="
+        },
+        {
+          "text": "Worcester, MA",
+          "value": "DYsqWlgG5IltTcp_2H0Tng=="
+        },
+        {
+          "text": "Augusta, ME",
+          "value": "ncSsr_0AskwtCyJkjUijeQ=="
+        },
+        {
+          "text": "Bedford, MA",
+          "value": "qzLc-s-e44mAzPSCsAfS-Q=="
+        },
+        {
+          "text": "Binghamton, NY",
+          "value": "0bet33Lv2ol_M-33A5ePBg=="
+        },
+        {
+          "text": "Bristol, CT",
+          "value": "p6GRxEu654knDLt1i2H5Yg=="
+        },
+        {
+          "text": "Cherry Hill, NJ",
+          "value": "lT7iC2bLxonAva3Y7AnbNQ=="
+        },
+        {
+          "text": "Chicopee, MA",
+          "value": "8X7bX6jd5om1TLGRnpnrSw=="
+        },
+        {
+          "text": "Clifton, NJ",
+          "value": "6drDvuL-wolTMn8iM1gZZA=="
+        },
+        {
+          "text": "Concord, NH",
+          "value": "F4lKFZZq4onxKCWmoHGoBQ=="
+        },
+        {
+          "text": "Fort Lee, NJ",
+          "value": "Uelm2Of2wolEJXj9W0l1hQ=="
+        },
+        {
+          "text": "Fort Washington, PA",
+          "value": "McSS1-W6xonmB9zq3PmKcA=="
+        },
+        {
+          "text": "Freeport, NY",
+          "value": "1esxKIZ7wokVOR48olu3hQ=="
+        },
+        {
+          "text": "Guilford, CT",
+          "value": "70QutNws5ok51rIEviNH6A=="
+        },
+        {
+          "text": "Hammonton, NJ",
+          "value": "VQYXudEnwYkolf0RrklXww=="
+        },
+        {
+          "text": "Hauppauge, NY",
+          "value": "PSErlOow6IlW2_PY_hAQGQ=="
+        },
+        {
+          "text": "Hicksville, NY",
+          "value": "u3lvHeKAwomU2kg0LrOA5A=="
+        },
+        {
+          "text": "Holmdel, NJ",
+          "value": "RRhIB_gywoleoeuQBVROvA=="
+        },
+        {
+          "text": "Hopkinton, MA",
+          "value": "sSCuhPN05IkM_YEiFpro-A=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Legal",
+          "value": "/business/naics2007/5411"
+        },
+        {
+          "text": "Security",
+          "value": "/business/naics2007/5616"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "Meta",
+          "value": "/m/0hmyfsv"
+        },
+        {
+          "text": "Jobot",
+          "value": "/g/11jrq3t_g3"
+        },
+        {
+          "text": "Datadog",
+          "value": "/m/0wfvvyq"
+        },
+        {
+          "text": "Susquehanna International Group, LLP (SIG)",
+          "value": "/m/02ql0fl"
+        },
+        {
+          "text": "Fidelity Investments",
+          "value": "/m/028q26"
+        },
+        {
+          "text": "Ramp",
+          "value": "/g/11vc3pp9sw"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "S&P Global",
+          "value": "/m/02_nl4"
+        },
+        {
+          "text": "State Street",
+          "value": "/m/06nlq"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "Blizzard Entertainment",
+          "value": "/m/01jx9"
+        },
+        {
+          "text": "Duolingo",
+          "value": "/g/11fy1sp_cm"
+        },
+        {
+          "text": "Etsy",
+          "value": "/m/0rzjz20"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "Goldman Sachs",
+          "value": "/m/01xdn1"
+        },
+        {
+          "text": "IBM",
+          "value": "/m/03sc8"
+        },
+        {
+          "text": "MassMutual",
+          "value": "/m/07f92s"
+        },
+        {
+          "text": "New York City",
+          "value": "/m/02m7bw"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "Rockstar Games",
+          "value": "/m/01_4mn"
+        },
+        {
+          "text": "Sirius XM",
+          "value": "/m/02pljbm"
+        },
+        {
+          "text": "The Charles Stark Draper Laboratory Inc",
+          "value": "/m/029b0x"
+        },
+        {
+          "text": "US Mobile",
+          "value": "/g/11g9n6s7hz"
+        },
+        {
+          "text": "EzCater",
+          "value": "/g/11fy269590"
+        },
+        {
+          "text": "4Catalyzer",
+          "value": "/g/11g6__g2zw"
+        },
+        {
+          "text": "AG Mednet, Inc.",
+          "value": "/g/11g7z00xqm"
+        },
+        {
+          "text": "AcuityMD",
+          "value": "/g/11q24hd9sc"
+        },
+        {
+          "text": "AdeptID",
+          "value": "/g/11rkcvy5pt"
+        },
+        {
+          "text": "Advisor360°",
+          "value": "/g/11j37p91cf"
+        },
+        {
+          "text": "Aimsun",
+          "value": "/g/11gxm7dg54"
+        },
+        {
+          "text": "Alloy Automation",
+          "value": "/g/11mpht4pvs"
+        },
+        {
+          "text": "AlphaSense",
+          "value": "/m/011v7kq3"
+        },
+        {
+          "text": "Amazon Web Services (AWS)",
+          "value": "/m/0rznzt1"
+        },
+        {
+          "text": "Amentum",
+          "value": "/g/11j2vydq82"
+        },
+        {
+          "text": "Amplify Education, Inc.",
+          "value": "/m/011f3lsq"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        },
+        {
+          "text": "Aquatic Capital Management",
+          "value": "/g/11h6rxlcq6"
+        },
+        {
+          "text": "Arrowstreet Capital, Limited Partnership",
+          "value": "/g/11g9mpp7vr"
+        }
+      ]
+    }
+  ]
+}
