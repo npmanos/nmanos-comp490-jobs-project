@@ -14,22 +14,12 @@ import edu.bridgew.comp490.proj1.data.entities.adapters.ZonedDateTimeAdapter
 import io.github.cdimascio.dotenv.dotenv
 import io.mockk.coEvery
 import io.mockk.coVerify
-import io.mockk.excludeRecords
 import io.mockk.impl.annotations.MockK
 import io.mockk.junit5.MockKExtension
-import io.mockk.verify
-import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.cancel
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.cancellable
-import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.flow
-import kotlinx.coroutines.flow.timeout
-import kotlinx.coroutines.flow.transformWhile
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.test.advanceUntilIdle
 import kotlinx.coroutines.test.runTest
 import org.junit.jupiter.api.RepeatedTest
 import org.junit.jupiter.api.extension.ExtendWith
@@ -42,8 +32,6 @@ import kotlin.test.BeforeTest
 import kotlin.test.Test
 import kotlin.test.assertContains
 import kotlin.test.assertEquals
-import kotlin.time.Duration.Companion.milliseconds
-
 
 private val dotenv = dotenv {
     ignoreIfMissing = true
@@ -57,6 +45,7 @@ class JobRepositoryTest {
     lateinit var driver: JdbcSqliteDriver
     lateinit var db: JobSearchDB
     lateinit var testData: List<Job>
+
     @MockK lateinit var apiService: GoogleJobSearchServiceImpl
     lateinit var jobRepository: JobRepository
 
@@ -85,7 +74,8 @@ class JobRepositoryTest {
             |FROM sqlite_master
             |WHERE sql IS NOT NULL
             |ORDER BY tbl_name, type DESC, name
-            |""".trimMargin()
+            |
+            """.trimMargin(),
         ) { cursor -> cursor.getString(0)!! }
             .executeAsList()
             .reduce { acc, s -> "$acc\n$s" }
@@ -117,10 +107,10 @@ class JobRepositoryTest {
 
     companion object {
         val moshi: Moshi = Moshi.Builder()
-                .add(ZonedDateTimeAdapter())
-                .addAdapter(SearchStatusAdapter())
-                .addAdapter(ExtensionJsonAdapter())
-                .build()
+            .add(ZonedDateTimeAdapter())
+            .addAdapter(SearchStatusAdapter())
+            .addAdapter(ExtensionJsonAdapter())
+            .build()
 
         @JvmStatic
         private val jobSearchDDL =
