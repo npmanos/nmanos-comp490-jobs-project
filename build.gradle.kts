@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "edu.bridgew.comp490"
-version = "1.0.0"
+version = "2.0.0"
 
 application {
     mainClass = "edu.bridgew.comp490.proj1.MainKt"
