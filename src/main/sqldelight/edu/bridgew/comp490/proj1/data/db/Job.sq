@@ -10,6 +10,10 @@ CREATE TABLE IF NOT EXISTS JobDAO (
   jobId TEXT PRIMARY KEY
 );
 
+getJobCount:
+SELECT COUNT(jobId) AS Int
+FROM JobDAO;
+
 getAllJobs:
 SELECT *
 FROM JobDAO;

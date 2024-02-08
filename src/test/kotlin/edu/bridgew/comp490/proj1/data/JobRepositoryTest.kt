@@ -12,16 +12,37 @@ import edu.bridgew.comp490.proj1.data.entities.adapters.ExtensionJsonAdapter
 import edu.bridgew.comp490.proj1.data.entities.adapters.SearchStatusAdapter
 import edu.bridgew.comp490.proj1.data.entities.adapters.ZonedDateTimeAdapter
 import io.github.cdimascio.dotenv.dotenv
+import io.mockk.coEvery
+import io.mockk.coVerify
+import io.mockk.excludeRecords
 import io.mockk.impl.annotations.MockK
 import io.mockk.junit5.MockKExtension
-import org.intellij.lang.annotations.Language
+import io.mockk.verify
+import kotlinx.coroutines.CancellationException
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.FlowPreview
+import kotlinx.coroutines.cancel
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.cancellable
+import kotlinx.coroutines.flow.catch
+import kotlinx.coroutines.flow.flow
+import kotlinx.coroutines.flow.timeout
+import kotlinx.coroutines.flow.transformWhile
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.test.advanceUntilIdle
+import kotlinx.coroutines.test.runTest
+import org.junit.jupiter.api.RepeatedTest
 import org.junit.jupiter.api.extension.ExtendWith
+import java.nio.file.Path
 import java.util.*
 import kotlin.io.path.Path
 import kotlin.io.path.listDirectoryEntries
+import kotlin.io.path.readText
 import kotlin.test.BeforeTest
 import kotlin.test.Test
+import kotlin.test.assertContains
 import kotlin.test.assertEquals
+import kotlin.time.Duration.Companion.milliseconds
 
 
 private val dotenv = dotenv {
@@ -29,14 +50,13 @@ private val dotenv = dotenv {
     ignoreIfMalformed = true
 }
 
-@OptIn(ExperimentalStdlibApi::class)
+@OptIn(ExperimentalStdlibApi::class, ExperimentalCoroutinesApi::class)
 @ExtendWith(MockKExtension::class)
-@MockKExtension.ConfirmVerification
-@MockKExtension.CheckUnnecessaryStub
 class JobRepositoryTest {
-    private val jsonTestData = Path(dotenv["JOBSPROJ_TEST_DIR"]).listDirectoryEntries("software_engineer-*.json")
+    private val jsonTestData: MutableList<Path> = Path(dotenv["JOBSPROJ_TEST_DIR"]).listDirectoryEntries("software_engineer-*.json").toMutableList()
     lateinit var driver: JdbcSqliteDriver
     lateinit var db: JobSearchDB
+    lateinit var testData: List<Job>
     @MockK lateinit var apiService: GoogleJobSearchServiceImpl
     lateinit var jobRepository: JobRepository
 
@@ -45,6 +65,14 @@ class JobRepositoryTest {
         driver = JdbcSqliteDriver(JdbcSqliteDriver.IN_MEMORY, Properties().apply { put("foreign_keys", "true") })
         JobSearchDB.Schema.create(driver)
         db = JobSearchDB(driver)
+
+        testData = getTestData().jobsResults!!
+
+        coEvery {
+            apiService.getJobs(any(), more(0, andEquals = true))
+        } coAnswers { flow { emit(ApiResult.Success(testData)) } }
+
+        jobRepository = JobRepository(apiService, db)
     }
 
     @Test
@@ -63,6 +91,28 @@ class JobRepositoryTest {
             .reduce { acc, s -> "$acc\n$s" }
 
         assertEquals(jobSearchDDL, actualSchema)
+    }
+
+    @RepeatedTest(value = 32)
+    fun `verify db stored and retrieved correctly`() = runTest {
+        var jobs = 0
+
+        val coRo = launch {
+            jobRepository.getJobs("software engineer")
+                .collect {
+                    assertContains(testData, it)
+
+                    jobs++
+                    if (jobs == testData.size) cancel()
+                }
+        }
+
+        coRo.join()
+
+        val jobRows = db.jobQueries.getJobCount().executeAsOne().toInt()
+        assertEquals(testData.size, jobRows)
+
+        coVerify { apiService.getJobs(any(), more(0, andEquals = true)) }
     }
 
     companion object {
@@ -121,5 +171,7 @@ class JobRepositoryTest {
             """.trimIndent()
     }
 
-    private fun getTestData(): JobSearchResult = jsonTestData.random().run { moshi.adapter<JobSearchResult>().fromJson(this.toString()) }!!
+    private fun getTestData(): JobSearchResult {
+        return jsonTestData.removeLast().run { moshi.adapter<JobSearchResult>().fromJson(this.readText()) }!!
+    }
 }
