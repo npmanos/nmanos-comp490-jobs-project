@@ -54,7 +54,7 @@ class GoogleJobSearchServiceImplTest {
     fun `verify 50 jobs retrieved from api`() = runBlocking {
         val pages = 5
 
-        val testBodies = getTestResponses(pages).map { path -> path.readText() }
+        val testBodies = getRandomTestData(pages).map { path -> path.readText() }
 
         testBodies.forEach {
             server.enqueue(MockResponse().setBody(it))
@@ -81,7 +81,7 @@ class GoogleJobSearchServiceImplTest {
         assertEquals(50, jobs.size)
     }
 
-    private fun getTestResponses(qty: Int): List<Path> {
+    private fun getRandomTestData(qty: Int): List<Path> {
         val dataSet = Path(dotenv["JOBSPROJ_TEST_DIR"]!!).listDirectoryEntries("software_engineer-*.json")
         val subset = mutableListOf<Path>()
 
