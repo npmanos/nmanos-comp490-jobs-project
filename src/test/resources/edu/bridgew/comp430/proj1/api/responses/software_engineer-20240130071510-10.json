@@ -1,0 +1,1189 @@
+{
+  "search_metadata": {
+    "id": "65b8a1fed3aba256de3e3e8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7427a2a1d27a8477/65b8a1fed3aba256de3e3e8a.json",
+    "created_at": "2024-01-30 07:15:10 UTC",
+    "processed_at": "2024-01-30 07:15:10 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=10",
+    "raw_html_file": "https://serpapi.com/searches/7427a2a1d27a8477/65b8a1fed3aba256de3e3e8a.html",
+    "total_time_taken": 4.92
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 10
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Viasat, Inc.",
+      "location": "  United States   (+10 others)   ",
+      "via": "via Viasat Careers",
+      "description": "About us\n\nOne team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive... impact to join our team.\n\nWhat you'll do\n\nAs a senior member on the Content Data team, you will be an integral part of a software scrum team dedicated to scaling APIs that serve users across the globe to help improve our customer streaming experience. We design, implement, and enhance APIs and microservices that handle the data of streaming platforms to efficiently deliver streaming content to Viasat’s customers. We're excited to meld your skills into our highly functioning team!\n\nThe day-to-day\n\nWe are looking for a team member that enjoys designing and delivering API and data centric features to help our team manage streaming content. An ideal candidate enjoys collaboratively working in an agile environment within a 5-7 person scrum team. We expect you to influence the team’s technical direction and solutioning approach by leaning on your previous experience. Our team uses established CI/CD pipelines and simple infrastructure delivery allowing us to focus on delivery of features while providing production support in a DevOps environment\n\nWhat you'll need\n• 8+ years of professional software engineering experience\n• Team focused demeanor that is open to sharing and critiquing ideas respectfully\n• Experience with Object Oriented Development\n• Experience with creating system designs and performing low-level architecture work\n• Experience with REST APIs, APIs as products, the API lifecycle, and API management\n• Experience designing APIs that work at scale and handle significant load\n• Experience with Relational and NOSQL Databases\n• Experience with a modern development workflow including version control, unit testing, and code reviews\n• Strong communication (written and verbal) skills, and ability to work with remote team members across time zones\n• Dedication to code quality, continuous automation, and operational excellence\n• Experience in a DevOps environment - operational support for live services and application frameworks\n• BS in Computer Science, Computer Engineering, Software Engineering or related experience\n\nWhat will help you on the job\n• Experience with Python and Falcon\n• AWS related experience: RDS, DynamoDB, SQS, Elasticache\n• Knowledge of design patterns, UML, and microservices architecture\n• CDN, HLS or DASH streaming protocol knowledge\n• Exposure to container and orchestration platforms such as Docker and Kubernetes\n• Exposure to SLOs/SLIs\n• Exposure to logging/monitoring tools such as Prometheus and Grafana\n\nSalary range\n\n$163,200.00 - $283,800.00 / annually\n\nAt Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience. Base pay may vary depending on job-related knowledge, skills, and experience. Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered. Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits.\nEEO statement\n\nViasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "An ideal candidate enjoys collaboratively working in an agile environment within a 5-7 person scrum team",
+            "We expect you to influence the team’s technical direction and solutioning approach by leaning on your previous experience",
+            "8+ years of professional software engineering experience",
+            "Team focused demeanor that is open to sharing and critiquing ideas respectfully",
+            "Experience with Object Oriented Development",
+            "Experience with creating system designs and performing low-level architecture work",
+            "Experience with REST APIs, APIs as products, the API lifecycle, and API management",
+            "Experience designing APIs that work at scale and handle significant load",
+            "Experience with Relational and NOSQL Databases",
+            "Experience with a modern development workflow including version control, unit testing, and code reviews",
+            "Strong communication (written and verbal) skills, and ability to work with remote team members across time zones",
+            "Dedication to code quality, continuous automation, and operational excellence",
+            "Experience in a DevOps environment - operational support for live services and application frameworks",
+            "BS in Computer Science, Computer Engineering, Software Engineering or related experience",
+            "Experience with Python and Falcon",
+            "AWS related experience: RDS, DynamoDB, SQS, Elasticache",
+            "Knowledge of design patterns, UML, and microservices architecture",
+            "CDN, HLS or DASH streaming protocol knowledge",
+            "Exposure to container and orchestration platforms such as Docker and Kubernetes",
+            "Exposure to SLOs/SLIs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a senior member on the Content Data team, you will be an integral part of a software scrum team dedicated to scaling APIs that serve users across the globe to help improve our customer streaming experience",
+            "We design, implement, and enhance APIs and microservices that handle the data of streaming platforms to efficiently deliver streaming content to Viasat’s customers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$163,200.00 - $283,800.00 / annually",
+            "At Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience",
+            "Base pay may vary depending on job-related knowledge, skills, and experience",
+            "Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered",
+            "Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.viasat.com/",
+          "text": "viasat.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Viasat,+Inc.&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAII2wk",
+          "text": "See web results for Viasat, Inc."
+        }
+      ],
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiUHFiYWZwNXQ4UGIxQVJOa0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYlVkTk9UbFFXRVI2UlRZMFJVVlFiRlZhYWtWM2VtNUVjbFJCTTA1VGQwSmlkREY1VTJKdU5sQm1NbEZrTXpFMFdFZE1kRXMwV2xaaE5GWjZVbFphT0ZobVUyWkZSM2xZY2tad1NEaE1YM1l5ZEdWd1VFcHpUVVUzYVRFME5GRjVTWGx5WkdFd01FZFJURVYyVG1KSFlWVlBhVGRIZW1WeVFtNHliMFIzVm1sdFYxWmhNR1p3VUdzNFZuTXhWek5TTW5RM2ExRkxTbWxoWVZKVWFIazNaMmhOZFd0UFYwVlBTRTVZZDA5b1NHOW1MVFZpVWt0b1NXTlFUelprY1ZSMmFEUjJiM05WZW5GSGNEVlJSRGRNYTFkc1YzRlJOVkJhYUZKNFp4SVhRWEZMTkZwbVpVbE9OV0kwZDJKclVIbE9aVkF5UVZrYUlrRlFXR2h0TlZsUFZVTXpOSE5OYTBoV2NuWXhTa0Z1ZG5odWNWQkhXRU5SUjJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBkaXJlY3RseSBvbiBWaWFzYXQgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMudmlhc2F0LmNvbS9qb2JzLzIyMTM/bGFuZz1lbi11c1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Ford Motor Company",
+      "location": "  United States   ",
+      "via": "via Dice",
+      "description": "Job Description\n\nThe successful candidate will be working within an agile delivery team building Order Management applications and services. Our engineers typically work with a paired partner to develop and implement optimal and innovative solutions. They will work collaboratively with other software engineers to develop high quality solutions as well as with other technical teams to share best... practices and ensure consistency in technologies, approaches and tools adoption.\n\nResponsibilities will include:\n• Work with Product Owners, Product Managers and Architects to design and develop optimal solutions\n• Understanding business and user priorities, and technical feasibility, in order to prioritize the product backlog and manage risks & dependencies across features.\n• Work with cross functional teams to deliver timely, high quality and well tested code.\n• Develop microservices to build loosely coupled services that allows you to break a larger application to into smaller components with narrowly defined rules.\n• Develop API's to connect with various individual microservices to communicate with one another.\n• Enforce refactoring, continuous integration and automations to create maintainable code.\n• Ensures active participation in Daily Stand Up and other team agile ceremonies; Ensures adoption of Agile, DevOps and software craftsmanship practices like CI/CD, TDD, Pair Programming\n\nSkills and Experience Required:\n• 4+ years of Hands on Experience as Java Full Stack Software Engineer\n• Strong programming skills in java Spring boot development, designing and developing REST APIs and front-end development using Angular, JavaScript, Next.js, HTML5, CSS3, React\n• Strong knowledge on Micro services and Micro Front End Architecture.\n• Experience in developing and managing cloud native solutions (Google Cloud Platform).\n• Experience of CI/CD using Tekton\n• Experience of Progress Web Application Development\n• Knowledge of software design patterns\n• Knowledge and understanding of lean software development fundamentals such as minimum viable product (MVP) and managing a product roadmap.\n• Genuine interest in new and emerging technologies, lean agile delivery methodologies and new ways of working.\n• Willingness to continuously learn, innovate and grow self is a MUST\n• Willingness to be flexible and seek ideas/inputs from others and collaborate\n• Ability to multi-task and manage changing priorities\n• Familiarity and prior experience with Agile / Scrum development methodologies\n\nNice to have Skills and Experience:\n• Familiar with extreme Programming (XP) practices including Pair/Mob programming and Test-first/Test Driven Development (TDD).\n• Familiarity with one or more stream processing / queuing technologies like Pub/Sub ,Kafka\n• Experience of working on multiple Product Teams across various geographic regions.\n• Collaborative with a passion for building inclusive team cultures\n• Proactive with the ability to flourish independently and work with ambiguity\n\n$desc3",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "4+ years of Hands on Experience as Java Full Stack Software Engineer",
+            "Strong programming skills in java Spring boot development, designing and developing REST APIs and front-end development using Angular, JavaScript, Next.js, HTML5, CSS3, React",
+            "Strong knowledge on Micro services and Micro Front End Architecture",
+            "Experience in developing and managing cloud native solutions (Google Cloud Platform)",
+            "Experience of CI/CD using Tekton",
+            "Experience of Progress Web Application Development",
+            "Knowledge of software design patterns",
+            "Knowledge and understanding of lean software development fundamentals such as minimum viable product (MVP) and managing a product roadmap",
+            "Genuine interest in new and emerging technologies, lean agile delivery methodologies and new ways of working",
+            "Willingness to continuously learn, innovate and grow self is a MUST",
+            "Willingness to be flexible and seek ideas/inputs from others and collaborate",
+            "Ability to multi-task and manage changing priorities",
+            "Familiarity and prior experience with Agile / Scrum development methodologies",
+            "Nice to have Skills and Experience:",
+            "Familiar with extreme Programming (XP) practices including Pair/Mob programming and Test-first/Test Driven Development (TDD)",
+            "Familiarity with one or more stream processing / queuing technologies like Pub/Sub ,Kafka",
+            "Experience of working on multiple Product Teams across various geographic regions",
+            "Collaborative with a passion for building inclusive team cultures",
+            "Proactive with the ability to flourish independently and work with ambiguity"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The successful candidate will be working within an agile delivery team building Order Management applications and services",
+            "Our engineers typically work with a paired partner to develop and implement optimal and innovative solutions",
+            "They will work collaboratively with other software engineers to develop high quality solutions as well as with other technical teams to share best practices and ensure consistency in technologies, approaches and tools adoption",
+            "Work with Product Owners, Product Managers and Architects to design and develop optimal solutions",
+            "Understanding business and user priorities, and technical feasibility, in order to prioritize the product backlog and manage risks & dependencies across features",
+            "Work with cross functional teams to deliver timely, high quality and well tested code",
+            "Develop microservices to build loosely coupled services that allows you to break a larger application to into smaller components with narrowly defined rules",
+            "Develop API's to connect with various individual microservices to communicate with one another",
+            "Enforce refactoring, continuous integration and automations to create maintainable code",
+            "Ensures active participation in Daily Stand Up and other team agile ceremonies; Ensures adoption of Agile, DevOps and software craftsmanship practices like CI/CD, TDD, Pair Programming"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.ford.com/",
+          "text": "ford.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Ford+Motor+Company&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAIIqgo",
+          "text": "See web results for Ford Motor Company"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCK8KMqO7CN9MV-a9VSGdAihV9vMKTIO3rY-r1F4&s",
+      "extensions": [
+        "18 hours ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiazlxOWFaLUduN3lfTmtYUUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTE4d1RsTktNMUZaY2pGbVlYUXpjV2RoU21WVFVsSndhSEppVjFCTVExcElPRVUwUjNKblpXSnhUa1JYY3kxaVpWOVBTMDFLWDA4NGJWaG1iSGxoU2toV1gzTnFNM2Q2VVhVMmFtdzFUREZ1TFZWblFVdHNWM1J5UjBreWIweDRTemt4YlVkVlYza3RXVFYyZWxwNVRVbFdkREZtVWsxb1JsSkZNVkY0Tm5sb01FZHJibW8zVkY4dFQzWjRhSHB2WldvNU0yRm9iVFZCU2tjMVpXOXVTVmc1VUhoYVlXOTJkR2Q1TFUxMFNXeHlVME42VGtWWFZWVktSeTFNYmtwamF6aDNPVXBmYzE5VmMxOHRkRWw2ZEVwdVJuUmlORFp3ZDI0elFSSVhRWEZMTkZwbVpVbE9OV0kwZDJKclVIbE9aVkF5UVZrYUlrRlFXR2h0TlZsdk5Gb3lPVlJ0Y1dsaVRFcENVM1JGV25KVUxXTXlXbXBXYjJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBEaWNlIiwibGluayI6Imh0dHBzOi8vd3d3LmRpY2UuY29tL2pvYi1kZXRhaWwvODg0ODA0OWEtY2RiMi00ZWFkLTljOTktMjliODc2ZTRiNmU5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer III",
+      "company_name": "Paychex",
+      "location": "  United States   ",
+      "via": "via Paychex Careers",
+      "description": "Overview\n\nValidates requirements, performs analysis and design for system improvements and new applications. Represents the department by leading work and providing guidance to others...\n\nResponsibilities\n• Develop, test, deploy, maintain and improve software to meet requirements\n• Design and develop test automation code\n• Complete complex program changes; self-directed\n• Perform comprehensive analysis and design for broadly defined requirements\n• Make significant technical contributions; contribute to technical direction\n• Provide estimates required for user stories based on business requirements, specifications and designs\n• Comply with and contribute to SDLC standards and CD/CI procedures to ensure consistency; introduce new standards and opportunities for improvements\n• Monitor progress against task estimates to provide status\n• Provide technical support and troubleshooting for applications across environments, including high impact production issues\n• Maintain existing code base, monitoring for failures in non-prod environments\n• Support changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application\n• Share technical expertise; guide and mentor others to maximize team effectiveness and quality\n• Advanced skills in React, Java and SQL.\n\nQualifications\n• Bachelor's Degree in Computer related discipline or equivalent work experience\n• 3+ years of experience React, Java, SQL, Spring Framework, Python, Oracle (or any relational database SQL), Mongo DB (or any NoSQL)\n\nCompensation\n\nIn the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $93,500-147,070 + RSU awards annually. Please keep in mind that this range is the base pay only and does not consider other components that make up the total rewards package for the position. If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer related discipline or equivalent work experience",
+            "3+ years of experience React, Java, SQL, Spring Framework, Python, Oracle (or any relational database SQL), Mongo DB (or any NoSQL)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Validates requirements, performs analysis and design for system improvements and new applications",
+            "Represents the department by leading work and providing guidance to others",
+            "Develop, test, deploy, maintain and improve software to meet requirements",
+            "Design and develop test automation code",
+            "Complete complex program changes; self-directed",
+            "Perform comprehensive analysis and design for broadly defined requirements",
+            "Make significant technical contributions; contribute to technical direction",
+            "Provide estimates required for user stories based on business requirements, specifications and designs",
+            "Comply with and contribute to SDLC standards and CD/CI procedures to ensure consistency; introduce new standards and opportunities for improvements",
+            "Monitor progress against task estimates to provide status",
+            "Provide technical support and troubleshooting for applications across environments, including high impact production issues",
+            "Maintain existing code base, monitoring for failures in non-prod environments",
+            "Support changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application",
+            "Share technical expertise; guide and mentor others to maximize team effectiveness and quality",
+            "Advanced skills in React, Java and SQL"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $93,500-147,070 + RSU awards annually",
+            "If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.paychex.com/",
+          "text": "paychex.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Paychex&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAII-Ao",
+          "text": "See web results for Paychex"
+        }
+      ],
+      "extensions": [
+        "5 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSUkiLCJodGlkb2NpZCI6IkNDci11LXQ1OHVfeHNjZndBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJsOUNORVIyYVUxM05EbE5jVzVyU1V3M1kySm9UVWw1TmxodlRsVlpjWEpNUVdsd1puRnJlVjl0YUdkQ05uVjVXRmRSYzFaaVRqSm5VR2d3Um5CeVZFbFJVVE5tWkRac1FWODJSSEZaTTNKbU4zQTFlbTQ0UW5oMWJVVlVXRTFIZEY5RGFWSXdXR3Q0YmtNM09FaHliRFo0WkZGeVJ6QmFWakZEYjJwYVowZHZUbTlXUkZGaUxVWkVNVkZCZUV0R1IxVnJOWG8zUW1wb2VHeFBiVUYzV2pWcWNDMUpVM3AyWjIxVVduSXdlVXM0YXpOalJuZHRlSEp2YjJ4ak5EZ3lNV2hWTFd0cEVoZEJjVXMwV21abFNVNDFZalIzWW10UWVVNWxVREpCV1JvaVFWQllhRzAxV1dWYVYwaHFkVVJ0VWs1c1NVNUpaVk0zU1hsTVduaERPRlJ2UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFBheWNoZXggQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMucGF5Y2hleC5jb20vam9icy8yMjgzMz9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Lead Software Engineer",
+      "company_name": "Leidos",
+      "location": "  Lawton, OK   ",
+      "via": "via Leidos Careers",
+      "description": "Description\n\nThe CEMA Dept at Leidos Defense Systems is seeking a talented Senior Lead Software Engineer in Lawton, OK to join our local development team to create unique solutions for complex problems in system security, engineering, and defense domains...\n\nAs a Senior Lead Software Engineer, you will bring your passion of software design and development to design, build, deploy and maintain mission critical solutions that support our customers’ mission objectives. You will also be responsible for working with other software engineers and product managers, contributing directly to feature design and architecture.\n\nOur team is primarily in-person in Lawton. Culturally, we place emphasis on trust, respect, asynchronous communication, creativity, and valuing the mission of our customers.\n\nThe Senior Lead Software Engineer is a key individual contributor role and an opportunity to apply your unique combination of technical skills to developing our customers’ solutions. In addition, you will leverage your skills as a leader and a mentor to develop the software engineers you work with.\n\nPrimary Responsibilities\n• Demonstrate technical leadership to a team of software engineers in developing offensive and defensive cyber tools focused on Radar and C2 systems\n• Develop simulations to emulate threat realistic CEMA environments.\n• Mentor and develop other software engineers.\n• Research current and future cyber security threats against military systems.\n• Drive continuous improvement by pushing for changes that improve reliability and velocity.\n• Define the technical direction of our products technology stack.\n• Work with subject matter experts and customer liaisons to define and develop solutions that solve our customer’s problems.\n\nQualifications\n• Candidate must possess at least a Bachelor’s Degree in Electrical Engineering, Computer Engineering, Software Engineering, Computer Science, or related technical degree.\n• Minimum of eight years of full-time of related experience in an agile software engineering team environment. An MS degree in a relevant field can be used in lieu of two years of experience.\n• Expert in C++ or Python.\n• Deep understanding of Linux platforms\n• Experience and interest in fundamental networking implementations and concepts.\n• Candidate must be willing to travel approx. 10% each year if necessary — moderate travel to testing locations, typically CONUS.\n\nCandidate must live in or be willing to relocate to Lawton, OK area.\n\nDesired Skills:\n• Strong written and verbal communication skills\n• Extensive experience with software engineering and should be prepared to demonstrate:\n• Expert experience in software architecture and design\n• Minimum 3 years’ experience leading Software Development team(s)\n• Experience with Agile software development, CI/CD toolchains and DevOps (e.g., Atlassian suite, git, Jenkins, Artifactory)\n• Experience with the following tools, concepts, and products is a plus:\n• Ubuntu, Red Hat, Kali Linux, or similar\n• Networking Protocols\n• Wireshark\n\nSecurity Requirements:\n\nCandidate must be a US Citizen and possess (and be able to maintain) a Final Top Secret/SSBI Clearance or meet the eligibility to obtain (and maintain) a Final Top Secret Clearance.\n\nPay Range:\nPay Range $101,400.00 - $183,300.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nOriginal Posting Date:\n01/24/2024\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidate must possess at least a Bachelor’s Degree in Electrical Engineering, Computer Engineering, Software Engineering, Computer Science, or related technical degree",
+            "Minimum of eight years of full-time of related experience in an agile software engineering team environment",
+            "An MS degree in a relevant field can be used in lieu of two years of experience",
+            "Expert in C++ or Python",
+            "Deep understanding of Linux platforms",
+            "Experience and interest in fundamental networking implementations and concepts",
+            "Candidate must be willing to travel approx",
+            "10% each year if necessary — moderate travel to testing locations, typically CONUS",
+            "Candidate must live in or be willing to relocate to Lawton, OK area",
+            "Candidate must be a US Citizen and possess (and be able to maintain) a Final Top Secret/SSBI Clearance or meet the eligibility to obtain (and maintain) a Final Top Secret Clearance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Lead Software Engineer, you will bring your passion of software design and development to design, build, deploy and maintain mission critical solutions that support our customers’ mission objectives",
+            "You will also be responsible for working with other software engineers and product managers, contributing directly to feature design and architecture",
+            "In addition, you will leverage your skills as a leader and a mentor to develop the software engineers you work with",
+            "Demonstrate technical leadership to a team of software engineers in developing offensive and defensive cyber tools focused on Radar and C2 systems",
+            "Develop simulations to emulate threat realistic CEMA environments",
+            "Research current and future cyber security threats against military systems",
+            "Drive continuous improvement by pushing for changes that improve reliability and velocity",
+            "Define the technical direction of our products technology stack",
+            "Work with subject matter experts and customer liaisons to define and develop solutions that solve our customer’s problems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $101,400.00 - $183,300.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.leidos.com/",
+          "text": "leidos.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Leidos&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAIIygs",
+          "text": "See web results for Leidos"
+        }
+      ],
+      "extensions": [
+        "4 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTGVhZCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoib0oxekZSZDEwOVZYU25fOEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYXpoWWVubDVkMHBwYVhKeFpXbG1kVFF4VkZoaFNGTmhPRmMyWTE5SFNVTkNXV1JNUTNKSGRWZGZZakIzU1dFMWNWSkdkVUpyWmtGeVZuRklkbmxsTlVOVk9XY3hjVUUxYTFKRVdtbDBMV1JYVTNSM1pIQmliM1ExVld0a00wNXhiRmx0TW5WcVZFRjRMV3B1VVhBMmExVk5UbVEzYTFab1FXNTROVXRpZHpjemQyOHpkRVZoV0dKWVptNW9OWFZWZG5WQlNWRkxWMVJWUVd0Vk1ISTJMVWRQVW1OWGVsRkhlSGhEUTNCeVRWb3RNRmRYTkhaS1NtaHZhakZMT0RsdWEzSlNjbGhwUWxSaVNrWnJZWE5uZFU1S05EbFdRM1JGYzNCSlVSSVhRWEZMTkZwbVpVbE9OV0kwZDJKclVIbE9aVkF5UVZrYUlrRlFXR2h0TlZremIwOURNbTkxZERKSlFYaFdObXR5ZEVsMVRWVXhjMUZ5WlZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZWlkb3MgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMubGVpZG9zLmNvbS9qb2JzLzEzODg4MzYzLXNlbmlvci1sZWFkLXNvZnR3YXJlLWVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer, Ad Platforms_",
+      "company_name": "Apple",
+      "location": "  United States   ",
+      "via": "via Media Bistro",
+      "description": "Senior Software Engineer, Ad PlatformsSanta Clara Valley (Cupertino),California,United StatesSoftware and Services**Add a favorite**To view your favorites, sign in with your Apple ID.Sign InDon’t have an Apple ID?+ Create one now+ Forgot your Apple ID or password?Submit Resume Senior Software Engineer, Ad PlatformsBack to search results**Summary**Posted:Sep 12, 2023Weekly Hours: **40**Role... Number: **200500621**At Apple, we believe in the power of technology to enrich people's lives. Everything we build is designed to empower people, including our advertising platform. We deliver ads in a way that benefits both customers and advertisers — helping people discover content, supporting creators, and protecting and respecting everyone’s privacy. Our technology makes advertising possible on the App Store, Apple News, Stocks, and Apple TV. We help developers and marketers of all sizes drive app discovery across the App Store. Our display ads on Apple News and Stocks let advertisers promote their products alongside trusted content in a brand-safe environment, while supporting publishers and journalists. Sponsorship integrations and experiences in live sports on Apple TV help advertisers connect with captivated audiences. Everything we do is with the unwavering commitment to privacy you expect from Apple. Because when advertising is done right, it benefits everyone.**Key Qualifications**+ 8 or more years of industry experience building scalable micro services or data driven platforms.+ Strong computer science fundamentals.+ Prior experience with Java/Scala/C++ or equivalent.+ Expertise in NoSQL datastores ( e.g Cassandra or DynamoDB )+ Proficiency in data processing technologies (e.g Kafka, Spark, Flink )+ Experience crafting scalable micro services.+ Familiarity with cloud paradigms ( e.g AWS or GCP )+ Proven ability to work on sophisticated problems and systems+ Strong problem solving and debugging skills.+ Have the ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.+ A desire to work in a fast-paced and challenging work environment.**Description**Advertiser Services is a diverse, global, agile engineering team that moves smart and fast by consuming and optimizing readily-available technology, collaborating to improve and scale capabilities across businesses and use cases, and sharing our own innovative solutions so everyone can benefit. We are not constrained by organization structure and offer flexibility to work on a variety of backend systems, and we have fun doing it! YOU WILL: Build the foundational pieces of the next generation of Apple’s Ad Platforms Collaborate with product management to define external APIs for campaign management. Design and implement performant services and data pipelines. Build shared capabilities like Authentication, Authorization etc to support multiple internal and external partners Implement low latency, highly - available, high volume advertiser facing systems in a cloud environment. Engineer secure and scalable distributed data processing systems for campaign management.**Education & Experience**Bachelor's degree in Computer Science or equivalent is required; Master's degree preferred.**Additional Requirements****Pay & Benefits**+ At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $199,800.00 and $300,200.00, and your base pay will depend on your skills, qualifications, experience, and location.Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more (pple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.**Apple Footer**Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race,color,religion,sex,sexual orientation,gender identity,national origin,disability,Veteran status,or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .Apple will not discriminate or retaliate against applicants who inquire about,disclose,or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco,review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) ",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Because when advertising is done right, it benefits everyone.**Key Qualifications**+ 8 or more years of industry experience building scalable micro services or data driven platforms.+ Strong computer science fundamentals",
+            "Prior experience with Java/Scala/C++ or equivalent.+ Expertise in NoSQL datastores ( e.g Cassandra or DynamoDB )+ Proficiency in data processing technologies (e.g Kafka, Spark, Flink )+ Experience crafting scalable micro services.+ Familiarity with cloud paradigms ( e.g AWS or GCP )+ Proven ability to work on sophisticated problems and systems+ Strong problem solving and debugging skills",
+            "Have the ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.+ A desire to work in a fast-paced and challenging work environment.**Description**Advertiser Services is a diverse, global, agile engineering team that moves smart and fast by consuming and optimizing readily-available technology, collaborating to improve and scale capabilities across businesses and use cases, and sharing our own innovative solutions so everyone can benefit"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "YOU WILL: Build the foundational pieces of the next generation of Apple’s Ad Platforms Collaborate with product management to define external APIs for campaign management",
+            "Design and implement performant services and data pipelines",
+            "Build shared capabilities like Authentication, Authorization etc to support multiple internal and external partners Implement low latency, highly - available, high volume advertiser facing systems in a cloud environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay range for this role is between $199,800.00 and $300,200.00, and your base pay will depend on your skills, qualifications, experience, and location",
+            "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs",
+            "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan",
+            "You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition",
+            "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.apple.com/",
+          "text": "apple.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Apple&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAIIlAw",
+          "text": "See web results for Apple"
+        }
+      ],
+      "extensions": [
+        "14 hours ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "14 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFkIFBsYXRmb3Jtc18iLCJodGlkb2NpZCI6ImdoelpNOEQ5U3R1SlNTdldBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamEyRklXRFp0UzBKZlMyVTNRMVZmWkhZM2VqZEtSa0ZZYWpWTVVVZHhMV2xzWWtaU2NtZENaR2c0T1c5b1YyRTRZa05WWXpSaVh6ZEdZVjkzYVY5ME1qazRlbUoxVTFrdFNEWnBOR1ZPUkRoUk5VRmlVVlZUZURkM1VXcGxaamxYV210dlZXZEZORWhIWHpoMFpHaHJVemxOUTFkWFREUmxVbEpwYldKSGQwdG5iV2czWlhoQlkwMTBRV05xV0RGNVZXNVdaRUpYWkVsd1dERmtWblZhYWs5MlJVWkZNM1E0T1RKb05uSkJObE4zZFdaRFgwdDRTMFJZYnpkT1NFOHdkVVpRWkZKbVIyNDNVR0Z3UzNVNWRtTlNSemhFWVVKTVUwZHFkeElYUVhGTE5GcG1aVWxPTldJMGQySnJVSGxPWlZBeVFWa2FJa0ZRV0dodE5WcG5VSEJCUmxVd1RucFJaR3RzUVZwVE1FZFBkR2RKVmxsNk9WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTWVkaWEgQmlzdHJvIiwibGluayI6Imh0dHBzOi8vd3d3Lm1lZGlhYmlzdHJvLmNvbS9qb2JzLzE1ODM5NDQ1MS1zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItYWQtcGxhdGZvcm1zXz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Advanced Software Engineer, Platform",
+      "company_name": "WARNERMEDIA",
+      "location": "  United States   (+6 others)   ",
+      "via": "via Careers At Warner Bros. Discovery",
+      "description": "Every great story has a new beginning, and yours starts here.\n\nWelcome to Warner Bros. Discovery… the stuff dreams are made of...\n\nWho We Are…\n\nWhen we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nWarner Bros. Games Boston is a Warner Bros. Games development studio focused on creating free-to-play games for mobile platforms. The studio is utilizing its extensive expertise in creating persistent online worlds that foster powerful social gaming communities to develop its hit mobile game, Game of Thrones: Conquest.\n\nWB Games Boston seeks an experienced software engineer to work on our game server platform supporting both Game of Thrones: Conquest and future titles.\n\nThis position can support fully remote work, but as our studio is based on the east-coast, availability in our core hours of 11am-5pm ET is preferred.\n\nThe team at WB Games Boston is committed to supporting a diverse team of people and encourages you to still apply if you believe you would make a great contribution to the team but are concerned you may not meet every requirement.\n\nWhat We Do\n\nBased on the award-winning HBO series, Game of Thrones: Conquest™ is a free-to-play strategy game that puts players at the head of their own powerful House, with the ultimate goal of claiming the Iron Throne. Build your great house, raise your army, conquer iconic Seats of Power, and rule the Seven Kingdoms.\n\nOur Game Quality team is responsible for the underlying technology used to build and run our studio’s games. Our server-authoritative games are run in the cloud, and in this position you will play a key role in providing the platform that facilitates great developer experience and enables our players to always have a reliable experience in our games.\n\nWhat Part You'll Play\n• Design, architect, break down, and implement solutions for platform features and improving developer experience\n• Work with developers, feature owners, and producers to find solutions and optimizations to their processes and deliver value to the team\n• Assist in the architecture and implementation of our most complex game systems, those that require the best partnership between delivering on business goals and delivering solutions that are scalable, reliable, and performant.\n• Help identify and articulate technical challenges and risks along with proposed solutions\n• Innovate and iterate on processes, systems, standards, game designs, and technology\n• Participate in an on-call rotation, helping keep our live products available under rare problematic circumstances\n• Participate in code reviews and ensure the technical designs of systems meet team standards\n• Mentor other engineers and help them grow their technical skills\n\nWhat You Bring\n• 7+ years of software development experience in Golang or another object-oriented language\n• Experience with distributed and cloud based architectures - preferably AWS\n• Strong knowledge of common data structures and software design practices\n• A passion for automating solutions to recurrent problems or manual work in the software development lifecycle\n• An understanding of DevOps and SRE best practices\n• Clear, concise, and transparent communication skills - both written and verbal\n• Ability to collaborate effectively with internal and external stakeholders and employ a customer focused approach to your work\n• Ability to break down complex problems and explain them to stakeholders or less experienced engineers\n• A growth mindset, an attention to detail, and a willingness to learn and take feedback\n• Bachelor's degree in Computer Science or equivalent experience\n\nNice to Have\n• Experience building asynchronous or synchronous multiplayer games\n• Experience with containerization and deployment technologies (Docker, Kubernetes, etc)\n• Experience building or managing continuous integration and deployment pipelines (Jenkins, Drone, etc)\n• Experience implementing gRPC and RESTful services\n• Experience working with microservices\n• Experience with relational databases such as PostgreSQL\n• Experience playing 4X strategy mobile games\n• Familiarity with the Game of Thrones television series and/or series of books\n\n#LI-Remote\n\nHow We Get Things Done…\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nThe Legal Bits…\nIn compliance with local law, we are disclosing the compensation, or a range thereof, for roles in locations where legally required. Actual salaries will vary based on several factors, including but not limited to external market data, internal equity, location, skill set, experience, and/or performance. Base pay is just one component of Warner Bros. Discovery’s total compensation package for employees. Pay Range: $122,500.00 - $227,500.00 salary per year. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Warner Bros. Discovery provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and sick time and vacation.\n\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you’re a qualified candidate and you require adjustments or accommodations to search for a job opening or apply for a position, please contact us at recruitadmin@wbd.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "7+ years of software development experience in Golang or another object-oriented language",
+            "Experience with distributed and cloud based architectures - preferably AWS",
+            "Strong knowledge of common data structures and software design practices",
+            "A passion for automating solutions to recurrent problems or manual work in the software development lifecycle",
+            "An understanding of DevOps and SRE best practices",
+            "Clear, concise, and transparent communication skills - both written and verbal",
+            "Ability to collaborate effectively with internal and external stakeholders and employ a customer focused approach to your work",
+            "Ability to break down complex problems and explain them to stakeholders or less experienced engineers",
+            "A growth mindset, an attention to detail, and a willingness to learn and take feedback",
+            "Bachelor's degree in Computer Science or equivalent experience",
+            "Experience building asynchronous or synchronous multiplayer games",
+            "Experience with containerization and deployment technologies (Docker, Kubernetes, etc)",
+            "Experience building or managing continuous integration and deployment pipelines (Jenkins, Drone, etc)",
+            "Experience implementing gRPC and RESTful services",
+            "Experience working with microservices",
+            "Experience with relational databases such as PostgreSQL",
+            "Experience playing 4X strategy mobile games",
+            "Familiarity with the Game of Thrones television series and/or series of books"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, architect, break down, and implement solutions for platform features and improving developer experience",
+            "Work with developers, feature owners, and producers to find solutions and optimizations to their processes and deliver value to the team",
+            "Assist in the architecture and implementation of our most complex game systems, those that require the best partnership between delivering on business goals and delivering solutions that are scalable, reliable, and performant",
+            "Help identify and articulate technical challenges and risks along with proposed solutions",
+            "Innovate and iterate on processes, systems, standards, game designs, and technology",
+            "Participate in an on-call rotation, helping keep our live products available under rare problematic circumstances",
+            "Participate in code reviews and ensure the technical designs of systems meet team standards",
+            "Mentor other engineers and help them grow their technical skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Discovery’s total compensation package for employees",
+            "Pay Range: $122,500.00 - $227,500.00 salary per year",
+            "Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards",
+            "Discovery provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and sick time and vacation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=WARNERMEDIA&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAII5Qw",
+          "text": "See web results for WARNERMEDIA"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPQSC-Hn6uMiqIEWCbLfoakthb78W4Sy8M58S&s=0",
+      "extensions": [
+        "15 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "15 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBZHZhbmNlZCBTb2Z0d2FyZSBFbmdpbmVlciwgUGxhdGZvcm0iLCJodGlkb2NpZCI6IlF6M3prMWxyb2lxTW1teXBBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJubGFZbEZoYUU5bGFXTXhjV2h4UkZsbVNHbEhPWEIwZGpRelNFWXlYMWh6V2xsdmFtUnVVR3BqVDNkSldtRlRSMWhCWkV4RFEyNHlOakIyVVVjMFJVODBRVkZIVGsxdlVqZzNTakZvYVdKZmJqbGtWVzV5TWpKek0wVkpNV2xWTWxnd1RqZEhSR0YwVlZCdmRWTjNWR3BqWmt0QlExRjBSMUp3VGt0SmJGUkxhVkJNV0RoeVIwWmpNM2xFZEZkd2VUbHFNV2hZZUdsbU5tMDJWVVpZTUhkNVEwczRTR05VZVRCdGJqUjFNMnBRVURrMlR6bEtOM1Z3WkdvM1pEVjZTVTkzYjFZME0wRnZTRkpPU3pORFVrMHlkMU5yYzJ0RlF6SllkamxrTUhveWVHMDBObWc0YVZGU2JIZDFVVVYxYXhJWFFYRkxORnBtWlVsT05XSTBkMkpyVUhsT1pWQXlRVmthSWtGUVdHaHROVmxCYVdaTE1WSTNUSEp2YldOaE1GaEdVVkJqU25ocmRubHVZM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXJlZXJzIEF0IFdhcm5lciBCcm9zLiBEaXNjb3ZlcnkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLndiZC5jb20vZ2xvYmFsL2VuL2pvYi9SMDAwMDc2MjQxL0FkdmFuY2VkLVNvZnR3YXJlLUVuZ2luZWVyLVBsYXRmb3JtP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company_name": "Snap Inc.",
+      "location": " Anywhere ",
+      "via": "via Wd1.Myworkdaysite.com",
+      "description": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company’s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and it's AR glasses, Spectacles. Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We’re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. We’re looking for a Principal Software Engineer to join Snap Inc! What you’ll... do: Design, implement, and scale critical engineering components and services to support Snap's most strategic initiatives Work across teams to understand product requirements, evaluate trade-offs, and deliver the solutions needed to build innovative products or services Advocate for and apply best practices when it comes to availability, scalability, operational excellence, and cost management Provide technical direction that influences the entire company Knowledge, Skills & Abilities Excellent programming and software design skills, including debugging, performance analysis, and test design Proven track record of operating highly-available systems at scale Ability to proactively learn new concepts and technology and apply them at work Skilled at solving ambiguous problems Strong collaboration and mentorship skills Minimum Qualifications: Bachelors in technical field such as computer science, mathematics, statistics or equivalent years of experience 14+ years of industry experience Experience in technical leadership/ownership and setting technical direction for engineering projects Experience architecting, designing, and developing distributed systems Preferred Qualifications: Advanced degree in a technical field such as computer science Experience with cross platform development Ability to promote product excellence and collaboration, driving a portfolio of concurrent engineering projects, from short-term critical feature launches to long-term research initiatives. Ability to create a compelling vision for the future, communicate clearly, and have a collaborative leadership approach. \"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success! Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $265,000-$385,000 annually. Zone B: The base salary range for this position is $252,000-$366,000 annually. Zone C: The base salary range for this position is $225,000-$327,000 annually. This position is eligible for equity in the form of RSUs. A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy",
+      "job_highlights": [
+        {
+          "items": [
+            "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company’s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and it's AR glasses, Spectacles. Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We’re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. We’re looking for a Principal Software Engineer to join Snap Inc! What you’ll... do: Design, implement, and scale critical engineering components and services to support Snap's most strategic initiatives Work across teams to understand product requirements, evaluate trade-offs, and deliver the solutions needed to build innovative products or services Advocate for and apply best practices when it comes to availability, scalability, operational excellence, and cost management Provide technical direction that influences the entire company Knowledge, Skills & Abilities Excellent programming and software design skills, including debugging, performance analysis, and test design Proven track record of operating highly-available systems at scale Ability to proactively learn new concepts and technology and apply them at work Skilled at solving ambiguous problems Strong collaboration and mentorship skills Minimum Qualifications: Bachelors in technical field such as computer science, mathematics, statistics or equivalent years of experience 14+ years of industry experience Experience in technical leadership/ownership and setting technical direction for engineering projects Experience architecting, designing, and developing distributed systems Preferred Qualifications: Advanced degree in a technical field such as computer science Experience with cross platform development Ability to promote product excellence and collaboration, driving a portfolio of concurrent engineering projects, from short-term critical feature launches to long-term research initiatives. Ability to create a compelling vision for the future, communicate clearly, and have a collaborative leadership approach. \"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success! Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $265,000-$385,000 annually. Zone B: The base salary range for this position is $252,000-$366,000 annually. Zone C: The base salary range for this position is $225,000-$327,000 annually. This position is eligible for equity in the form of RSUs. A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.snap.com/",
+          "text": "snap.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Snap+Inc.&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAIIow0",
+          "text": "See web results for Snap Inc."
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6Ino5OXZhZ0JYMkl2YU9DQy1BQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJYVndNbmRSTWpSSlJGaE1iWHBOZGpFdFlWSlJkRlF5TFdKQ2RsVmZTMlJaUldZeFVUVTBlakZpY1VWVVpHUjZiVlJxWVVGclozUm9iVEZmVUVoc1VqRjBjRmRyWlc1a2FEUlNkazEyZUhsU2JXMU1kMWN5T0VSNVpYQm5NRTVRUlRaR1MxRkhORGxuTnpaSVEyeHFWUzE2VVRGUWMwaDRZMHRCVWtwelFtZHVhazlGV214QlptYzFRVU10ZWxoRk1rOHRibk5JYzBkUFowWXpNRUl3UW5OcFlYRlJkQzF3Um1aRFptdHRWRXhqZUU5V2IyMTJkVmxtYm1Oak1GcHVORXAwWXpaYWFVRktlRWhxZFZkb1YzVlpSMDlzUVZGd1FsbEdkeElYUVhGTE5GcG1aVWxPTldJMGQySnJVSGxPWlZBeVFWa2FJa0ZRV0dodE5XRjViVEZ4VUUwMGJHVXRjM3BXVkdSbllXVjNjRlV0WjNoUlFrRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdkMS5NeXdvcmtkYXlzaXRlLmNvbSIsImxpbmsiOiJodHRwczovL3dkMS5teXdvcmtkYXlzaXRlLmNvbS9yZWNydWl0aW5nL3NuYXBjaGF0L3NuYXAvam9iL0xvcy1BbmdlbGVzLUNhbGlmb3JuaWEvUHJpbmNpcGFsLVNvZnR3YXJlLUVuZ2luZWVyX1ExMjRQRTE0LTE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer III",
+      "company_name": "Walmart",
+      "location": "  Bentonville, AR   ",
+      "via": "via Walmart Careers",
+      "description": "Position Summary...\n\nWhat you'll do...\n• Join our Finance Technology team at Walmart as a Software Engineer III - Technology. Leverage your technological, analytical, and problem-solving skills to make a substantial impact and advance your career. Our team values excellence and offers opportunities for professional growth.\n• Develop impactful solutions that enhance the end-user experience.\n• Bring innovative ideas to the table and inspire your team to do the same.\n• Identify areas for improvement, design solutions, and contribute to process enhancements.\n\nAbout Team:\nOur team is focused on developing a streamlined, dependable company that includes service operations and technology solutions for Finance, People, and Associate Digital Experience (ADE). We also provide a variety of services such as procurement, supplier portfolio management, merchandising master data, and analytics. From developing HR chatbots and virtual assistants to creating invoice solutions and facilitating legal changes, we help drive efficiency across Walmart globally.\n\nWhat you'll do:\n• Develop n-tier applications using Microservices, Java/J2EE, and related technologies.\n• Participate in medium-scale projects, working with cross-functional teams to translate project requirements into technical solutions.\n• Collaborate with a small group of engineers, including offshore associates, on engineering projects. Provide guidance and review solutions.\n• Analyze business requirements and work in an agile development environment with rapid turnaround times.\n• Collaborate with various teams to achieve results and promote positive team dynamics.\n\nWhat you'll bring:\n• Bachelor's degree in software engineering with 4+ years of experience.\n• Experience in software development in an agile environment.\n• Proficiency in Advanced Java and strong algorithmic skills.\n• Knowledge of Java, Spring, JPA, JUnit, REST services, and design patterns.\n• Familiarity with UI technologies like HTML 5, JavaScript, React, and Bootstrap.\n• Skills in messaging platforms like Kafka.\n• Experience with test-driven development.\n• Familiarity with databases like DB2, MS SQL, and NoSQL databases such as Cassandra.\n• Experience with Cloud platforms (Azure), git, Jenkins, and Kubernetes.\n• Scripting skills in Shell or Bash and knowledge on .Net and Unix.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.Option 2: 4 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCustomer Service\n\nMasters: Computer Science\n\nPrimary Location...\nPHYLLIS ST. N OF HWY 102, WEST SIDE OF STREET, BENTONVILLE, AR 72712, United States of America",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience in software development in an agile environment",
+            "Proficiency in Advanced Java and strong algorithmic skills",
+            "Knowledge of Java, Spring, JPA, JUnit, REST services, and design patterns",
+            "Familiarity with UI technologies like HTML 5, JavaScript, React, and Bootstrap",
+            "Skills in messaging platforms like Kafka",
+            "Experience with test-driven development",
+            "Familiarity with databases like DB2, MS SQL, and NoSQL databases such as Cassandra",
+            "Experience with Cloud platforms (Azure), git, Jenkins, and Kubernetes",
+            "Scripting skills in Shell or Bash and knowledge on .Net and Unix",
+            "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Join our Finance Technology team at Walmart as a Software Engineer III - Technology",
+            "Bring innovative ideas to the table and inspire your team to do the same",
+            "Identify areas for improvement, design solutions, and contribute to process enhancements",
+            "Develop n-tier applications using Microservices, Java/J2EE, and related technologies",
+            "Participate in medium-scale projects, working with cross-functional teams to translate project requirements into technical solutions",
+            "Collaborate with a small group of engineers, including offshore associates, on engineering projects",
+            "Provide guidance and review solutions",
+            "Analyze business requirements and work in an agile development environment with rapid turnaround times",
+            "Collaborate with various teams to achieve results and promote positive team dynamics"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+            "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.walmart.com/",
+          "text": "walmart.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Walmart&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAII-A0",
+          "text": "See web results for Walmart"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5FvH34ZOATLYnu5r4x6771B-yvvnvALrzttQHGCAW5FqQKRnaG-bXyo&s",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSUkiLCJodGlkb2NpZCI6InlqM1h5UUVGQS00Y1FXeG5BQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJUZ3dNRmR4VVZsWGQwdFRhSGcyYmpSUFgySkZkaTF4WmtGWmRXMUNOMFZmU0RWcVVqUm5YM2xFVVZCNFVYUkpjRTR5VlZBeFRYTlpWMVk0VkRsNlFqRm9YelZhU1hCQ2QzQm5aV3R0YUZvM1NVNHdVVkYxWkRCbmVEQlFaV0V3WmpaamJ6bDJPWE0yZG1aMlpHaFNSR05FVFRWblUzWTBla2RmU0d3elNVMWFkMkZGWmxsYVlXVkxlV0ZDU2swelR6aDFhbVExV2xJd1IxQnBNa1l0TlRscGRFMU9jemRDV1dSS0xVUldNMWxXYzFOZmRsVnBjR3BzUTFGRmMycGFjRzFUZW5CNU9IQkJjWEJCYUdscGFGRlNjWGxCZURCSFIyaGFVUklYUVhGTE5GcG1aVWxPTldJMGQySnJVSGxPWlZBeVFWa2FJa0ZRV0dodE5XRTNlRzVYU21kcFR6ZERNbW81WXpCSFJrZFBSRGRaVUhrNVVuYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdhbG1hcnQgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2FsbWFydC5jb20vdXMvam9icy9XRDE3MDQ0Nzktc29mdHdhcmUtZW5naW5lZXItaWlpP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Infinite Computer Solutions",
+      "location": "  United States   ",
+      "via": "via LinkedIn",
+      "description": "18254BR\n\nNew Jersey\n\nJob Description\n\nSoftware Engineer\n\nQualifications\n\nGraduate\n\nRange of Year Experience-Min Year\n\n1\n\nRange of Year Experience-Max Year\n\n2",
+      "job_highlights": [
+        {
+          "items": [
+            "18254BR\n\nNew Jersey\n\nJob Description\n\nSoftware Engineer\n\nQualifications\n\nGraduate\n\nRange of Year Experience-Min Year\n\n1\n\nRange of Year Experience-Max Year\n\n2"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.infinite.com/",
+          "text": "infinite.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=Infinite+Computer+Solutions&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAIIrw4",
+          "text": "See web results for Infinite Computer Solutions"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRaNg6KMiQth5JlYu4BblycDYYo0TuZgJliDsu_Yg&s",
+      "extensions": [
+        "6 hours ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiLUxNLXNJbWZJQlBoOFZRQ0FBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYkdFM1dYUkdUbHBuVldsU2VIWlNNM2N4ZWtWUVduWndjWGRFZFV0bmFEUkNWMTlRUWpCNFZIUmlOR3hmY2poRGRtWkZPRXBTZEdwZlltTlhZbGh6TjNVdGNrSmlRa3RvVFZsSFpUQnBTVXhNVmxkNVRFdE1OM2RCT1hWclYxSkdjREozU201SVIxRnZXRGREZEhGVk0wbDZiVEV6Y0ZadVJuUjBWMWw2T1RCTWN6ZHFMV1JSZUhJeldYaERjbGRNTTJaeE1IVXRZWFpmVm0xNE5taENiVE5pYjBwdVEzVkNTMkUzZVRSQ1dsSnpOR2hIY21OTmMxOUtkbVZDZEZVNVVqRXhVR3B3VVY5M1NYTlFRVVJrYzBkUWNHRmtiMkp3WTNObllscFZibUppVm1ScFRDMUJMVEZzVm01Zk5scHVjeElYUVhGTE5GcG1aVWxPTldJMGQySnJVSGxPWlZBeVFWa2FJa0ZRV0dodE5WbzViM0pIUWpNME9VSXRhWGRpVW1rMWNsRkNPRmxXUVZwcVlXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc29mdHdhcmUtZW5naW5lZXItYXQtaW5maW5pdGUtY29tcHV0ZXItc29sdXRpb25zLTM4MTMxNTAyMDY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer in Test",
+      "company_name": "HPE1US",
+      "location": "  United States   (+7 others)   ",
+      "via": "via HPE Careers",
+      "description": "Senior Software Engineer in Test\n\nThis role has been designated as ‘Remote/Teleworker’, which means you will primarily work from home...\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\nJob Description:\n\nLove testing distributed systems?\n\nWe are hiring a Senior Software Engineer in Test to help us architect and build out the framework for testing products across the AI Solutions org within HPE. You’ll be working on challenging distributed systems testing problems every day and helping us build containerized, data infrastructure platforms for Machine Learning.\n\nDeep learning has enormous promise, but developing deep learning models at scale remains extremely complex, time-consuming, and expensive. In the AI Solutions organization, part of Hewlett Packard Enterprise, we are working to change that: our revolutionary open-source deep learning training platform enables deep learning engineers to train better models in less time, to seamlessly share GPU clusters, and to collaborate more effectively.\n\nYour primary focus will be to work on building the automation infrastructure, tools, and framework for testing our products. In addition, you will help layout sustainable practices within engineering to continually raise the quality bar. For the AI Solutions org within HPE, Open Source Software users and customer feedback is a major driver of our product roadmap and we believe that everyone within the company should experience that first-hand. You will have an outsized impact in making your stakeholders (developers, customer team, and ultimately customers) successful and happy.\n\nThe Infrastructure team is a small team right now, but growing. We have recently expanded our scope to expand across the entire AI Solutions org. You would have an enormous impact on the success and direction of our teams.\n\nIn this role, you will use Docker, Kubernetes, Go, Python, CI systems, various cloud providers, and more.\n\nYour responsibilities will include:\n\n· Designing, developing, executing, and maintaining an automated testing framework, tools, and infrastructure\n\n· Testing the products for performance, resiliency, security, scalability, and reliability\n\n· Understanding the end-to-end configuration, technical dependencies, code paths, and overall behavioral characteristics of the platforms\n\n· Owning the performance and longevity benchmarks\n\n· Analyzing and understanding existing test coverage and test cases, identifying opportunities for redesign, replacement, reusability, and improvement in efficiency and performance\n\n· Defining and inspiring changes to our product with our development engineering teams based on feedback from tests and customer issues\n\n· Developing and contributing to internal and external knowledge bases\n\n· Caring about developer happiness and being a champion for our customers\n\n· Going above and beyond to ensure customers are getting the most out of their investment in AI at Scale platforms\n\nQualifications:\n\n· Some programming experience is required.\n\n· Experience writing automated tests\n\n· Experience working with development teams to understand their testing and work with them to improve it\n\n· Experience designing and running performance tests\n\n· Experience working in a continuous integration / continuous delivery development environment\n\n· Experience working with Kubernetes and Docker\n\n· Must have strong communication skills when talking about technical concepts.\n\n· Professional experience in Databases and/or Distributed Systems\n\n· BS in CS (or equivalent technical degree) and 5+ years of relevant work experience (QA/Automation/Development)\n\n#AISolutions\n\n#SDET\n\n#SDETjobs\n\n#HPECareers\n\nAdditional Skills:\n\nCloud Architectures, Cross Domain Knowledge, Design Thinking, Development Fundamentals, DevOps, Distributed Computing, Microservices Fluency, Full Stack Development, Security-First Mindset, Solutions Design, Testing & Automation, User Experience (UX)\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\nDiversity, Inclusion & Belonging\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.\n\nJob:\nEngineering\n\nJob Level:\nExpert\n\nStates with Pay Range Requirement\n\nThe expected salary/wage range for a U.S.-based hire filling this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. If this is a sales role, then the listed salary range reflects combined base salary and target-level sales compensation pay. If this is a non-sales role, then the listed salary range reflects base salary only. Variable incentives may also be offered. Information about employee benefits offered can be found at https://myhperewards.com/main/new-hire-enrollment.html.\n\nAnnual Salary: $113,000.00 - $259,500.00\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Some programming experience is required",
+            "Experience writing automated tests",
+            "Experience working with development teams to understand their testing and work with them to improve it",
+            "Experience designing and running performance tests",
+            "Experience working in a continuous integration / continuous delivery development environment",
+            "Experience working with Kubernetes and Docker",
+            "Must have strong communication skills when talking about technical concepts",
+            "Professional experience in Databases and/or Distributed Systems",
+            "BS in CS (or equivalent technical degree) and 5+ years of relevant work experience (QA/Automation/Development)",
+            "Cloud Architectures, Cross Domain Knowledge, Design Thinking, Development Fundamentals, DevOps, Distributed Computing, Microservices Fluency, Full Stack Development, Security-First Mindset, Solutions Design, Testing & Automation, User Experience (UX)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll be working on challenging distributed systems testing problems every day and helping us build containerized, data infrastructure platforms for Machine Learning",
+            "Your primary focus will be to work on building the automation infrastructure, tools, and framework for testing our products",
+            "In addition, you will help layout sustainable practices within engineering to continually raise the quality bar",
+            "You will have an outsized impact in making your stakeholders (developers, customer team, and ultimately customers) successful and happy",
+            "Designing, developing, executing, and maintaining an automated testing framework, tools, and infrastructure",
+            "Testing the products for performance, resiliency, security, scalability, and reliability",
+            "Understanding the end-to-end configuration, technical dependencies, code paths, and overall behavioral characteristics of the platforms",
+            "Owning the performance and longevity benchmarks",
+            "Analyzing and understanding existing test coverage and test cases, identifying opportunities for redesign, replacement, reusability, and improvement in efficiency and performance",
+            "Defining and inspiring changes to our product with our development engineering teams based on feedback from tests and customer issues",
+            "Developing and contributing to internal and external knowledge bases",
+            "Caring about developer happiness and being a champion for our customers",
+            "Going above and beyond to ensure customers are getting the most out of their investment in AI at Scale platforms"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+            "Variable incentives may also be offered",
+            "Information about employee benefits offered can be found at https://myhperewards.com/main/new-hire-enrollment.html",
+            "Annual Salary: $113,000.00 - $259,500.00"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&q=HPE1US&sa=X&ved=0ahUKEwj3keOwyISEAxUWfDABHcjrA2s4ChCYkAII_Q4",
+          "text": "See web results for HPE1US"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgaW4gVGVzdCIsImh0aWRvY2lkIjoiZWh4ejVuOV9UamJXTkNiYkFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYkRCRmVVNU1iRE5aVnpKQlFrRnphMHBCWDJJMlJtRmlRVzQyU1ZweVVsSnRjMEZQY1c5UU16Vm5YME5zYkdGT0xXTndZM0ZKVm5aYVJGVndjRGh0ZG1kTmFqbFVVRXhuVDFWbVYwTnBaSEl3TkVKNmN6bDBjSHBoWkZCblIyUjNNRzVhUkhsTU5HNXVURlpaTmxSdFQwOVpTalUwY2taQ00xVTFSa3hCV2tka1puSk9NV1pMTTNkbWNYTlJjMEl3UTNOS1VsUklhMmhoWDJkUFFUWnZia2h6UmpGamRFdFhYMmRTU1hSU1gwWlNTa0pqVkZOcGRXeGxRVUppWTJWaFpVUnlZVWRHRWhkQmNVczBXbVpsU1U0MVlqUjNZbXRRZVU1bFVESkJXUm9pUVZCWWFHMDFZVGgwUm1OWVRXaEVSMU5YU0dOQ2RFUnJOVFJ0Y0hoMlpVOXladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE5IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEhQRSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5ocGUuY29tL3VzL2VuL2pvYi8xMTU1MjY0L1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci1pbi1UZXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Lab",
+          "value": "lab"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Network services",
+          "value": "network services"
+        },
+        {
+          "text": "Project manager",
+          "value": "project manager"
+        },
+        {
+          "text": "Science",
+          "value": "science"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Test engineer",
+          "value": "test engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Oklahoma City, OK",
+          "value": "gdL4flSKrYedOk_RdBKiMw=="
+        },
+        {
+          "text": "Kansas City, MO",
+          "value": "l5npr173wIeiUapq5iWFVQ=="
+        },
+        {
+          "text": "Cave Springs, AR",
+          "value": "OQxJ3_MRyYe62iSa1sSt8w=="
+        },
+        {
+          "text": "Olathe, KS",
+          "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+        },
+        {
+          "text": "Broken Arrow, OK",
+          "value": "EU6rbj1itodcJqZGOKslKA=="
+        },
+        {
+          "text": "Centerton, AR",
+          "value": "99IuBIgFyYehPLOyXut7XQ=="
+        },
+        {
+          "text": "Fayetteville, AR",
+          "value": "nT61L3tvyYfPyLT8afAZRQ=="
+        },
+        {
+          "text": "Overland Park, KS",
+          "value": "0zgmp1GVwIfI-UQ460_OJA=="
+        },
+        {
+          "text": "Paris, TX",
+          "value": "mysnFgZYSoZJ89MvZgm5yQ=="
+        },
+        {
+          "text": "Rogers, AR",
+          "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+        },
+        {
+          "text": "Springdale, AR",
+          "value": "eYV1ArMUyYdavDvUreoxoQ=="
+        },
+        {
+          "text": "Cassville, MO",
+          "value": "OUvy21DQyIc6hF_OIVWVzg=="
+        },
+        {
+          "text": "Decatur, AR",
+          "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+        },
+        {
+          "text": "Farmington, AR",
+          "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+        },
+        {
+          "text": "Goshen, AR",
+          "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+        },
+        {
+          "text": "Kansas City, KS",
+          "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+        },
+        {
+          "text": "Lowell, AR",
+          "value": "S99nqxEUyYcglsAlyy4CBw=="
+        },
+        {
+          "text": "Tontitown, AR",
+          "value": "o_pMF5RyyYfEvqij54Opug=="
+        },
+        {
+          "text": "Tulsa, OK",
+          "value": "jy7R3biStof3atkbyBBp5w=="
+        },
+        {
+          "text": "Wichita, KS",
+          "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+        },
+        {
+          "text": "Bartlesville, OK",
+          "value": "8b3HNk8St4c2oSjV4ALw3g=="
+        },
+        {
+          "text": "Benton, AR",
+          "value": "gwSnon5RzYfnX4QNNsNvtA=="
+        },
+        {
+          "text": "Columbia, MO",
+          "value": "yYKBu_Or3Icgb726LWkRoA=="
+        },
+        {
+          "text": "Elkins, AR",
+          "value": "wTlAeqlDyYcwYhRAWUq6fw=="
+        },
+        {
+          "text": "Elm Springs, AR",
+          "value": "weUZtbASyYc-0yhD2qMB6A=="
+        },
+        {
+          "text": "Fort Leavenworth, KS",
+          "value": "O3ZaTet6wIeb7YRt3bwETA=="
+        },
+        {
+          "text": "Gravette, AR",
+          "value": "w8TGtmupyYfe37-QmZ2BFg=="
+        },
+        {
+          "text": "Greenland, AR",
+          "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+        },
+        {
+          "text": "Huntsville, KS",
+          "value": "b4rO53ONpIcqxhYmgAxYVA=="
+        },
+        {
+          "text": "Independence, KS",
+          "value": "aXhEokUruIdHkOg2KXGhiw=="
+        },
+        {
+          "text": "Johnson, AR",
+          "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+        },
+        {
+          "text": "Lawton, OK",
+          "value": "RQ0hWeIerYdSTnLyxvosYQ=="
+        },
+        {
+          "text": "Lenexa, KS",
+          "value": "rZknHh-UwIcLSV98iPViMg=="
+        },
+        {
+          "text": "Mission, KS",
+          "value": "4Q3sAs7twIegN_6kDLgDHA=="
+        },
+        {
+          "text": "Montreal, MO",
+          "value": "QSOJBMfXxIdq2pmJGJwBnw=="
+        },
+        {
+          "text": "Pea Ridge, AR",
+          "value": "6xf8mywZyYe6kgw_pTHC3w=="
+        },
+        {
+          "text": "Shawnee, KS",
+          "value": "_Vq7CyuSwIfjWKe3k3vwaQ=="
+        },
+        {
+          "text": "Springfield, MO",
+          "value": "P5jIRfdiz4egDWkes2z9aw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Personal Services",
+          "value": "/business/naics2007/8129"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Oracle",
+          "value": "/m/05njw"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "Netflix",
+          "value": "/m/017rf_"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11bwf70g1f"
+        },
+        {
+          "text": "FlightSafety International",
+          "value": "/m/0bh8vr"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "HubSpot",
+          "value": "/m/02yxmbc"
+        },
+        {
+          "text": "Microsoft",
+          "value": "/m/04sv4"
+        },
+        {
+          "text": "Viasat",
+          "value": "/m/0f9lmh"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Citadel",
+          "value": "/m/08vx4k"
+        },
+        {
+          "text": "Infinite Computer Solutions",
+          "value": "/m/0g55l61"
+        },
+        {
+          "text": "Mysten Labs",
+          "value": "/g/11sh0k93fc"
+        },
+        {
+          "text": "Paychex",
+          "value": "/m/026qjz"
+        },
+        {
+          "text": "Pinterest",
+          "value": "/g/11fwg_5ywq"
+        },
+        {
+          "text": "Primary",
+          "value": "/g/11c73_xmld"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Sprout Social",
+          "value": "/g/11bzspfgc1"
+        },
+        {
+          "text": "TEKsystems",
+          "value": "/g/11b6g4bkv0"
+        },
+        {
+          "text": "UPMC",
+          "value": "/m/06r0_0"
+        },
+        {
+          "text": "WARNERMEDIA",
+          "value": "/m/0l8sx"
+        },
+        {
+          "text": "1upHealth",
+          "value": "/g/11h3lglvf1"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "APN Consulting Inc.",
+          "value": "/g/11dym8bywy"
+        },
+        {
+          "text": "Accretive Technology Group",
+          "value": "/g/11c73_tb56"
+        },
+        {
+          "text": "Airbnb",
+          "value": "/m/010qmszp"
+        },
+        {
+          "text": "Akamai Technologies, Inc",
+          "value": "/m/02fqbt"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "AppFolio",
+          "value": "/m/02yxdck"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        },
+        {
+          "text": "Auxilius",
+          "value": "/g/11t396c1h0"
+        },
+        {
+          "text": "Axiom Exergy",
+          "value": "/g/11fy280sqv"
+        },
+        {
+          "text": "Axon",
+          "value": "/m/0cl_m7"
+        },
+        {
+          "text": "BP",
+          "value": "/m/0k5b5"
+        },
+        {
+          "text": "Backblaze",
+          "value": "/g/11fy1qndrz"
+        },
+        {
+          "text": "Belcan",
+          "value": "/m/0kqjj_"
+        }
+      ]
+    }
+  ]
+}

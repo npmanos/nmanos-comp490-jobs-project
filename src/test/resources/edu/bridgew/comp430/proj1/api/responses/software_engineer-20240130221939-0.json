@@ -1,0 +1,1289 @@
+{
+  "search_metadata": {
+    "id": "65b975fbaef2646c7a225b5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b975fbaef2646c7a225b5a.json",
+    "created_at": "2024-01-30 22:19:39 UTC",
+    "processed_at": "2024-01-30 22:19:39 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b975fbaef2646c7a225b5a.html",
+    "total_time_taken": 6.5
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Computer Engineer",
+      "company_name": "Forest Service",
+      "location": "  Madison, WI   ",
+      "via": "via USAJobs",
+      "description": "This employee supports the USDA Forest Service, Forest Products Laboratory in Madison, WI.\n\nThis employee serves as a professional computer network engineer in support of research, design, development, testing, evaluation and maintenance for computer hardware and software systems...\n\nFor additional information about the duties of this position, please contact Steven Kalinosky at Steven.Kalinosky@usda.gov or James Bridwell at james.j.bridwell@usda.gov",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This employee serves as a professional computer network engineer in support of research, design, development, testing, evaluation and maintenance for computer hardware and software systems"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.usda.gov/",
+          "text": "usda.gov"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Forest+Service&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCNMJ",
+          "text": "See web results for Forest Service"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskC7yZ_3-eLA4etWInBsOzcnpv2H5aRSlMHgT&s=0",
+      "extensions": [
+        "46,696 a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "46,696 a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBFbmdpbmVlciIsImh0aWRvY2lkIjoiMmZBSVNicFVlTm1JUE1BTUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYTJ4UU0ybEVPRkJLYUU0eFRtdHVUV05QU2xkVGNWVjBVbGhsYTJSdFJsbElZVlY1V1dOdFJtUnhPRVJTUjJrd2FsZHJPWEJoZUU1cWNIUTNObFl5VW5ocmJISTRhekJGT1VOS1NsQjBaVEpEWjFkSlVHMDNhazUzYTNOMlVVcEpiVE5MU0ZrMmVWTk9PRzFEVkRoaE1tbE1jekpZU0hKUFMzZG1UMlpPUm01SlpqZEVZbUZ6UjFOU1FWTTNia2RsVjB3elozSjVOR2MwVld4UVlrdEhla0ZTVFZSaFJXZFlXRmhSWTJndFJsaGpaMUpvTjFNd2RrUnlZamhIY0dsbFJIZGhTMmgyV2pCbVRXRk1NM0ZmU1daNmVtdHZSRGg0YlRka1p4SVhRVmhoTlZwaVdEZEdXbXB0TW5KdlVEUkxVM2xyUVVVYUlrRlFXR2h0TlZsWFRIZG5VVlYyU3kxWE1rcDZaM0YwYzBSc01VRk5VRE5JU0hjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBVU0FKb2JzIiwibGluayI6Imh0dHBzOi8vd3d3LnVzYWpvYnMuZ292L0dldEpvYi9WaWV3RGV0YWlscy83NjM1MTM1MDA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer, Full Stack (TypeScript, React, Node, AWS)",
+      "company_name": "Jobs for Humanity",
+      "location": "  Madison, WI   ",
+      "via": "via LinkedIn",
+      "description": "Job Description\n\nCenter 3 (19075), United States of America, McLean, Virginia...\n\nSenior Software Engineer, Full Stack (TypeScript, React, Node, AWS)\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications\n• Bachelor’s Degree\n• At least 4 years of experience in software engineering (Internship experience does not apply)\n\nPreferred Qualifications\n• 5+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go\n• 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer\n\nSan Francisco, California (Hybrid On-Site): $174,900 - $199,700 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of experience in software engineering (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "New York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCKAK",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "16 hours ago",
+        "Internship",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "16 hours ago",
+        "schedule_type": "Internship"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEZ1bGwgU3RhY2sgKFR5cGVTY3JpcHQsIFJlYWN0LCBOb2RlLCBBV1MpIiwiaHRpZG9jaWQiOiJBa2tYbnI3dDR2enZQaV8yQUFBQUFBPT0iLCJmYyI6IkV1SUNDcUlDUVU1MVYyaGpiVTVYVVVnM1NFMDNOa1F3UkVwSVpYZDJXWGwzWkRjMFRuY3dYemxRT0doSVNVcFNjRFprU20xSGNUWTBkMGRYZVdWck1IY3dlVlIxUTFCd1JGVnVXRVJ6YjFFNFJ6QjNjRVp3ZFVOMlkyaENWREJDZURsT1lXcFlTMHR5VjJZMU9GSkNPVlZMWVd0emIxVnNSRGx2UjB0d2IwNUZUME5PWjBKNGNVTkpTMEUxVjI5RmJscFNVVVpaZW5WMWIwTlJha0prWVRKUGNYVnNjelV0Y1dNNVRrUlZWMk5MYkMxM2JXTnZSRVZpWVV3eGFrNDFNVE10U0V4WVZ6ZGFTbUpqVkc0dGNXTm1aa1JRUWs1VFRVOHRPVmR2VmtGek5WcFJVMU0wZWt0S01tcHZjekJWZUd0b2FVRjFRVloyWHpkb1IwcDBUamc1Tlhwc05VdE1MVjlVTW1OaGN6ZExiekZpV2xWcVREWXlVbTlRZDNaNU9ERTNaa0ZvTW1jU0YwRllZVFZhWWxnM1JscHFiVEp5YjFBMFMxTjVhMEZGR2lKQlVGaG9iVFZaV0U4MmRYSjRkVGMyVUZkVE1rSmZZUzFDZHpGZlNHeHpXWEJuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLXR5cGVzY3JpcHQtcmVhY3Qtbm9kZS1hd3MtYXQtam9icy1mb3ItaHVtYW5pdHktMzgxMzE2OTQ5Mz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Epic",
+      "location": "  Oshkosh, WI   ",
+      "via": "via LinkedIn",
+      "description": "Code that saves lives.\n\nAs a software developer at Epic, you’ll write software that impacts the lives of 75% of Americans and 300 million patients around the world. Working in your own office, surrounded by thousands of high-caliber developers, you’ll use modern development methodologies and employ user-centered design, analytics, and machine learning tools to drive innovation in healthcare... Using leading-edge technologies and languages like JS, TS, and C#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves.\n\nWrite software for the most innovative health systems on the planet.\n\nThe top-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.\n\nExperience our state-of-the-art campus, eat delicious food, and travel the world.\n\nWe don’t believe in cubicles. (Well, we believe they exist, but…) Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. For lunch, visit King’s Cross or Cassiopeia for a wide array of meal options, or go to one of our smaller, themed bistros, featuring wood-rotisserie, pan-Asian, and Latin-inspired cuisine. All meals are restaurant-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.\n\nLive affordably in a city known for its rising tech talent.\n\nEpic is located just outside Madison, Wisconsin, which is the second fastest growing market for tech talent in the United States, home to the state capital, and the University of Wisconsin. Madison has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), fittest city in America (Fitbit), and, for the gamers, is one of a handful of US cities to have a Killer Queen arcade game, located at Madison’s first arcade bar.\n\nMore than just important work.\n\nWe offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Epic is an Equal Opportunity employer. We seek diverse perspectives, backgrounds, and experiences in our mission to improve healthcare. Research has shown that job-seekers who are women, LGBTQ+, or members of the global majority are less likely to apply for roles they don't seem completely qualified for, so we encourage all who are interested to apply. Please see our full non-discrimination statement at https //careers.epic.com/EEO.\n• Relocation to Madison, WI area (reimbursed)\n• BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field\n• A history of academic excellence or professional success\n• Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)\n• COVID-19 vaccination",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field",
+            "A history of academic excellence or professional success",
+            "Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "And, after five years here, you’ll earn a four-week sabbatical anywhere in the world",
+            "We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers",
+            "You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.epic.com/",
+          "text": "epic.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Epic&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCOcK",
+          "text": "See web results for Epic"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ExSlYLFQqN0410cCjiC2e8zo_EvEphZA0ONp_Ig&s",
+      "extensions": [
+        "21 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "21 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiZFgyckduYXNXMVQyeEFEbEFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYlVscVRuTjJlbXBYZWpCSFUwWm1SV3RXVkZCR1RreGlXbFJRTkd0WVlreHpYM293TUV4VldTMVRWMmREWWxGM1IwNTNOVTlCYjAxMk5HeFRkbVk0UXpWR2RXdFplRmhPUjFwWlpYcDNiakIzUVc1VU5WWTFVRVZJTFRORk1UZFdka1Z3WTIwd2FUSkJNa2xSY2pWdWExUlBWMWRSUjFsdVNEZENVelppTUY5dE5XWllWVlZzYTBoQmEybGhZVEJGUmtzeWNXZzNkREk0VkVZNFFWbHJhbmN5VVVsMWEyWllVM1JXVVMwMmEzVXdNMm93YlhRMVNqWTJiVmQ2VERsMGVWQkdWRnBzRWhkQldHRTFXbUpZTjBaYWFtMHljbTlRTkV0VGVXdEJSUm9pUVZCWWFHMDFZbU5yV0ZsaFUwWm5UbGs1VkV0c1UxOVRUMmQzT0UxdmJuTXhVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zb2Z0d2FyZS1lbmdpbmVlci1hdC1lcGljLTM2Mjg1OTEyODg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Jobs for Humanity",
+      "location": "  Madison, WI   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\nCenter 1 (19052), United States of America, McLean, Virginia\n\nSenior Software Engineer\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nThe Card Tech Authorizations domain provides capabilities for authorizing credit card transactions in real-time. Card Authorizations enables our customers’ to use their payment instruments (eg. Credit Cards) through industry authorization compliant services, and deep decisioning across fraud, credit, and customer preferences. These real-time decisions require integrated data, with intelligent models that are continuously available and performant to high standards.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of experience in software engineering (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: Java, Python, or Go\n• 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of experience in software engineering (Internship experience does not apply)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+            "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCLML",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlVJLWw3LWdyM09qZHVXYXNBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJXSXplbVpWZW1sRVpsWjZjWHBpU3pOZlIzcE1aekZSUjBzd01VRllTelJmUzBKdFJrcGFSbEJvZFdacVUwMWlkRjkyYWxCNFduWk9aMVU1UTFVNGRtUkpZMjVFVlRoMU5FVkJXVUY2UXpOMVJ6VlJVbUpOTURBd2QyaGlXV3BoUzBwSFduZExWRUpQZEdwV1JXUkROWGhxTjFsclJsUnNSMGhKTlRaVWRFbE9lRVI2TFVoWWFXRnpOVWxJVWtac1MwWTJTMHhuZEV0NU9HdGFaMFJoZUdKSFlVOWplVk5zYTJGbGRWaEVVblZZY1V0clRVNU1ibWMzTTI5b1pESlNabkZLZGw5cFFtUlVVVTVmUzI1eVZEWmlNRVZxT0RCalZtZHlkeElYUVZoaE5WcGlXRGRHV21wdE1uSnZVRFJMVTNsclFVVWFJa0ZRV0dodE5WcHRUbEpEV2xKUVdFTkdOV1Y1WVhacmRHWk1NRlpRV1Rsc1ZWRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItYXQtam9icy1mb3ItaHVtYW5pdHktMzgxNjAwNjgwMz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Android Software Engineer (Remote)",
+      "company_name": "KOHLS",
+      "location": "  Menomonee Falls, WI   ",
+      "via": "via Kohls Careers",
+      "description": "JOB RESPONSIBILITIES\n• Develops, tests, deploys, and iteratively improves product capabilities and\n• features in collaboration with designers, product managers, and other...\n• engineers on the product team\n• Leverages critical thinking, experimentation, data, and industry best practices\n• to achieve desired business outcomes\n• Develops high quality applications that are secure, easy to operate, difficult to\n• break, and extremely observable with measurable results.\n• Responsible for all technical aspects of the product application lifecycle\n• including, code, infrastructure, data, security, and CICD\n• Contributes to product engineering and software standards\n• Continuously develops self and supports the development of others\n\nQUALIFICATIONS\n\nPREFERRED\n• Bachelor's Degree or equivalent in MIS, Computer Science or related field\n• 2+ years of experience in software development\n• Knowledge of application design patterns, event-driven architecture, database\n• schemas, and testing strategies\n• Experience with large scale application troubleshooting and performance\n• tuning\n• Experience working with major cloud platforms (GCP, AWS, or Azure)\n• Knowledge and experience with continuous integration, continuous deployment, and test driven development\n\nADDENDUM\n\nSOFTWARE ENGINEER (ANDROID)\n• Knowledge of Java and Kotlin for Android\n• Experience working with notifications and background tasks in apps\n• Collaborate with iOS, Android, and Server engineers to ship features\n• Experience with making REST calls over the network\n• Experience with JavaScript, either in a browser or server side environment such as NodeJS\n• Have designed and developed a complete Android app from top to bottom",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Knowledge of Java and Kotlin for Android",
+            "Experience working with notifications and background tasks in apps",
+            "Collaborate with iOS, Android, and Server engineers to ship features",
+            "Experience with making REST calls over the network",
+            "Experience with JavaScript, either in a browser or server side environment such as NodeJS",
+            "Have designed and developed a complete Android app from top to bottom"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develops, tests, deploys, and iteratively improves product capabilities and",
+            "features in collaboration with designers, product managers, and other",
+            "engineers on the product team",
+            "Leverages critical thinking, experimentation, data, and industry best practices",
+            "to achieve desired business outcomes",
+            "Develops high quality applications that are secure, easy to operate, difficult to",
+            "break, and extremely observable with measurable results",
+            "Responsible for all technical aspects of the product application lifecycle",
+            "including, code, infrastructure, data, security, and CICD",
+            "Contributes to product engineering and software standards",
+            "Continuously develops self and supports the development of others"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.kohls.com/",
+          "text": "kohls.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=KOHLS&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCIcM",
+          "text": "See web results for KOHLS"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0o2v5Q0PCJ3sdyCgPrlDmV6tsOHQBPzTJBsl5Gw&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBTb2Z0d2FyZSBFbmdpbmVlciAoUmVtb3RlKSIsImh0aWRvY2lkIjoic01Rc2RkdWVVRzBSR1l1QUFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYTFGTlMwWjFVM1pXUTNwNmVFRXRWbGxuY0ZWR1NHOVNWMGhYVVZaSmExTjZXa2g1YURsUllrcG9iR1ZwY21oTk1rOUZOWEpEVG1OelVHZGlUV1J6UWxKdk0xWXpWMkZZVWxOd1pEWmplVzFrWjFGeVVGZDJhRTlFU21GdE4wdzNUakU1Y25WYU9GSk9Xbk5DVmpkNWNFUTJUVkJGWjNJM2EyOVlNbFpUYlZwclZuSm9jM0JrWkZwUU56QnFNV1EwYTBKbGFrbHhVbnA0T0ZSTVdIWkVMV05ZUmtobFJIUTJSRVJXVEZKbE5IQjBZbVpzY0haTlR5MW5RelpNTVVOVU9EaENWUzFDWDJ4bGMyUnVha0V0VlRoUmVFMHlaV0ZDTXpkSVNqbExZVmhwWkRjMmNYRm5XalI1VkhGcFFrbGhZeElYUVZoaE5WcGlXRGRHV21wdE1uSnZVRFJMVTNsclFVVWFJa0ZRV0dodE5XSnlOR0pJVmxSNk1VMTRWRmt3TjJWSFVXMDFXalpZWkdWV2QyYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gS29obHMgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMua29obHMuY29tL2pvYi9SMzQ3NjIzL1Nlbmlvci1BbmRyb2lkLVNvZnR3YXJlLUVuZ2luZWVyLVJlbW90ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer, Android",
+      "company_name": "Jobs for Humanity",
+      "location": "  Madison, WI   ",
+      "via": "via LinkedIn",
+      "description": "Company Description\n\nJobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position... is open to candidates who reside in and have the legal right to work in the country where the job is located.\n\nCompany Name: Capital One\n\nJob Description\n\nCenter 1 (19052), United States of America, McLean, Virginia\n\nSenior Software Engineer, Android\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. As a Capital One Android Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nAt Capital One, the iOS and Android platforms are recognized as an opportunity to reach our customers in unique, personal and engaging ways. Nothing is off limits as we explore exciting ways to take advantage of the full ecosystem of mobile devices including Watch, TV, and whatever future developments Apple or Google creates. Our engineers are provided with top of the line Macbook Pros, multiple high-end monitors and the necessary tooling to develop the best possible products with the least amount of friction. We operate in small, productive agile teams and use the best industry tools to collaborate across teams.\n\nResponsibilities:\n• Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles\n• Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity\n• Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality\n• Be an active advocate of the mobile platform through both internal and external developer communities\n• Remain an active learner in all technologies related to mobile development (Kotlin, Swift 3rd party libraries, etc.)\n• Influence and contribute to group discussions and incorporate feedback/communication from the broader team\n• Mentor junior to mid-level members of the team\n• Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)\n• Own and lead delivery of major components and platform needs in partnership with Senior Engineers and Architects\n• Consistently share best practices and improve processes within and across sprint teams\n• Identify technical obstacles early and work closely with the team to find creative solutions\n• Review pull requests and ensure adherence to Kotlin and other language idioms\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n• At least 2 years of experience building Android applications\n• At least 2 years of experience with Kotlin\n\nPreferred Qualifications:\n• 3+ years of experience building Android applications\n• 3+ years of experience with Kotlin\n• 1+ years of experience in open source frameworks\n• 1+ years of experience with Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree",
+            "At least 4 years of professional software engineering experience (Internship experience does not apply)",
+            "At least 2 years of experience building Android applications"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles",
+            "Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity",
+            "Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality",
+            "Be an active advocate of the mobile platform through both internal and external developer communities",
+            "Remain an active learner in all technologies related to mobile development (Kotlin, Swift 3rd party libraries, etc.)",
+            "Influence and contribute to group discussions and incorporate feedback/communication from the broader team",
+            "Mentor junior to mid-level members of the team",
+            "Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)",
+            "Own and lead delivery of major components and platform needs in partnership with Senior Engineers and Architects",
+            "Consistently share best practices and improve processes within and across sprint teams",
+            "Identify technical obstacles early and work closely with the team to find creative solutions",
+            "Review pull requests and ensure adherence to Kotlin and other language idioms"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "New York City (Hybrid On-Site): $165,100 - $188,500 for Senior Software Engineer",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Jobs+for+Humanity&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCNUM",
+          "text": "See web results for Jobs for Humanity"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1esZWJQOCIkVfDdDsBmy3tzqsgYVSodomhJyXGI&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQiLCJodGlkb2NpZCI6IkZPZTB6Q2xaekVYQmlmRUlBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJrTjFNRU56WWtSNlUwSTJhR0Z5VUhSa1ZEazFkRFpJZUZsM2NsSlVWMU5GVEUxVGNtVk1NMVoyUXpabFZIZGxkRE4yY1dNMWNWcFRWVXBTWkZacldrNDNka1JhTjI5dWJrVkdUWGRxWjB0NGFVNXlWbDkzWHpka09XcFZiVTFNY0hjeldXWlNSM1pCZEUxRGRWSlRWREJDWkdsc1dVMXVRVlJTVW5sd2FsSjJkSE5DYzJaU2NEbHVhM3ByUkRONWFraHlUWGhFUTAxSGFXNUZVbVl0UjJRekxWRndUek5VVXpVNVpIa3pRMFpmZWpodlRYSkVTRXR6TWxjd2RtczVUM0I2YUVWaGRIbHBURWgyZEVSWWRUVkpjWGQzV1VORVEzQmxVUklYUVZoaE5WcGlXRGRHV21wdE1uSnZVRFJMVTNsclFVVWFJa0ZRV0dodE5WcDNlVGhMVGt3MmJucGhaa2hIWW5GbFYwVXpjR1kyY0RBMWJYYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItYW5kcm9pZC1hdC1qb2JzLWZvci1odW1hbml0eS0zODE2MDA1NjU4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer - Commerce Order Engineering",
+      "company_name": "Marriott",
+      "location": "  Madison, WI   ",
+      "via": "via Marriott Jobs",
+      "description": "Job Number 24008659\n\nJob Category Information Technology...\n\nLocation Marriott International HQ, 7750 Wisconsin Avenue, Bethesda, Maryland, United States\n\nSchedule Full-Time\n\nLocated Remotely? Y\n\nRelocation? N\n\nPosition Type Management\n\nJOB SUMMARY\n\nWe are seeking an enthusiastic engineer to help lead and support the digital transformation of Marriott technology platforms. The candidate should be a technology expert and deeply enthusiastic about solving complex problems. The candidate must have the capability to lead architecture, design, and build innovative services and frameworks in support of Marriott's Technology Innovation Platform. The candidate should be able to collaborate extensively with Enterprise Architecture, Infrastructure, and DevSecOps teams to ensure the development of the right architecture components. Work across multiple products and engineering teams to deliver incremental value against a multi-year modernization roadmap. Perform research, analysis, design, creation, and implementation of applications to meet current and future user requirements. Help develop proof-of-concept implementations to help evaluate innovative technology to drive and meet Marriott’s business and technology objectives.\n\nCandidate must have the capability to lead, support, and resolve production issues. Capable of working across multiple products and engineering teams to deliver incremental value against a multi-year modernization roadmap. Perform research, analysis, design, creation, and implementation of applications to meet current and future payment platform requirements. Help develop proof-of-concept implementations to evaluate innovative technology to drive and meet Marriott’s business and technology objectives.\n\nCandidate must have the ability to communicate upward to superiors and laterally to other departments. The candidate should have demonstrated the ability to monitor deliverables from the scrum teams operating in an onshore/offshore model. Candidate should be familiar with managing software deployment activities for on-property & above-property services as applicable.\n\nCANDIDATE PROFILE Education and Experience Required:\n• Undergraduate degree or equivalent experience/certification\n• 5+ years’ experience in software development with expertise in:\n• Defining, creating, and supporting enterprise-scale cloud solutions in an agile development environment\n• Delivered large-scale systems, with a focus on scalability, latency, security, and resilience.\n• Firsthand experience in building cloud-native microservices, domain-driven development, and event-oriented architectures\n• Expertise in automation, CI/CD, Release Management processes, and Application Deployments to Cloud.\n• Working knowledge in API platforms, back-end services, database, and networking components of full-stack infrastructure\n\nPreferred :\n• Prior work experience on eCommerce platforms, Order Management Systems, Point of Sale, EMV Payment System integrations, and building systems leveraging MACH (Microservice, API-first, Cloud-native, Headless) architecture and SOLID Design Principles.\n• Working knowledge of DevOps, Containerization, and development of CI/CD pipelines, API platforms, back-end services, database, and networking components of full-stack infrastructure\n• Development experience in the following tech/tool/platforms stack:\n• Java/J2EE\n• Spring Boot\n• Spring Webflux/React\n• GraphQL\n• Microservices development\n• Document-based NoSQL Databases\n• Kafka\n• Workflow Orchestration\n• BRMS\n• Knowledge of Kubernetes (k8s) and event-driven architecture is a plus.\n• Retail or Travel Commerce experience\n• Payment Processing and payment-related industry standards and regulations\n• Certification in AWS/Azure certification is highly desirable.\n• Performing requirement analysis, architecture reviews, high-level solution design, and API design.\n• Experience working in an agile development environment with an onshore-offshore model.\n• Demonstrated ability to learn and experiment in future software engineering opportunities.\n• Technology leadership experience in an onshore/offshore development model\n\nCORE WORK ACTIVITIES Technical Leadership\n• Trains and/or mentors other team members, and peers as appropriate\n• Provides financial input on department or project budgets, capital expenditures, or other cost/resource estimates as requested.\n• Identifies opportunities to enhance the service delivery processes.\n\nDelivering Technology\n• Performs more complex quantitative and qualitative analyses for service delivery processes and projects.\n• Facilitates achievement of expected deliverables and obligations of Services Providers\n• Validates completeness of requirements before Service Provider solutions\n• Ensures all projects follow the defined development and business case processes.\n• Ensures proper coordination with appropriate IT and vendor relations teams.\n• Provides consultation for routine and complex systems development.\n• Ensures early warning to the business stakeholder executives regarding degraded or missed service levels.\n• Coordinates with Operations and Infrastructure teams for deployment and production support activities\n\nIT Governance\n• Follows all defined IT standards and processes (i.e., IT Governance, SM&G, Architecture, etc.), and provides input for improvements to the appropriate process owners as needed.\n• Maintains a proper balance between business and operational risk.\n• Follows the defined project management standards and processes.\n\nService Provider Management\n• Validates that Service Providers develop and manage respective aspects of a project plan, including schedules, deliverables, and appropriate metrics.\n• Makes short-term plans for the team to effectively utilize resources.\n• Monitors Service Provider outcomes.\n• Reviews estimates of work effort for client projects provided by Service Providers for accuracy.\n• Facilitates timely resolution of service delivery problems and minimizes the impact on clients.\n\nMANAGEMENT COMPETENCIES Leadership\n• Communication - Conveys information and ideas to others convincingly and engagingly through a variety of methods.\n• Leading Through Vision and Values - Keeps the organization's vision and values at the forefront of employee decision-making and action.\n• Managing Change - Initiates and/or manages the change process and energizes it on an ongoing basis, taking steps to remove barriers or accelerate its pace; serves as a role model for how to manage change by maintaining composure and performance level under pressure or when experiencing challenges.\n• Problem-Solving and Decision Making - Identifies and understands issues, problems, and opportunities; obtains and compares information from various sources to conclude, develops and evaluates alternatives and solutions, solves problems, and chooses a course of action.\n• Professional Demeanor - Exhibits behavioral styles that convey confidence and command respect from others; makes a good first impression and represents the company in alignment with its values.\n• Strategy Development - Develops business plans by exploring and systematically evaluating opportunities with the greatest potential for producing positive results; ensures successful preparation and execution of business plans through effective planning, organizing, and ongoing evaluation processes.\n\nManaging Execution\n• Building a Successful Team - Uses an effective interpersonal style to build a cohesive team; inspires and sustains team cohesion and engagement by focusing the team on its mission and importance to the organization.\n• Strategy Execution – Ensures successful execution across business plans designed to maximize customer satisfaction, profitability, and market share through effective planning, organizing, and ongoing evaluation processes.\n• Driving for Results - Sets high standards of performance for self and/or others; assumes responsibility for work objectives; initiates focus and monitors the efforts of self and/or others toward the accomplishment of goals; proactively acts and goes beyond what is required.\n\nBuilding Relationships\n• Customer Relationships - Develops and sustains relationships based on understanding customer/stakeholder needs and actions consistent with the company’s service standards.\n• Global Mindset - Supports employees and business partners with diverse styles, abilities, motivations, and/or cultural perspectives; utilizes differences to drive innovation, engagement and enhance business results; and ensures employees are allowed to contribute to their full potential.\n• Strategic Partnerships - Develops collaborative relationships with fellow employees and business partners by making them feel valued, appreciated, and included; explores partnership opportunities with other people in and outside the organization; influences and leverages corporate and continental shared services and/or discipline leaders (e.g., HR, Sales & Marketing, Finance, Revenue Management) to achieve objectives; maintains effective external relations with government, business, and industry in respective countries; performs effectively as a liaison between locations, disciplines, and corporate to ensure needed resources are received and corporate strategies are understood and executed.\n\nGenerating Talent and Organizational Capability\n• Developing Others - Supports the development of others’ skills and capabilities so that they can fulfill current or future job/role responsibilities more effectively.\n• Organizational Capability - Evaluates and adapts the structure of assignments and work processes to best fit the needs and/or support the goals of an organizational unit.\n\nLearning and Applying Professional Expertise\n• Continuous Learning - Actively identifies new areas for learning; regularly creates and takes advantage of learning opportunities; uses newly gained knowledge and skill on the job and learns through their application.\n• Technical Acumen - Understanding and utilizing professional skills and knowledge in a specific functional area to conduct and manage everyday business operations and generate innovative solutions to approach function-specific work challenges.\n• Technical Intelligence : Knowledge and ability to define and apply appropriate technology to enhance business processes.\n• Development Methodologies : Knowledge of general stages of the SDLC framework and the application tiers within the development space.\n• Information Security : Knowledge of the security considerations relevant within the development space, including industry best practices related to information security.\n• Business Acumen - Understands and utilizes business information to manage everyday operations and generate innovative solutions to approach business and administrative challenges.\n• Basic Competencies - Fundamental competencies required for accomplishing basic work activities.\n• Mathematical Reasoning - The ability to add, subtract, multiply, or divide quickly, correctly, and in a way that allows one to solve work-related issues.\n• Oral Comprehension - Listening to and understanding information and ideas presented through spoken words and sentences.\n• Reading Comprehension - Understanding written sentences and paragraphs in work-related documents.\n• Writing - Communicating effectively in writing as appropriate for the needs of the audience.\n\nCalifornia Applicants Only: The salary range for this position is $96,038.00 to $209,169.00 annually.\n\nColorado Applicants Only: The salary range for this position is $96,038.00 to $190,154.00 annually.\n\nHawaii Applicants Only: The salary range for this position is $116,205.00 to $209,169.00 annually.\n\nNew York Applicants Only: The salary range for this position is $96,038.00 to $209,169.00 annually.\n\nWashington Applicants Only: The salary range for this position is $96,038.00 to $209,169.00 annually. In addition to the annual salary, the position will be eligible to receive an annual bonus. Employees will accrue 0.04616 PTO balance for every hour worked and eligible to receive minimum of 7 holidays annually.\n\nAll locations offer coverage for medical, dental, vision, health care flexible spending account, dependent care flexible spending account, life insurance, disability insurance, accident insurance, adoption expense reimbursements, paid parental leave, educational assistance, 401(k) plan, stock purchase plan, discounts at Marriott properties, commuter benefits, employee assistance plan, and childcare discounts. Benefits are subject to terms and conditions, which may include rules regarding eligibility, enrollment, waiting period, contribution, benefit limits, election changes, benefit exclusions, and others.\n\nMarriott HQ is committed to a hybrid work environment that enables associates to Be connected. Headquarters-based positions are considered hybrid, for candidates within a commuting distance to Bethesda, MD; candidates outside of commuting distance to Bethesda, MD will be considered for Remote positions.\n\nThe application deadline for this position is 28 days after the date of this posting, 1/22/2024.\n\nMarriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.\n\nMarriott International is the world’s largest hotel company, with more brands, more hotels and more opportunities for associates to grow and succeed. Be where you can do your best work,​ begin your purpose, belong to an amazing global​ team, and become the best version of you",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The candidate should be a technology expert and deeply enthusiastic about solving complex problems",
+            "The candidate must have the capability to lead architecture, design, and build innovative services and frameworks in support of Marriott's Technology Innovation Platform",
+            "The candidate should have demonstrated the ability to monitor deliverables from the scrum teams operating in an onshore/offshore model",
+            "Candidate should be familiar with managing software deployment activities for on-property & above-property services as applicable",
+            "Undergraduate degree or equivalent experience/certification",
+            "5+ years’ experience in software development with expertise in:",
+            "Defining, creating, and supporting enterprise-scale cloud solutions in an agile development environment",
+            "Delivered large-scale systems, with a focus on scalability, latency, security, and resilience",
+            "Firsthand experience in building cloud-native microservices, domain-driven development, and event-oriented architectures",
+            "Expertise in automation, CI/CD, Release Management processes, and Application Deployments to Cloud",
+            "Working knowledge in API platforms, back-end services, database, and networking components of full-stack infrastructure",
+            "Developing Others - Supports the development of others’ skills and capabilities so that they can fulfill current or future job/role responsibilities more effectively",
+            "Continuous Learning - Actively identifies new areas for learning; regularly creates and takes advantage of learning opportunities; uses newly gained knowledge and skill on the job and learns through their application",
+            "Technical Acumen - Understanding and utilizing professional skills and knowledge in a specific functional area to conduct and manage everyday business operations and generate innovative solutions to approach function-specific work challenges",
+            "Technical Intelligence : Knowledge and ability to define and apply appropriate technology to enhance business processes",
+            "Development Methodologies : Knowledge of general stages of the SDLC framework and the application tiers within the development space",
+            "Information Security : Knowledge of the security considerations relevant within the development space, including industry best practices related to information security",
+            "Business Acumen - Understands and utilizes business information to manage everyday operations and generate innovative solutions to approach business and administrative challenges",
+            "Basic Competencies - Fundamental competencies required for accomplishing basic work activities",
+            "Mathematical Reasoning - The ability to add, subtract, multiply, or divide quickly, correctly, and in a way that allows one to solve work-related issues",
+            "Oral Comprehension - Listening to and understanding information and ideas presented through spoken words and sentences",
+            "Reading Comprehension - Understanding written sentences and paragraphs in work-related documents",
+            "Writing - Communicating effectively in writing as appropriate for the needs of the audience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Help develop proof-of-concept implementations to help evaluate innovative technology to drive and meet Marriott’s business and technology objectives",
+            "Candidate must have the capability to lead, support, and resolve production issues",
+            "Capable of working across multiple products and engineering teams to deliver incremental value against a multi-year modernization roadmap",
+            "Perform research, analysis, design, creation, and implementation of applications to meet current and future payment platform requirements",
+            "Trains and/or mentors other team members, and peers as appropriate",
+            "Provides financial input on department or project budgets, capital expenditures, or other cost/resource estimates as requested",
+            "Identifies opportunities to enhance the service delivery processes",
+            "Performs more complex quantitative and qualitative analyses for service delivery processes and projects",
+            "Facilitates achievement of expected deliverables and obligations of Services Providers",
+            "Validates completeness of requirements before Service Provider solutions",
+            "Ensures all projects follow the defined development and business case processes",
+            "Ensures proper coordination with appropriate IT and vendor relations teams",
+            "Provides consultation for routine and complex systems development",
+            "Ensures early warning to the business stakeholder executives regarding degraded or missed service levels",
+            "Coordinates with Operations and Infrastructure teams for deployment and production support activities",
+            "Follows all defined IT standards and processes (i.e., IT Governance, SM&G, Architecture, etc.), and provides input for improvements to the appropriate process owners as needed",
+            "Maintains a proper balance between business and operational risk",
+            "Follows the defined project management standards and processes",
+            "Validates that Service Providers develop and manage respective aspects of a project plan, including schedules, deliverables, and appropriate metrics",
+            "Makes short-term plans for the team to effectively utilize resources",
+            "Monitors Service Provider outcomes",
+            "Reviews estimates of work effort for client projects provided by Service Providers for accuracy",
+            "Facilitates timely resolution of service delivery problems and minimizes the impact on clients",
+            "Managing Change - Initiates and/or manages the change process and energizes it on an ongoing basis, taking steps to remove barriers or accelerate its pace; serves as a role model for how to manage change by maintaining composure and performance level under pressure or when experiencing challenges",
+            "Problem-Solving and Decision Making - Identifies and understands issues, problems, and opportunities; obtains and compares information from various sources to conclude, develops and evaluates alternatives and solutions, solves problems, and chooses a course of action",
+            "Professional Demeanor - Exhibits behavioral styles that convey confidence and command respect from others; makes a good first impression and represents the company in alignment with its values",
+            "Building a Successful Team - Uses an effective interpersonal style to build a cohesive team; inspires and sustains team cohesion and engagement by focusing the team on its mission and importance to the organization",
+            "Strategy Execution – Ensures successful execution across business plans designed to maximize customer satisfaction, profitability, and market share through effective planning, organizing, and ongoing evaluation processes",
+            "Driving for Results - Sets high standards of performance for self and/or others; assumes responsibility for work objectives; initiates focus and monitors the efforts of self and/or others toward the accomplishment of goals; proactively acts and goes beyond what is required",
+            "Customer Relationships - Develops and sustains relationships based on understanding customer/stakeholder needs and actions consistent with the company’s service standards",
+            "Global Mindset - Supports employees and business partners with diverse styles, abilities, motivations, and/or cultural perspectives; utilizes differences to drive innovation, engagement and enhance business results; and ensures employees are allowed to contribute to their full potential",
+            "Strategic Partnerships - Develops collaborative relationships with fellow employees and business partners by making them feel valued, appreciated, and included; explores partnership opportunities with other people in and outside the organization; influences and leverages corporate and continental shared services and/or discipline leaders (e.g., HR, Sales & Marketing, Finance, Revenue Management) to achieve objectives; maintains effective external relations with government, business, and industry in respective countries; performs effectively as a liaison between locations, disciplines, and corporate to ensure needed resources are received and corporate strategies are understood and executed"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Colorado Applicants Only: The salary range for this position is $96,038.00 to $190,154.00 annually",
+            "Hawaii Applicants Only: The salary range for this position is $116,205.00 to $209,169.00 annually",
+            "New York Applicants Only: The salary range for this position is $96,038.00 to $209,169.00 annually",
+            "In addition to the annual salary, the position will be eligible to receive an annual bonus",
+            "Employees will accrue 0.04616 PTO balance for every hour worked and eligible to receive minimum of 7 holidays annually",
+            "All locations offer coverage for medical, dental, vision, health care flexible spending account, dependent care flexible spending account, life insurance, disability insurance, accident insurance, adoption expense reimbursements, paid parental leave, educational assistance, 401(k) plan, stock purchase plan, discounts at Marriott properties, commuter benefits, employee assistance plan, and childcare discounts"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.marriott.com/",
+          "text": "marriott.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Marriott&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCKgN",
+          "text": "See web results for Marriott"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oO4qQ-3nYrM67J3Dp5uLzrrmgXcydk1g-Ue0&s=0",
+      "extensions": [
+        "7 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBDb21tZXJjZSBPcmRlciBFbmdpbmVlcmluZyIsImh0aWRvY2lkIjoiOGRpWHNjbkozbExRM1ZjVkFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYlZST1NESjVTR0V4TkhWNlNHWlVTMUU0VUUxMlVVSndNWEp0VGtSUlVWZFRObTV1UkZSVmJIcDZTbll6TlRZeVFWUndTbE5FVFdaTldtVkJUazlxWW1GbVEwSkNhbFV0Y0VsNlVFOUhRbkpWZWpsdU9VWmlkV2hPUmsxamJscGhhbHBvT0Y5Q1RWVnBWRWM1TkRGbFQxRTFWR2MxVW1Zd2RWRm9VVTkzT1ZjNWFGSlBYekF3UkRsVlpYWkRaREUzU0RoYVluSTJNM2RKU21aUVRuaG5hMVJUYjA5M04zSlVTRFJ0VmxScWMycFZNek40WDFCRmJtSnpRVnBMZW1oVldHTkxUMlpzWTFKMmRUaGphM05EWTNCZk1GRndRMUIwZFVWbk1WZHJhREUwWHpCYVJsUmtUSFZoVFZObU1Fd3liV2RRYXpCUFVqUnVSR2MwU1ZCc05EaFVWbGxYYXhJWFFWaGhOVnBpV0RkR1dtcHRNbkp2VURSTFUzbHJRVVVhSWtGUVdHaHROV0ppTFZGblRtbGpVSFJIY0VSTVpHRXRWRXRHVUY5WlNHRTNSbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBNYXJyaW90dCBKb2JzIiwibGluayI6Imh0dHBzOi8vbWFycmlvdHRlbXBsb3ltZW50LmRlam9icy5vcmcvbWFkaXNvbi13aS9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItY29tbWVyY2Utb3JkZXItZW5naW5lZXJpbmcvRUQ2NkVERTkzMTRBNDFGNUE3REEwMkI1NjczNjJCREMvam9iLz91dG1fc291cmNlPU5BQ0VsaW5rLURFXHUwMDI2dXRtX21lZGl1bT1FZHVjYXRpb25cdTAwMjZ1dG1fY2FtcGFpZ249TkFDRWxpbmtcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer, FIS University Program",
+      "company_name": "FIS",
+      "location": "  Brown Deer, WI   ",
+      "via": "via Milwaukee Jobs",
+      "description": "Position Type :\nFull time\n...\nType Of Hire :\nAssociate Development Program (Full Time Hire)\n\nEducation Desired :\nBachelor of Computer Engineering\n\nTravel Percentage :\n0%\n\nJob Description\n\nAre you curious, motivated, and forward-thinking? At FIS, you'll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate, and above all, fun.\n\nJoin the 2022 FIS University Program!\n\nWe are offering an exciting opportunity to join FIS as a Software Developer in the FIS University Program. This two-year program is suited to entry level joiners who aspire to develop a successful career with a leading Fintech company!\n\nAs a 2022 FIS University Program full-time employee, you will have the opportunity to participate in team projects, community service activities, and professional development seminars. Furthermore, you will work with a team invested in your growth, development, and success, including quarterly performance connects with your manager and bi-annual merit reviews.\n\nThis two-year full-time program has start dates in January, March, June, and September with a dedicated \"Learning Week\" where you will;\n• Learn how to work within a corporate environment\n• Learn the structure of FIS and options for growth within the organization\n• Hear from FIS leadership about their journey and participate in senior leader networking opportunities\n• Build a network of your peers from across the organization\n\nThis position is for a June 27, 2022 start.\n\nAbout the Team\n\nFIS is searching for talented Software Engineers for various roles within our Banking and Payments Software Development organization. You can look forward to an exciting and dynamic career working on multiple technologies and expect to master various programming languages and technology platforms. FIS is committed to the continuous modernization of our platforms as we create innovative financial solutions that improve the way the world pays, banks and invests.\n\nWhat You Will Be Doing\n\nYou will be developing innovative financial solutions that provide continuous improvement and modernization of company products. You will primarily be responsible for:\n• Designing solutions, writing code, testing code, automating tests, and deployment.\n• Adopting and mastering multiple programming languages and technologies.\n• Managing individual project priorities, deadlines, and deliverables.\n• Delivering software components by working in collaboration with product and design teams.\n• Partnering with other technology teams to ensure integrated end-to-end design and integration.\n• Following existing process guidelines; drives new processes, procedures, team rules, and best practices.\n• *FIS has a diverse technical environment with opportunities to work in Java, HTML/CSS/JavaScript, full-stack JavaScript (Node.JS on the backend), .NET, Angular, C, C++, C#, COBOL, Python, and more.**\n• *The selection of your technical environment will be determined given the business need and individual strengths and interests**\n\nWhat You Bring\n• Bachelor's degree inComputer Engineering, Software Engineering, Computer Science, or Information Science.\n• Willingness and ability to learn, master, and work in both new and older technologies.\n• Outstanding verbal and written communication skills for technical and non-technical audiences of various levels in the organization.\n• Passion for tinkering and technology -Amazon Echo, Arduino, and IoT, AR/VR, Creative Coding; you like hackathons and innovation sprints!\n• Positive outlook, strong work ethic, and responsive to internal and external clients and contacts.\n\nAdded Bonus If You Have\n• Academic, internship, or professional experience in one or more programming languages.\n• Foundational knowledge of networking, computing platform, storage, database, security, middleware, network and systems management, and related infrastructure technologies and practices.\n\nWhat We Offer You\n• Competitive salary and excellent benefits\n• The chance to work on some of the most challenging, relevant issues in financial services & technology\n• A broad range of professional education and personal development possibilities - FIS is your final career step!\n• Time to support charities and give back to your community\n• A work environment built on collaboration, flexibility, and respect\n• Student Loan Repayment Program: FIS will PAY OFF your principal loan balance over 10 years of service! Eligibility starts after one year of tenure in the program and is for U.S. participants\n\nVaccination Requirements\n\nNotice to all US applicants: All employees must be fully vaccinated against COVID-19. Individuals with a disability (including a medical condition) or sincerely held religious beliefs or practices that prevent them from getting the vaccine may request an exemption from the vaccine requirement.\n\nPrivacy Statement\n\nFIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the .\n\nEEOC Statement\n\nFIS is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, marital status, genetic information, national origin, disability, veteran status, and other protected characteristics. The EEO is the Law poster is available here supplement document available here\n\nFor positions located in the US, the following conditions apply. If you are made a conditional offer of employment, you will be required to undergo a drug test. ADA Disclaimer: In developing this job description care was taken to include all competencies needed to successfully perform in this position. However, for Americans with Disabilities Act (ADA) purposes, the essential functions of the job may or may not have been described for purposes of ADA reasonable accommodation. All reasonable accommodation requests will be reviewed and evaluated on a case-by-case basis.\n\nSourcing Model\n\nRecruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.\n\n#pridepass\n\nFIS is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, marital status, genetic information, national origin, disability, veteran status, and other protected characteristics. The EEO is the Law poster is available here: http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf\n\nFor positions located in the US, the conditions below apply.\n\nIf you are made a conditional offer of employment, you will be required to undergo a drug test and background check (including criminal record check)\n\nADA Disclaimer: In developing this job description care was taken to include all competencies needed to successfully perform in this position. However, for Americans with Disabilities Act (ADA) purposes, the essential functions of the job may or may not have been described for purposes of ADA reasonable accommodation. All reasonable accommodation requests will be reviewed and evaluated on a case-by-case basis",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor of Computer Engineering",
+            "Bachelor's degree in",
+            "Computer Engineering, Software Engineering, Computer Science, or Information Science",
+            "Willingness and ability to learn, master, and work in both new and older technologies",
+            "Outstanding verbal and written communication skills for technical and non-technical audiences of various levels in the organization",
+            "Passion for tinkering and technology -Amazon Echo, Arduino, and IoT, AR/VR, Creative Coding; you like hackathons and innovation sprints!",
+            "Positive outlook, strong work ethic, and responsive to internal and external clients and contacts",
+            "Academic, internship, or professional experience in one or more programming languages",
+            "Foundational knowledge of networking, computing platform, storage, database, security, middleware, network and systems management, and related infrastructure technologies and practices"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be developing innovative financial solutions that provide continuous improvement and modernization of company products",
+            "You will primarily be responsible for:",
+            "Designing solutions, writing code, testing code, automating tests, and deployment",
+            "Managing individual project priorities, deadlines, and deliverables",
+            "Delivering software components by working in collaboration with product and design teams",
+            "Partnering with other technology teams to ensure integrated end-to-end design and integration",
+            "Following existing process guidelines; drives new processes, procedures, team rules, and best practices",
+            "*FIS has a diverse technical environment with opportunities to work in Java, HTML/CSS/JavaScript, full-stack JavaScript (Node.JS on the backend), .NET, Angular, C, C++, C#, COBOL, Python, and more.**",
+            "*The selection of your technical environment will be determined given the business need and individual strengths and interests**"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive salary and excellent benefits",
+            "The chance to work on some of the most challenging, relevant issues in financial services & technology",
+            "A broad range of professional education and personal development possibilities - FIS is your final career step!",
+            "Time to support charities and give back to your community",
+            "A work environment built on collaboration, flexibility, and respect",
+            "Student Loan Repayment Program: FIS will PAY OFF your principal loan balance over 10 years of service!"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.fisglobal.com/",
+          "text": "fisglobal.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=FIS&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCPcN",
+          "text": "See web results for FIS"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI9rDtr5gXmeR4Aar_jeMuBWlO_tZ2oIXzq7Z&s=0",
+      "extensions": [
+        "12 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRklTIFVuaXZlcnNpdHkgUHJvZ3JhbSIsImh0aWRvY2lkIjoiYURFQXdRNUx4NG15MWx2ZEFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYmxJd01YUnZaMHBLYlRoZmRsaGpWMEkyY201WWNVWTRTMUJrVmxOWGJXeHpjazFFU2s5clptMTNkVVpaWWpGb1pVWkhUMmREYlUwd1luTmZZVGhvTm1wd1N5MTJkRkExWm5CVWRUWlFMVzR4ZDAwd2JsVmZlVmRLTVhkV2NIUldTMkU0ZGt4dU1WRkJRbTFpWDJ4bVVsbFZkMkpLYlZjMVpWUTFabkpqUkVocGRFTmtjbmRYYUVvMWIwSjBWbDlYTjNaSE5ucExZMkptZGxoT1NHeFlPRFV6U0Vsb01tOHRVR3MyVlc1RllWQjZPRTlmZVhrMFNFOVdURkZmYVhKMVRUVTNVbWhmU0hCVmJrdHJOekZNWVVoZllVSlFaMEp6TVRVM2FIUnBabkptZUhGRk1HNW9SRGxyTVhscExYQk5ZeElYUVZoaE5WcGlXRGRHV21wdE1uSnZVRFJMVTNsclFVVWFJa0ZRV0dodE5WbElhREp5WW5OelYwcFNSM3B2UkRoTGNGQTJUMlZaYUZBM09WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE1pbHdhdWtlZSBKb2JzIiwibGluayI6Imh0dHBzOi8vd3d3Lm1pbHdhdWtlZWpvYnMuY29tL2pvYi9kZXRhaWwvNTg4NzA5OTUvU29mdHdhcmUtRW5naW5lZXItRklTLVVuaXZlcnNpdHktUHJvZ3JhbT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Tools Software Engineer (Apex Legends)",
+      "company_name": "Respawn Entertainment",
+      "location": "  Madison, WI   ",
+      "via": "via LinkedIn",
+      "description": "Respawn is looking for a Senior Tools Engineer who is passionate about developing world-class tools for game artists and designers. You will have the chance to improve the productivity of others by leading the development of user-facing tools for our flagship game!\n\nYou can learn more about our studio and values at https://respawn.com/studio...\n\nReporting To a Technical Director, You Will\n• Be a subject matter expert (SME) on a team of accomplished software engineers focusing on the core features of different tools for Apex Legends.\n• Design and implement tools and engine features.\n• Build bridges with other partners to work towards this vision.\n• Design and implement user interfaces for tools and pipelines.\n• Fix bugs and maintain the codebase.\n• Improve the game development pipeline and add new features to the engine and game editors.\n• Support internal and external customers by prioritizing and solving issues from feedback.\n\nWhat We're Looking For\n• 10+ years of experience having worked on and shipped large game projects\n• 3+ years of experience working as a Tools Engineer on a game team, or with resource management, in a game engine.\n• You enjoy being a subject matter expert and the 'go-to' person for internal customers\n• Excellent C++ skills, and understanding of legacy C code.\n• Well versed in software engineering principles\n• Experience writing UIs with APIs such as ImGUI, Qt, or others\n• Familiarity with an existing game engine and understanding of editor concepts\n\nCompensation And Benefits\n\nThe base salary ranges listed below are for the defined geographic market pay zones in these locations. If you reside outside of these locations, a recruiter will advise on the range and benefits for your specific location.\n\nEA has listed the base salary ranges it in good faith expects to pay applicants for this role in the locations listed, as of the time of this posting. Pay offered will be determined based on numerous relevant business and candidate factors including, for example, education, qualifications, certifications, experience, skills, geographic location, and business or organizational needs.\n\nBASE SALARY RANGES\n• California (depending on location e.g. Los Angeles vs. Sacramento):\n\nº $149,150 - $233,500 USD Annually\n• New York (depending on location e.g. Manhattan vs. Buffalo):\n\nº $136,000 - $233,500 USD Annually\n• Jersey City, NJ :\n\nº $171,100 - $233,500 USD Annually\n• Colorado (depending on location e.g. Denver vs. Colorado Springs):\n\nº $136,000 - $190,850 USD Annually\n• Washington (depending on location e.g. Seattle vs. Spokane):\n\nº $136,000 - $218,900 USD Annually\n• British Columbia (depending on location e.g. Vancouver vs. Victoria):\n\nº $114,050 - $185,250 CAN Annually\n\nBase salary is just one part of the overall compensation at EA. In the US, we offer a package of benefits including paid time off (3 weeks per year to start), 80 hours per year of sick time, 16 paid company holidays per year, 10 weeks paid time off to bond with baby, medical/dental/vision insurance, life insurance, disability insurance, and 401(k) to regular full-time employees. Certain roles may also be eligible for bonus and equity. For British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "10+ years of experience having worked on and shipped large game projects",
+            "3+ years of experience working as a Tools Engineer on a game team, or with resource management, in a game engine",
+            "You enjoy being a subject matter expert and the 'go-to' person for internal customers",
+            "Excellent C++ skills, and understanding of legacy C code",
+            "Well versed in software engineering principles",
+            "Experience writing UIs with APIs such as ImGUI, Qt, or others",
+            "Familiarity with an existing game engine and understanding of editor concepts"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Be a subject matter expert (SME) on a team of accomplished software engineers focusing on the core features of different tools for Apex Legends",
+            "Design and implement tools and engine features",
+            "Build bridges with other partners to work towards this vision",
+            "Design and implement user interfaces for tools and pipelines",
+            "Fix bugs and maintain the codebase",
+            "Improve the game development pipeline and add new features to the engine and game editors",
+            "Support internal and external customers by prioritizing and solving issues from feedback"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary ranges listed below are for the defined geographic market pay zones in these locations",
+            "Pay offered will be determined based on numerous relevant business and candidate factors including, for example, education, qualifications, certifications, experience, skills, geographic location, and business or organizational needs",
+            "º $149,150 - $233,500 USD Annually",
+            "º $136,000 - $233,500 USD Annually",
+            "º $171,100 - $233,500 USD Annually",
+            "º $136,000 - $190,850 USD Annually",
+            "º $136,000 - $218,900 USD Annually",
+            "º $114,050 - $185,250 CAN Annually",
+            "Base salary is just one part of the overall compensation at EA",
+            "In the US, we offer a package of benefits including paid time off (3 weeks per year to start), 80 hours per year of sick time, 16 paid company holidays per year, 10 weeks paid time off to bond with baby, medical/dental/vision insurance, life insurance, disability insurance, and 401(k) to regular full-time employees",
+            "Certain roles may also be eligible for bonus and equity",
+            "For British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.respawn.com/",
+          "text": "respawn.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=Respawn+Entertainment&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCMcO",
+          "text": "See web results for Respawn Entertainment"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9tjU0P_2fbmaY1IaKd6hVttD7pbHWtglbrlGo6Y&s",
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgVG9vbHMgU29mdHdhcmUgRW5naW5lZXIgKEFwZXggTGVnZW5kcykiLCJodGlkb2NpZCI6IkNRM0tyWmk0WmFSX3dtbWpBQUFBQUE9PSIsImZjIjoiRXVJQ0NxSUNRVTUxVjJoamJtbHJabkUyYlV4dE1VWlBlbTl4VFhwWVQwTlNOalJ0ZG5kdk4wOXllbEZDTFdkc1NXTjVkVlZMYlRkcFgzTnRiMFUxYWpSRVptMXJjMFJXVkZGU1dUUjJOVms0VURCak5EaHhURkpVVWtFemIwUnlkMU5KTkRkaVMwMVhRMjlYWWw4d1VrUmlSbEJZZUdwamVubG1jV2RaVkVoR2IyOXZabE5TTUY5WVdWaGpaRUpCWmtSR2NuTTRXa2hhVGxoVU9GcDNNVGx3UWtWeWFqSkdRbFpwV0hwSFNqWmZkbVZrYTFSVGNGVlRSMjlDZW04MVdtZElhMmczTUUxbGExSkpXVTFWZVRCcWFVRjBjVkpOVUZVdFIyaGpXSHA0YUhOM0xVcDRTM3BUY1V4cFZWUjRRWFIxWVVKQmJrZExNRmN0ZFVOb1ZEZHFhR0l4YkZaa2VFcG1Oak5QVWxSWGVIWlJkbWxyVDBReGRGWnZOVFZxTFRGSlFubDFPRkVTRjBGWVlUVmFZbGczUmxwcWJUSnliMUEwUzFONWEwRkZHaUpCVUZob2JUVmlSakIxVEdrM05rbE1TVGR5Y0RsNE5sOHdlVWg2U1d0RlVsRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci10b29scy1zb2Z0d2FyZS1lbmdpbmVlci1hcGV4LWxlZ2VuZHMtYXQtcmVzcGF3bi1lbnRlcnRhaW5tZW50LTM3NzY0ODY2OTI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "KOHLS",
+      "location": "  Menomonee Falls, WI   ",
+      "via": "via Kohls Careers",
+      "description": "100% telecommuting role. Reports to company HQ in Menomonee Falls, WI. Can work remotely or telecommute.\n\nJob Duties...\n• Drives development, testing, deployments, and iterative improvement of software product capabilities and features in collaboration with designers, product managers, and other engineers on the product team.\n• Leverages critical thinking, experimentation, data, and industry best practices to implement desired business outcomes.\n• Develops high quality software applications that are secure, easy to operate, difficult to break, and extremely observable with measurable results.\n• Responsible for all technical aspects of the software product application lifecycle including code, infrastructure, data, security, and CICD.\n• Establishes product engineering and software standards.\n• Continuously develops self and demonstrates a strong knowledge of new technologies, modern application architecture, and industry best practices.\n• Mentors and assists engineers and evangelizes best practices. Pairs with and mentors engineers while evangelizing best practices.\n• Build data management platforms using Google, Amazon, Microsoft, Apache, and other Big Data services that align with customers’ requirements.\n\nRequired Minimum Position Qualifications: Bachelor’s degree in Management Information Systems, Computer Science, Computer Engineering, or related field of study; and five (5) years of work experience in the job offered or related occupation in which the required experience was gained.\n\nPosition also requires demonstrated experience in the following:\n• Google Data Products (e.g. BigQuery, Dataflow, Dataproc, or DataStudio)\n• ANT, MAVEN, or Jenkins\n• Python and Scala\n• SVN or GIT\n• Database design experience including SQL or PL/SQL\n• MAPREDUCE, PIG, SPARK, HIVE, KAFKA, SCOOP, or Airflow\n• Full SDLC requirements gathering, planning, estimation, development and testing, and deployment\n• Continuous integration & continuous deployment (CICD), and test-driven development (TDD)\n• End to End Solution Design skills for Data Engineering and Streaming pipelines\n• Prototyping, Usability testing, and data visualization.\n\nTo Apply: Mail resume to N56 W17000 Ridgewood Dr., Menomonee Falls, WI 53051, ATTN: Jenna Schlintz, Ref. Job Title,\nor, online at https://careers.kohls.com/.\n• #LI-DNP #LI-DNI",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Minimum Position Qualifications: Bachelor’s degree in Management Information Systems, Computer Science, Computer Engineering, or related field of study; and five (5) years of work experience in the job offered or related occupation in which the required experience was gained",
+            "Position also requires demonstrated experience in the following:",
+            "Google Data Products (e.g. BigQuery, Dataflow, Dataproc, or DataStudio)",
+            "ANT, MAVEN, or Jenkins",
+            "Python and Scala",
+            "SVN or GIT",
+            "Database design experience including SQL or PL/SQL",
+            "MAPREDUCE, PIG, SPARK, HIVE, KAFKA, SCOOP, or Airflow",
+            "Full SDLC requirements gathering, planning, estimation, development and testing, and deployment",
+            "Continuous integration & continuous deployment (CICD), and test-driven development (TDD)",
+            "End to End Solution Design skills for Data Engineering and Streaming pipelines",
+            "Prototyping, Usability testing, and data visualization"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Drives development, testing, deployments, and iterative improvement of software product capabilities and features in collaboration with designers, product managers, and other engineers on the product team",
+            "Leverages critical thinking, experimentation, data, and industry best practices to implement desired business outcomes",
+            "Develops high quality software applications that are secure, easy to operate, difficult to break, and extremely observable with measurable results",
+            "Responsible for all technical aspects of the software product application lifecycle including code, infrastructure, data, security, and CICD",
+            "Establishes product engineering and software standards",
+            "Continuously develops self and demonstrates a strong knowledge of new technologies, modern application architecture, and industry best practices",
+            "Pairs with and mentors engineers while evangelizing best practices"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.kohls.com/",
+          "text": "kohls.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=27178ea4ecd47877&q=KOHLS&sa=X&ved=0ahUKEwj1__jGkoaEAxUYs1YBHWCSDBIQmJACCJ8P",
+          "text": "See web results for KOHLS"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0o2v5Q0PCJ3sdyCgPrlDmV6tsOHQBPzTJBsl5Gw&s",
+      "extensions": [
+        "13 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "13 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InlKYUNibnhsblRMWmJRX3VBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJFYzFUV3hwWWxGTlQzY3hRbTlKVEV4MFZ6RlJTUzAyZFVRNWNIUk9heTFzYVVGVlNrWXlORGg1Ykd0Nk1VdExOMVJKZFRONFFUWmhVMDVWTFVoNk5UbDVlbkJMWkhCeVFtWjVRWHB2YjBWd05XOXdUVTFGVm0xelRFdDFkbnBMVkVSalRuaHRZWFZ1Um1kaGRVOVdUR0ZyVmsxMGJtVnNXbTlGUW5KaGIyVmFRVEJCZVhkV2FVWXRjRWt6UTA5MmJVeDBlbVJVV21aeFpVSXliMWg0YldacVYweHZjQzFNTkU5bGRrOURaVGRMTVVGeVNFWTFaRTlMUlhkTGVtRnplbWh6YzBaMVlrOXlSRzAxUVhoa2JFNXFRMVZJWXpJeFEwdHpRUklYUVZoaE5WcGlXRGRHV21wdE1uSnZVRFJMVTNsclFVVWFJa0ZRV0dodE5Wa3djVXRZTm5SeFozaGFNWFU1U1RSWWNsSllaemx5Um5GdFRHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEtvaGxzIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmtvaGxzLmNvbS9jb3Jwb3JhdGUvam9iL1IzNDgyMTYvU2VuaW9yLVNvZnR3YXJlLUVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Associate director",
+          "value": "associate director"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineering",
+          "value": "engineering"
+        },
+        {
+          "text": "Finance analyst",
+          "value": "finance analyst"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Sr. director",
+          "value": "sr. director"
+        },
+        {
+          "text": "Sw engineer",
+          "value": "sw engineer"
+        },
+        {
+          "text": "Test engineer",
+          "value": "test engineer"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Apprentice",
+          "value": "apprentice"
+        },
+        {
+          "text": "College grad",
+          "value": "college grad"
+        },
+        {
+          "text": "Consulting",
+          "value": "consulting"
+        },
+        {
+          "text": "Lead engineer",
+          "value": "lead engineer"
+        },
+        {
+          "text": "Principal systems",
+          "value": "principal systems"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sr. manager",
+          "value": "sr. manager"
+        },
+        {
+          "text": "Systems",
+          "value": "systems"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Chicago, IL",
+          "value": "7cv00DwsDogAwMAJrabgrw=="
+        },
+        {
+          "text": "Minneapolis, MN",
+          "value": "vbt3k5Azs1IH7novhMmfkw=="
+        },
+        {
+          "text": "Milwaukee, WI",
+          "value": "50eLV9cCBYiEe0G1IhlfRA=="
+        },
+        {
+          "text": "Saint Paul, MN",
+          "value": "nzfp5M7UslIpLto_0pFyyA=="
+        },
+        {
+          "text": "Grand Rapids, MI",
+          "value": "FShQu2BUGIjQqNMby6qTpQ=="
+        },
+        {
+          "text": "Madison, WI",
+          "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+        },
+        {
+          "text": "Moline, IL",
+          "value": "a0TjeKAw4ocnMg_Pp6fQLg=="
+        },
+        {
+          "text": "Menomonee Falls, WI",
+          "value": "H5mzjBn-BIhZ6rXlAze29g=="
+        },
+        {
+          "text": "Rochester, MN",
+          "value": "Syxfo0tf94c9xmFWFxyV8A=="
+        },
+        {
+          "text": "Peoria, IL",
+          "value": "rXlYU1xZCojbgH1rMvT7yg=="
+        },
+        {
+          "text": "Naperville, IL",
+          "value": "B80W4mFXDohSMCB_LJzfhw=="
+        },
+        {
+          "text": "Schaumburg, IL",
+          "value": "5SRiQ4ivD4hRc49nzTG9Qw=="
+        },
+        {
+          "text": "Valparaiso, IN",
+          "value": "C0BDeA6aEYhMQueOo0XCgA=="
+        },
+        {
+          "text": "Bloomington, IL",
+          "value": "wZoIOXAIC4gevCNKpUpCLg=="
+        },
+        {
+          "text": "Bloomington, MN",
+          "value": "h5n0Cfok9oe8BTncTJdyOg=="
+        },
+        {
+          "text": "Champaign, IL",
+          "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+        },
+        {
+          "text": "Chillicothe, IL",
+          "value": "O73H4pJICois6fPFXtsa_g=="
+        },
+        {
+          "text": "Davenport, IA",
+          "value": "8aIS4MU04oewH1hWYx_q6A=="
+        },
+        {
+          "text": "Deerfield, IL",
+          "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+        },
+        {
+          "text": "South Bend, IN",
+          "value": "E9NhSsQyEYgEMqNvs9lKlw=="
+        },
+        {
+          "text": "Blaine, MN",
+          "value": "Gyl9zxsks1JPJNaCmMlEVw=="
+        },
+        {
+          "text": "Dubuque, IA",
+          "value": "04aKwIQr44dHcaMmxh6-tA=="
+        },
+        {
+          "text": "East Moline, IL",
+          "value": "GTbS7CM64ocsVoachRMMQA=="
+        },
+        {
+          "text": "Evanston, IL",
+          "value": "dwroNP3PD4gaZ8AFDaEhbw=="
+        },
+        {
+          "text": "Golden Valley, MN",
+          "value": "acxbQmE0s1I7N_rjqPvBJQ=="
+        },
+        {
+          "text": "Hopkins, MN",
+          "value": "nybqjMcys1JeN7NNzom5CQ=="
+        },
+        {
+          "text": "Inver Grove Heights, MN",
+          "value": "qay6sV_S94fpfDwUT_9Jwg=="
+        },
+        {
+          "text": "Joliet, IL",
+          "value": "fT027GtFDohCwGuj92aenw=="
+        },
+        {
+          "text": "Kalamazoo, MI",
+          "value": "uZIxSXmdF4gJMFdJ0vh82g=="
+        },
+        {
+          "text": "Lansing, MI",
+          "value": "N4wxfxzAIoienQKJI7Z4Qw=="
+        },
+        {
+          "text": "Lisle, IL",
+          "value": "O3abTilRDojPJMJkjgql-w=="
+        },
+        {
+          "text": "Rockford, IL",
+          "value": "2wAD_c25CIiAZ4-Cl9jKCg=="
+        },
+        {
+          "text": "Tennessee, IL",
+          "value": "S9Chwjbp4Id_LHYf48V8sw=="
+        },
+        {
+          "text": "Waukesha, WI",
+          "value": "V5eOlCamBYiVnJhhNKEtqw=="
+        },
+        {
+          "text": "Arden Hills, MN",
+          "value": "U8fmleQos1JEe2v0HnMmbQ=="
+        },
+        {
+          "text": "Aurora, IL",
+          "value": "GxHVTk3lDohd6FDDSPjRfw=="
+        },
+        {
+          "text": "Bedford Park, IL",
+          "value": "29dGbjw3DoikjALierC1wA=="
+        },
+        {
+          "text": "Bolingbrook, IL",
+          "value": "2eUaBThaDogGYnBc-WgDXA=="
+        },
+        {
+          "text": "Brookfield, WI",
+          "value": "a1sLUd0GBYhrwYeU1udw8w=="
+        },
+        {
+          "text": "Brown Deer, WI",
+          "value": "EwVZ54riBIijqBNWnsX7Cw=="
+        },
+        {
+          "text": "Buffalo Grove, IL",
+          "value": "3xc-tw28D4jV5t02eW-4kw=="
+        },
+        {
+          "text": "Burnsville, MN",
+          "value": "nXv6uF869ofUihLJ_jhTsw=="
+        },
+        {
+          "text": "Carol Stream, IL",
+          "value": "_RPgmDyrD4iFBRhOpACgeQ=="
+        },
+        {
+          "text": "Cedar Falls, IA",
+          "value": "RxPIgVFV5YfpMQDB4ier8g=="
+        },
+        {
+          "text": "Cicero, IL",
+          "value": "j9uBfJYzDoggMQB8x3JYvA=="
+        },
+        {
+          "text": "Eagan, MN",
+          "value": "B9w7qzos9ocS6xx4_keq2w=="
+        },
+        {
+          "text": "Edina, MN",
+          "value": "OaBVzjoh9od5J_qWN5yvzQ=="
+        },
+        {
+          "text": "Elkhart, IN",
+          "value": "E67jW8PCFojLiIMC2e_teg=="
+        },
+        {
+          "text": "Fond du Lac, WI",
+          "value": "JZmeFCr2A4jNA9lQ6NAElA=="
+        },
+        {
+          "text": "Fridley, MN",
+          "value": "fRDwRcQvs1KXEjcOREBnVg=="
+        },
+        {
+          "text": "Herscher, IL",
+          "value": "_U2GHCTMDYg_rXwyIWaRxA=="
+        },
+        {
+          "text": "Hoffman Estates, IL",
+          "value": "xfOAMxgGD4hudiONk0uO5A=="
+        },
+        {
+          "text": "Iowa City, IA",
+          "value": "F4ggasFB5IewggWHZxhxbQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Toiletries",
+          "value": "/business/naics2007/3256"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Restaurant",
+          "value": "/business/naics2007/722"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "John Deere",
+          "value": "/m/027v3x"
+        },
+        {
+          "text": "Caterpillar",
+          "value": "/m/0319hp"
+        },
+        {
+          "text": "Motorola Solutions",
+          "value": "/m/03dzwt_"
+        },
+        {
+          "text": "KOHLS",
+          "value": "/m/037x4r"
+        },
+        {
+          "text": "Morningstar",
+          "value": "/m/04xn05"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Rivian",
+          "value": "/m/0gj8vdm"
+        },
+        {
+          "text": "Travelers",
+          "value": "/m/065d4n"
+        },
+        {
+          "text": "Citadel",
+          "value": "/m/08vx4k"
+        },
+        {
+          "text": "CyberCoders",
+          "value": "/g/11f0139r1n"
+        },
+        {
+          "text": "Datasite",
+          "value": "/g/11f016kj1l"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Mayo Clinic",
+          "value": "/m/0158xh"
+        },
+        {
+          "text": "State Farm",
+          "value": "/m/03dnbx"
+        },
+        {
+          "text": "University of Chicago",
+          "value": "/m/07wrz"
+        },
+        {
+          "text": "Walgreens",
+          "value": "/m/02rx2k"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "Aspen Dental",
+          "value": "/m/08071nv"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Bank of America",
+          "value": "/m/01yx7f"
+        },
+        {
+          "text": "Brunswick Corporation",
+          "value": "/m/0319c7"
+        },
+        {
+          "text": "FIS",
+          "value": "/m/027_qkq"
+        },
+        {
+          "text": "Glocomms",
+          "value": "/g/11t42n5g9b"
+        },
+        {
+          "text": "Infinite Campus",
+          "value": "/g/11dxp_4n5p"
+        },
+        {
+          "text": "KION Group",
+          "value": "/m/0gwqh3"
+        },
+        {
+          "text": "Marriott",
+          "value": "/m/04fv0k"
+        },
+        {
+          "text": "Medtronic",
+          "value": "/m/03z4j3"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Rockwell Automation",
+          "value": "/m/047bkd"
+        },
+        {
+          "text": "SmartThings",
+          "value": "/m/011q5qjl"
+        },
+        {
+          "text": "Syndigo",
+          "value": "/g/11g9n4b9qx"
+        },
+        {
+          "text": "Talentify",
+          "value": "/g/11g702krz1"
+        },
+        {
+          "text": "U.S. Bancorp",
+          "value": "/m/02l7_f"
+        },
+        {
+          "text": "U.S. Bank National Association",
+          "value": "/g/11g9mv_shc"
+        },
+        {
+          "text": "UBS",
+          "value": "/m/031rxp"
+        },
+        {
+          "text": "Vivid Seats",
+          "value": "/m/0120z12k"
+        },
+        {
+          "text": "Western Digital",
+          "value": "/m/01gfyl"
+        },
+        {
+          "text": "AbbVie",
+          "value": "/m/0rzs09c"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Advantage Solutions",
+          "value": "/g/11r_mp5ry"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "search_metadata": {
+    "id": "65b87bc111c8815ba88da1d4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/be451987f4572580/65b87bc111c8815ba88da1d4.json",
+    "created_at": "2024-01-30 04:32:01 UTC",
+    "processed_at": "2024-01-30 04:32:01 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=20",
+    "raw_html_file": "https://serpapi.com/searches/be451987f4572580/65b87bc111c8815ba88da1d4.html",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 20
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Visual Comfort & Co.",
+      "location": " Anywhere ",
+      "via": "via LinkedIn",
+      "description": "Summary\n\nThe Software Programmer/Analyst's role is to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements...\n\nEssential Functions and Responsibilities\n• Collaborate with developers, programmers, and designers in conceptualizing and developing new software programs and applications.\n• Analyze and assess existing business systems and procedures.\n• Assist in the definition, development, and documentation of software’s business requirements, objectives, deliverables, and specifications on a project-by-project basis in collaboration with internal users and departments.\n• Assist in defining software development project plans, including scoping, scheduling, and implementation.\n• Research, identify, analyze, and fulfill the requirements of all internal and external program users.\n• Liaise with vendors for efficient implementation of new software products or systems and for resolution of any adaptation issues.\n• Recommend, schedule, and perform software improvements and upgrades.\n• Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems.\n• Consistently write, translate, and code software programs and applications according to specifications. Write programming scripts to enhance functionality and/or performance of company applications as necessary.\n• Design, run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging.\n• Administer critical analysis of test results and deliver solutions to problem areas.\n• Generate statistics and write reports for management and/or team members on the status of the programming process.\n• Develop and maintain user manuals and guidelines.\n• Train end users to operate new or modified programs.\n• Install software products for end users as required.\n\nQualifications\n• 2+ years designing, developing, supporting applications in mid-size / larger company\n• 2+ years C# programming language and Visual Studio 2015 or later\n• 2+ years front-end technologies (HTML, JavaScript, CSS, etc.)\n• 2+ years SQL (SQL Server RDBMS and Management Studio, T-SQL, Stored Procedures, Functions, etc.)\n• Experience with .NET - based APIs a PLUS\n• Experience with AngularJS and React JavaScript Frameworks a BONUS\n• SSIS Development Experience is also a BONUS\n\nEqual Employment Opportunity\n• Qualified applicants are considered for employment, and employees are treated during employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, gender identity, or expression, genetic information, or any other legally protected status",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2+ years designing, developing, supporting applications in mid-size / larger company",
+            "2+ years C# programming language and Visual Studio 2015 or later",
+            "2+ years front-end technologies (HTML, JavaScript, CSS, etc.)",
+            "2+ years SQL (SQL Server RDBMS and Management Studio, T-SQL, Stored Procedures, Functions, etc.)",
+            "Experience with AngularJS and React JavaScript Frameworks a BONUS",
+            "SSIS Development Experience is also a BONUS"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Programmer/Analyst's role is to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements",
+            "Collaborate with developers, programmers, and designers in conceptualizing and developing new software programs and applications",
+            "Analyze and assess existing business systems and procedures",
+            "Assist in the definition, development, and documentation of software’s business requirements, objectives, deliverables, and specifications on a project-by-project basis in collaboration with internal users and departments",
+            "Assist in defining software development project plans, including scoping, scheduling, and implementation",
+            "Research, identify, analyze, and fulfill the requirements of all internal and external program users",
+            "Liaise with vendors for efficient implementation of new software products or systems and for resolution of any adaptation issues",
+            "Recommend, schedule, and perform software improvements and upgrades",
+            "Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems",
+            "Consistently write, translate, and code software programs and applications according to specifications",
+            "Write programming scripts to enhance functionality and/or performance of company applications as necessary",
+            "Design, run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging",
+            "Administer critical analysis of test results and deliver solutions to problem areas",
+            "Generate statistics and write reports for management and/or team members on the status of the programming process",
+            "Develop and maintain user manuals and guidelines",
+            "Train end users to operate new or modified programs",
+            "Install software products for end users as required"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.visualcomfort.com/",
+          "text": "visualcomfort.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Visual+Comfort+%26+Co.&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAII2Qk",
+          "text": "See web results for Visual Comfort & Co."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7seNQeKm1dS8VjR-nC5UlqVzPcH9JQFUkdi8OCU&s",
+      "extensions": [
+        "5 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiTUc3THVGaENLVlBadENsbUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYkZsSVJtZFNiSEJoTm0wNGJYcHJUMDVWTFdwdU56QXplVFJmU25GNFlWSjBVRTVuZWxReGExSk1ibmgzV25vMU1EWTJWekZoUWxoYVJsZG9iMlZaVW5WTmMwOTFSbFpxTVhoWVNHNUdaR2hQTnpoalVFSnBZMDFvU0hveFltSlhUbll4UlRoR1IwZHBUakZVYXpJNFJVbEdkRW8yVjNKTFEySmlXbnB3TjBabFRHVTBOMWxqYjBrdFQwbDJWazl1YTBGSFRUSmZVblpKYWs0dGIzRnphRlJQWVRjeFJ6Tnlia1J6TlVaek1GSjROWGhNYVVWSVMwOUhia05UYVUwemJUbFBjamxMRWhkM1dIVTBXbVUzZVV4T1YxaDNkREJRT0RkTFoydEJkeG9pUVZCWWFHMDFXbVJDWW1wUlEycFFhalJCWTBGd01GVnpZMnQ2Y2xGWFJWSm1kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zb2Z0d2FyZS1lbmdpbmVlci1hdC12aXN1YWwtY29tZm9ydC1jby0zODEyNTM2NzgyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer - Golang",
+      "company_name": "Progress",
+      "location": "  United States   ",
+      "via": "via Progress Software",
+      "description": "We’re Progress – we offer the best platform for building and deploying tomorrow’s applications quickly and easily. We are bold, forward-thinking innovators who build things that work and care about our customers. We invent and reinvent every day, work together as one, value and respect each other and cheer our wins. Join us as  a Senior Software Engineer in our Infrastructure Management Business... Unit to work on Chef stack. a top 3 enterprise product in the DevOps & DevSecOps space. Due to team location, strong preference will be given to candidates in ET time zone.In Chef, we develop the world's best products for managing applications and infrastructure at scale, and we deploy them to solve real problems across multiple industries. We get to work with the latest in cloud and container technologies where we not only follow, but shape best practice. Our platform is used to enable billions of people around the world to chat, fly, present, bank, game, shop, and learn. Chances are the applications and devices you use every day have infrastructure built, deployed, secured and run with our code.The Platform Services team build common and reusable services/components for other chef product lines like Infra, compliance, Automate, Desktop etc. to enable those teams to focus on their business deliverables and takes care of common/cross-cutting concern like developing centralized Authentication, APIGW, logging, Monitoring/Alerting, Compliance, Infrastructure as a code template for deploying application in a public cloud.Role Responsibilities:Develop one of above platform components of GA quality (Scalability, Up time, DR) from scratch. Act as liaison between Product Management, Architect and the team in a Scrum modelBe an effective team player and introduces best practices in teamBe flexible to quickly learn and work on any new technology based on business need.A Strong Candidate Has:Worn multiple hats in the past, highly motivated and quality-conscious with a strong attention to detail, and exhibits a history of achievement in their careerBachelor's or Master's Degree, plus applicable experienceExtensive hands-on experience with one/multiple high level programming language like Go (Preferred) and/or PythonHave experience in any one of public cloud like AWS, GCP, Azure.Have written Infrastructure as a code using Terraform/clod formation template for automating infra setup and deploymentHave worked on some of SQL/NO-SQL DBHave experience in Kubernetes/Docker technologiesHave worked on one of distributed systems like caching, async communication, various design patterns.Have worked on one of Monitoring and Alerting frameworksExposure to chef/Ansible/Puppet ecosystem is optionalGood Analytical and troubleshooting skillBENEFITS:Medical, dental, vision, life & disability, and financial benefits (including 401(k) retirement savings plan. Tuition Reimbursement program. Additional voluntary benefits including crucial illness/hospital indemnity, identity theft protection, auto & home insurance, legal, and pet insurance.Competitive salary, bonus, and best-in-class Employee Stock Purchase Program (ESPP) with a 27-month lookbackFlexible paid vacation time, paid day off for your birthday, and company holidays. A variety of leave plans, including Parental Leave.Employee Assistance Program (EAP) and an employee well-being program focusing on physical, mental, and financial health.Progress is proud to be an Equal Opportunity Employer!#LI-KS1#LI-remote",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Be flexible to quickly learn and work on any new technology based on business need",
+            "A Strong Candidate Has:Worn multiple hats in the past, highly motivated and quality-conscious with a strong attention to detail, and exhibits a history of achievement in their career",
+            "Bachelor's or Master's Degree, plus applicable experience",
+            "Have written Infrastructure as a code using Terraform/clod formation template for automating infra setup and deployment",
+            "Have worked on some of SQL/NO-SQL DBHave experience in Kubernetes/Docker technologies",
+            "Have worked on one of distributed systems like caching, async communication, various design patterns",
+            "Exposure to chef/Ansible/Puppet ecosystem is optional",
+            "Good Analytical and troubleshooting skill"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Platform Services team build common and reusable services/components for other chef product lines like Infra, compliance, Automate, Desktop etc",
+            "to enable those teams to focus on their business deliverables and takes care of common/cross-cutting concern like developing centralized Authentication, APIGW, logging, Monitoring/Alerting, Compliance, Infrastructure as a code template for deploying application in a public cloud",
+            "Role Responsibilities:Develop one of above platform components of GA quality (Scalability, Up time, DR) from scratch",
+            "Act as liaison between Product Management, Architect and the team in a Scrum model",
+            "Be an effective team player and introduces best practices in team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "BENEFITS:Medical, dental, vision, life & disability, and financial benefits (including 401(k) retirement savings plan",
+            "Tuition Reimbursement program",
+            "Additional voluntary benefits including crucial illness/hospital indemnity, identity theft protection, auto & home insurance, legal, and pet insurance",
+            "Competitive salary, bonus, and best-in-class Employee Stock Purchase Program (ESPP) with a 27-month lookbackFlexible paid vacation time, paid day off for your birthday, and company holidays",
+            "A variety of leave plans, including Parental Leave",
+            "Employee Assistance Program (EAP) and an employee well-being program focusing on physical, mental, and financial health"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.progress.com/",
+          "text": "progress.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Progress&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIrQo",
+          "text": "See web results for Progress"
+        }
+      ],
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBHb2xhbmciLCJodGlkb2NpZCI6InBiMkhvY0RjRmJKclYtYm5BQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJEZHdWa3N5UzNSNlZIbHZMV2hhWTNreGMzUkVOWFpOY3psc0xYaFdSRTh5UzFWd0xXTjNPWGRXTkZablFVb3pRWGhoTnpCTGJUUmxkaTFOVnpWNk5VVXpNWEZMYUUwM1kyZDNTamRsZWs5UFZtRjBjR3N0TVZOTFdqZHhTWEZGTXkxM2RWTlVhRlZ2WVVrNFRHMXRhRGxUTmtoWWVEVm5MV1paUVZsc2JWRTNTUzF4ZG5SNk5tVnFObTFWVjBOeVJsWjVRVmxWWlRKMU1GZDZRMkZTY1dVNFNrZGZSMGR1TldRd2NrRjNlVGt0VGxWeU9IVnFTakp6V1ZsclprMWFYMVZFWVZCd2RUbGtXVWh1ZWxGWWNWUmtSVlJ4V0hWUlF6bEVRUklYZDFoMU5GcGxOM2xNVGxkWWQzUXdVRGczUzJkclFYY2FJa0ZRV0dodE5WcHhUVjlsVkc0eFkwaFBYeko0U0ZFMlNqRTRiMGcyWVRkMVkxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUHJvZ3Jlc3MgU29mdHdhcmUiLCJsaW5rIjoiaHR0cHM6Ly93d3cucHJvZ3Jlc3MuY29tL2NvbXBhbnkvY2FyZWVycy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItLS1nb2xhbmctb2xNaXBmd3k/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "GE HEALTHCARE",
+      "location": "  United States   ",
+      "via": "via GE HealthCare Jobs",
+      "description": "Job Description Summary\nResponsible for programing a component, feature and or feature set. Works independently and contributes to the immediate team and to other teams across business. You will also contribute to design discussions\n...\nGE HealthCare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world.\n\nJob Description\nRoles and Responsibilities\n• Responsible for defining, developing, and evolving software in a fast paced and agile development environment using the latest software development technologies and infrastructure\n• Work with Product Line Leaders (PLLs) to understand product requirements & vision\n• Translate requirements / vision into prioritized list of user stories and deliver to required timelines and quality standards\n• Work with product line leaders and architects to develop multi generation software technology plans\n• Drive increased efficiency across the teams, eliminating duplication, leveraging product and technology reuse\n• Support process improvements which guide the development, sustaining & support activities\n• Work cross functionally with other business departments to align activities and deliverables\n• Drive world-class quality in the development and support of products\n• Ensure team receives consistent messages and has clear understanding of business direction, strategy and results\n• Engage subject matter experts in successful transfer of complex domain knowledge\n• Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques\n• Write code that meets standards and delivers desired functionality using the technology selected for the project\n• Understand performance parameters and assess application performance\n• Work on core data structures and algorithms and implement them using technology chosen\n• Proactively share information across the team, to the right audience with the appropriate level of detail and timeline\n\nQualifications\n• Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with minimum 4 years of experience\n\nDesired Characteristics\n\nTechnical Expertise:\n• Experience with .NETCore, C#, HTML, jQuery\n• Demonstrates knowledge on cloud computing\n• Basic experience with Angular/React\n• Experience working on software projects in the Healthcare IT domain\n• Demonstrates the initiative to explore alternate technology and approaches to solving problems\n• Aware of legacy technology like WCF, WPF\n• Skilled in breaking down problems, documenting problem statements and estimating efforts\n• Demonstrates awareness about competitors and industry trends\n• Ability to analyze impact of technology choices\n\nLeadership:\n• Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members\n• Ensures understanding of issues and presents clear rationale. Able to speak to mutual needs and win-win solutions. Uses two-way communication to influence outcomes and ongoing results\n• Identifies misalignments with goals, objectives, and work direction against the organizational strategy. Makes suggestions to course correct\n• Continuously measures deliverables of self and team against scheduled commitments. Effectively balances different, competing objectives\n\nWe expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership –always with unyielding integrity.\n\nOur total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration, and support.\n\n#LI-Remote\n\n#LI-SP1\n\nFor U.S. based positions only, the pay range for this position is $94,800.00-$142,200.00 Annual. It is not typical for an individual to be hired at or near the top of the pay range and compensation decisions are dependent on the facts and circumstances of each case. The specific compensation offered to a candidate may be influenced by a variety of factors including skills, qualifications, experience and location. In addition, this position may also be eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). GE HealthCare offers a competitive benefits package, including not but limited to medical, dental, vision, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, and tuition reimbursement.\n\nAdditional Information\n\nGE HealthCare offers a great work environment, professional development, challenging careers, and competitive compensation. GE HealthCare is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE HealthCare will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nWhile GE HealthCare does not currently require U.S. employees to be vaccinated against COVID-19, some GE HealthCare customers have vaccination mandates that may apply to certain GE HealthCare employees.\n\nRelocation Assistance Provided: No",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with minimum 4 years of experience",
+            "Experience with .NETCore, C#, HTML, jQuery",
+            "Demonstrates knowledge on cloud computing",
+            "Basic experience with Angular/React",
+            "Experience working on software projects in the Healthcare IT domain",
+            "Demonstrates the initiative to explore alternate technology and approaches to solving problems",
+            "Aware of legacy technology like WCF, WPF",
+            "Demonstrates awareness about competitors and industry trends",
+            "Ability to analyze impact of technology choices"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for programing a component, feature and or feature set",
+            "Works independently and contributes to the immediate team and to other teams across business",
+            "You will also contribute to design discussions",
+            "Responsible for defining, developing, and evolving software in a fast paced and agile development environment using the latest software development technologies and infrastructure",
+            "Work with Product Line Leaders (PLLs) to understand product requirements & vision",
+            "Translate requirements / vision into prioritized list of user stories and deliver to required timelines and quality standards",
+            "Work with product line leaders and architects to develop multi generation software technology plans",
+            "Drive increased efficiency across the teams, eliminating duplication, leveraging product and technology reuse",
+            "Support process improvements which guide the development, sustaining & support activities",
+            "Work cross functionally with other business departments to align activities and deliverables",
+            "Drive world-class quality in the development and support of products",
+            "Ensure team receives consistent messages and has clear understanding of business direction, strategy and results",
+            "Engage subject matter experts in successful transfer of complex domain knowledge",
+            "Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques",
+            "Write code that meets standards and delivers desired functionality using the technology selected for the project",
+            "Understand performance parameters and assess application performance",
+            "Work on core data structures and algorithms and implement them using technology chosen",
+            "Proactively share information across the team, to the right audience with the appropriate level of detail and timeline",
+            "Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members",
+            "Ensures understanding of issues and presents clear rationale",
+            "Uses two-way communication to influence outcomes and ongoing results",
+            "Identifies misalignments with goals, objectives, and work direction against the organizational strategy",
+            "Makes suggestions to course correct",
+            "Continuously measures deliverables of self and team against scheduled commitments"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration, and support",
+            "For U.S. based positions only, the pay range for this position is $94,800.00-$142,200.00 Annual",
+            "It is not typical for an individual to be hired at or near the top of the pay range and compensation decisions are dependent on the facts and circumstances of each case",
+            "The specific compensation offered to a candidate may be influenced by a variety of factors including skills, qualifications, experience and location",
+            "In addition, this position may also be eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "GE HealthCare offers a competitive benefits package, including not but limited to medical, dental, vision, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, and tuition reimbursement"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://gehealthcare.com/",
+          "text": "gehealthcare.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=GE+HEALTHCARE&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIgws",
+          "text": "See web results for GE HEALTHCARE"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1a-hxdBOVqqXBs9wLotbUa628rWVWhuFi9X91g&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6ImxSN3RqR0tZYWRtZ1FnY2lBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJXTldTakpMTUdOVlpXRTFWamxEY0RWVWJtTkpYemxRVXpORVJYbEdXSEp4UmtJNVdVSlhiWGx1ZERNdFRscHJPVGRoWjA5RWMyOURWRVZ6YjJOR2JFRkZaMnhNWDNST1duUmlMV1paVkdSUGJHa3ljbEZOTlU1bExXdHJUWEE0UzBGa1ZsVlNOMnczUTNadGVuWnJSVGMwUTFSU1EwTlBja2gwVEVFMlRHSXlXbWt3WDBOWGN6QlNURVpJVEZSbmQzRk5PRXBDYTFCWlpFeEhTMEUyZUZZeFJYWmhYemhTY1dVM04ySm1ORVJvZEd4WFkzRnRkMlJyZGkwNWQwNHlWVkV3VTJ4ZkVoZDNXSFUwV21VM2VVeE9WMWgzZERCUU9EZExaMnRCZHhvaVFWQllhRzAxV1c5bGIzUTRkRjlNZEhaSmRIRjFaMk5VU25GM1NHVjNjMDAzWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEdFIEhlYWx0aENhcmUgSm9icyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuZ2VoZWFsdGhjYXJlLmNvbS9nbG9iYWwvZW4vam9iL0dFVkdITEdMT0JBTFI0MDAwMTE2RVhURVJOQUxFTkdMT0JBTC9TZW5pb3ItU29mdHdhcmUtRW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "company_name": "Reveleer",
+      "location": "  United States   ",
+      "via": "via Reveleer",
+      "description": "Job Title: Full Stack Software Engineer\n\nJob Summary...\n\nReveleer is a healthcare data and analytics company that uses Artificial Intelligence to give health plans across all business lines greater control over their Quality Improvement, Risk Adjustment, and Member Management programs. With one transformative solution, the Reveleer platform enables plans to independently execute and manage every aspect of enrollment, provider outreach and data retrieval, coding, abstraction, reporting, and submissions. Leveraging proprietary technology, robust data sets, and subject matter expertise, Reveleer provides complete record retrieval and review services so health plans can confidently plan and execute risk, quality, and member management programs to deliver more value and improved outcomes.\n\nWe are looking for an experienced Full Stack Software Engineer to join our team. The ideal candidate will have solid experience with C#, .NET 7/6, .NET Core, JavaScript, and AWS, with a demonstrated track record of designing, developing, and deploying complex, enterprise-level software solutions. Experience working with ReactJS/AngularJS is a plus. The successful candidate will have excellent problem-solving skills, have a strong understanding of software development best practices, and be committed to continual learning.\n\nResponsibilities:\n• Design and develop custom web and mobile applications using C# (or Java), .NET 7/6, .NET Core and JavaScript\n• Design, develop, and maintain complex cloud solutions on the AWS platform\n• Participate in the design, development, and implementation of cloud-based solutions.\n• Ensure cloud-based solutions are secure and compliant with industry standards.\n• Optimize cloud solutions to ensure cost efficiency.\n• Work closely with other team members and stakeholders to ensure solutions meet customer requirements.\n• Write well-structured, maintainable code and perform unit testing\n• Develop and maintain backend services and APIs for applications\n• Ensure software meets all requirements of quality, security, modifiability, and performance\n• Collaborate with other developers and stakeholders throughout the software development life cycle\n• Implement industry best practices and standards\n• Monitor and evaluate system performance, and address customer issues in a timely manner\n• The successful candidate will have extensive working knowledge of JIRA, Confluence, CI/CD pipeline among other tools\n• Provide technical guidance and mentorship to junior engineers.\n• Providing technical guidance to engineering and QA teams\n• Partner with researchers and technology experts in understanding technology development current state and future goals to inform software requirements definition, design, implementation, test, and verification and validation efforts\n\nRequirements:\n• 5+ years of experience developing web and mobile applications\n• Expertise in C#.NET 7/6, .NET Core, AWS services\n• Strong knowledge of T-SQL and SQL Server development tools\n• Develop stored procedures, triggers, functions, and other database objects\n• Strong understanding of software development best practices and processes\n• Taking ownership and leading fellow engineers, you should have solid experience is diagnosing, identifying, and resolving critical issues/bugs as they get reported. Using tools like Newrelic, Splunk, Datadog etc. is required.\n• Ability to work independently and as part of a team\n• Excellent problem-solving, communication, and organizational skills\n• Commitment to continual learning and professional development\n• Ability to work in a fast-paced environment and manage multiple priorities\n• CS degree preferred, or equivalent training or work experience\n• Experience working with ReactJS\n• Experience with cloud-based platforms such as AWS, GCP and/or Azure\n• Experience with modern CI/CD tools such as Docker, Github, Gitlab, Bitbucket etc.\n• Experience with enterprise SaaS products\n• Experience with high-traffic distributed systems at scale\n\nNice to Haves:\n• Experience working with ReactJS\n• Experience with cloud-based platforms such as AWS, GCP and/or Azure\n• Experience with modern CI/CD tools such as Docker, Github, Gitlab, Bitbucket etc.\n• Experience with enterprise SaaS products\n• Experience with high-traffic distributed systems at scale\n\nWhat You’ll Receive:\n• Salary range is $125k - $175k per year\n• Compensation is dependent upon experience and geographic work location\n• Medical, Dental and Vision benefits\n• 401K\n• PTO Plan\n\nReveleer E-Verifies all new hires.\n\nReveleer is an equal opportunity employer. We do not discriminate on the basis or race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status or genetic information, in compliance with applicable federal, state and local law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for an experienced Full Stack Software Engineer to join our team",
+            "The ideal candidate will have solid experience with C#, .NET 7/6, .NET Core, JavaScript, and AWS, with a demonstrated track record of designing, developing, and deploying complex, enterprise-level software solutions",
+            "The successful candidate will have excellent problem-solving skills, have a strong understanding of software development best practices, and be committed to continual learning",
+            "5+ years of experience developing web and mobile applications",
+            "Expertise in C#.NET 7/6, .NET Core, AWS services",
+            "Strong knowledge of T-SQL and SQL Server development tools",
+            "Develop stored procedures, triggers, functions, and other database objects",
+            "Taking ownership and leading fellow engineers, you should have solid experience is diagnosing, identifying, and resolving critical issues/bugs as they get reported",
+            "Using tools like Newrelic, Splunk, Datadog etc. is required",
+            "Ability to work independently and as part of a team",
+            "Excellent problem-solving, communication, and organizational skills",
+            "Ability to work in a fast-paced environment and manage multiple priorities",
+            "Experience working with ReactJS",
+            "Experience with cloud-based platforms such as AWS, GCP and/or Azure",
+            "Experience with modern CI/CD tools such as Docker, Github, Gitlab, Bitbucket etc",
+            "Experience with enterprise SaaS products",
+            "Experience with high-traffic distributed systems at scale"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "With one transformative solution, the Reveleer platform enables plans to independently execute and manage every aspect of enrollment, provider outreach and data retrieval, coding, abstraction, reporting, and submissions",
+            "Design and develop custom web and mobile applications using C# (or Java), .NET 7/6, .NET Core and JavaScript",
+            "Design, develop, and maintain complex cloud solutions on the AWS platform",
+            "Participate in the design, development, and implementation of cloud-based solutions",
+            "Ensure cloud-based solutions are secure and compliant with industry standards",
+            "Optimize cloud solutions to ensure cost efficiency",
+            "Work closely with other team members and stakeholders to ensure solutions meet customer requirements",
+            "Write well-structured, maintainable code and perform unit testing",
+            "Develop and maintain backend services and APIs for applications",
+            "Ensure software meets all requirements of quality, security, modifiability, and performance",
+            "Collaborate with other developers and stakeholders throughout the software development life cycle",
+            "Implement industry best practices and standards",
+            "Monitor and evaluate system performance, and address customer issues in a timely manner",
+            "The successful candidate will have extensive working knowledge of JIRA, Confluence, CI/CD pipeline among other tools",
+            "Provide technical guidance and mentorship to junior engineers",
+            "Providing technical guidance to engineering and QA teams",
+            "Partner with researchers and technology experts in understanding technology development current state and future goals to inform software requirements definition, design, implementation, test, and verification and validation efforts"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary range is $125k - $175k per year",
+            "Compensation is dependent upon experience and geographic work location",
+            "Medical, Dental and Vision benefits",
+            "401K",
+            "PTO Plan"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://reveleer.com/",
+          "text": "reveleer.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Reveleer&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAII2gs",
+          "text": "See web results for Reveleer"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJaYThPelhqU1JnYzh6X2ExQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiWGhWYlMxd1VtTmFXRXRUVG5oTU0zVkRSMmszUzAxUFNGSk5WekpSU0dGdVVGaDFhekJrWVdKcFkwdEdka1V5ZVZWTVNVMXVSelJEV1Voa05UUjRVblExVFRBeU4wUnFNVTlaUTJ0MmNWOXRNakJsUlVsTE9Wb3hXVW95U1VsQmEzbG1SV1l4T0ZaUVJXdFJaR2RYY2xSRVZqaHFSVUo1T1U5UFUxQkhSVkExV2tobk0xcDBYMlpYVERGMlpWb3hNRVYxUkcxU1kxUTVTbUZWY21KNGNuSTRiSFZSZW1wa1lVNUlPRXBaVlUxS056Vk1iV3hqVVRCRVNrVnZhbEZQWW10M1pIUldkV2RuVm1KYVZYcEhNM0F4VW5KaVlsSTJPRXhIZHhJWGQxaDFORnBsTjNsTVRsZFlkM1F3VURnM1MyZHJRWGNhSWtGUVdHaHROV0pQWlRNMFIzZzJjbTlrY1dOTE9UTlhOVk5sVTNjeFJGbDZjVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFJldmVsZWVyIiwibGluayI6Imh0dHBzOi8vcmV2ZWxlZXIuYnJlZXp5LmhyL3AvOTZmZmU2NjcyNGQ3LWZ1bGwtc3RhY2stc29mdHdhcmUtZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer - Ingestion",
+      "company_name": "C0035 LiveRamp, Inc.",
+      "location": " Anywhere ",
+      "via": "via Workday",
+      "description": "LiveRamp is the data collaboration platform of choice for the world’s most innovative companies. A groundbreaking leader in consumer privacy, data ethics, and foundational identity, LiveRamp is setting the new standard for building a connected customer view with unmatched clarity and context while protecting precious brand and consumer trust. LiveRamp offers complete flexibility to collaborate... wherever data lives to support the widest range of data collaboration use cases—within organizations, between brands, and across its premier global network of top-quality partners. Hundreds of global innovators, from iconic consumer brands and tech giants to banks, retailers, and healthcare leaders turn to LiveRamp to build enduring brand and business value by deepening customer engagement and loyalty, activating new partnerships, and maximizing the value of their first-party data while staying on the forefront of rapidly evolving compliance and privacy requirements. You will: ● Lead the team to build the next-generation global ingestion platform from the ground up and migrate existing complex use cases into that system. In its completion, the global ingestion platform will empower data connectivity in global markets (US, EU, APAC, etc). ● Work with a team of supportive and passionate software engineers. ● Architect and implement systems that materialize our platform vision. ● Resolve technical issues for internal and external customers. ● Be a coach to other engineers on the team, helping them succeed in their current role while preparing them for future roles. ● Perform code reviews and design reviews for other engineers on the team. ● Have an impact across the entire product and engineer org by leading technical discussions in the architecture board, evangelizing best practices, standards, and mentoring engineers and engineering teams. ● Have an impact in the broader industry by representing LiveRamp to speak at events and conferences. Your team will: ● Build and support best in class Global Ingestion systems with an emphasis on top-notch user experience and intuitive self-service workflows. ● Design and implement next generation data pipelines to efficiently handle Petabytes of batched or real time streaming data at a global scale. ● Uphold our data ethics and security standards to meet or exceed customer expectations and global government regulations. ● Stay nimble and respond quickly to emerging technologies and opportunities. About you: ● 8+ years of experience in the fields of software engineering (backend) ● 3+ years of experience using cloud based platform such as GCP, AWS, Azure or similar technologies ● Track record of leading and delivering large scale, cross-team, cross-functional projects, enjoy collaborating on an agile development team and have empathy for teammates and customers. ● Excellent communication and collaboration skills, and experience working with a remote, global team. ● Have a passion for building large-scale distributed systems and are comfortable writing maintainable, extensible, scalable and high performance code. ● Have a startup personality and enjoy working as part of a team: smart, ethical, friendly, hard-working, and productive. ● You love mentoring junior engineers, leading end-to-end development and release of an application or service, deploying software that conforms to best practices. ● Comfortable evaluating and adapting to the latest tools and technologies. ● Not afraid of “getting your hands dirty” and quickly iterating with evolving requirements from customers. ● Proficient in one or more compiled languages, preferably Java, Scala, Go or C++. ● Bachelor or Master of Science in Computer Science, Information Systems or related degree Bonus points: ● Experience with GCP products such as BigTable, BigQuery, Dataproc, PubSub or other data tools like Spark, Kafka, Hive, or Apache Beam ● Experience with development tools such as Terraform, Kubernetes, Helm, or Gradle ● Experience with real time distributed database such as SingleStore ● Experience with designing and implementing interfaces and infrastructure for large scale systems and RESTful APIs ● Contributions to open source projects Benefits: ● People: work with talented, collaborative, and friendly people who love what they do. ● In-Office Food: enjoy catered meals, boundless snacks, and the occasional food truck. ● Fun: we host in-person and virtual events such as game nights, happy hours, camping trips, and sports leagues. ● Work/Life Harmony: flexible paid time off, options for working from home, and paid parental leave. ● Whole Health Package: medical, dental, vision, and disability insurance. Plus mental health support (via Talkspace) and fitness reimbursement up to $100 per month. ● Savings: our 401K matching plan helps you plan ahead. ● RampRemote: a comprehensive program to assist you in setting up a home office that works for you More about us: LiveRamp’s mission is to connect data in ways that matter, and doing so starts with our people. We know that inspired teams enlist people from a blend of backgrounds and experiences. And we know that individuals do their best when they not only bring their full selves to work but feel like they truly belong. Connecting LiveRampers to new ideas and one another is one of our guiding principles—one that informs how we hire, train, and grow our global team across eight countries and four continents. For SF & NY postings ONLY: The approximate annual base compensation range is $148,000 to $190,000 The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, geography, as well as internal equity among our team. LiveRamp is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status. Qualified applicants with arrest and conviction records will be considered for the position in accordance with the San Francisco Fair Chance Ordinance. California residents: Please see our California Personnel Privacy Policy for more information regarding how we collect, use, and disclose the personal information you provide during the job application process. To all recruitment agencies: LiveRamp does not accept agency resumes. Please do not forward resumes to our jobs alias, LiveRamp employees or any other company location. LiveRamp is not responsible for any fees related to unsolicited resumes. More about us: LiveRamp’s mission is to connect data in ways that matter, and doing so starts with our people. We know that inspired teams enlist people from a blend of backgrounds and experiences. And we know that individuals do their best when they not only bring their full selves to work but feel like they truly belong. Connecting LiveRampers to new ideas and one another is one of our guiding principles—one that informs how we hire, train, and grow our global team across nine countries and four continents. Click here to learn more about Diversity, Inclusion, & Belonging (DIB) at LiveRamp. Our growth is creating great opportunities! LiveRamp is the data collaboration platform of choice for the world’s most innovative companies. A groundbreaking leader in consumer privacy, data ethics, and foundational identity, LiveRamp is setting the new standard for building a connected customer view with unmatched clarity and context while protecting precious brand and consumer trust. LiveRamp offers complete flexibility to collaborate wherever data lives to support the widest range of data collaboration use cases—within organizations, between brands, and across its premier global network of top-quality partners. Hundreds of global innovators, from iconic consumer brands and tech giants to retailers, financial services, and healthcare leaders turn to LiveRamp to build enduring brand and business value by deepening customer engagement and loyalty, activating new partnerships, and maximizing the value of their first-party data while staying on the forefront of rapidly evolving compliance and privacy requirements. LiveRamp is based in San Francisco, California with offices worldwide. Learn more at LiveRamp.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8+ years of experience in the fields of software engineering (backend)",
+            "3+ years of experience using cloud based platform such as GCP, AWS, Azure or similar technologies",
+            "Track record of leading and delivering large scale, cross-team, cross-functional projects, enjoy collaborating on an agile development team and have empathy for teammates and customers",
+            "Excellent communication and collaboration skills, and experience working with a remote, global team",
+            "Have a passion for building large-scale distributed systems and are comfortable writing maintainable, extensible, scalable and high performance code",
+            "Have a startup personality and enjoy working as part of a team: smart, ethical, friendly, hard-working, and productive",
+            "You love mentoring junior engineers, leading end-to-end development and release of an application or service, deploying software that conforms to best practices",
+            "Comfortable evaluating and adapting to the latest tools and technologies",
+            "Not afraid of “getting your hands dirty” and quickly iterating with evolving requirements from customers",
+            "Proficient in one or more compiled languages, preferably Java, Scala, Go or C++",
+            "Bachelor or Master of Science in Computer Science, Information Systems or related degree Bonus points:",
+            "Experience with GCP products such as BigTable, BigQuery, Dataproc, PubSub or other data tools like Spark, Kafka, Hive, or Apache Beam",
+            "Experience with development tools such as Terraform, Kubernetes, Helm, or Gradle",
+            "Experience with real time distributed database such as SingleStore",
+            "Experience with designing and implementing interfaces and infrastructure for large scale systems and RESTful APIs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Lead the team to build the next-generation global ingestion platform from the ground up and migrate existing complex use cases into that system",
+            "In its completion, the global ingestion platform will empower data connectivity in global markets (US, EU, APAC, etc)",
+            "Work with a team of supportive and passionate software engineers",
+            "Architect and implement systems that materialize our platform vision",
+            "Resolve technical issues for internal and external customers",
+            "Be a coach to other engineers on the team, helping them succeed in their current role while preparing them for future roles",
+            "Perform code reviews and design reviews for other engineers on the team",
+            "Have an impact across the entire product and engineer org by leading technical discussions in the architecture board, evangelizing best practices, standards, and mentoring engineers and engineering teams",
+            "Have an impact in the broader industry by representing LiveRamp to speak at events and conferences",
+            "Build and support best in class Global Ingestion systems with an emphasis on top-notch user experience and intuitive self-service workflows",
+            "Design and implement next generation data pipelines to efficiently handle Petabytes of batched or real time streaming data at a global scale",
+            "Uphold our data ethics and security standards to meet or exceed customer expectations and global government regulations",
+            "Stay nimble and respond quickly to emerging technologies and opportunities"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Work/Life Harmony: flexible paid time off, options for working from home, and paid parental leave",
+            "Whole Health Package: medical, dental, vision, and disability insurance",
+            "Plus mental health support (via Talkspace) and fitness reimbursement up to $100 per month",
+            "Savings: our 401K matching plan helps you plan ahead",
+            "For SF & NY postings ONLY: The approximate annual base compensation range is $148,000 to $190,000 The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, geography, as well as internal equity among our team"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=C0035+LiveRamp,+Inc.&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIrgw",
+          "text": "See web results for C0035 LiveRamp, Inc."
+        }
+      ],
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBJbmdlc3Rpb24iLCJodGlkb2NpZCI6IlFzRm5hQThrQ0ZhTG9vN01BQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJuaGFZbGhPV2xscE1tTkVZM3BYY0V4NVVrdzFRbmQyZFU1eE1FRmxjbDlaUkV0cVJXeEpVa2N5V2twS1YwdFFaakJEUjJGTk5GZzRkRTQxYjFKalRqWmFUR00yZG5kUlQzUmZZblZpYTNnMFVWVm5aM0JSY1dkaFRGWTRUekZYVDJkT1drZDFVV3hwZWxWSWJEbDJSV0U0TWtWWVZVNXNVMWRGVm1RMk1ubG5RemhrVFVaVU5sSjNTa3hFV1ZrM1pUVmZjbkZwTnpCTlZ5MVlielJrWmtaamFuWlNkRGxTU204MGJVMXhZMnhXV1VSTk9VOWxPVzlrZG5oYU9XSmtSWEJIWTBGS01FOVBkbXhhVjFaVExVWnJkVkpuVTFkTWQyOVlaeElYZDFoMU5GcGxOM2xNVGxkWWQzUXdVRGczUzJkclFYY2FJa0ZRV0dodE5WcFpRVlZPVUhrNE4wdG1TbFF4WmpSU01UQk9jakZZTlMxSFgxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV29ya2RheSIsImxpbmsiOiJodHRwczovL2xpdmVyYW1wLndkNS5teXdvcmtkYXlqb2JzLmNvbS9lbi1VUy9MaXZlUmFtcENhcmVlcnMvam9iL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci0tLUluZ2VzdGlvbl9KUjAxMDM5MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Frontend Software Engineer",
+      "company_name": "Topia",
+      "location": " Anywhere ",
+      "via": "via Jobs",
+      "description": "Description\n\nTopia is seeking a talented Javascript UI Engineer to join our team building immersive front-end experiences on our platform. As a UI Engineer, you will develop responsive and interactive user interfaces using React and modern frameworks...\n\nAs a Frontend Engineer at Topia, you will be crafting seamless user experiences for our platform. You will deliver and maintain quality customer-facing code, work closely with the design, product, and engineering teams to prioritize and implement new features and designs that result in a delightful experience for our users. If you have the React skills and passion for UI/UX to succeed, we want to hear from you!\n\nResponsibilities:\n• Build high quality UI components and experiences in React\n• Implement responsive front-end experiences optimized for web\n• Architect, develop, and ship maintainable, performant, and testable frontend components\n• Develop reusable React components and libraries for efficient front-end development\n• Integrate UI elements with back-end services and APIs\n• Collaborate with product managers and designers to translate requirements into UIs\n• Write unit tests to ensure robust, bug-free code\n• Troubleshoot and debug front-end issues and identify areas for improvement\n• Write maintainable, clear, well-architected code, tests, and documentation.\n\nRequirements\n• 3+ years professional experience with Javascript and React\n• Proficient in Javascript, React, and JSON\n• Experience building complex UIs and front-end web applications\n• Experience working with responsive UI styling (material, styled components, etc)\n• Attention to detail, user experience, and visual design\n• Excellent writing and verbal communication skills\n\nNice To Have\n• Experience with javascript game rendering engine like Pixi.js or Phaser\n• Experience with agile methodology",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "3+ years professional experience with Javascript and React",
+            "Proficient in Javascript, React, and JSON",
+            "Experience building complex UIs and front-end web applications",
+            "Experience working with responsive UI styling (material, styled components, etc)",
+            "Attention to detail, user experience, and visual design",
+            "Excellent writing and verbal communication skills",
+            "Experience with javascript game rendering engine like Pixi",
+            "js or Phaser",
+            "Experience with agile methodology"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a UI Engineer, you will develop responsive and interactive user interfaces using React and modern frameworks",
+            "As a Frontend Engineer at Topia, you will be crafting seamless user experiences for our platform",
+            "You will deliver and maintain quality customer-facing code, work closely with the design, product, and engineering teams to prioritize and implement new features and designs that result in a delightful experience for our users",
+            "Build high quality UI components and experiences in React",
+            "Implement responsive front-end experiences optimized for web",
+            "Architect, develop, and ship maintainable, performant, and testable frontend components",
+            "Develop reusable React components and libraries for efficient front-end development",
+            "Integrate UI elements with back-end services and APIs",
+            "Collaborate with product managers and designers to translate requirements into UIs",
+            "Write unit tests to ensure robust, bug-free code",
+            "Troubleshoot and debug front-end issues and identify areas for improvement",
+            "Write maintainable, clear, well-architected code, tests, and documentation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Topia&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAII_ww",
+          "text": "See web results for Topia"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWsmxyQ2m31BEHAU4Z-6EaqDHkQeQK5i3rsVmnq6PBYQ-7X6VfXBMJzI&s",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiaWl4Y25fUkZBQk9yVS1pbUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYlMxMU9FcDBhRk5ZWm1jeVgwaFRkME5ZU1RRd1VtbG1jQzE2VjJNMmRHNWtVSFZoZFMxaldUUk1lR2R1U1dwRGRrOWxlREYwWTNocmJrOVRRVnBXVGxoWVJVUldhV3BZT0ZNdFJGSmpOMHgyTkdWWVpubGZObkpRTWpoNVpYQXdhVWM0Wld0cGNubGhXRWN5TmpaS1NqaGtSV2xwVTFsS2RUWmZNbmxXYlZkalpYRTFTVmwzVURsdlJqZDBTMGQxV1RkdldHaFdUMFJNUzNCV1dUVkJTRlozYkVGb2NrSk9WbFpZVmpWVVFYcHNRVzF5YVdOMGVqTktiVjkxUXpseGFGUkxhV1ZrRWhkM1dIVTBXbVUzZVV4T1YxaDNkREJRT0RkTFoydEJkeG9pUVZCWWFHMDFXalZSWDNwNlZraEtOVTF6U0Vkc2FqVk1ORUpWU0drMFlrMUZkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29tL3RvcGlhLzBiMWRmYTMyLWQ4N2EtNGM5MS05NjNiLTA2MjE3YjcxYjEwMz91dG1fc291cmNlPXJlbW90aXZlLmNvbVx1MDAyNnJlZj1yZW1vdGl2ZS5jb21cdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer, Ad Platforms_",
+      "company_name": "Apple",
+      "location": "  United States   ",
+      "via": "via Media Bistro",
+      "description": "Senior Software Engineer, Ad PlatformsSanta Clara Valley (Cupertino),California,United StatesSoftware and Services**Add a favorite**To view your favorites, sign in with your Apple ID.Sign InDon’t have an Apple ID?+ Create one now+ Forgot your Apple ID or password?Submit Resume Senior Software Engineer, Ad PlatformsBack to search results**Summary**Posted:Sep 12, 2023Weekly Hours: **40**Role... Number: **200500621**At Apple, we believe in the power of technology to enrich people's lives. Everything we build is designed to empower people, including our advertising platform. We deliver ads in a way that benefits both customers and advertisers — helping people discover content, supporting creators, and protecting and respecting everyone’s privacy. Our technology makes advertising possible on the App Store, Apple News, Stocks, and Apple TV. We help developers and marketers of all sizes drive app discovery across the App Store. Our display ads on Apple News and Stocks let advertisers promote their products alongside trusted content in a brand-safe environment, while supporting publishers and journalists. Sponsorship integrations and experiences in live sports on Apple TV help advertisers connect with captivated audiences. Everything we do is with the unwavering commitment to privacy you expect from Apple. Because when advertising is done right, it benefits everyone.**Key Qualifications**+ 8 or more years of industry experience building scalable micro services or data driven platforms.+ Strong computer science fundamentals.+ Prior experience with Java/Scala/C++ or equivalent.+ Expertise in NoSQL datastores ( e.g Cassandra or DynamoDB )+ Proficiency in data processing technologies (e.g Kafka, Spark, Flink )+ Experience crafting scalable micro services.+ Familiarity with cloud paradigms ( e.g AWS or GCP )+ Proven ability to work on sophisticated problems and systems+ Strong problem solving and debugging skills.+ Have the ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.+ A desire to work in a fast-paced and challenging work environment.**Description**Advertiser Services is a diverse, global, agile engineering team that moves smart and fast by consuming and optimizing readily-available technology, collaborating to improve and scale capabilities across businesses and use cases, and sharing our own innovative solutions so everyone can benefit. We are not constrained by organization structure and offer flexibility to work on a variety of backend systems, and we have fun doing it! YOU WILL: Build the foundational pieces of the next generation of Apple’s Ad Platforms Collaborate with product management to define external APIs for campaign management. Design and implement performant services and data pipelines. Build shared capabilities like Authentication, Authorization etc to support multiple internal and external partners Implement low latency, highly - available, high volume advertiser facing systems in a cloud environment. Engineer secure and scalable distributed data processing systems for campaign management.**Education & Experience**Bachelor's degree in Computer Science or equivalent is required; Master's degree preferred.**Additional Requirements****Pay & Benefits**+ At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $199,800.00 and $300,200.00, and your base pay will depend on your skills, qualifications, experience, and location.Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more (pple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.**Apple Footer**Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race,color,religion,sex,sexual orientation,gender identity,national origin,disability,Veteran status,or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .Apple will not discriminate or retaliate against applicants who inquire about,disclose,or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco,review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) ",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Because when advertising is done right, it benefits everyone.**Key Qualifications**+ 8 or more years of industry experience building scalable micro services or data driven platforms.+ Strong computer science fundamentals",
+            "Prior experience with Java/Scala/C++ or equivalent.+ Expertise in NoSQL datastores ( e.g Cassandra or DynamoDB )+ Proficiency in data processing technologies (e.g Kafka, Spark, Flink )+ Experience crafting scalable micro services.+ Familiarity with cloud paradigms ( e.g AWS or GCP )+ Proven ability to work on sophisticated problems and systems+ Strong problem solving and debugging skills",
+            "Have the ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.+ A desire to work in a fast-paced and challenging work environment.**Description**Advertiser Services is a diverse, global, agile engineering team that moves smart and fast by consuming and optimizing readily-available technology, collaborating to improve and scale capabilities across businesses and use cases, and sharing our own innovative solutions so everyone can benefit"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "YOU WILL: Build the foundational pieces of the next generation of Apple’s Ad Platforms Collaborate with product management to define external APIs for campaign management",
+            "Design and implement performant services and data pipelines",
+            "Build shared capabilities like Authentication, Authorization etc to support multiple internal and external partners Implement low latency, highly - available, high volume advertiser facing systems in a cloud environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base pay range for this role is between $199,800.00 and $300,200.00, and your base pay will depend on your skills, qualifications, experience, and location",
+            "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs",
+            "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan",
+            "You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition",
+            "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.apple.com/",
+          "text": "apple.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Apple&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIyg0",
+          "text": "See web results for Apple"
+        }
+      ],
+      "extensions": [
+        "12 hours ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFkIFBsYXRmb3Jtc18iLCJodGlkb2NpZCI6ImdoelpNOEQ5U3R1SlNTdldBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJYQmFjelJtV0RWNmJXeGFibW8yYTFSSlprRlBWMGh5UTNKdmRsOHRZV3BrWTA5NGJWODBjazlZTWpKWlFuUjZRbUo2UVhCbloycHdPR3huYzJGTlQwdFhiR053Y1RCcVVXSldjMHczTTA1clJYQTFRVVJrUTFaeGQyMUZkMVJ4UlUxMFIwbDZXa04wWVZOcVJUbElYM0JoTTBsRlprUlpkelpuVEVOTWJHcEtNVk5oZDJGeFlUaEhVMGhwWkc1SlVqWlZWVEZuYjJkcWF6aElNazEyYzFOWFpYWkNiMFZEWmpWNldEWTJRMHhTZVhWRFMwNTBNM2N4U1RGdVQwa3lWSGgzTnpReWNreDJRWEo2UVhOSlJEaElNM1p3VWxKbWJVcDBaeElYZDFoMU5GcGxOM2xNVGxkWWQzUXdVRGczUzJkclFYY2FJa0ZRV0dodE5XSktXbXhCVUhGMmJETnRPWEJUZG5jNWVIaFpObDg0ZUhKTmRVRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE1lZGlhIEJpc3RybyIsImxpbmsiOiJodHRwczovL3d3dy5tZWRpYWJpc3Ryby5jb20vam9icy8xNTgzOTQ0NTEtc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFkLXBsYXRmb3Jtc18/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Robert Half",
+      "location": "  Olathe, KS   ",
+      "via": "via Robert Half",
+      "description": "Position: SOFTWARE ENGINEER - FULL STACK .NET Location: ONSITE IN KANSAS CITY, MOType: DIRECT HIRE - PERMANENTSalary: $100-$130K + excellent benefits Are you ready to elevate your career? As a Full Stack .NET Software Engineer of this highly successful company, you'll be part of a thriving organization with 600 employees and a global impact. Our client is seeking an exceptional talent to bolster... their software development and assist in their SQL Server DBA functions with paid training. Exceptional opportunity to apply and expand on your training and experience splitting your time between Full Stack .NET software engineering and SQL Server Database Administration functions. You will have a unique enterprise vantage point, understanding both the data and the business applications. You will report to the IT Director and have tremendous opportunity for growth and avancement. Qualifications: 5+ years of experience in full stack .NET software engineering (C#, Java Script, React, Entity Framework, other)Deep understanding of SQL Server database administration and or development functionsExceptional problem-solving skills and desire for continuous learning.Effective communicator across technical and non-technical stakeholders. What's In It For You: Competitive compensation and performance-based rewards.Comprehensive benefits including health, dental, and retirement plans.Professional growth opportunities in a dynamic environment.Collaborative and innovative workplace culture.Shape the security landscape of a successful organization. Ready to redefine security paradigms? Join us in this exhilarating journey. Apply now. *** For immediate and confidential consideration, please send a message to MEREDITH CARLE on LinkedIn or send an email to me with your resume. My email can be found on my LinkedIn page. Also, you may contact me by office: 515-303-4654. Or one click apply on our Robert Half website. No third party inquiries please. Our client cannot provide sponsorship and cannot hire C2C. ",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Exceptional opportunity to apply and expand on your training and experience splitting your time between Full Stack .NET software engineering and SQL Server Database Administration functions",
+            "Qualifications: 5+ years of experience in full stack .NET software engineering (C#, Java Script, React, Entity Framework, other)Deep understanding of SQL Server database administration and or development functions",
+            "Exceptional problem-solving skills and desire for continuous learning",
+            "Effective communicator across technical and non-technical stakeholders"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will report to the IT Director and have tremendous opportunity for growth and avancement"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "What's In It For You: Competitive compensation and performance-based rewards",
+            "Comprehensive benefits including health, dental, and retirement plans",
+            "Professional growth opportunities in a dynamic environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.rhi.com/",
+          "text": "rhi.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Robert+Half&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIlQ4",
+          "text": "See web results for Robert Half"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_JvlCTJo-CDOQkITJ4JkNuf4itcGNnVifhyNghQo&s",
+      "extensions": [
+        "16 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "16 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoibTFCejVpUTlsb3U2Vkk1aEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkhOUGFUTnpVVlkwYTB4MmMwTnNRa1UzYzFwV2J6VlhXVWR5V0hwSVgzaGZVRE0xYmtreGRsRmhia0Z1UVRsWlkwRkpabmd5WTBGU1lrVllabU5VUVRKd01VTXRXbFIwVW5sck5qUXlWSG95UmpkRmVXTmFOMUo1VmxSVGNDMWhZblZIVmsxM0xYSm1URkJ4TFc5cU5GVTNZbEl0TVZWaFJtOU9hVTVRYTJsMFYxZFFMVTVrYVc5dmN6bGtjR3hQYUc1YVJtTkViaTFvUW5rME1VWmhWVGRJZW5KQllrOVpXa0V4UmxSaWFsVmpSMU5hZVVGSGFIVlpVemhHVVROaU1IWk5aSHBPU2tKWk9YTkVVeTFtWVVFd1prZ3hTa2hPY1hoR1FSSVhkMWgxTkZwbE4zbE1UbGRZZDNRd1VEZzNTMmRyUVhjYUlrRlFXR2h0TldGTFQxQk5UbE0zZUdaVFEyZEtNazAyY1ZsdFJrRmZNVlZxTWtFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUm9iZXJ0IEhhbGYiLCJsaW5rIjoiaHR0cHM6Ly93d3cucm9iZXJ0aGFsZi5jb20vdXMvZW4vam9iL29sYXRoZS1rcy9zb2Z0d2FyZS1lbmdpbmVlci8wMjM4MC0wMDEyODgxNDcwLXVzZW4/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer (Go) | Remote (USA) | Up to $180,000",
+      "company_name": "Edison Search",
+      "location": "  United States   ",
+      "via": "via Edison Smart",
+      "description": "Join a growing IoT business, who’s platform provides company with automation data management and device control, for IoT device in the field.\n\nAs a Software Engineer, you’ll work in a small team to develop new features for the company’s cloud PaaS platform. They work with a Golang based tech stack...\n\nThis is a remote position (you must be in the US) and offers a starting base salary of up to $180,000.\n\nSkills/Technology\n• Golang\n• AWS\n• PostgreSQL\n• JavaScript/TypeScript\n• CI/CD",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Software Engineer, you’ll work in a small team to develop new features for the company’s cloud PaaS platform"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This is a remote position (you must be in the US) and offers a starting base salary of up to $180,000"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=Edison+Search&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAII1w4",
+          "text": "See web results for Edison Search"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKEdvKSB8IFJlbW90ZSAoVVNBKSB8IFVwIHRvICQxODAsMDAwIiwiaHRpZG9jaWQiOiJmZmNneWN5SV9lNy1oU0QtQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGphelpaYTNNMFdYSlhNVXM1VVRFMGFHcEtTV1pOY0UweGExRkNWSHBWY0V0eFF6bE5aRU5HWlZwb2VHZFdaSGt5VmtKNFRtdGlYM2xTZEhjMGJrcGZPV3RHWTJac1NFeFllVVZ6ZVhjeldGSjVYemRIVFhKZkxVNUplbXBpUkVWMlRtWkxNRVJqVWxCc2JXczFRalpmVGtSM1l6a3dhRmxtU0hGVVJrWk9jVXRaUkhKNlVWTk1Za3hGTWxaMlRFZDJURjl6WlZwYVZHUlBRbWhFZEhCblIxSkdNbGxLWkRGSU1GaFRVM0JRWldORlRtODFTWGRqUm1VeE0yUnZUVzlOWW1kcmNISlBNbmR4VWxKYVQxVjZNMU5VYTNsYWNFdHJaRFZLY1dKbk4wWkdTbVZUU21SVU4wd3RjazlRVEdGMVJWTnBiWFozVkdOVFkydDRUM3AyY0ZCaUxWcHNUQklYZDFoMU5GcGxOM2xNVGxkWWQzUXdVRGczUzJkclFYY2FJa0ZRV0dodE5WcFNjVVpqUVhCWVUzbGxjbk5rT1VveFlWZDVNRTVhUTIxYWJtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVkaXNvbiBTbWFydCIsImxpbmsiOiJodHRwczovL2VkaXNvbnNtYXJ0LmNvbS9qb2JzL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1nby1yZW1vdGUtdXNhLXVwLXRvLTE4MDAwMC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "company_name": "UpCodes",
+      "location": " Anywhere ",
+      "via": "via UpCodes",
+      "description": "THE ROLE\n\nAs a foundational member of our engineering team, you'll be involved in end-to-end development on features across our web product...\n\nWe have a frequent cadence of shipping new features and a close connection to our market. With 650k monthly active users spending hundreds of thousands of hours on the platform, each contribution and feature you ship will have a meaningful impact for the users.\n\nSince we're a startup, you'll have to be willing to get your hands dirty with (and learn) everything across the stack: API design, devops, frontend, data engineering, algorithms, AI, startup engineering, analytics, etc. You'll also mentor junior software engineers.\n\nTHE IDEAL CANDIDATE\n• 8+ years of experience building web apps\n• Clean simple code, even when solving complex problems\n• Good systems design and architecture knowledge\n• Good knowledge of the software life cycle, including code reviews, testing, team organization\n• Ability to balance business concerns with engineering considerations\n• Ability to learn new tech quickly\n• Experience mentoring junior engineers\n• Experience interacting with multiple stakeholders\n• Enjoyable to work with\n\nTECHNOLOGY STACK\n• Python, PostgreSQL, FastAPI, Redis, TypeScript, React, Next.js, Tailwind, AWS, Kubernetes, Prometheus, Pinecone, GPT-4\n\nEXAMPLE PROJECTS\n• Craft plan to measure and improve our search engine\n• Improve and migrate our data model for the content we host\n• Migrate our NLP algorithms over to use LLMs\n• Do thorough, prompt code reviews\n• Implement developer tools to help with code quality\n\nJob Type: Full-Time\n\nLocation: 100% remote\n\nUS-based comp range*: $140k-$185k\n\nLatin America-based comp range*: $105k-$140k (USD)\n\nCanada-based comp range*: $125k-$165k (USD)\n• Plus equity (cost of living agnostic",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8+ years of experience building web apps",
+            "Clean simple code, even when solving complex problems",
+            "Good systems design and architecture knowledge",
+            "Good knowledge of the software life cycle, including code reviews, testing, team organization",
+            "Ability to balance business concerns with engineering considerations",
+            "Ability to learn new tech quickly",
+            "Experience mentoring junior engineers",
+            "Experience interacting with multiple stakeholders",
+            "Enjoyable to work with",
+            "TECHNOLOGY STACK"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a foundational member of our engineering team, you'll be involved in end-to-end development on features across our web product",
+            "With 650k monthly active users spending hundreds of thousands of hours on the platform, each contribution and feature you ship will have a meaningful impact for the users",
+            "You'll also mentor junior software engineers",
+            "Craft plan to measure and improve our search engine",
+            "Improve and migrate our data model for the content we host",
+            "Migrate our NLP algorithms over to use LLMs",
+            "Do thorough, prompt code reviews",
+            "Implement developer tools to help with code quality"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "US-based comp range*: $140k-$185k",
+            "Latin America-based comp range*: $105k-$140k (USD)",
+            "Canada-based comp range*: $125k-$165k (USD)",
+            "Plus equity (cost of living agnostic)"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://up.codes/",
+          "text": "up.codes"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=8f225b8773a53888&q=UpCodes&sa=X&ved=0ahUKEwiu14Pzo4SEAxXVi7AFHXMZCMI4FBCYkAIIqQ8",
+          "text": "See web results for UpCodes"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLw70UeNdcsdw6JL90kFRRQ0fatFIKi6UKbWkFy_U&s",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IkUyaE9Td2RpWW9ITUxpQWRBQUFBQUE9PSIsImZjIjoiRW93Q0Nzd0JRVTUxVjJoamJVZFBPRXhaWlVSVU1sRjNMWFJ0ZGpVdFRESkNiblJoUlRSRldUTkVOVGR4UzJaUFVGaEhWV0ZrTTI4MFUyNXdNRWwwYUhvM1V6bDNjakZITlRSMU0wbENSMWt6VEZKdlRVSkNORFZSY1VSQ01teExTV1owYVVoMlVWVlVTbVJ0WlVoYVZXTklTRXBaYzFJd1ZuRnNUamh0UVhCdWVsWTBWSEJKYW5VM1dYQnRhMHcwWDJjNFMwdE1ZbkJqVlZNeFVEbGFlV3hVTVdOWVgwZDBkVTF2Ym5OMFdXdEVNMnhITmpKME9UZGhZM1ZWWVZCSVoxQjFhSGhLWVhCb09IZFRMVWhMYVhKWkVoZDNXSFUwV21VM2VVeE9WMWgzZERCUU9EZExaMnRCZHhvaVFWQllhRzAxWW14RVozcFZUVTlqZDJOWmFrOVNaV1kwZFZkak1sTmhVbU5mUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBVcENvZGVzIiwibGluayI6Imh0dHBzOi8vdXAuY29kZXMvY2FyZWVycz9hc2hieV9qaWQ9MGRmNDcyYWMtNmNjMS00Yjg5LThhZjEtODkwYmRlZjJhMzI3XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Lab",
+          "value": "lab"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Network services",
+          "value": "network services"
+        },
+        {
+          "text": "Project manager",
+          "value": "project manager"
+        },
+        {
+          "text": "Science",
+          "value": "science"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Oklahoma City, OK",
+          "value": "gdL4flSKrYedOk_RdBKiMw=="
+        },
+        {
+          "text": "Kansas City, MO",
+          "value": "l5npr173wIeiUapq5iWFVQ=="
+        },
+        {
+          "text": "Olathe, KS",
+          "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+        },
+        {
+          "text": "Paris, TX",
+          "value": "mysnFgZYSoZJ89MvZgm5yQ=="
+        },
+        {
+          "text": "Springdale, AR",
+          "value": "eYV1ArMUyYdavDvUreoxoQ=="
+        },
+        {
+          "text": "Tontitown, AR",
+          "value": "o_pMF5RyyYfEvqij54Opug=="
+        },
+        {
+          "text": "Broken Arrow, OK",
+          "value": "EU6rbj1itodcJqZGOKslKA=="
+        },
+        {
+          "text": "Cassville, MO",
+          "value": "OUvy21DQyIc6hF_OIVWVzg=="
+        },
+        {
+          "text": "Cave Springs, AR",
+          "value": "OQxJ3_MRyYe62iSa1sSt8w=="
+        },
+        {
+          "text": "Centerton, AR",
+          "value": "99IuBIgFyYehPLOyXut7XQ=="
+        },
+        {
+          "text": "Decatur, AR",
+          "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+        },
+        {
+          "text": "Overland Park, KS",
+          "value": "0zgmp1GVwIfI-UQ460_OJA=="
+        },
+        {
+          "text": "Pea Ridge, AR",
+          "value": "6xf8mywZyYe6kgw_pTHC3w=="
+        },
+        {
+          "text": "Rogers, AR",
+          "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+        },
+        {
+          "text": "Farmington, AR",
+          "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+        },
+        {
+          "text": "Kansas City, KS",
+          "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+        },
+        {
+          "text": "Tulsa, OK",
+          "value": "jy7R3biStof3atkbyBBp5w=="
+        },
+        {
+          "text": "Wichita, KS",
+          "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+        },
+        {
+          "text": "Bartlesville, OK",
+          "value": "8b3HNk8St4c2oSjV4ALw3g=="
+        },
+        {
+          "text": "Benton, AR",
+          "value": "gwSnon5RzYfnX4QNNsNvtA=="
+        },
+        {
+          "text": "Columbia, MO",
+          "value": "yYKBu_Or3Icgb726LWkRoA=="
+        },
+        {
+          "text": "Elm Springs, AR",
+          "value": "weUZtbASyYc-0yhD2qMB6A=="
+        },
+        {
+          "text": "Fayetteville, AR",
+          "value": "nT61L3tvyYfPyLT8afAZRQ=="
+        },
+        {
+          "text": "Fort Leavenworth, KS",
+          "value": "O3ZaTet6wIeb7YRt3bwETA=="
+        },
+        {
+          "text": "Goshen, AR",
+          "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+        },
+        {
+          "text": "Gravette, AR",
+          "value": "w8TGtmupyYfe37-QmZ2BFg=="
+        },
+        {
+          "text": "Huntsville, KS",
+          "value": "b4rO53ONpIcqxhYmgAxYVA=="
+        },
+        {
+          "text": "Independence, KS",
+          "value": "aXhEokUruIdHkOg2KXGhiw=="
+        },
+        {
+          "text": "Johnson, AR",
+          "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+        },
+        {
+          "text": "Lawton, OK",
+          "value": "RQ0hWeIerYdSTnLyxvosYQ=="
+        },
+        {
+          "text": "Lenexa, KS",
+          "value": "rZknHh-UwIcLSV98iPViMg=="
+        },
+        {
+          "text": "Lowell, AR",
+          "value": "S99nqxEUyYcglsAlyy4CBw=="
+        },
+        {
+          "text": "Mission, KS",
+          "value": "4Q3sAs7twIegN_6kDLgDHA=="
+        },
+        {
+          "text": "Noel, MO",
+          "value": "j1H-t1pTyIfdC4IScI3jLA=="
+        },
+        {
+          "text": "Shawnee, KS",
+          "value": "_Vq7CyuSwIfjWKe3k3vwaQ=="
+        },
+        {
+          "text": "Springfield, MO",
+          "value": "P5jIRfdiz4egDWkes2z9aw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Personal Services",
+          "value": "/business/naics2007/8129"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Oracle",
+          "value": "/m/05njw"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Ford Motor Company",
+          "value": "/m/02zs4"
+        },
+        {
+          "text": "Netflix",
+          "value": "/m/017rf_"
+        },
+        {
+          "text": "Cox Enterprises",
+          "value": "/g/11bwf70g1f"
+        },
+        {
+          "text": "FlightSafety International",
+          "value": "/m/0bh8vr"
+        },
+        {
+          "text": "Garmin International, Inc.",
+          "value": "/m/09mw5vk"
+        },
+        {
+          "text": "HubSpot",
+          "value": "/m/02yxmbc"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Cboe Global Markets",
+          "value": "/g/11g7nmd1v5"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Citadel",
+          "value": "/m/08vx4k"
+        },
+        {
+          "text": "Hasbro",
+          "value": "/m/0hpt3"
+        },
+        {
+          "text": "Microsoft",
+          "value": "/m/04sv4"
+        },
+        {
+          "text": "Paychex",
+          "value": "/m/026qjz"
+        },
+        {
+          "text": "Pinterest",
+          "value": "/g/11fwg_5ywq"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Snap Inc.",
+          "value": "/g/11c1s2xz66"
+        },
+        {
+          "text": "Sprout Social",
+          "value": "/g/11bzspfgc1"
+        },
+        {
+          "text": "TEKsystems",
+          "value": "/g/11b6g4bkv0"
+        },
+        {
+          "text": "WARNERMEDIA",
+          "value": "/m/0l8sx"
+        },
+        {
+          "text": "01 eHealthinsurance Services, Inc.",
+          "value": "/m/02q1ks0"
+        },
+        {
+          "text": "1upHealth",
+          "value": "/g/11h3lglvf1"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "Accretive Technology Group",
+          "value": "/g/11c73_tb56"
+        },
+        {
+          "text": "Aerodyne Industries",
+          "value": "/g/11dxpts85w"
+        },
+        {
+          "text": "Airbnb",
+          "value": "/m/010qmszp"
+        },
+        {
+          "text": "Akamai Technologies, Inc",
+          "value": "/m/02fqbt"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "Apartment List",
+          "value": "/g/11f018f5xw"
+        },
+        {
+          "text": "AppFolio",
+          "value": "/m/02yxdck"
+        },
+        {
+          "text": "Auxilius",
+          "value": "/g/11t396c1h0"
+        },
+        {
+          "text": "Axiom Exergy",
+          "value": "/g/11fy280sqv"
+        },
+        {
+          "text": "Axon",
+          "value": "/m/0cl_m7"
+        },
+        {
+          "text": "BP",
+          "value": "/m/0k5b5"
+        },
+        {
+          "text": "Backblaze",
+          "value": "/g/11fy1qndrz"
+        },
+        {
+          "text": "Belcan",
+          "value": "/m/0kqjj_"
+        }
+      ]
+    }
+  ]
+}

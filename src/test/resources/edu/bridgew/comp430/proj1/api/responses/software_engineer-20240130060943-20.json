@@ -1,0 +1,1338 @@
+{
+  "search_metadata": {
+    "id": "65b892a7aef2644de92066f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/be451987f4572580/65b892a7aef2644de92066f0.json",
+    "created_at": "2024-01-30 06:09:43 UTC",
+    "processed_at": "2024-01-30 06:09:43 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=20",
+    "raw_html_file": "https://serpapi.com/searches/be451987f4572580/65b892a7aef2644de92066f0.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 20
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "General Dynamics Corporation",
+      "location": "  Rensselaer, NY   ",
+      "via": "via ZipRecruiter",
+      "description": "Responsibilities for this Position\nLocation: USA NY Rensselaer - 331 Columbia Tpke (NYS007)\nFull Part/Time: Full time...\nJob Req: RQ162840\n\nType of Requisition:\nRegular\n\nClearance Level Must Currently Possess:\nNone\n\nClearance Level Must Be Able to Obtain:\nNone\n\nSuitability:\n\nPublic Trust/Other Required:\nNone\n\nJob Family:\nSystems Engineering\n\nJob Qualifications:\n\nSkills:\nIBM WebSphere Application Server, Java, Java Enterprise Edition, Middleware\nCertifications:\n\nExperience:\n5 + years of related experience\nUS Citizenship Required:\nNo\n\nJob Description:\n\nSystems Engineer Senior\n\nDeliver simple solutions to complex problems as a Senior Software Engineer at GDIT. Your work will have you fully immersed in our client's domain in order to deliver solutions for their complex needs. You'll prioritize the client while we prioritize your career.\n\nAt GDIT, people are our differentiator. You will join our team in partnership with New York State of Health (NYSoH) to provide comprehensive health coverage to more than 7.3 million New Yorkers through its Health Benefit Exchange (HBE)\n\nHOW YOU'LL MAKE AN IMPACT:\n• You'll join our talented Operations Team. Our project is built on a multi-tier architecture including Service Oriented architecture, multi-tier web applications using Java and various other COTS products.\n• Support a wide variety of middleware components in a 24/7/365 high availability client environment.\n• Primary responsibility is production support to include monitoring, troubleshooting and triage. Provide technical leadership across a variety of middleware components. Set technical direction for mid-tier environments\n• Collect and review system data for capacity and planning purposes. Analyze capacity data and develop capacity plans for appropriate level enterprise-wide systems.\n• Perform software installations and upgrades across development, test and production environments. Install, configure and maintain the WebSphere family of middleware infrastructure (WebSphere Application Server, WebSphere Portal Server, WebSphere Process Server and WebSphere MQ). Install patches associated with WebSphere upgrades and updates\n• Provide evening/weekend support coverage on rotation\nWHAT YOU'LL NEED TO SUCCEED:\n\nEducation:\n• Bachelor's degree in Computer Science, Management Information Systems, or related technical field or equivalent\nExperience:\n• Five or more years' experience working with web applications in a high-volume mission critical environment\n• Senior level experience in the WebSphere family of middleware infrastructure (WebSphere Application Server, WebSphere Portal Server, WebSphere Process Server and WebSphere MQ)\n• Five or more experience in Java/J2EE environment\nSkills\n• UNIX AIX or Linux and Scripting skills\n• Monitoring and Alert Process skills\n• Excellent analytical and multitasking skills\n• Strong oral and written communication skills\n• Identify and resolve problems in a timely manner; gather and analyze information skillfully; develop alternative solutions; Critical thinking and creative problem solving\nThe likely salary range for this position is $96,000 - $144,000. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.\n\nScheduled Weekly Hours:\n40\n\nTravel Required:\nNone\n\nTelecommuting Options:\nHybrid\n\nWork Location:\nUSA NY Rensselaer\n\nAdditional Work Locations:\n\nTotal Rewards at GDIT:\nOur benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most.\n\nWe are GDIT. A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development. Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n\nWe connect people with the most impactful client missions, creating an unparalleled work experience that allows them to see their impact every day. We create opportunities for our people to lead and learn simultaneously. From securing our nation's most sensitive systems, to enabling digital transformation and cloud adoption, our people are the ones who make change real.\n\nGDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.\n\nPI233566063\n\nBack To Search Results GDIT supports and secures some of the most complex government, defense, and intelligence projects across the country",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "IBM WebSphere Application Server, Java, Java Enterprise Edition, Middleware",
+            "5 + years of related experience",
+            "Bachelor's degree in Computer Science, Management Information Systems, or related technical field or equivalent",
+            "Five or more years' experience working with web applications in a high-volume mission critical environment",
+            "Senior level experience in the WebSphere family of middleware infrastructure (WebSphere Application Server, WebSphere Portal Server, WebSphere Process Server and WebSphere MQ)",
+            "Five or more experience in Java/J2EE environment",
+            "UNIX AIX or Linux and Scripting skills",
+            "Monitoring and Alert Process skills",
+            "Excellent analytical and multitasking skills",
+            "Strong oral and written communication skills",
+            "Identify and resolve problems in a timely manner; gather and analyze information skillfully; develop alternative solutions; Critical thinking and creative problem solving"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Deliver simple solutions to complex problems as a Senior Software Engineer at GDIT",
+            "Your work will have you fully immersed in our client's domain in order to deliver solutions for their complex needs",
+            "Support a wide variety of middleware components in a 24/7/365 high availability client environment",
+            "Primary responsibility is production support to include monitoring, troubleshooting and triage",
+            "Provide technical leadership across a variety of middleware components",
+            "Set technical direction for mid-tier environments",
+            "Collect and review system data for capacity and planning purposes",
+            "Analyze capacity data and develop capacity plans for appropriate level enterprise-wide systems",
+            "Perform software installations and upgrades across development, test and production environments",
+            "Install, configure and maintain the WebSphere family of middleware infrastructure (WebSphere Application Server, WebSphere Portal Server, WebSphere Process Server and WebSphere MQ)",
+            "Install patches associated with WebSphere upgrades and updates",
+            "Provide evening/weekend support coverage on rotation"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The likely salary range for this position is $96,000 - $144,000",
+            "This is not, however, a guarantee of compensation or salary",
+            "Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range",
+            "Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match",
+            "To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave",
+            "To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.gd.com/",
+          "text": "gd.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=General+Dynamics+Corporation&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAII3Qk",
+          "text": "See web results for General Dynamics Corporation"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6ImRiZjRuWDNBWFlwandoQ0xBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJYbEJNR2RFTm05V1ZtNWpSV2gwYmtJelJqQmlWMjVyZFRGTFVsUlhTVWhuZGtSeGNEbGxjbFY0TUZOQ09IUmhiRE5wUjJWNFJGaEVjbk52TnpkcFZ6WkxVaTFKUlZsNGVFOTBjbEIwV21wVlNsTjZTR2xNTmtRd05sWlpVbDlNWjNkM1UyRmhaa0ZpVVcxWlpUUnphelpzYVdFelpUVmhRMFpKTVhwdVJFTnlWbEl4WTNOeFFWbHhObWx4ZVd3dGVFOWhkamRpVGtseVZWVm5iSFkxVFdKcVJtRldiMDU0WVhJelQwSkJiVTg1ZEhKTWVUQnNaakJHTm5SVGFXbDRWMVF0TTBWT1VsUnFkSGRWWlVkSFVtazBjbUp5Vm1wU1VVRm9RVmhsY1Zoc01uSnlhazVQZVZwRE0ycEVaRUZJYldoVWJuQm9SRWwwV21ST05tcG9SbGt4Ym0xRWR4SVhjRFZMTkZwa2NVRktaR2x1YlhSclVEUnlMUzB5UVVrYUlrRlFXR2h0TlZsaFkxbEdPR3MwTlVod1NFUjJZWFUxYm1Kc1JFdHJUbVpwVG5jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBaaXBSZWNydWl0ZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuemlwcmVjcnVpdGVyLmNvbS9jL0dlbmVyYWwtRHluYW1pY3MtQ29ycG9yYXRpb24vSm9iL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci8taW4tUmVuc3NlbGFlcixOWT9qaWQ9ZGY5MGFjMzE4MDE5YTNjOVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Software Engineering",
+      "company_name": "AT&T",
+      "location": "  Middletown Township, NJ   ",
+      "via": "via ATT Jobs",
+      "description": "Job Description:\n\nJoin AT&T and reimagine the communications and technologies that connect the world. Our Software Resiliency and Reliability Engineering Technology organization is delivering innovative and reliable technology solutions for AT&T mission critical applications to trace business functions across multiple distributed systems. Bring your bold ideas and fearless risk-taking to redefine... connectivity and transform how we connect the world and deliver unsurpassed customer experiences. When you step into a career with AT&T, you won’t just imagine the future-you’ll create it.\n\nHere at AT&T, the SRE organization focuses on providing uninterrupted customer experience through improving the resiliency and reliability of all components in a customer journey. The program identifies critical customer journeys across all organizations within AT&T and takes a two-prong approach by conducting both Static and Dynamic analysis. The Static Analysis uses manual assessments to identify initial resiliency score and maturity level. Dynamic Analysis requires instrumenting automated resiliency frameworks including Rainmaker, T-trace, T-view and, MechID/SSL Bot to collect deep insights of the application behavior. It is a very exciting, visible, and growing area that requires technical expertise and thought leadership to drive these efforts across AT&T enterprise ecosystem.\n\nThe position on the SRE T-trace team leverages an open-source industry standard Open Telemetry product that is the standard tracing solution for AT&T. T-Trace provides full visibility of end-to-end business transactions across multiple distributed systems Applications send structured tracing data to global collection points enabling view of actual live service flows. It allows operations teams to quickly identify root cause of outage and engage correct resolution groups to reduce operational mean time to identify (MTTI). With more and more applications onboarded with T-trace, its value will accelerate exponentially.\n\nThis career step requires Lead level experience. Responsible for the overall delivery process to instrument T-trace OTEL agent on AT&T mission critical applications, including design, development, testing, deployment, production application support (e.g., troubleshooting using T-trace if the application is involved in an outage).\n\nKey Roles and Responsibilities: Collaborate with the application technical lead to define the T-trace architecture solution and appropriate patterns for instrumentation. Work with the application teams to install the OTEL agent and make configurations changes according to the SRE architecture solution design in all non-prod environments. Develop custom instrumentation solutions based on the application's programming language or architecture. Collaborate with Expert engineers/architects to resolve technical issues. Integrate the Open Telemetry agent and configuration within their respective CI/CD flows. Collaborate with development teams, clients, etc. to validate test data and test results, design and implement code fixes, validate outcomes to ensure meaningful trace data. Evaluate performance testing in Test/QA environments, calculate expected trace span load for production environment, validate tracing data and performance impact for production readiness. Perform postproduction validation to ensure successful implementation of Open Telemetry solution in the production environment and demonstrate benefits from trace data in the Service Now Cloud Observability Tool.\n\n​\n\nJob Contribution: Lead level technical expertise. Deep technical knowledge and subject matter expert on AT&T technologies.\n\nRequired Skills: -\n• Strong Java and Related Technology\n• Exposure to most of the popular java frameworks and libraries in heavy use since 2010\n• Understanding of JVM internals and profiling, JVM memory and garbage collection tuning and heap dump analysis\n• Experience with java multi-threading and the evolution of the language in this area.\n• Ability to operate as a code contributor to the open telemetry java instrumentation project\n• RESTful web service and SOAP web services\n• Experience with cloud computing including successfully developing and deploying applications to the cloud such as AWS, GCP, Azure\n• Exposure to Go including the ability to read code written in Go and write Go code making use of the Go paradigms such as go routine and familiar with many Go system libraries\n• Experience with CI/CD and infrastructure as code\n• Creative Thinking and Problem Solving\n• Able to work and collaborate effectively with multiple application teams and vendor partners\n• Thought leadership (solutioning through creative/new paths)\n• Resourcefulness (research alternative approaches)\n• Prior distributed tracing expertise with java applications would be helpful\n\nEducation: Preferred Bachelor of Science degree in Computer Engineering, Computer Science, Applied Science, Electrical Engineering, or Math; Developer nanodegree; or equivalent experience.\n\nExperience: 5-8 years’ experience\n\nOur Lead Software Engineering earn between $143,800 -$215,800. Not to mention all the other amazing rewards that working at AT&T offers. Individual starting salary within this range may depend on geography, experience, expertise, and education/training.\n\nJoining our team comes with amazing perks and benefits:\n\n· Medical/Dental/Vision coverage\n\n· 401(k) plan\n\n· Tuition reimbursement program\n\n· Paid Time Off and Holidays (based on date of hire, at least 23 days of vacation each year and 9 company-designated holidays)\n\n· Paid Parental Leave\n\n· Paid Caregiver Leave\n\n· Additional sick leave beyond what state and local law require may be available but is unprotected\n\n· Adoption Reimbursement\n\n· Disability Benefits (short term and long term)\n\n· Life and Accidental Death Insurance\n\n· Supplemental benefit programs: critical illness/accident hospital indemnity/group legal\n\n· Employee Assistance Programs (EAP)\n\n· Extensive employee wellness programs\n\n· Employee discounts up to 50% off on eligible AT&T mobility plans and accessories, AT&T internet (and fiber where available) and AT&T phone.\n\nAT&T is leading the way to the future – for customers, businesses and the industry. We're developing new technologies to make it easier for our customers to stay connected to their world. Together, we’ve built a premier integrated communications and entertainment company and an amazing place to work and grow. Team up with industry innovators every time you walk into work, creating the world you always imagined. Ready to #transformdigital with us? Apply now!\n\nWeekly Hours:\n40\n\nTime Type:\nRegular\n\nLocation:\nUSA:TX:Dallas / 208 S Akard St - Concourse:208 S Akard St @ Concourse\n\nSalary Range:\n$143,800.00 - $215,800.00\n\nIt is the policy of AT&T to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, AT&T will provide reasonable accommodations for qualified individuals with disabilities",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep technical knowledge and subject matter expert on AT&T technologies",
+            "Strong Java and Related Technology",
+            "Exposure to most of the popular java frameworks and libraries in heavy use since 2010",
+            "Understanding of JVM internals and profiling, JVM memory and garbage collection tuning and heap dump analysis",
+            "Experience with java multi-threading and the evolution of the language in this area",
+            "Ability to operate as a code contributor to the open telemetry java instrumentation project",
+            "RESTful web service and SOAP web services",
+            "Experience with cloud computing including successfully developing and deploying applications to the cloud such as AWS, GCP, Azure",
+            "Exposure to Go including the ability to read code written in Go and write Go code making use of the Go paradigms such as go routine and familiar with many Go system libraries",
+            "Experience with CI/CD and infrastructure as code",
+            "Creative Thinking and Problem Solving",
+            "Able to work and collaborate effectively with multiple application teams and vendor partners",
+            "Thought leadership (solutioning through creative/new paths)",
+            "Resourcefulness (research alternative approaches)",
+            "Prior distributed tracing expertise with java applications would be helpful",
+            "Experience: 5-8 years’ experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Dynamic Analysis requires instrumenting automated resiliency frameworks including Rainmaker, T-trace, T-view and, MechID/SSL Bot to collect deep insights of the application behavior",
+            "T-Trace provides full visibility of end-to-end business transactions across multiple distributed systems Applications send structured tracing data to global collection points enabling view of actual live service flows",
+            "It allows operations teams to quickly identify root cause of outage and engage correct resolution groups to reduce operational mean time to identify (MTTI)",
+            "With more and more applications onboarded with T-trace, its value will accelerate exponentially",
+            "Responsible for the overall delivery process to instrument T-trace OTEL agent on AT&T mission critical applications, including design, development, testing, deployment, production application support (e.g., troubleshooting using T-trace if the application is involved in an outage)",
+            "Key Roles and Responsibilities: Collaborate with the application technical lead to define the T-trace architecture solution and appropriate patterns for instrumentation",
+            "Work with the application teams to install the OTEL agent and make configurations changes according to the SRE architecture solution design in all non-prod environments",
+            "Develop custom instrumentation solutions based on the application's programming language or architecture",
+            "Collaborate with Expert engineers/architects to resolve technical issues",
+            "Integrate the Open Telemetry agent and configuration within their respective CI/CD flows",
+            "Collaborate with development teams, clients, etc",
+            "to validate test data and test results, design and implement code fixes, validate outcomes to ensure meaningful trace data",
+            "Evaluate performance testing in Test/QA environments, calculate expected trace span load for production environment, validate tracing data and performance impact for production readiness",
+            "Perform postproduction validation to ensure successful implementation of Open Telemetry solution in the production environment and demonstrate benefits from trace data in the Service Now Cloud Observability Tool"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our Lead Software Engineering earn between $143,800 -$215,800",
+            "Individual starting salary within this range may depend on geography, experience, expertise, and education/training",
+            "Joining our team comes with amazing perks and benefits:",
+            "Medical/Dental/Vision coverage",
+            "401(k) plan",
+            "Tuition reimbursement program",
+            "Paid Time Off and Holidays (based on date of hire, at least 23 days of vacation each year and 9 company-designated holidays)",
+            "Paid Parental Leave",
+            "Paid Caregiver Leave",
+            "Additional sick leave beyond what state and local law require may be available but is unprotected",
+            "Adoption Reimbursement",
+            "Disability Benefits (short term and long term)",
+            "Life and Accidental Death Insurance",
+            "Supplemental benefit programs: critical illness/accident hospital indemnity/group legal",
+            "Employee Assistance Programs (EAP)",
+            "Extensive employee wellness programs",
+            "Employee discounts up to 50% off on eligible AT&T mobility plans and accessories, AT&T internet (and fiber where available) and AT&T phone"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.att.com/",
+          "text": "att.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=AT%26T&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIsgo",
+          "text": "See web results for AT&T"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRamWLm0iPemZmJ2uHP_sm4zqRuUDMR1QvLDnUNw&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyaW5nIiwiaHRpZG9jaWQiOiJzRVBXMEY3eEJOYWNUbGVKQUFBQUFBPT0iLCJmYyI6IkVxSUNDdUlCUVU1MVYyaGpiVlJrZFU5S1RqVjROR2N0WjJ4VmNqRTRaakJETldKd1RXNUtkRGxEYlVSZlVIZFRUa05YYW5OTk9FRlFVRlZhTmxCRFkzRldWMkZ0Um1WdU5qbHlWWEpoVDNKV1VXd3llRmd6U0hoWVZtNXZZWGc0YkZJek1EZFFORFZZUjJwVVlWSXhORGhPV1dKd1J6QXpaa1ZxVjFKTFpYcHpiRkZVTjNwbmFUaEJSMWc1YURWeVYzSnBNWGxpYlcwME1FRXliemswWm01WVFubERZMHRqYVc5MmRUUm5aR3hXV1Vwek9IUjNPVUo1UlUxYU0yNWZRMHhEY1dKNVpURnFSVlU1ZURKTlpVOXFNMEYxTlZCYVpFcFRVVkZCUlZoTlVHRjNiMmN5WnhJWGNEVkxORnBrY1VGS1pHbHViWFJyVURSeUxTMHlRVWthSWtGUVdHaHROV0Z3T0ZZdGIzWlpNMHR2U1d4ZmRVMU9ObkpsY21kSE1uSXlhSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFUVCBKb2JzIiwibGluayI6Imh0dHBzOi8vd3d3LmF0dC5qb2JzL2pvYi9taWRkbGV0b3duL2xlYWQtc29mdHdhcmUtZW5naW5lZXJpbmcvMTE3LzYwNDYzNzQ0MzA0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Nuclear Simulator Software Engineer/Sr Nuclear Simulator Software...",
+      "company_name": "Dominion Energy",
+      "location": "  Waterford, CT   ",
+      "via": "via Dominion Energy Careers",
+      "description": "At Dominion Energy we love our jobs. That’s right. Love. Every day we go to work filled with passion to be excellent, to creatively problem solve and to innovate. These are exciting days for energy companies, and Dominion Energy aims to shape the future of energy in America. We are looking at all of our work with fresh eyes, retooling everything we do, in every part of the company, to operate... more sustainably and to deliver energy more reliably than ever. We are looking for interesting, independent thinkers and doers who can help shape the culture of a forward-looking company that’s proud of its rich legacy. Are you a change agent? Do you think differently? Do you want to fall in love with your job? If you answered “yes,” then read on!\n\nTo learn more about Dominion Energy’s workplace culture, sustainability efforts, and commitment to DE&I, please see our Sustainability & Corporate Responsibility Report and Diversity, Equity & Inclusion Report.\n\nAt this time, Dominion Energy cannot transfer nor sponsor a work visa for this position.\n\nRelocation assistance is negotiable for the selected candidate.\n\nJob Summary\n\nNuclear Simulator Software Engineer\n\nUnder general supervision, coordinates and performs software and hardware work on the simulator to provide simulator fidelity in support of nuclear training programs and NRC simulator acceptance.Designs, tests and implements code for new software/hardware installation. Repairs simulator deficiencies and improves the simulator performance as needed. Works with the neutronics and thermo hydraulics software as well as the modeling software of the plant systems. Acts as the code and system administrator for simulator software. Interface with plant engineering on design change needs, plant computer systems issues and schedule of maintenance and upgrades. Implements and maintains structured software design and develop process which includes software configuration, model verification, validation testing, technical procedures and software documentation. Interfaces with company and vendor engineering staff to obtain necessary design data for simulator models. Acts as training contact for simulator software issues, modifications and maintenance.\n\nSr. Nuclear Simulator Software Engineer\n\nThis role is fully competent at a very high technical level, working independently. Incumbents at this level perform difficult and complex work requiring thorough knowledge and experience within the nuclear simulator. Responsible for all programming and associated hardware connectivity to ensure 100% alignment and fidelity of the training simulator with the actual station simulator, and to ensure NRC simulator acceptance.Designs, tests and implements code for new software installation. Repairs simulator deficiencies and improves the simulator performance as needed. Responsible for the neutronics and thermo hydraulics software, as well as the modeling software of the plant systems. Serves as the code and system administrator for simulator software. Interface and provide consultation/guidance to plant engineering on design change needs, plant computer systems issues and schedule of maintenance and upgrades. Implements and maintains structured software design and develop processes which includes software configuration, model verification, validation testing, technical procedures and software documentation. Serves as the subject matter expert for company and vendor engineering staff to obtain necessary design data for simulator models. Serves as point of contact for simulator software issues, modifications and maintenance. Responsible for providing technical expertise and instruction to lower level position. The impact of errors will result in significant costs and have major impact to station operations.\n\nRequired Knowledge, Skills, Abilities & Experience\n\nThe knowledge, skills, abilities and experience required for entry into this job include the following:\n\nNuclear Simulator Software Engineer\n• 5-10 years experience in Engineering or IT knowledge of plant systems, design and operation\n• Knowledge of computer systems hardware/software, client/server architecture\n• Knowledge of Windows based operating systems, Sun Solaris and HP VMS\n• Knowledge of computer programming languages, Fortran, C++,\n• Basic and other programming languages in a real-time simulation environment.\n• Knowledge of the simulator executive and software architecture.\n• Knowledge of computer interfaces, I/O, network and serial communications\n• Knowledge of stimulation, emulation and hybrid technologies in simulation\n• Ability to read/write and interpret protocols to interface new simulator design changes\n• Knowledge of analog/digital electronics, components, design, fabrication, assembly, maintenance, repairs, testing and troubleshooting problems to solution\n• Knowledge of embedded software used in microprocessor based equipment.\n• Ability to analyze and apply logical processes and knowledge to perform integrated system troubleshooting\n• Ability to setup and configure computer equipment, use test equipment, install, remove electronic components, terminate connections, solder cable and components, cut and fabricate assemblies, modify control boards\n• Knowledge of power system operations, plant computer systems and instrumentation.\n• Knowledge and maintenance of electrical equipment, UPS and power supplies\n• Strong oral, written and interpersonal communications skills, and team player\n\nSr. Nuclear Simulator Software Engineer\n• Extensive experience (minimum 10 years) required in Engineering or IT knowledge of plant systems, design and operation.\n• In depth knowledge of computer systems hardware/software, client/server architecture.\n• In depth knowledge of Windows based operating systems, Sun Solaris and HP VMS.\n• In depth knowledge of computer programming languages, Fortran, C++,\n• Basic and other programming languages in a real-time simulation environment.\n• In depth knowledge of the simulator executive and software architecture.\n• In depth knowledge of computer interfaces, I/O, network and serial communications.\n• In depth knowledge of stimulation, emulation and hybrid technologies in simulation.\n• Ability to read/write and interpret protocols to interface new simulator design changes.\n• In depth knowledge of analog/digital electronics, components, design, fabrication, assembly, maintenance, repairs, testing and troubleshooting problems to solution.\n• In depth knowledge of embedded software used in microprocessor based equipment.\n• Ability to analyze and apply logical processes and knowledge to perform integrated system troubleshooting.\n• Ability to setup and configure computer equipment, use test equipment, install, remove electronic components, terminate connections, solder cable and components, cut and fabricate assemblies, modify control boards.\n• In depth knowledge of power system operations, plant computer systems and instrumentation.\n• In depth knowledge and maintenance of electrical equipment, UPS and power supplies In depth knowledge of simulator NRC requirements and industry standard ANS 3.5.Strong oral, written and interpersonal communications skills, and team player.\n\nEducation Requirements\n\nDegree or an equivalent combination of education and demonstrated related experience may be accepted in lieu of preferred level of education:\n\nBachelor\n\nMaster\n\nPreferred Discipline(s): Computer Engineering, Engineering Chemistry, Engineering Technology, Engineering/Electrical, Engineering/Mechanical, Engineering/Nuclear\n\nOther disciplines may be substituted for the preferred discipline(s) listed above.\n\nLicenses, Certifications, or Quals Description\n\nPreferred:SRO License - Unspecified,SRO Certificate - Unspecified\n\nWorking Conditions\n\nOffice Work Environment 76 -100%\nTravel Up to 25%\n\nOther Working Conditions\n\nWorks in industrial power plant environment and requires maintaining unescorted plant access qualification.\n\nTest Description\n\nNo Testing Required\n\nExport Control\n\nCertain positions at Dominion Energy may involve access to information and technology subject to export controls under U.S. law. Compliance with these export controls may result in Dominion Energy limiting its consideration of certain applicants.\n\nOther Information\n\nWe offer excellent plans and programs for employees. Employees are rewarded with a competitive salary and comprehensive benefits package which may include: health benefits with coverage for families and domestic partners, vacation, retirement plans, paid holidays, tuition reimbursement, and much more. To learn more about our benefits, click here dombenefits.com.\n\nDominion Energy is an equal opportunity employer and is committed to a diverse workforce. Qualified applicants will receive consideration for employment without regard to their protected veteran or disabled status.\n\nYou can experience the excitement of our company – it's the difference between taking a job and starting a career",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Basic and other programming languages in a real-time simulation environment",
+            "Ability to analyze and apply logical processes and knowledge to perform integrated system troubleshooting",
+            "Ability to setup and configure computer equipment, use test equipment, install, remove electronic components, terminate connections, solder cable and components, cut and fabricate assemblies, modify control boards",
+            "Extensive experience (minimum 10 years) required in Engineering or IT knowledge of plant systems, design and operation",
+            "In depth knowledge of computer systems hardware/software, client/server architecture",
+            "In depth knowledge of Windows based operating systems, Sun Solaris and HP VMS",
+            "In depth knowledge of computer programming languages, Fortran, C++,",
+            "In depth knowledge of the simulator executive and software architecture",
+            "In depth knowledge of computer interfaces, I/O, network and serial communications",
+            "In depth knowledge of stimulation, emulation and hybrid technologies in simulation",
+            "In depth knowledge of analog/digital electronics, components, design, fabrication, assembly, maintenance, repairs, testing and troubleshooting problems to solution",
+            "In depth knowledge of embedded software used in microprocessor based equipment",
+            "In depth knowledge of power system operations, plant computer systems and instrumentation",
+            "In depth knowledge and maintenance of electrical equipment, UPS and power supplies In depth knowledge of simulator NRC requirements and industry standard ANS 3.5.Strong oral, written and interpersonal communications skills, and team player",
+            "Licenses, Certifications, or Quals Description",
+            "Works in industrial power plant environment and requires maintaining unescorted plant access qualification",
+            "No Testing Required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Under general supervision, coordinates and performs software and hardware work on the simulator to provide simulator fidelity in support of nuclear training programs and NRC simulator acceptance.Designs, tests and implements code for new software/hardware installation",
+            "Repairs simulator deficiencies and improves the simulator performance as needed",
+            "Works with the neutronics and thermo hydraulics software as well as the modeling software of the plant systems",
+            "Acts as the code and system administrator for simulator software",
+            "Implements and maintains structured software design and develop process which includes software configuration, model verification, validation testing, technical procedures and software documentation",
+            "Acts as training contact for simulator software issues, modifications and maintenance",
+            "Responsible for all programming and associated hardware connectivity to ensure 100% alignment and fidelity of the training simulator with the actual station simulator, and to ensure NRC simulator acceptance.Designs, tests and implements code for new software installation",
+            "Interface and provide consultation/guidance to plant engineering on design change needs, plant computer systems issues and schedule of maintenance and upgrades",
+            "Serves as the subject matter expert for company and vendor engineering staff to obtain necessary design data for simulator models",
+            "Serves as point of contact for simulator software issues, modifications and maintenance",
+            "Responsible for providing technical expertise and instruction to lower level position",
+            "The impact of errors will result in significant costs and have major impact to station operations"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Employees are rewarded with a competitive salary and comprehensive benefits package which may include: health benefits with coverage for families and domestic partners, vacation, retirement plans, paid holidays, tuition reimbursement, and much more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.dominionenergy.com/",
+          "text": "dominionenergy.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Dominion+Energy&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIiQs",
+          "text": "See web results for Dominion Energy"
+        }
+      ],
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJOdWNsZWFyIFNpbXVsYXRvciBTb2Z0d2FyZSBFbmdpbmVlci9TciBOdWNsZWFyIFNpbXVsYXRvciBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiQUY0LThnbGM5YktNSEVlbkFBQUFBQT09IiwiZmMiOiJFdmNDQ3JjQ1FVNTFWMmhqYm05Qk5IZFhkR2RGVVU5TVQyOUllVGR0TW1WM1V6WlpPV2xFV2xsb1ZsbGtjakJoVVRRM01rMDFUR3RYVlhsWWRsRmFja2hXYlhBeE9EQnBUamwyVEUwemFtZEZSbGROU0U1NGFWUklaRWRvVkZVMlZHWktiMk4yUlMxNVlreDZVR1oyUTBRd1ZtNUhlRVp6UTNoTVQxSk1aRmhIU1VSb016QkphbkZrWmpKSldYcFZOWGh4Y1dKNFoySk9jRzFvTVhwVWNTMTVSMVYwVkVScGJsOVZSRWRXTWxWR2JqaExlRGhCUmt0eVdqaFNWVjgxWWtZd2VFZHBlVFE0TUVwa2RtVTFNMHBFYVZKWVVrYzJSMmN6TW05aVVHbExWMnQ0ZUdoUVRscEpTREpwVG5WUFlrUTJWazFWTmtnMFJWY3RlbXhSVmtKdVYwSnplak5FV2xGa00ySk1jRzVDTmtZM1ptTmZNbUpXWTBGT09WQTBTWGRPYTBKblMxZHZla2hoY1ZsUFVHUkVkVFZ3UWxkWGNVdzVYMWtTRjNBMVN6UmFaSEZCU21ScGJtMTBhMUEwY2kwdE1rRkpHaUpCVUZob2JUVmFWR3BNYldwTkxUaDNOV2MzU0VVMFJsTTVWMWgzV0VWZmMyeG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIERvbWluaW9uIEVuZXJneSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5kb21pbmlvbmVuZXJneS5jb20vam9iL1dBVEVSRk9SRC1OdWNsZWFyLVNpbXVsYXRvci1Tb2Z0d2FyZS1FbmdpbmVlclNyLU51Y2xlYXItU2ltdWxhdG9yLVNvZnR3YXJlLUVuZ2luZWVyLUNULTYzODUvMTA4NzkyMzQwMC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Ops Generative AI Software Engineer",
+      "company_name": "Citi",
+      "location": "  New York, NY   ",
+      "via": "via Jobs And Careers At Citi",
+      "description": "Are you looking for career move that will allow to take a strategic project zero to one? Then bring your experience in software engineering to Citi and seize the opportunity to explore AI and LLMs and their real-world applications at scale to improve productivity and drive operational efficiencies.\n\nWe are seeking an innovative Full Stack Engineering Lead to join the Operations Engineering and... Architecture group. This dedicated team is focused on driving Operations technology target state and delivering tangible reductions in process friction, errors, and manual effort. In this role you will be responsible for driving and contributing to the technical direction of our products and services, instilling engineering best practices into the team, and promoting cultural change across the organization. You will also work with Generative AI technologies, such as GPT-4, embedding their capabilities through prompt engineering in our systems.\n\nWe are solely focused on the most modern technology and engineering disciplines such as generative AI, cloud, security, modern app stacks (with Golang, Gatekeeper), open source and the latest in the Kubernetes ecosystem.\n\nYou will be joining us right at the beginning of our journey. We are seeking experienced software engineers who thrive in a results-driven environment, passionate about AI and LLM and who (just like us!) love programming.\n\nWhat you’ll do:\n• Contribute to both, engineering and research\n• Take a product-focused approach and build solutions that are robust, scalable, and easy to use\n• Work in a fast-paced environment tackling cutting-edge problems by constantly testing and learning\n• Pair programming for our products, be lean in your approach and remove bureaucracy where you see it\n• Deliver fast, iterating and pivot as you go, rather than defining the perfect solution upfront\n• Develop foundational components and mature technology capabilities in AI and LLMs\n• Drive adoption across the enterprise\n\nWhat we’ll need from you:\n• Deep hands on knowledge of Kubernetes, developing backend platforms and engineering solutions that scale\n• Fluency in at least two programming language, with preference for Python, Javascript/Typescript, Golang\n• Experience designing control and sandboxing systems for AI research\n• Pytorch, TensorFlow experience\n• Experience maintaining and/or contributing to bug bounty and responsible disclosure programs\n• Understanding of language models and transformers\n• Rich understanding of vector stores and search algorithms\n• Large-scale ETL development\n• Direct engineering experience of high performance, large-scale AI/ML systems\n• Have experience supporting fast-paced startup engineering teams\n• Have used LangChain and even contributed to the project.\n• As Generative AI is a relatively new and growing space, as a result, we ask that you share with us a specific AI engineering projects on LLMs that you’re proud of in your application. Ideally these projects should show off complex and clever architectures or a systematic evaluation of an LLM’s behavior.\n\n-------------------------------------------------\n\nJob Family Group:\nTechnology\n\n-------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nNew York New York United States\n\n------------------------------------------------------\n\nPrimary Location Salary Range:\n$142,320.00 - $213,480.00\n\n------------------------------------------------------\n\nCiti is an equal opportunity and affirmative action employer.\n\nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nCitigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView the \"EEO is the Law\" poster. View the EEO is the Law Supplement.\n\nView the EEO Policy Statement.\n\nView the Pay Transparency Posting",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep hands on knowledge of Kubernetes, developing backend platforms and engineering solutions that scale",
+            "Fluency in at least two programming language, with preference for Python, Javascript/Typescript, Golang",
+            "Experience designing control and sandboxing systems for AI research",
+            "Pytorch, TensorFlow experience",
+            "Experience maintaining and/or contributing to bug bounty and responsible disclosure programs",
+            "Understanding of language models and transformers",
+            "Rich understanding of vector stores and search algorithms",
+            "Large-scale ETL development",
+            "Direct engineering experience of high performance, large-scale AI/ML systems",
+            "Have experience supporting fast-paced startup engineering teams",
+            "Have used LangChain and even contributed to the project",
+            "As Generative AI is a relatively new and growing space, as a result, we ask that you share with us a specific AI engineering projects on LLMs that you’re proud of in your application"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role you will be responsible for driving and contributing to the technical direction of our products and services, instilling engineering best practices into the team, and promoting cultural change across the organization",
+            "Contribute to both, engineering and research",
+            "Take a product-focused approach and build solutions that are robust, scalable, and easy to use",
+            "Work in a fast-paced environment tackling cutting-edge problems by constantly testing and learning",
+            "Pair programming for our products, be lean in your approach and remove bureaucracy where you see it",
+            "Deliver fast, iterating and pivot as you go, rather than defining the perfect solution upfront",
+            "Develop foundational components and mature technology capabilities in AI and LLMs",
+            "Drive adoption across the enterprise"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.citi.com/",
+          "text": "citi.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Citi&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAII4As",
+          "text": "See web results for Citi"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrANtAyu2iQdARnP3jlZuUPysiwUO4v8cOXqq8oBA&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJPcHMgR2VuZXJhdGl2ZSBBSSBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiRGR6Y014bWFXeGtFajVKUEFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYkdJM01WaDNhVWhqVEMxbVVrMDJlRXhXWjJscWJIQTFWVTlMVjBrd01tZFFZMkZ2VWtWTGJrWlliMXB0Tmw5UExWZzNSVzQzYVdad2QxUXlhbWxqVTNwbmExZExObU52WVdsbE9HMW1SMmxaT0ZoUlFVeGlTazlKZVdWa01USktXSE5qUjE5b2QwOXlkMlJYUW5SbVdTMUZUbXBWWWw4MVNIa3pRblpCTkcxVFUxTTBlVlJuWjFaeGVrRnhVRFZxVGs0dE4yaDRibHBoVEhoMk5GTnpSelZPVTBVNFdqSjBVMFozWXpObVdVcEdUREp1U25GcWRtbHhPRWhUWlhsMFJsbENkekpuYWtWekxWbEhhblJoYWtkV2RXRXdkMFJ6Tmt4QlFSSVhjRFZMTkZwa2NVRktaR2x1YlhSclVEUnlMUzB5UVVrYUlrRlFXR2h0TldGd1JGazVPVWRyUW5FNE5HOVBlVkZ3TWxkM1F6aEpSMGhFWlZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JzIEFuZCBDYXJlZXJzIEF0IENpdGkiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmNpdGkuY29tL2pvYi9uZXcteW9yay9vcHMtZ2VuZXJhdGl2ZS1haS1zb2Z0d2FyZS1lbmdpbmVlci8yODcvNTc5MTUyMjk2NjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer, Full Stack",
+      "company_name": "Stable",
+      "location": " Anywhere ",
+      "via": "via Y Combinator",
+      "description": "👩‍💻👨‍💻 Role\n\nOver 3,000 businesses use Stable — they are supported by our small (but growing) engineering team. We have no product managers and one designer. We’re proud of this, and expect every software engineer to get to know our customers and stakeholders deeply because we believe that’s the best way to build tools to help them...\n\nOur business is scaling, and we’re tackling difficult problems because of it — from APIs, to internal tools, to customer facing web applications, the infrastructure you build here will empower our growing customer base, team, partners, and consumers.\n\nStable is simplifying outdated and convoluted regulatory frameworks with software. As an engineer on our team, you’ll create elegant abstractions over archaic foundations so that consumers of this infrastructure can unlock solutions never before possible.\n\nYour day-to-day work will directly influence how customers and partners interact with our products. Here are a few examples of the types of projects you’ll work on:\n• Stable Dashboard –– A modern web application for customers to view and take action on their mail, find meaningful business information, and more. From founders to ops teams to HR, our users log in to Stable daily to handle critical business operations.\n• Mail Operations –– Build the internal web applications and integrate with the hardware at the nexus of our physical and digital mail operations. These tools power workflows like physical mail ingestion, fulfillment of operational requests, warehouse inventorying, and more.\n• Core Infrastructure –– Architect, implement, and scale the underlying infrastructure that powers our products and physical logistics.\n• Stable API –– A public API that allows consumers to utilize the software abstractions we’ve put over our physical operations for use cases in industries like fintech, healthcare, and more.\n\nThis role is ideal for engineers invigorated by solving difficult problems and by building software with a large impact. You’ll be one of the first engineers at an early-stage startup, and should be excited to apply your analytical, hacker-first, mindset towards problems of all types.\n‍\n\n😀 Who you are\n• Driven by impact: You consistently see the possibility in what could be. The idea that you can make the future better than the present is exciting — and you want to be surrounded by others that share this ambition.\n• Learn by doing: You are motivated by results — you collect the information you need to understand which problems are most important to solve first. When challenges arise, you believe the best way to solve them is by tackling them head on.\n• Form deep relationships: You can easily put yourself in others’ shoes and enjoy understanding varying perspectives. You’ve found a result of this tendency are relationships you care about deeply.\n‍\n\n✅ What You'll Do\n• Obsess over the customer to build pragmatic and effective solutions to their problems\n• Architect and implement core infrastructure as we scale with growing customer and product demand\n• Improve engineering best practices for code deployment, review, and development\n• Pull from previous engineering experiences to creatively solve real world logistics problems using software\n• Lead product and feature implementation while balancing customer, team member, and stakeholder requirements with engineering team priorities\n• Technologies we use: React, Typescript, Node, GraphQL, MySQL, and AWS (if you think a new technology can solve an engineering problem, we’re all ears)\n\n🎁 What we offer\n• Competitive salary and generous equity 🚀\n• Unlimited paid time off 🏖\n• Medical, dental, and vision insurance 🏥\n• Home office set-up 🖥\n• Work from anywhere within continental US time zones (PT, MT, CT, or ET) 💻\n• Opportunities to shape the future of Stable and grow into leadership roles 💌",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Driven by impact: You consistently see the possibility in what could be",
+            "When challenges arise, you believe the best way to solve them is by tackling them head on"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your day-to-day work will directly influence how customers and partners interact with our products",
+            "Stable Dashboard –– A modern web application for customers to view and take action on their mail, find meaningful business information, and more",
+            "From founders to ops teams to HR, our users log in to Stable daily to handle critical business operations",
+            "Mail Operations –– Build the internal web applications and integrate with the hardware at the nexus of our physical and digital mail operations",
+            "These tools power workflows like physical mail ingestion, fulfillment of operational requests, warehouse inventorying, and more",
+            "Core Infrastructure –– Architect, implement, and scale the underlying infrastructure that powers our products and physical logistics",
+            "Stable API –– A public API that allows consumers to utilize the software abstractions we’ve put over our physical operations for use cases in industries like fintech, healthcare, and more",
+            "Obsess over the customer to build pragmatic and effective solutions to their problems",
+            "Architect and implement core infrastructure as we scale with growing customer and product demand",
+            "Improve engineering best practices for code deployment, review, and development"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive salary and generous equity 🚀",
+            "Unlimited paid time off 🏖",
+            "Medical, dental, and vision insurance 🏥",
+            "Home office set-up 🖥",
+            "Opportunities to shape the future of Stable and grow into leadership roles 💌"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Stable&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIrQw",
+          "text": "See web results for Stable"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XJwvMozSEqIM_eXCHgP1DUUFyAGoYnifP0CW2UQ&s",
+      "extensions": [
+        "120K–200K a year",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "120K–200K a year",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRnVsbCBTdGFjayIsImh0aWRvY2lkIjoiWTktWWRNVWhuMTNROTF6c0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYmkxTlYwMHlkamRCWjI1Qk0xSmFTWE5OU0dZelYxcDJWM1o0T1dWNFZsaFdSMnM0YkhCa1NERldMUzFCV25CUFUwOXhMVmhFYTFSVVIycExRVFJzTURGS2RHeFJSRUpxYlZCaVZ6Vm1jR3hLVjFoRVNHaGZkSFpJWlU1YVRVTk5hVzlRZVRWdWRVeDNkVEpqUVRSaldWaDJabmR4WVZVNFJHRnJRMDlyWjBWa09YbFZWRWxpU1drd2RXOXhUR2x1YjJOMFIzSmxjMWwxY1VOdWFEZEJkMHRpU1hOemJreEpSamg2UlZSeGVESmxXbk5UY2xwdGJHZEJPVUpNU1VWak1uZHRiemxIYkhnMGEwRmZkRVo1UWtjME9FNHpPR2t6TTNjdFp4SVhjRFZMTkZwa2NVRktaR2x1YlhSclVEUnlMUzB5UVVrYUlrRlFXR2h0TldGZk0xSmhSblJ1VlRGVGJHWmlhVGRFUzNoVmVtbG9SbGxZV0djIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBZIENvbWJpbmF0b3IiLCJsaW5rIjoiaHR0cHM6Ly93d3cueWNvbWJpbmF0b3IuY29tL2NvbXBhbmllcy9zdGFibGUvam9icy9yQUM0WUtybTEtc29mdHdhcmUtZW5naW5lZXItZnVsbC1zdGFjaz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer, 340B",
+      "company_name": "Berkeley Research Group",
+      "location": "  New York, NY   ",
+      "via": "via Berkeley Research Group Careers",
+      "description": "Description\n\nBRGʼs 340B team is one of the Healthcare Analytics practice's largest and fastest-growing groups! The 340B team supports and advises pharmaceutical manufacturers on navigating the challenges and complexities of the 340B program, a government drug purchasing program. Our group is the established market leader in data and technology solutions related to the most pressing 340B-related... issues for an impressive client base, including the largest pharmaceutical manufacturers in the US. Beyond our syndicated solutions, we also integrate and synthesize data to deliver unparalleled analytics and insights into various aspects of the 340B program.\n\nOur 340B group is currently looking to expand our talented and dynamic product and development team. We are currently seeking front-end and full-stack Software Engineers and Senior Software Engineers who are passionate about solving challenging problems! Our software engineers take part in creating some of the most innovative software solutions in the dynamic and fascinating field of healthcare analytics. The 340B program is an exciting and vibrant space to be in right now, so come join us!\n\nJob title and compensation to be determined based on qualifications and experience. \n\nResponsibilities:\n• With your technical expertise you will manage project priorities, deadlines, and deliverables.\n• You will design, develop, test, deploy, maintain, and enhance software solutions.\n• Write product or system development code.\n• Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.\n• Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).\n• Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.\n• Work in an environment that supports your individual growth.\n• Collaborate closely with other engineers and become a valued member of an autonomous, impactful, cross-functional team.\n\nTechnical Skill Set:\n• 5+ years of software development experience in one or more of the following programming languages: React, TypeScript, JavaScript, Ruby, Ruby on Rails, and/or Go/Golang.\n• Experience with Agile SDLC methodology, Jira, GitHub, Git (git-flow, merge, rebase, squashing, branch management) and working in a CI/CD environment.\n• Experience with one or more of the following: Kubernetes, MongoDB, Docker, and/or Microsoft Azure is a plus.\n\nRequirements:\n• 5+ years of solid software development experience; A minimum of 8-10+ years is required for the Senior level position. Job title to be determined based on relevant qualifications and experience. \n• Bachelor’s degree in Computer Science, Information Technology or a related field.\n• Strong problem-solving and analytical skills, with the ability to make quick decisions in a fast-paced environment with complete ownership.\n• Experience with code quality, continuous delivery, and automated testing.\n• Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working.\n• Experience building scalable, user-friendly web applications.\n\nSalary Range: $100,000 - $230,000 per year\n\nCandidate must be able to submit verification of their legal right to work in the U.S., without company sponsorship.\n\n#LI-JQ1 | #LI-REMOTE",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of software development experience in one or more of the following programming languages: React, TypeScript, JavaScript, Ruby, Ruby on Rails, and/or Go/Golang",
+            "Experience with Agile SDLC methodology, Jira, GitHub, Git (git-flow, merge, rebase, squashing, branch management) and working in a CI/CD environment",
+            "5+ years of solid software development experience; A minimum of 8-10+ years is required for the Senior level position",
+            "Job title to be determined based on relevant qualifications and experience.",
+            "Bachelor’s degree in Computer Science, Information Technology or a related field",
+            "Strong problem-solving and analytical skills, with the ability to make quick decisions in a fast-paced environment with complete ownership",
+            "Experience with code quality, continuous delivery, and automated testing",
+            "Comfortable working in an agile environment and challenging yourself and your team to improve their ways of working",
+            "Experience building scalable, user-friendly web applications",
+            "Candidate must be able to submit verification of their legal right to work in the U.S., without company sponsorship"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "With your technical expertise you will manage project priorities, deadlines, and deliverables",
+            "You will design, develop, test, deploy, maintain, and enhance software solutions",
+            "Write product or system development code",
+            "Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies",
+            "Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)",
+            "Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback",
+            "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality",
+            "Work in an environment that supports your individual growth",
+            "Collaborate closely with other engineers and become a valued member of an autonomous, impactful, cross-functional team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary Range: $100,000 - $230,000 per year"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.thinkbrg.com/",
+          "text": "thinkbrg.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Berkeley+Research+Group&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIgQ0",
+          "text": "See web results for Berkeley Research Group"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW8SGjpGP6OMJlZW6J9oQxroNSo17bZiQZlnm&s=0",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgMzQwQiIsImh0aWRvY2lkIjoiczBmV1N6cnlneHBKZk4zOEFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYkZOYU1FdFBPVkZsVlhWVGIzZElTV05PZEVWV1kxcDFXak5IVVd4cmFrWnJVbGhhYTJKbU1YUlZUa05uYzBKaldqWmxRVXQzY21GdmRFZEVaems1VTJSUWJtMUdja1pDZWkxcFNGZG9TMHR3ZFVRMmNVZHNkRUZ4Tm1wTU1teG5jMWhWUVZSNlRqTTRORTh0UkRWbk5tTnZjR3hYY2xkYVdqTmtTRkpyYlZsMmVWbEZWR1ptYmxoWExXNXVjMjlsVW1FeVJVYzBhMkptUVV0YUxUWjVUVEJRTFZwSGRuWldRVFV0V0VKblkwaE1NVXRYYmxZME4ydFRkMlJCYzFaT2FFc3dlRFJITTA1VU9HUjZjRUZMUm1wRE0yaGlZbHBPTVVGc1YwczJhR0ZsYjNVMVRGZHpkMVIxWjBwNVRteHFOQklYY0RWTE5GcGtjVUZLWkdsdWJYUnJVRFJ5TFMweVFVa2FJa0ZRV0dodE5WbGpXWGhDWW1neFRVSkxlVjk0UTFoeExWOVdPVll4U0cxWlJXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJlcmtlbGV5IFJlc2VhcmNoIEdyb3VwIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnRoaW5rYnJnLmNvbS9qb2JzLzEzMjc4NjUyLXNvZnR3YXJlLWVuZ2luZWVyLTM0MGI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer (Backend)",
+      "company_name": "Brigit",
+      "location": "  New York, NY   ",
+      "via": "via Jobs",
+      "description": "Hi, we're Brigit! A holistic financial health company helping every American build a brighter financial future. With a business model that is aligned with our customers, we create transparent, fair, and simple financial products that put money back in the hands of our members, help them spend wisely, avoid unfair fees and build their credit quickly. If autonomy, ownership, and having meaningful... input at the company you work for is important to you, come join our growing team!\n\nBrigit is doing innovative and exciting work, but don’t just take our word for it, our work is being recognized by others:\n• Built In’s 2023 & 2024 Best Startups to Work For In New York City\n• Built In’s 2024 Best Startups to Work For In the U.S.\n• Fast Company’s Most Innovative Companies of 2022\n• Forbes Fintech 50 2022\n• Business Insider’s Most Promising Consumer Startups 2022\n\nBrigit is looking for a Backend Software Engineer to help us scale our next-gen consumer finance platform to millions of users in the next year. Our product has tremendous traction helping low income Americans make ends meet and now is the time to scale. We’ve built a stack of Java microservices in Google Cloud which has served us well thus far, but we need help in making it even better.\n\nOur team has two main goals:\n\n1) Payments: Build upon and support the payment rails used by feature teams within the org, ensuring payment reliability, speed, tracing, and reconciliation.\n\n2) Banking: Scale the underlying bank connectivity used for underwriting by millions of users.\n\nOur team is small and nimble; you'll get an extraordinary amount of autonomy and ownership. More importantly, you have a large say in the direction of the company -- both in terms of our technology and our product. Recent accomplishments of our team are:\n• Building a Payments API platform that moves millions of dollars on a daily basis\n• Implementing the advanced mathematical processes behind our proprietary risk algorithm\n• Normalizing relational database schema to optimize for performance for over 1 million users.\n• End to end User notification (via SMS, Email, Push) capabilities\n• Building internal tools that enable our Customer Support Specialists to help our customers ASAP\n\nOne of our greatest strengths is the speed with which we can move. If you want to propose a new way of doing things, we are all ears. If you have an idea for a new feature, we'll be open to it. A new design paradigm? Bring it on.\n\nAt Brigit you can enjoy a mature CICD platform with automated deployment processes, an easy-to-use local/staging/production development environment, and teammates willing to fill in the gaps. We automate manual things so we can focus on thinking and building something that helps people.\n\nThis is a full-time role which will operate out of Brigit’s New York office, with the option to work remotely for 3 days a week.\n\nWhat You Have\n• 5+ years of industry Java experience\n• Experience in the US financial tech space, such ACH and Card money movement\n• Experience with bank aggregators such as Plaid a plus\n• REST based services and API development experience\n• Kubernetes, Docker or other container system experience is a plus\n• Google Cloud Platform experience is a plus\n• You are a self-starter, self-motivated, are able to work independently and manage multiple projects under minimal supervision\n• Experienced with SQL (particularly Postgres), designing and migrating schemas, and writing analytical queries\n\nWhat You'll Be Doing\n• Reinventing the APIs supporting User flows to ensure a great user experience\n• Supporting engineers in other pods that utilize our banking / payments rails\n• Optimizing queries and relational database schema to ensure speedy response times\n• Implementing algorithms related to monetary transaction evaluation, risk management, income verification, and other predictive models\n• Converting some of our existing services to the next level by being highly available\n• Integrating with new 3rd party APIs to serve millions of customers\n• Decreasing our customer service workload by building improvements to the product or improving our internal automations\n\nThe anticipated annual base salary for this position is $140,000 - $180,000. This range does not include any other compensation components or other benefits for which an individual may be eligible. The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.\n\nOur Benefits & Team\n• Medical, dental, and vision insurance\n• Equity participation\n• Flexible PTO Policy\n• 401k plan\n• Paid Parental Leave\n• Physical and mental wellbeing benefits including Gympass for access to virtual workouts and discounted gym memberships, and Headspace for covered virtual therapy sessions and unlimited on demand health support\n• Monthly reimbursements to use against wifi and cell phone bills\n• Annual reimbursement for Learning & Development\n• Help hard working Americans build a brighter financial future\n• High-growth company at an early stage\n• A dynamic, flexible and collaborative start-up work environment with a highly talented team\n\nBrigit is committed to providing equal employment opportunities for all applicants and employees without regard to race, religion, color, sex, pregnancy (including breast feeding and related medical conditions), national origin, citizenship status, uniform service member status, age, genetic information, disability, or any other protected status in accordance with all applicable federal, state and local laws. We are proud to be an equal opportunity workplace",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of industry Java experience",
+            "Experience in the US financial tech space, such ACH and Card money movement",
+            "REST based services and API development experience",
+            "You are a self-starter, self-motivated, are able to work independently and manage multiple projects under minimal supervision",
+            "Experienced with SQL (particularly Postgres), designing and migrating schemas, and writing analytical queries"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Reinventing the APIs supporting User flows to ensure a great user experience",
+            "Supporting engineers in other pods that utilize our banking / payments rails",
+            "Optimizing queries and relational database schema to ensure speedy response times",
+            "Implementing algorithms related to monetary transaction evaluation, risk management, income verification, and other predictive models",
+            "Converting some of our existing services to the next level by being highly available",
+            "Integrating with new 3rd party APIs to serve millions of customers",
+            "Decreasing our customer service workload by building improvements to the product or improving our internal automations"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The anticipated annual base salary for this position is $140,000 - $180,000",
+            "This range does not include any other compensation components or other benefits for which an individual may be eligible",
+            "The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job",
+            "Our Benefits & Team",
+            "Medical, dental, and vision insurance",
+            "Equity participation",
+            "Flexible PTO Policy",
+            "401k plan",
+            "Paid Parental Leave",
+            "Physical and mental wellbeing benefits including Gympass for access to virtual workouts and discounted gym memberships, and Headspace for covered virtual therapy sessions and unlimited on demand health support",
+            "Monthly reimbursements to use against wifi and cell phone bills",
+            "Annual reimbursement for Learning & Development",
+            "Help hard working Americans build a brighter financial future",
+            "High-growth company at an early stage"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Brigit&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAII0w0",
+          "text": "See web results for Brigit"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1unYxRCwV2hBteVrN2Mt7-9XsDiGeyKqPG-uRgI&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoQmFja2VuZCkiLCJodGlkb2NpZCI6IjJHbjFSbUpsNTNJOWRXQkxBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJVZEZjazkzTm5RM1JGOTBhM0Z4VVZWSWJGbHFUSFZmYkUxaGJGSnhaSEJyWDBoS2RrNU5ZMjVMUlRnM1NVMTNjbFJ0VWxVMmRraHpiRkE1ZEhsMFlsSkZjbVpqVGxwTmJYZG9RMjFHUlY5aFFYZG5UMTlpTTJGSFEybEhNVFp2UldGVE9IZERSMWRLYW1kVkxXRTBVMFpaUTFka1NEZEhWVVZTYkRKMWRFWmlSRjlUVEc5RFFtdG9Samx0U1haUlJIUTVMVGM1ZGpOTFozZ3hOa0ZtT0Uxd1lYVm1kbFpKVDE5UU0xQnhXSFZYTUcwMmNETjNaVjh3YkdSUk1sWXhkblJMV2xsYVJERjZYMFZuZFdWRFUyVnRiMWx4VFVvelJVY3dRUklYY0RWTE5GcGtjVUZLWkdsdWJYUnJVRFJ5TFMweVFVa2FJa0ZRV0dodE5WbDJjSEo2TWpkelFqVTRlVGQxUlU0MFRHNWtaRFZFU1VwQldGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29tL2JyaWdpdC9hMmRlYmRlYS1kMGMzLTQyMmUtYjE1My02NGVhMGVkNzVmZGE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer, Infrastructure",
+      "company_name": "Meta",
+      "location": "  New York, NY   ",
+      "via": "via LinkedIn",
+      "description": "Meta is seeking an experienced Software Engineer to join the Software Engineering (Infrastructure) team. The Software Engineering (Infrastructure) team builds large distributed components that run Facebook. Our code serves millions of requests per second and it does so with sub-second latency and in a fault tolerant manner. We handle everything from Facebook scale data storage, to synchronization... and coordination of large server clusters, to providing a runtime environment for front end Facebook code. We are looking for candidates who share a passion for tackling complexity and building platforms that can scale through multiple orders of magnitude.\n\nSoftware Engineer, Infrastructure Responsibilities:\n• Design core, backend software components\n• Code using primarily C/C++, Java, PHP and Hack\n• Interface with other teams to incorporate their innovations and vice versa\n• Conduct design and code reviews\n• Analyze and improve efficiency, scalability, and stability of various system resources\n\nMinimum Qualifications:\n• 2+ years of programming experience in either C, C++, Java, C# or other relevant coding languages\n• 2+ years relevant experience building large-scale infrastructure applications or similar experience\n• Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment\n• Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2+ years of programming experience in either C, C++, Java, C# or other relevant coding languages",
+            "2+ years relevant experience building large-scale infrastructure applications or similar experience",
+            "Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment",
+            "Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+            "Degree must be completed prior to joining Meta",
+            "Meta participates in the E-Verify program in certain locations, as required by law"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design core, backend software components",
+            "Interface with other teams to incorporate their innovations and vice versa",
+            "Conduct design and code reviews",
+            "Analyze and improve efficiency, scalability, and stability of various system resources"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.meta.com/",
+          "text": "meta.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Meta&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIpQ4",
+          "text": "See web results for Meta"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWd4ZbDsuXA2YQ7fwMam4nW4cokBZJJYHlWXaRfs&s",
+      "extensions": [
+        "117K–173K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "salary": "117K–173K a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgSW5mcmFzdHJ1Y3R1cmUiLCJodGlkb2NpZCI6IjlHU2tWa2k5bF9fMHR0bzVBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJWQlZialZ5VWpOdVVraFFkV3MwTFhSS01HSTRiRjlVUzNWc1kyUjBaMTlFV0Vab1RsVjZUSFJMT0ZWMFZIVjNWMnhEYm1NNU5tNUNjRWR1UTFaTFMzQlpVblpEZUZkMVUyOTRNSGw1U1VKUVZtbHBNV3A2WVhaMGFHeFJkMEpTUTBSVVVucFVkbFJ6V2twQ05FZE5XRXAwWVRONFdrOW5hUzFTV2s5aVRUTnNjRVppTmpWUFQyeFdSbFF5V0RSRFpuQjRPVzB5VkVoa1JIWjZNazl2Tm1kWlNISkxZVTU2ZFdKdFNUQkxSbGxZZEVoM1dYZFBlbWRmWjFaWlFtdDJSbTlWTUZWVFgybHplWGRyVWpOTGMxRTBORnB6V214b2FVSlpNelZsT1d4WVQwUXljMTlhUlRWTFRVTmxOelpEUVJJWGNEVkxORnBrY1VGS1pHbHViWFJyVURSeUxTMHlRVWthSWtGUVdHaHROV0pVZW1oSFVGcEtUVzB4UVd0Q2JFWlBRWFpzVFhScVVtMVZhMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3NvZnR3YXJlLWVuZ2luZWVyLWluZnJhc3RydWN0dXJlLWF0LW1ldGEtMzgxMTE5OTk5MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Software Engineer, Front End (Hybrid-Remote)",
+      "company_name": "Weill Cornell Medical College",
+      "location": "  New York, NY   ",
+      "via": "via Weill Cornell Medical College Jobs",
+      "description": "Title: Software Engineer, Front End (Hybrid-Remote)\n\nLocation: Upper East Side...\n\nOrg Unit: Olivier Elemento Lab\n\nWork Days:\n\nExemption Status: Exempt\n\nSalary Range: $99,800.00 - $110,900.00\n• As required under NYC Human Rights Law Int 1208-2018 - Salary range for this role when Hired for NYC Offices\n\nPosition Summary\n\nResponsible for designing, implementing, developing, and maintaining multi-user web-enabled database-driven applications for in-house clinical, research, educational, and administrative activities.\n\nJob Responsibilities\n• Collects functional design requirements and leads physical and logical database design.\n• Creates prototypes for client engagements.\n• Designs, codes, and tests secure, reliable technical solutions.\n• Troubleshoots reported issues, precisely identifies root causes, and implement solutions.\n• Effectively documents/comments the generated source code and APIs and compose clear and complete instructions for the users.\n• Maintains source code and assets using a version control system.\n• Assists in establishment and meeting of development deadlines and schedules; develops internal and external meeting objectives and agendas; elicits and documents constructive feedback.\n• Understands expectations that were set with client; recognize and communicate when issues/events may affect delivery.\n• Shares acquired skills with team members through formal and informal channels.\n\nEducation\n• Bachelor's Degree in related field\n\nExperience\n\nMust Have:\n• Proficiency with HTML, CSS, SaSS and JavaScript.\n• 3+ years of experience with Angular 2+.\n• Experience with at least one other front-end framework such as React or Vue.js.\n• Experience with RESTful APIs and web services.\n• Familiar with testing frameworks (Ex. Jasmine) and test runner frameworks (Ex. Karma).\n• Experience with version control systems such as Git and GitHub.\n• Ability to develop secure, reliable, scalable applications.\n• Experience with Responsive/Mobile Design using Material Design and/or Bootstrap.\n\nNice to Have:\n• Experience in JavaScript build tools such as npm, grunt or gulp.\n• Experience with TypeScript.\n• Experience in prototyping with tools such as Figma considered a plus.\n• Experience with cloud computing platforms such as Azure or AWS.\n• Experience with containerization and orchestration tools such as Docker and Kubernetes.\n• Experience with non-relational databases (NoSQL) such as MongoDB.\n• Knowledge of any OOP languages considered a plus.\n\nKnowledge, Skills and Abilities\n• Excellent communication skills (both verbal and written).\n• Demonstrated organizational skills and ability to pay close attention to detail.\n• Ability to manage multiple projects simultaneously and meet time line constraints/deadlines.\n• Ability to work independently and as part of a team, self motivated, adaptable, and possessing a positive attitude.\n• Understands the necessity of and adheres to coding standards.\n\nLicenses and Certifications\n\nWorking Conditions/Physical Demands\n\nWeill Cornell Medicine is a comprehensive academic medical center that is committed to excellence in patient care, scientific discovery, and the education of future physicians and scientists in New York City and around the world. Our doctors and scientists - faculty from Weill Cornell Medical College, Weill Cornell Graduate School of Medical Sciences, and the Weill Cornell Physician Organization - are engaged in world-class clinical care and cutting-edge research that connect patients to the latest treatment innovations and prevention strategies. Located in the heart of the Upper East Side's scientific corridor, Weill Cornell Medicine's powerful network of collaborators extends to its parent university Cornell University; to Qatar, where an international campus offers a U.S. medical degree; and to programs in Tanzania, Haiti, Brazil, Austria and Turkey. Our medical practices serve communities throughout New York City, and our faculty provide comprehensive care at NewYork-Presbyterian Hospital/Weill Cornell Medical Center, NewYork-Presbyterian/Lower Manhattan Hospital, NewYork-Presbyterian Hospital/Brooklyn Methodist Hospital, NewYork-Presbyterian Hospital/Westchester Behavioral Health Center, and NewYork-Presbyterian/Queens. At Weill Cornell Medicine, we work together to treat each individual, not just their conditions or illnesses, as we strive to deliver the finest possible care for our patients - the center of everything we do. Weill Cornell Medicine is an Equal Employment Opportunity Employer. Weill Cornell Medicine provides equal employment opportunities to all qualified applicants without regard to race, sex, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, or genetic information",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in related field",
+            "Proficiency with HTML, CSS, SaSS and JavaScript",
+            "3+ years of experience with Angular 2+",
+            "Experience with at least one other front-end framework such as React or Vue.js",
+            "Experience with RESTful APIs and web services",
+            "Familiar with testing frameworks (Ex",
+            "Jasmine) and test runner frameworks (Ex",
+            "Experience with version control systems such as Git and GitHub",
+            "Ability to develop secure, reliable, scalable applications",
+            "Experience with Responsive/Mobile Design using Material Design and/or Bootstrap",
+            "Experience in JavaScript build tools such as npm, grunt or gulp",
+            "Experience with TypeScript",
+            "Experience with cloud computing platforms such as Azure or AWS",
+            "Experience with containerization and orchestration tools such as Docker and Kubernetes",
+            "Experience with non-relational databases (NoSQL) such as MongoDB",
+            "Excellent communication skills (both verbal and written)",
+            "Demonstrated organizational skills and ability to pay close attention to detail",
+            "Ability to manage multiple projects simultaneously and meet time line constraints/deadlines",
+            "Ability to work independently and as part of a team, self motivated, adaptable, and possessing a positive attitude",
+            "Understands the necessity of and adheres to coding standards"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for designing, implementing, developing, and maintaining multi-user web-enabled database-driven applications for in-house clinical, research, educational, and administrative activities",
+            "Collects functional design requirements and leads physical and logical database design",
+            "Creates prototypes for client engagements",
+            "Designs, codes, and tests secure, reliable technical solutions",
+            "Troubleshoots reported issues, precisely identifies root causes, and implement solutions",
+            "Effectively documents/comments the generated source code and APIs and compose clear and complete instructions for the users",
+            "Maintains source code and assets using a version control system",
+            "Assists in establishment and meeting of development deadlines and schedules; develops internal and external meeting objectives and agendas; elicits and documents constructive feedback",
+            "Understands expectations that were set with client; recognize and communicate when issues/events may affect delivery",
+            "Shares acquired skills with team members through formal and informal channels"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary Range: $99,800.00 - $110,900.00",
+            "As required under NYC Human Rights Law Int 1208-2018 - Salary range for this role when Hired for NYC Offices"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://weill.cornell.edu/?utm_source=google&utm_medium=Yext&y_source=1_MzAzNzU2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "text": "weill.cornell.edu"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Weill+Cornell+Medical+College&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAII8g4",
+          "text": "See web results for Weill Cornell Medical College"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BU3Ew2LnkXraHwNc-C8xVio3bbNBu1om3d3M&s=0",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRnJvbnQgRW5kIChIeWJyaWQtUmVtb3RlKSIsImh0aWRvY2lkIjoia1BEc2tOYU53WjNTSVQzbEFBQUFBQT09IiwiZmMiOiJFdUlDQ3FJQ1FVNTFWMmhqYmtWeFltd3hZa2gzVW5ScVdUVnFabFp4TUdScFUweDFTWGRKY1hacFNITTFjbmxQYVRoR1pGUmlORTl4VTNWUlRXTTJRMFpoTmpOSFVrMWxUa0pvUW5VMlVVbHZURUkxVlY5dFoxOWZUVjlSVUZab1YwMUVlVGN0WkdWSlpXNWtOSHBSZG10NWNIQjNaRTF1Y1VsdmJVTTBOWE5uUldGT1oyaE5la3N5YUd0ZldFOTVaelZQVVV0Q1dqbEdRM0V6UVRoWU1GOXBZMWc1UXpOeWNsSjNZMlJyTUdoRFVUTTFkamQyVG5KRkxUVjVlV2xsTkhWclRsUlZkVlYzVDFsSk9VMHdPVEpJWkVwSk5uaDRUbkpYWW5wWVZqZFdSMHhUVWtvME1tMVhWVEZYTTJod2NIQXdVRXgwUmxCcFQzbDRZV3RIYTNkc1V6RkZUMnA2VVVoaU0xSTJkbkJHUWtaMldsbGpWMDF6Y2xGRFQwUTFTMVYwT1hSU1EzY1NGM0ExU3pSYVpIRkJTbVJwYm0xMGExQTBjaTB0TWtGSkdpSkJVRmhvYlRWYWFuTjJOa0Y0Y2pkeE5sSndhVlZMVFhJeGJrRlNNREJCVDJoMyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdlaWxsIENvcm5lbGwgTWVkaWNhbCBDb2xsZWdlIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93ZWlsbC1jb3JuZWxsLmRlam9icy5vcmcvbmV3LXlvcmstbnkvc29mdHdhcmUtZW5naW5lZXItZnJvbnQtZW5kLWh5YnJpZC1yZW1vdGUvNkJFQzE1REYwRkM1NDk0Nzg0MzgzQjEzQTNDNEQ4N0Mvam9iLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "(USA) Software Engineer III - eComm",
+      "company_name": "Walmart",
+      "location": "  Hoboken, NJ   ",
+      "via": "via Walmart Careers",
+      "description": "Position Summary...\n\nWhat you'll do...\n\nProvides support to the business by responding to user questions, concerns, and issues (for example, technical feasibility, implementation strategies); researching and identifying needed solutions; determining implementation designs; providing guidance regarding implications of new and enhanced systems; identifying short and long term solutions; and directing users to appropriate contacts for issues outside of associate's domain.\n\nManages small to large-sized complex projects by reviewing project requirements; translating requirements into technical solutions; researching and identifying alternative solutions; determining needed solution based on return on investment and value add to the business; gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code; conducting unit testing; communicating status and issues to team members and stakeholders; collaborating with project team and cross functional teams; identifying areas of opportunity; interpreting information and identifying a solution; ensuring solution is sustainable across implementation and use; troubleshooting open issues and bug-fixes; and ensuring on-time delivery and hand-offs.\n\nTroubleshoots business and production issues by gathering information (for example, issue, impact, criticality, possible root cause); performing root cause analysis to reduce future issues; engaging support teams to assist in the resolution of issues; developing solutions; driving the development of an action plan; performing actions as designated in the plan; interpreting the results to determine further action; and completing online documentation.\n\nParticipates in the discovery phase of small to medium-sized projects to come up with high level design by partnering with the product management, project management, business, and user experience teams.\n\nAssists in providing guidance to small groups of two to three engineers, including offshore associates, for assigned Engineering projects by proving pertinent documents, directions, examples, and timeline. Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales. Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities. Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices.\n\nJava 11 - Must have\nBig Table - Must have\nKafka with Schema Registry - Must have\nAVRO Model - Must have\nReactJS + Living Design - Must have\nREST API - Must have\nSpring Boot - Must have\nKubernetes and Docker - Must have\nGCP and Azure cloud technology awareness - Must have\n\nAbout Team:\nBuilding the right technology foundation for Infrastructure & platforms is vital to success at the scale of Walmart. Our team builds and maintains the foundational technologies that support the tech organization. Included in this are data platforms, enterprise architecture, DevOps, cloud computing, and infrastructure. All of these products and services are supported by scalable and powerful infrastructure, ensuring a secure and seamless employee and customer experience across stores, digital channels, and distribution centers.\n\nWhat you'll do:\n\nDevelopment for WDP platform\n\nWhat you'll bring:\n\nCuriosity & Courage\n• Demonstrates curiosity and a growth mindset; supports innovation and intelligent risk-taking; and exhibits resilience in the face of setbacks.\nDigital Transformation & Change\n• Implements and supports continuous improvements and willingly embraces new digital tools and ways of working.\nDeliver for the Customer\nCustomer Focus\n• Delivers results while putting the customer first and applying an omnimerchant mindset and the EDLP and EDLC business models to all plans.\nStrategic Thinking\n• Adopts a broad perspective that considers data, analytics, customer insights, and different parts of the business when making plans.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nMinimum Qualifications: Bachelor of Science and 5 years' experience in software engineering OR Master of Science\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCustomer Care, Customer Service, Information Technology, Project Management, Retail Operations, Support, Technical Strategy, Troubleshooting\n\nPrimary Location...\n221 RIVER ST, HOBOKEN, NJ 07030, United States of America",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Kafka with Schema Registry - Must have",
+            "ReactJS + Living Design - Must have",
+            "Spring Boot - Must have",
+            "Kubernetes and Docker - Must have",
+            "GCP and Azure cloud technology awareness - Must have",
+            "Demonstrates curiosity and a growth mindset; supports innovation and intelligent risk-taking; and exhibits resilience in the face of setbacks",
+            "Minimum Qualifications: Bachelor of Science and 5 years' experience in software engineering OR Master of Science"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Provides support to the business by responding to user questions, concerns, and issues (for example, technical feasibility, implementation strategies); researching and identifying needed solutions; determining implementation designs; providing guidance regarding implications of new and enhanced systems; identifying short and long term solutions; and directing users to appropriate contacts for issues outside of associate's domain",
+            "Manages small to large-sized complex projects by reviewing project requirements; translating requirements into technical solutions; researching and identifying alternative solutions; determining needed solution based on return on investment and value add to the business; gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code; conducting unit testing; communicating status and issues to team members and stakeholders; collaborating with project team and cross functional teams; identifying areas of opportunity; interpreting information and identifying a solution; ensuring solution is sustainable across implementation and use; troubleshooting open issues and bug-fixes; and ensuring on-time delivery and hand-offs",
+            "Troubleshoots business and production issues by gathering information (for example, issue, impact, criticality, possible root cause); performing root cause analysis to reduce future issues; engaging support teams to assist in the resolution of issues; developing solutions; driving the development of an action plan; performing actions as designated in the plan; interpreting the results to determine further action; and completing online documentation",
+            "Participates in the discovery phase of small to medium-sized projects to come up with high level design by partnering with the product management, project management, business, and user experience teams",
+            "Assists in providing guidance to small groups of two to three engineers, including offshore associates, for assigned Engineering projects by proving pertinent documents, directions, examples, and timeline",
+            "Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales",
+            "Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities",
+            "Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices",
+            "Development for WDP platform",
+            "Implements and supports continuous improvements and willingly embraces new digital tools and ways of working",
+            "Customer Focus",
+            "Delivers results while putting the customer first and applying an omnimerchant mindset and the EDLP and EDLC business models to all plans",
+            "Adopts a broad perspective that considers data, analytics, customer insights, and different parts of the business when making plans"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+            "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.walmart.com/",
+          "text": "walmart.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=772e7fe848126d63&q=Walmart&sa=X&ved=0ahUKEwia8JfeuYSEAxXYkyYFHeKfDys4FBCYkAIIxA8",
+          "text": "See web results for Walmart"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5FvH34ZOATLYnu5r4x6771B-yvvnvALrzttQHGCAW5FqQKRnaG-bXyo&s",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiIoVVNBKSBTb2Z0d2FyZSBFbmdpbmVlciBJSUkgLSBlQ29tbSIsImh0aWRvY2lkIjoidmVfUkV0NTlIdTJrZG52OUFBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYldkUGVucFdUbmd6TVZoNVQxWjVWRFJ1YjBkNFlYZHNha2RQY21wbmRFVlpSVVJTY3kxdlNHMUtTVTVvWjFoc2FEUldTMnB0YjJOek5FaHVWMWxUWDNCUmIwSmFiMHh1UXpsRmVrMUhYMHhoU2xWSFoyeHhla1pSTVRaVk5tSmZTMUJIWHpVMWJuUXlRMmRIUlU1Mk9VeGFaazF5YWs5TVlXeFliMmhEV1doQ1VHSlhkelp5VDBOc2QzbDNlV1pJTUU5WmVYZFZiRUpXTlU5TlltUmZkbnAyWmpKR01sOTBaR3hSTlZnd1dWOTVVbnBCVlZoeGJFUjFSRGRIYTNKSVVWRmZhV1JzVmpJMlpGOVJPSE13U1cxS1YxUXlWMjk2VGxGU1FSSVhjRFZMTkZwa2NVRktaR2x1YlhSclVEUnlMUzB5UVVrYUlrRlFXR2h0TlZwV1ZEQmFOWGREVVMweGNVMUlUa0ZDTTJsT1pFOXpVWGhqWkhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV2FsbWFydCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy53YWxtYXJ0LmNvbS91cy9qb2JzL1dEMTY5MDAwNi11c2Etc29mdHdhcmUtZW5naW5lZXItaWlpLWVjb21tP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Graduate",
+          "value": "graduate"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Engineer senior",
+          "value": "engineer senior"
+        },
+        {
+          "text": "Engineers",
+          "value": "engineers"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Senior director",
+          "value": "senior director"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        },
+        {
+          "text": "Sr manager",
+          "value": "sr manager"
+        },
+        {
+          "text": "Technical",
+          "value": "technical"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "New York, NY",
+          "value": "Owg_06VPwoli_nfhBo8LyA=="
+        },
+        {
+          "text": "Boston, MA",
+          "value": "GzE9DS1l44mg6GIBJL98eA=="
+        },
+        {
+          "text": "Washington, DC",
+          "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+        },
+        {
+          "text": "Annapolis Junction, MD",
+          "value": "zW-xYyLnt4mqAms5YL-SKQ=="
+        },
+        {
+          "text": "Baltimore, MD",
+          "value": "t4P01q4DyIlY5yNCqJZIBA=="
+        },
+        {
+          "text": "Fort Meade, MD",
+          "value": "jdor14Tmt4l3A9bF4c3sbg=="
+        },
+        {
+          "text": "Jersey City, NJ",
+          "value": "3a-_JdJQwonZJc2iE_BJAg=="
+        },
+        {
+          "text": "Philadelphia, PA",
+          "value": "60u11Ni3xonBWD6M2BT1iQ=="
+        },
+        {
+          "text": "McLean, VA",
+          "value": "O3mKsew1tonx6vqtXrpijg=="
+        },
+        {
+          "text": "Herndon, VA",
+          "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+        },
+        {
+          "text": "Annapolis, MD",
+          "value": "1S9ncGX2t4lLJ6jT_VT4Qw=="
+        },
+        {
+          "text": "Arlington, VA",
+          "value": "D6ene522t4mTsPZFyG_P-A=="
+        },
+        {
+          "text": "Cambridge, MA",
+          "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+        },
+        {
+          "text": "Chantilly, VA",
+          "value": "GXJnGVZBtomDrRZD_PBBQA=="
+        },
+        {
+          "text": "Fredericksburg, VA",
+          "value": "JeDquuvBtomhkaYhCkWmfw=="
+        },
+        {
+          "text": "Reston, VA",
+          "value": "5WUWJkdAtomfrnGo6K_fYw=="
+        },
+        {
+          "text": "York, PA",
+          "value": "YYWuV8GLyInNE_Je6vqsGg=="
+        },
+        {
+          "text": "Columbia, MD",
+          "value": "UaBpY7Dft4ldY4e2Zb3W8A=="
+        },
+        {
+          "text": "Dahlgren, VA",
+          "value": "dVKV5Z0Zt4m186akTSyHZw=="
+        },
+        {
+          "text": "Hanover, MD",
+          "value": "CR8SmSTit4kd1ecDfu3Bcw=="
+        },
+        {
+          "text": "Hartford, CT",
+          "value": "pVER8hFT5omZWX3pqEqOzA=="
+        },
+        {
+          "text": "Providence, RI",
+          "value": "XXN-Q-BE5IkntrNITXzfaQ=="
+        },
+        {
+          "text": "Springfield, VA",
+          "value": "nTrlhehNtokEpfoWJG_nZw=="
+        },
+        {
+          "text": "Sterling, VA",
+          "value": "rWH7IE84tolMhlUKz9C_BQ=="
+        },
+        {
+          "text": "Albany, NY",
+          "value": "S_tPzDQK3onEKOegEmOh4Q=="
+        },
+        {
+          "text": "Alexandria, VA",
+          "value": "8aukkz5NtoksAcHbhib11w=="
+        },
+        {
+          "text": "Bala Cynwyd, PA",
+          "value": "7e-ZaKK4xols4Jb3ae4UaQ=="
+        },
+        {
+          "text": "Burlington, MA",
+          "value": "P_ntUvj244kNqYFbrDQY7g=="
+        },
+        {
+          "text": "Dover, DE",
+          "value": "rV5odTNjx4nwbAD7R-TiqQ=="
+        },
+        {
+          "text": "Foxborough, MA",
+          "value": "KYmCiN9i5ImzaNgIVYe8sg=="
+        },
+        {
+          "text": "Gaithersburg, MD",
+          "value": "tRPKJDYttok1cq2AgVqP4w=="
+        },
+        {
+          "text": "Hoboken, NJ",
+          "value": "0TMVjWBXwomHvzcRasq2RA=="
+        },
+        {
+          "text": "Keene, NH",
+          "value": "cxohhHh04Ym988LHrkxToA=="
+        },
+        {
+          "text": "King of Prussia, PA",
+          "value": "LWNuLDWUxomVU8G_MZcJ-g=="
+        },
+        {
+          "text": "Laurel, MD",
+          "value": "0dxJ6BDdt4n8ks39Ll7NmA=="
+        },
+        {
+          "text": "Linthicum Heights, MD",
+          "value": "J9uwpJjit4ngAaPYxcmQdQ=="
+        },
+        {
+          "text": "Manchester, NH",
+          "value": "o2xmaNZO4ol5cTUfRjIEaw=="
+        },
+        {
+          "text": "Merrimack, NH",
+          "value": "1efXpFe044l54yBVgEdgtw=="
+        },
+        {
+          "text": "Princeton, NJ",
+          "value": "8VnQcsHmw4nC1hNKk0nNPw=="
+        },
+        {
+          "text": "Quincy, MA",
+          "value": "Ze_yl8Fk44ljQcUamLT4zA=="
+        },
+        {
+          "text": "Rockville, MD",
+          "value": "FZHj_iwqtokk38nZEL6l7A=="
+        },
+        {
+          "text": "Salisbury, MD",
+          "value": "YZ6SVroDuYmTO2pbsYMqzA=="
+        },
+        {
+          "text": "Waltham, MA",
+          "value": "3eQad-F344nEWv4aYofa3g=="
+        },
+        {
+          "text": "Wilmington, DE",
+          "value": "b69GXBgPx4kAjDB3UNoWhQ=="
+        },
+        {
+          "text": "Worcester, MA",
+          "value": "DYsqWlgG5IltTcp_2H0Tng=="
+        },
+        {
+          "text": "Arden, DE",
+          "value": "xVTPeY_kxom_DYUI-Dv8oQ=="
+        },
+        {
+          "text": "Bedford, MA",
+          "value": "qzLc-s-e44mAzPSCsAfS-Q=="
+        },
+        {
+          "text": "Bristol, CT",
+          "value": "p6GRxEu654knDLt1i2H5Yg=="
+        },
+        {
+          "text": "Chicopee, MA",
+          "value": "8X7bX6jd5om1TLGRnpnrSw=="
+        },
+        {
+          "text": "Clifton, NJ",
+          "value": "6drDvuL-wolTMn8iM1gZZA=="
+        },
+        {
+          "text": "Cockeysville, MD",
+          "value": "Z4DtpGcSyIkDNpvSwWL1mg=="
+        },
+        {
+          "text": "East Orange, NJ",
+          "value": "w4KJlbVUwokSJloFMTmrtg=="
+        },
+        {
+          "text": "Ellicott City, MD",
+          "value": "B298ASsgyIlgN3KMVRkSBw=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        },
+        {
+          "text": "Advertising",
+          "value": "/business/naics2007/5418"
+        },
+        {
+          "text": "Foods & Beverages",
+          "value": "/business/naics2007/311"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Nonprofit",
+          "value": "/business/naics2007/813"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Security",
+          "value": "/business/naics2007/5616"
+        },
+        {
+          "text": "Textiles & Apparel",
+          "value": "/business/naics2007/313"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "Parsons Corporation",
+          "value": "/m/0dxqn8"
+        },
+        {
+          "text": "Datadog",
+          "value": "/m/0wfvvyq"
+        },
+        {
+          "text": "Meta",
+          "value": "/m/0hmyfsv"
+        },
+        {
+          "text": "Peraton",
+          "value": "/g/11g9mq8fj6"
+        },
+        {
+          "text": "State Street",
+          "value": "/m/06nlq"
+        },
+        {
+          "text": "Amentum",
+          "value": "/g/11j2vydq82"
+        },
+        {
+          "text": "Blizzard Entertainment",
+          "value": "/m/01jx9"
+        },
+        {
+          "text": "Duolingo",
+          "value": "/g/11fy1sp_cm"
+        },
+        {
+          "text": "Etsy",
+          "value": "/m/0rzjz20"
+        },
+        {
+          "text": "Fidelity Investments Careers",
+          "value": "/m/028q26"
+        },
+        {
+          "text": "GoodRx",
+          "value": "/g/11df0pkp5v"
+        },
+        {
+          "text": "Hologic",
+          "value": "/m/02rkkps"
+        },
+        {
+          "text": "Johns Hopkins University",
+          "value": "/m/09kvv"
+        },
+        {
+          "text": "Marriott International",
+          "value": "/m/04fv0k"
+        },
+        {
+          "text": "MassMutual",
+          "value": "/m/07f92s"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "S&P Global",
+          "value": "/m/02_nl4"
+        },
+        {
+          "text": "Susquehanna International Group, LLP (SIG)",
+          "value": "/m/02ql0fl"
+        },
+        {
+          "text": "Tenable",
+          "value": "/g/11bc5d_5b0"
+        },
+        {
+          "text": "The Charles Stark Draper Laboratory Inc",
+          "value": "/m/029b0x"
+        },
+        {
+          "text": "Tiber Technologies",
+          "value": "/g/11g6_y87l_"
+        },
+        {
+          "text": "US Mobile",
+          "value": "/g/11g9n6s7hz"
+        },
+        {
+          "text": "4Catalyzer",
+          "value": "/g/11g6__g2zw"
+        },
+        {
+          "text": "AG Mednet, Inc.",
+          "value": "/g/11g7z00xqm"
+        },
+        {
+          "text": "ALTA IT Services, LLC",
+          "value": "/g/11c73rh63j"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "ActionIQ",
+          "value": "/g/11dxpv1lnn"
+        },
+        {
+          "text": "Aimsun",
+          "value": "/g/11gxm7dg54"
+        },
+        {
+          "text": "Alloy Automation",
+          "value": "/g/11mpht4pvs"
+        },
+        {
+          "text": "AlphaSense",
+          "value": "/m/011v7kq3"
+        },
+        {
+          "text": "American Chemical Society",
+          "value": "/m/027bv9"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        },
+        {
+          "text": "Angi",
+          "value": "/m/0bf114"
+        },
+        {
+          "text": "Ascensus",
+          "value": "/g/11c521x5ry"
+        },
+        {
+          "text": "Asurion",
+          "value": "/m/0765wf"
+        }
+      ]
+    }
+  ]
+}

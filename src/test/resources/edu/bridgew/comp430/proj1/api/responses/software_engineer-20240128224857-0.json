@@ -1,0 +1,1328 @@
+{
+  "search_metadata": {
+    "id": "65b6d9d9d5a531a23b1a4813",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b6d9d9d5a531a23b1a4813.json",
+    "created_at": "2024-01-28 22:48:57 UTC",
+    "processed_at": "2024-01-28 22:48:57 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b6d9d9d5a531a23b1a4813.html",
+    "total_time_taken": 2.02
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Sr Software Engineer - Full Stack",
+      "company_name": "Lowes",
+      "location": "  Charlotte, NC   ",
+      "via": "via Lowe's Careers",
+      "description": "Expand your career possibilities.\n\nThank you for dedicating your time and talent to Lowe’s. We want to give you more opportunities to learn and grow, so if you find a position you’re interested in below, we encourage you to apply...\n\nFind Your Home to More Possibilities.\n\nJob Summary\nThe primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications.\n\nMinimum Qualifications\n• Bachelor's degree in computer science, CIS, or related field (or equivalent work experience in a related field)\n• 5 years of experience in software development or a related field\n• 5 years of experience with integration development using REST APIs, Java/J2EE microservices.\n• 4 years of experience in database technologies\n• 4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC)\n\nPreferred Qualifications\n• Master's degree in computer science, CIS, or related field\n• 5 years of experience building the APIs using spring framework, spring boot or related framework.\n• 3 years of experience with GCP, Azure Cloud or any other cloud technology\n• 3 years of experience working with no-SQL databases such as Cassandra, MongoDB, Couchbase etc.\n• 2 years of experience in design, creating and executing automation scripts using Selenium, Rest Assured, Cucumber etc.\n• 2 years of experience with Messaging/Event Streaming technologies such as Kafka/MQ\n• 5 years of IT experience developing and implementing business systems within an organization\n• 5 years of experience working with defect or incident tracking software\n• 5 years of experience writing technical documentation in a software development environment\n• 3 years of experience working with an IT Infrastructure Library (ITIL) framework\n• 3 years of experience leading teams, with or without direct reports\n• 5 years of experience working with source code control systems\n• Experience working with Continuous Integration/ Continuous Deployment tools\n• 5 years of experience in systems analysis, including defining technical requirements and performing high level design for complex solutions\n\nAbout Lowe's\nLowe's Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 17 million customer transactions a week in the U.S. With total fiscal year 2022 sales of over $97 billion, approximately $92 billion of sales were generated in the U.S., where Lowe's operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe's supports the communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.\n\nLowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in computer science, CIS, or related field (or equivalent work experience in a related field)",
+            "5 years of experience in software development or a related field",
+            "5 years of experience with integration development using REST APIs, Java/J2EE microservices",
+            "4 years of experience in database technologies",
+            "4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions",
+            "This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments",
+            "This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.lowes.com/",
+          "text": "lowes.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=Lowes&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCNoJ",
+          "text": "See web results for Lowes"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzuN7M0pPUxDG0B6_5Ym5GJF-cIHJz2Hch0er&s=0",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBTb2Z0d2FyZSBFbmdpbmVlciAtIEZ1bGwgU3RhY2siLCJodGlkb2NpZCI6IlliSWtVWEV4ejV3dXZKX3pBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamEwWXlSRW80YW5Cd2QxOVRXbTFhUkZWblIwRTVTMWRvTVZFdFgwOWhSMkY1Vmt4MGJYbGpOVzlaYjJoVlZEbFVaemt6ZVZjeFR6ZFpaVXRDWTI0emVrOUhhakJGVEV3eVExVXlPWHBGTlhsdVQzTkpTa2xXU1d0TE9IUk9iVUpLTUV4MGNIVTVTM0J4VmxGRlNtbEtUVWRXVGsxVE5XUmFka1JXWVVwSmF5MXVkMFpyZEZjNVF6QkNRVVZvY1ZCbk9WaHBjWE5OTjFCclJYcDRPSFZHUmxSek5XOUpPREZQTkZsNlIycEdkRE5FY2tSNlQzaGpjV2hrWm1WR2NsTnVZblJRYVd4UWNuY3phbnBoVmtseE1FRnFiVkJHYldocVVYWkRaeElYTWpsdE1scFpXRmxCYzA4eE5VNXZVRFZNWVVwNVFUQWFJa0ZRV0dodE5WcGpWWFV6TjBwT2JtaFNUVzlJTnpWYVp5MW9TRlo1VmpWRVQzYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTG93ZSdzIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly90YWxlbnQubG93ZXMuY29tL3VzL2VuL2pvYi9KUi0wMTU5Nzc0Ny9Tci1Tb2Z0d2FyZS1FbmdpbmVlci1GdWxsLVN0YWNrP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer (.Net)",
+      "company_name": "City National Bank",
+      "location": "  Charlotte, NC   ",
+      "via": "via City National Bank",
+      "description": "SOFTWARE ENGINEER\n\nWHAT IS THE OPPORTUNITY...\nThe Software Engineer plays a key role in City National Bank's Technology & Innovation division. As a Software Engineer you will analyze, design, code, debug, test, document, implement and maintain business and client-facing applications using City National Bank's Secure Software Development Lifecycle.The Software Engineer is an experienced, fully proficient professional with full understanding and in-depth knowledge of its discipline.The typical day includes collaborating with business system analysts, project managers, engineers (e.g., Software, UX, Full Stack, DevOps, Quality, Infrastructure, Cybersecurity), business teams, vendors and other stake holders to design, implement and support business and client-facing applications. This role will need to effectively communicate, collaborate, and influence engineering and business team members across many projects and departmental boundaries. The Software Engineer designs, develops, updates/maintains solutions working within a development team. At this level the main challenge is to identify causes and implement solutions to business problems in a multifunctional project, assessing and communicating issues of technology impact on the business.The colleague in this position would be comfortable with the following activities:Evaluates application software packages and makes recommendations to management. Participates with other colleagues in code reviews, tests, and pilots. Analyzes business requirements for small to medium projects. Performs feasibility studies, translates requirements into an appropriate design.\n\nTechnology and Innovation Division\nAs a member of City National's Technology & Innovation group, you will drive, develop, and maintain solutions for clients and colleagues. This is an exciting time of technology advancement and innovation across the bank, particularly within our technology teams.\n\nWhat you will do\n• Participate in the design and development of business and client-facing applications, as a member of a team.\n• Writing secure quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model.\n• Perform diverse engineering activities for performance tuning, monitoring, deployment and production support.\n• Implement, maintain and update CI/CD pipelines in the cloud.\n• Work with business partners, architects and other groups to identify diverse technical and functional needs of systems based on priority.\n• Collaborate with multiple, enterprise-wide distributed performing teams to deliver new capabilities in business applications.\n• Design and develop API’s.\n• Build APIs and UIs to help make use of large data sets, infrastructure and user experience.\n• Provides software engineering skills within an assigned business area, usually as a member of a project team, in analyzing, designing, modifying, and developing business applications.\n• Prepare programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs.\n• Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)\n• Learn and follow City National Bank’s Secure Software Development Life Cycle (SSDLC).\n• Create and maintain application system overviews and technical documentation.\n• Complies fully with all Bank Operational and Credit policies and procedures as well as all regulatory requirements (e.g. Bank Secrecy Act, Know Your Client, Community Reinvestment Act, Fair Lending Practices, Code of Conduct, etc.).\n• Completes all required training.\n\nMust-Have*\n• Bachelor's Degree or equivalent experience\n• Minimum of 4 years of software development experience.\n• Minimum of 4 years of experience using modern languages (C#, Java, Python).\n• Minimum of 4 years experience with databases and data modeling / design (SQL and NoSQL).\n\nSkills and Knowledge\n• .NET Development skills\n• Proficient in debugging techniques and technical problem analysis.\n• Excellent verbal and written communications, interpersonal and analytical skills.\n• Knowledge of project management technique is required.\n• Experience with structured design, development, and implementation of new computing architectures.\n• Full-stack development expertise in C#\n• Cloud application development (Azure Preferred)\n• DevOps / continuous integration technologies\n• Monitoring Technologies\n• Expertise with databases (SQL & NoSQL)\n• Hands-on expertise in DevOps and CICD techniques and technologies\n• The ability to self-learn and quickly understand new and changing technologies in a fast-moving cloud world, how and if these changes can be leveraged to improve the solution and the overall impact of these in the technical design and operational delivery\n• Financial services (Banking) experience a plus\n• Has good understanding of the business or function for which application is designed.\n• Strong verbal and written communication skills, with an ability to express complex technical concepts in business terms.\n\nCompensation\nStarting base salary: $92,114 - $156,880 per year. Exact compensation may vary based on skills, experience, and location. This job is eligible for bonus and/or commissions.\n• To be considered for this position you must meet at least these basic qualifications\nThe preceding job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.\n\nBenefits and Perks\nAt City National, we strive to be the best at whatever we do, including the benefits and perks we offer our colleagues. Get an inside look at our Benefits and Perks.\n\nINCLUSION AND EQUAL OPPORTUNITY EMPLOYMENT\nCity National Bank is an equal opportunity employer committed to diversity and inclusion. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other basis protected by law.'\n\nABOUT CITY NATIONAL\nWe start with a basic premise: Business is personal. Since day one we've always gone further than the competition to help our clients, colleagues and community flourish. City National Bank was founded in 1954 by entrepreneurs for entrepreneurs and that legacy of integrity, community and unparalleled client relationships continues to be at the heart of our company today. City National is a subsidiary of Royal Bank of Canada, one of North America’s leading diversified financial services companies",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree or equivalent experience",
+            "Minimum of 4 years of software development experience",
+            "Minimum of 4 years of experience using modern languages (C#, Java, Python)",
+            "Minimum of 4 years experience with databases and data modeling / design (SQL and NoSQL)",
+            ".NET Development skills",
+            "Proficient in debugging techniques and technical problem analysis",
+            "Excellent verbal and written communications, interpersonal and analytical skills",
+            "Knowledge of project management technique is required",
+            "Experience with structured design, development, and implementation of new computing architectures",
+            "Full-stack development expertise in C#",
+            "DevOps / continuous integration technologies",
+            "Monitoring Technologies",
+            "Expertise with databases (SQL & NoSQL)",
+            "Hands-on expertise in DevOps and CICD techniques and technologies",
+            "The ability to self-learn and quickly understand new and changing technologies in a fast-moving cloud world, how and if these changes can be leveraged to improve the solution and the overall impact of these in the technical design and operational delivery",
+            "Has good understanding of the business or function for which application is designed",
+            "Strong verbal and written communication skills, with an ability to express complex technical concepts in business terms"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Software Engineer you will analyze, design, code, debug, test, document, implement and maintain business and client-facing applications using City National Bank's Secure Software Development Lifecycle",
+            "The typical day includes collaborating with business system analysts, project managers, engineers (e.g., Software, UX, Full Stack, DevOps, Quality, Infrastructure, Cybersecurity), business teams, vendors and other stake holders to design, implement and support business and client-facing applications",
+            "This role will need to effectively communicate, collaborate, and influence engineering and business team members across many projects and departmental boundaries",
+            "The Software Engineer designs, develops, updates/maintains solutions working within a development team",
+            "At this level the main challenge is to identify causes and implement solutions to business problems in a multifunctional project, assessing and communicating issues of technology impact on the business",
+            "The colleague in this position would be comfortable with the following activities:Evaluates application software packages and makes recommendations to management",
+            "Participates with other colleagues in code reviews, tests, and pilots",
+            "Analyzes business requirements for small to medium projects",
+            "Performs feasibility studies, translates requirements into an appropriate design",
+            "Participate in the design and development of business and client-facing applications, as a member of a team",
+            "Writing secure quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model",
+            "Perform diverse engineering activities for performance tuning, monitoring, deployment and production support",
+            "Implement, maintain and update CI/CD pipelines in the cloud",
+            "Work with business partners, architects and other groups to identify diverse technical and functional needs of systems based on priority",
+            "Collaborate with multiple, enterprise-wide distributed performing teams to deliver new capabilities in business applications",
+            "Design and develop API’s",
+            "Build APIs and UIs to help make use of large data sets, infrastructure and user experience",
+            "Provides software engineering skills within an assigned business area, usually as a member of a project team, in analyzing, designing, modifying, and developing business applications",
+            "Prepare programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs",
+            "Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)",
+            "Learn and follow City National Bank’s Secure Software Development Life Cycle (SSDLC)",
+            "Create and maintain application system overviews and technical documentation",
+            "Complies fully with all Bank Operational and Credit policies and procedures as well as all regulatory requirements (e.g. Bank Secrecy Act, Know Your Client, Community Reinvestment Act, Fair Lending Practices, Code of Conduct, etc.)",
+            "Completes all required training"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Starting base salary: $92,114 - $156,880 per year",
+            "Exact compensation may vary based on skills, experience, and location",
+            "This job is eligible for bonus and/or commissions",
+            "At City National, we strive to be the best at whatever we do, including the benefits and perks we offer our colleagues"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.cnb.com/",
+          "text": "cnb.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=City+National+Bank&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCK0K",
+          "text": "See web results for City National Bank"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoLk5ldCkiLCJodGlkb2NpZCI6Imd1TkxBbTM4TzZScXVXak5BQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJXUmlZbXhFZFhJeVUxSkRVbWQxTURSVlRUUlVOWEJhWWxReVRUSTBVR1pIV0dkZlVrRTJha1Z3UkhwRlZVeEhNbTR6U0dWV01YUmFOR1JuYTA0NVptaFdkbE13VDBWRk1tbG1NV3N4Wm01R2VHMU1ha00zTVVrM1ZtWm5NMDFhWm01SWIyTm5XV3BLTmpCdGRWUmhNbFJxYW5ONVpsazJkazlMVWs5RVNIZHRSVVJzVVRSdGQxOU5SVm90WnpsTk5GQkRkVmg1ZEhGek5VRnZRMmxGVTA1WlNEZHBRVVJoYzBOaVdubEtiRGQzVWs1ck9HaHpXbWhoV0hSNlIyZFRhbXh4WDBobWVtRnNTSFpKYXpKR1kyeHhaVGhUVURkNlRGVlRWblZQVERCdFN6QXhhM0YzT0ZBM1YwZE5aR2hQY3hJWE1qbHRNbHBaV0ZsQmMwOHhOVTV2VURWTVlVcDVRVEFhSWtGUVdHaHROV0YxZWs5clIzaFVSSGd4U0ZkRk1ETXRiVGhqU1VkeU1tWm9UV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIENpdHkgTmF0aW9uYWwgQmFuayIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY25iLmNvbS9qb2JzLzc2OTg/bGFuZz1lbi11c1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company_name": "Jobot",
+      "location": "  Pineville, NC   ",
+      "via": "via LinkedIn",
+      "description": "Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!\n\nJob details...\n\nRapid growing fintech start up\n\nThis Jobot Job is hosted by Kyle Truman\n\nAre you a fit? Easy Apply now by clicking the \"Easy Apply\" button and sending us your resume.\n\nSalary $160,000 - $220,000 per year\n\nA Bit About Us\n\nWe are currently seeking a dynamic and experienced Lead Software Engineer to join our innovative team in the fintech industry. This is a unique opportunity for a highly skilled and motivated individual who wants to work at the forefront of digital transformation in fintech. You will be playing a pivotal role in developing and implementing cutting-edge software solutions that will revolutionize the fintech industry.\n\nWhy join us?\n• Competitive Base Salary\n• Company paid health plan for employees\n• Flexible Hours\n• Very generous PTO\n• Dental and Vision, FSA, HSA\n• Small team, autonomy\n• Many more great perks!\n\nJob Details\n\nResponsibilities\n\nAs a Lead Software Engineer, you will\n• Lead a team of software engineers in the design, development, and implementation of high-quality software solutions for our fintech projects.\n• Utilize your skills in Java, Spring, Node.js, and React to develop and enhance our software systems.\n• Work with distributed systems and AWS to manage and optimize our cloud-based applications and services.\n• Leverage your understanding of relational databases to ensure efficient data storage and retrieval.\n• Collaborate with project managers, architects, and other stakeholders to understand their requirements and translate them into functional software solutions.\n• Mentor junior software engineers, promoting a culture of continuous learning and improvement.\n• Conduct code reviews and ensure that all software solutions are aligned with our architectural roadmap and coding standards.\n• Stay updated with the latest industry trends and technologies and incorporate them into our software solutions where appropriate.\n\nQualifications\n\nThe ideal candidate for the Lead Software Engineer position should have\n• A Bachelor's degree in Computer Science, Software Engineering, or a related field.\n• At least 3+ years of experience in software development, with a focus on Java, Spring, Node.js, and React.\n• Proven experience in working with distributed systems and AWS.\n• Strong understanding of relational databases.\n• Experience in the construction industry is highly desirable but not essential.\n• Excellent leadership and team management skills.\n• Strong problem-solving skills and the ability to think creatively.\n• Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.\n• A passion for technology and a constant desire to learn and improve.\n\nThis is a fantastic opportunity to lead a team of software engineers and make a significant impact on the fintech industry. If you're a skilled software engineer with a passion for innovation and a desire to challenge the status quo, we'd love to hear from you. Apply today!\n\nInterested in hearing more? Easy Apply now by clicking the \"Easy Apply\" button.\n\nWant to learn more about this role and Jobot?\n\nClick our Jobot logo and follow our LinkedIn page",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate for the Lead Software Engineer position should have",
+            "A Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "At least 3+ years of experience in software development, with a focus on Java, Spring, Node.js, and React",
+            "Proven experience in working with distributed systems and AWS",
+            "Strong understanding of relational databases",
+            "Excellent leadership and team management skills",
+            "Strong problem-solving skills and the ability to think creatively",
+            "Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders",
+            "A passion for technology and a constant desire to learn and improve"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be playing a pivotal role in developing and implementing cutting-edge software solutions that will revolutionize the fintech industry",
+            "Lead a team of software engineers in the design, development, and implementation of high-quality software solutions for our fintech projects",
+            "Utilize your skills in Java, Spring, Node.js, and React to develop and enhance our software systems",
+            "Work with distributed systems and AWS to manage and optimize our cloud-based applications and services",
+            "Leverage your understanding of relational databases to ensure efficient data storage and retrieval",
+            "Collaborate with project managers, architects, and other stakeholders to understand their requirements and translate them into functional software solutions",
+            "Mentor junior software engineers, promoting a culture of continuous learning and improvement",
+            "Conduct code reviews and ensure that all software solutions are aligned with our architectural roadmap and coding standards",
+            "Stay updated with the latest industry trends and technologies and incorporate them into our software solutions where appropriate"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary $160,000 - $220,000 per year",
+            "Competitive Base Salary",
+            "Company paid health plan for employees",
+            "Flexible Hours",
+            "Very generous PTO",
+            "Dental and Vision, FSA, HSA",
+            "Small team, autonomy",
+            "Many more great perks!"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=Jobot&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCIAL",
+          "text": "See web results for Jobot"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhctbZ0duYpLxt20SJiRfRggyAS8kOgLzQ66Ve7M&s",
+      "extensions": [
+        "4 days ago",
+        "160K–220K a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time",
+        "salary": "160K–220K a year"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJfeFVVMmpvcDJNYkJWYUowQUFBQUFBPT0iLCJmYyI6IkVvd0NDc3dCUVU1MVYyaGpiREZETUVsc1FXbFVZVVZWTjFOMGNsQmlaV2xQUXpGTmVFNUlOVWd0Ym1nNU9XbFdValpsU1ROeWFHTlJMWFZ0U21aVmRsQXhWSHBaY21kek5uQlBSVE41UTFSNmJ5MVVSMm90ZUdSVE4wbEpSbDlST1hNeldrTlhkVTV0TFdWWk1tOVJRa05KWmtoM1RISnJOVXgxTFd4dGRHdHplbFJtWlhWek5sQmphWFJCUjNGYVp6bENiRzlZTlRCQ05tTkxWMjFoUWpSaVZ6WnFWRm93YmxrMWIyeGFNV1pXVTJkZmNteEVNWE5LV1c1allqZDVURGsxUlRScVFXdG1NMHRTYkdwT2VGQktFaGN5T1cweVdsbFlXVUZ6VHpFMVRtOVFOVXhoU25sQk1Cb2lRVkJZYUcwMVdqZENaV1JUWm05RGJFUlJWbVZpZUVVNVprOVVVV3BvU0VNeGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L2xlYWQtc29mdHdhcmUtZW5naW5lZXItYXQtam9ib3QtMzgxMjg1Nzc1Nj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "TQL",
+      "location": "  Charlotte, NC   ",
+      "via": "via TQL Careers",
+      "description": "About the role:\nAs a Senior Software Developer, you will be joining one of our Agile Scrum teams responsible for developing web-based versions of our core applications as well as identifying opportunities to trial and deploy new applications and tools. You will use your full stack software engineering experience to develop a mix of custom and third-party solutions to help us maintain our... leadership position in transportation technology.\n\nWhat’s in it for you:\n• $105,000-$125,000 base salary\n• Position based in Charlotte, NC – relocation assistant provided\n• Advancement opportunities with aggressive and structure career paths\n• Access to the latest emerging technologies\n• Reimbursement for continuous education and technical training\n• TQL's IT Team offers a hybrid work environment with the ability to work remotely 40 hours per month\n• We win wherever we go – Voted a 2019-2023 Computerworld Best Places to Work in IT\n\nWhat you'll be doing:\n• Design, develop, and maintain complex software applications using .Net, or any modern platform for full stack development\n• Design and develop hybrid, on-prem and cloud-based solutions\n• Lead and mentor other developers in the team\n• Collaborate with cross-functional teams to identify and resolve software issues\n• Participate in code reviews and ensure code quality\n• Participate and lead in the full SDLC, including technical research, requirements gathering, design, development, testing, deployment, and maintenance\n• Implement and manage CI/CD processes to enable efficient software development and deployment\n• Develop and implement APIs and web based applications\n• Develop and maintain technical documentation and user manuals\n• Actively participate in event-driven architecture and worker services\n• Stay up to date with emerging trends and technologies in software engineering\n• Building industry leading solutions to help support rapid growth of our business\n\nWhat you need:\n• Bachelor’s degree in Computer Science or a related field\n• 5+ years of hands-on full stack development experience in SQL Server, .NET, and C# framework\n• 5+ years of experience with Microservices, JavaScript frameworks (Angular, React), JSON, REST Technologies\n• Experience with Automation as a Code, Terraform, Docker and Kubernetes, GitHub and Azure DevOps, ServiceNow\n• Experience with Kafka and other messaging systems\n• Strong knowledge of software development best practices, including object-oriented design, design patterns, and clean code principles\n• Ability to deal with ambiguity is a must\n• Experience with code management technologies like Github and modern code management practices\n• Microsoft Azure and cloud technology experience is a plus\n• Extensive experience with horizontally scalable and highly available system design and implementation, with focus on performance and resiliency\n• Excellent communication and collaboration skills\n• Strong analytical and problem-solving skills\n• Willingness to commit extra effort to meet deadlines as required on a high profile and business critical project\n\nWhere you'll be: 200 Regency Executive Park Dr., Suite 100 & 200, Charlotte, NC 28217",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science or a related field",
+            "5+ years of hands-on full stack development experience in SQL Server, .NET, and C# framework",
+            "5+ years of experience with Microservices, JavaScript frameworks (Angular, React), JSON, REST Technologies",
+            "Experience with Automation as a Code, Terraform, Docker and Kubernetes, GitHub and Azure DevOps, ServiceNow",
+            "Experience with Kafka and other messaging systems",
+            "Strong knowledge of software development best practices, including object-oriented design, design patterns, and clean code principles",
+            "Ability to deal with ambiguity is a must",
+            "Experience with code management technologies like Github and modern code management practices",
+            "Extensive experience with horizontally scalable and highly available system design and implementation, with focus on performance and resiliency",
+            "Excellent communication and collaboration skills",
+            "Strong analytical and problem-solving skills",
+            "Willingness to commit extra effort to meet deadlines as required on a high profile and business critical project"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Software Developer, you will be joining one of our Agile Scrum teams responsible for developing web-based versions of our core applications as well as identifying opportunities to trial and deploy new applications and tools",
+            "You will use your full stack software engineering experience to develop a mix of custom and third-party solutions to help us maintain our leadership position in transportation technology",
+            "Design, develop, and maintain complex software applications using .Net, or any modern platform for full stack development",
+            "Design and develop hybrid, on-prem and cloud-based solutions",
+            "Lead and mentor other developers in the team",
+            "Collaborate with cross-functional teams to identify and resolve software issues",
+            "Participate in code reviews and ensure code quality",
+            "Participate and lead in the full SDLC, including technical research, requirements gathering, design, development, testing, deployment, and maintenance",
+            "Implement and manage CI/CD processes to enable efficient software development and deployment",
+            "Develop and implement APIs and web based applications",
+            "Develop and maintain technical documentation and user manuals",
+            "Actively participate in event-driven architecture and worker services",
+            "Stay up to date with emerging trends and technologies in software engineering",
+            "Building industry leading solutions to help support rapid growth of our business"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$105,000-$125,000 base salary",
+            "Position based in Charlotte, NC – relocation assistant provided",
+            "Advancement opportunities with aggressive and structure career paths",
+            "Access to the latest emerging technologies",
+            "Reimbursement for continuous education and technical training",
+            "TQL's IT Team offers a hybrid work environment with the ability to work remotely 40 hours per month"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.tql.com/",
+          "text": "tql.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=TQL&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCNYL",
+          "text": "See web results for TQL"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hq21n3YfSbcZuhMOFG13fPS_whrxXTMmWngqe1I&s",
+      "extensions": [
+        "27 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "27 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlNULWhKZVJvZGcyNnlUWjVBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJrUk5TM2swT0dWb1FWZEVWRFphTm1aT1EwTjZNWFJwWVhCSlR6bHhWMlZVYVhsRlRqSjNaMDlMT0ZSTFZGRjNlbWd5VjJsNlFXTXdWVEpTT1VWaFdsaERiRlpmTm5CUVZFbzJUbEU0UWtFNE1rVjJjelZIZGtwNWVtOUNTM0pDUjJ4bGJrRjRWMVF4U0RaWlNHdHVOWFEwUkhCeE5uQjVXVGhSUkVadVYySjBYMDFVU0RScUxVUk5ha3BMYkdkWlUzcENORWx4TjFsNVkwZExNWGhGYzBoaVUyZDJVemhKYzBFek5UTnBRbDl5ZFRCblNGcHlUVWN0WmtOeGJXNUdiSEpHTm04MVZWQTVSRWx2UW1oU01UZFZPWFpOUVY5TU9GQjJVUklYTWpsdE1scFpXRmxCYzA4eE5VNXZVRFZNWVVwNVFUQWFJa0ZRV0dodE5XRkdPV2MzWkZneVUyUnViMEk1ZEZvMVdHNXVhWEJVUlZGU01XYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVFFMIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnRxbC5jb20vdXMvZW4vam9iLzIzMTAxOTExL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Associate IT Software Engineer",
+      "company_name": "Duke Energy Corporation",
+      "location": "  Charlotte, NC   ",
+      "via": "via ZipRecruiter",
+      "description": "More than a career - a chance to make a difference in people's lives.\n\nBuild an exciting, rewarding career with us - help us make a difference for millions of people every day. Consider joining the Duke Energy team, where you'll find a friendly work environment, opportunities for growth and development, recognition for your work, and competitive pay and benefits...\n\nJob Summary\n\nThe Associate IT Software Engineer is an individual who is dedicated to building exceptional software. Under close supervision, develops and tests software systems or applications for software enhancements and new products. Develops software and tools in support of design, infrastructure and technology platforms. Associate Software Engineers are primarily responsible for building defined solutions, investigating, and fixing bugs, and writing tests.\n\nThis role will be responsible for:\n• Design and build software solutions using agile/XP/TDD.\n• Program well-designed, efficient code with broad supervision.\n• Collaborate with designers, developers, and product owners to build cloud native software solutions targeting PCF, Azure, AWS, mobile iOS/Android, etc.\n• Clearly communicate progress and identify blocking issues.\n• Participate in paired programming and code reviews with seniors to expand knowledge and understanding of software engineering.\n• Complete independent research to refine best practices and present work to peers.\n\nAssociate Software Engineers will typically possess:\n• Experience building software solutions both independently and as part of a team (could be through independent projects, internships, advanced education).\n• Able to navigate and operate IDEs efficiently.\n• Have understanding, though possibly limited exposure, to APIs.\n• Is familiar with several frameworks for development - have previous experience working with multiple frameworks and know the common, well-known ones in their language stack.\n• Is familiar with cloud-native software engineering best practices. Can explain the benefits of container-based solutions, the use of microservices and principles of DevOps.\n• Self-sufficient in at least one programming language. Able to pick up a new language and implement a semi-stable, non-complex solution independently.\n• Understanding of, and some exposure to working with, databases. Should understand DB basic design techniques.\n• A basic understanding of cyber security principles such as authentication, authorization, and encryption. Ability to leverage common security libraries applicable to their language stack.\n\nResponsibilities\n• Assist with development of software and tools in support of design, infrastructure and technology platforms and frameworks. Assist in designs, develops, troubleshoots and debugs less complex software programs for enhancements and new products. Assists in coding, testing, and debugging new software or making enhancements to existing software for customers.\n• Maintain services, monitor system health, and continually look for improvements.\n• Scale systems sustainably using continuous deployment and automation.\n• Implement design patterns recommended by Leads.\n• Work in an agile environment and engage in practices such as XP, test driven development. Collaborate with other software engineers, developers, designers, and product owners.\n\nBasic/Required Qualifications\n• Associates degree in Information Technology or other related degree OR High School/GED plus 2 related work experience in lieu of the Associates degree above.\n\nDesired Qualifications\n• Knowledge of programming languages, operating systems and computer networks\n• Full-stack development experience\n• Familiarity with Angular (or other JavaScript based framework), Java, Python and private and/or public cloud (Pivotal Cloud Foundry, Azure, AWS, etc.) environments.\n• Experience with Infrastructure as a Service (IaaS) and Infrastructure as Code (IaC).\n\nWorking Conditions\n• Hybrid Mobility Classification - Work will be performed from both remote and onsite locations after the onboarding period. However, hybrid employees should live within a reasonable daily commute to a Duke Energy facility.\n• Office Environment\n\nTravel Requirements\nNot required\n\nRelocation Assistance Provided (as applicable)\nNo\n\nRepresented/Union Position\nNo\n\nVisa Sponsored Position\nNo\n\nPosting Expiration Date\nSaturday, February 3, 2024\nAll job postings expire at 12:01 AM on the posting expiration date.\n\nPlease note that in order to be considered for this position, you must possess all of the basic/required qualifications.\n\nPrivacy\n\nDo Not Sell My Personal Information (CA)\n\nTerms of Use\n\nAccessibility",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience building software solutions both independently and as part of a team (could be through independent projects, internships, advanced education)",
+            "Able to navigate and operate IDEs efficiently",
+            "Have understanding, though possibly limited exposure, to APIs",
+            "Is familiar with several frameworks for development - have previous experience working with multiple frameworks and know the common, well-known ones in their language stack",
+            "Is familiar with cloud-native software engineering best practices",
+            "Self-sufficient in at least one programming language",
+            "Able to pick up a new language and implement a semi-stable, non-complex solution independently",
+            "Should understand DB basic design techniques",
+            "A basic understanding of cyber security principles such as authentication, authorization, and encryption",
+            "Ability to leverage common security libraries applicable to their language stack",
+            "Associates degree in Information Technology or other related degree OR High School/GED plus 2 related work experience in lieu of the Associates degree above"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Under close supervision, develops and tests software systems or applications for software enhancements and new products",
+            "Associate Software Engineers are primarily responsible for building defined solutions, investigating, and fixing bugs, and writing tests",
+            "Design and build software solutions using agile/XP/TDD",
+            "Program well-designed, efficient code with broad supervision",
+            "Collaborate with designers, developers, and product owners to build cloud native software solutions targeting PCF, Azure, AWS, mobile iOS/Android, etc",
+            "Clearly communicate progress and identify blocking issues",
+            "Participate in paired programming and code reviews with seniors to expand knowledge and understanding of software engineering",
+            "Complete independent research to refine best practices and present work to peers",
+            "Understanding of, and some exposure to working with, databases",
+            "Assist with development of software and tools in support of design, infrastructure and technology platforms and frameworks",
+            "Assist in designs, develops, troubleshoots and debugs less complex software programs for enhancements and new products",
+            "Assists in coding, testing, and debugging new software or making enhancements to existing software for customers",
+            "Maintain services, monitor system health, and continually look for improvements",
+            "Scale systems sustainably using continuous deployment and automation",
+            "Implement design patterns recommended by Leads",
+            "Work in an agile environment and engage in practices such as XP, test driven development",
+            "Collaborate with other software engineers, developers, designers, and product owners",
+            "Hybrid Mobility Classification - Work will be performed from both remote and onsite locations after the onboarding period"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Office Environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.duke-energy.com/",
+          "text": "duke-energy.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=Duke+Energy+Corporation&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCKYM",
+          "text": "See web results for Duke Energy Corporation"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgSVQgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlhrOWhhcnItQWVlbzJBZk5BQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJEY3haamRWVVVwQ05HWk9OMEYyWldGdFYzRTNOV0pQUnpWNVRtdFRja0pSZDJJNWNHRkNiMmR3YTBaMVJEQldOVkJIUmt0SmFrbEJSM2haVUhsUFdVWXlhbmx5WkRoWlREaDBPR3BSU2pkRFNuWlFZV2d4VGtKNk1DMVJNakZwVVdrdFJXcGlTM2hoT0V0M1YwTm1jRmRSUVZkd2RXTnBiVmxXT1ZRNVprNUNSMEpoVmpsamNEQlFhRFp5UXpsaFpIUjJaR0ptUlZOYVEwWnZhMjF3ZW5oVWRVaFBVMTlCYzBSZlpGUlNjV1pzUVhKb1NrdDNkMnBmUm05V1MyRk1jMFExUmpnMFVXbHBNR3B2YkRsMVpEUllZVzB3TTNkTFRrcDJVRkpXVFdwM2FXUlVNamRrVDJ0MFJGTkdUVzlrZHhJWE1qbHRNbHBaV0ZsQmMwOHhOVTV2VURWTVlVcDVRVEFhSWtGUVdHaHROV0ZQWVY5elpsZ3lUbUpuVFVscE4xVk9UazlmTmtOVmRUVkpTV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvRHVrZS1FbmVyZ3ktQ29ycG9yYXRpb24vSm9iL0Fzc29jaWF0ZS1JVC1Tb2Z0d2FyZS1FbmdpbmVlci8taW4tQ2hhcmxvdHRlLE5DP2ppZD02YTk3MmFkNzQxMDg0YWYxXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "CNA Search",
+      "location": "  Charlotte, NC   ",
+      "via": "via LinkedIn",
+      "description": "The Senior .Net Developer will support and potentially lead the automated job control system that enables the company to process jobs with minimal manual interaction. The developer will work in all phases of development from design, development, implementation, deployment, and maintenance.\n• Minimum of 5-8 years experience including extensive experience in solving problems of varying... complexities\n• Experience with VB.NET / C# / ASP.NET and experience with .NET Framework\n• Experience with MS SQL server 2005-2012 (T-SQL), ADO.Net, Win Forms, Stored Procedures, and SSRS\n• Understanding n-tier software architectures\n• Must be able to comprehend the full scope of a project and make the best suggestions and methods to develop, test, implement, and maintain a project\n• Experience revising software code to make it more efficient and must be able to detect, identify and resolve bugs in various code bases, stored procedures and queries\n• Has the ability to experiment and test solutions for problems, validate assumptions for them, and the ability to associate one idea to another to reach a solution\n• Ability to consistently improve the quality and structure of the previously written code in VB.Net\n• Excellent communication skills as you will mentor or lead the mid-level developers of the team, as well as assign tasks to team members in a balanced and effective manner\n• Ability to multitask and work independently to solve various problems and rectify complicated problems through the application of design patterns\n• Will comply with all current and future security and compliance requirements",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum of 5-8 years experience including extensive experience in solving problems of varying complexities",
+            "Experience with VB.NET / C# / ASP",
+            "NET and experience with .NET Framework",
+            "Experience with MS SQL server 2005-2012 (T-SQL), ADO.Net, Win Forms, Stored Procedures, and SSRS",
+            "Understanding n-tier software architectures",
+            "Must be able to comprehend the full scope of a project and make the best suggestions and methods to develop, test, implement, and maintain a project",
+            "Experience revising software code to make it more efficient and must be able to detect, identify and resolve bugs in various code bases, stored procedures and queries",
+            "Has the ability to experiment and test solutions for problems, validate assumptions for them, and the ability to associate one idea to another to reach a solution",
+            "Ability to consistently improve the quality and structure of the previously written code in VB.Net",
+            "Excellent communication skills as you will mentor or lead the mid-level developers of the team, as well as assign tasks to team members in a balanced and effective manner",
+            "Ability to multitask and work independently to solve various problems and rectify complicated problems through the application of design patterns"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Senior .Net Developer will support and potentially lead the automated job control system that enables the company to process jobs with minimal manual interaction",
+            "The developer will work in all phases of development from design, development, implementation, deployment, and maintenance"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=CNA+Search&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCO0M",
+          "text": "See web results for CNA Search"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3UXcd9I7xTKDLKYhlLzfwPaqMzBbhaevV-ACa3M&s",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiSDNQVExnNjg3c1lsZE05RUFBQUFBQT09IiwiZmMiOiJFb3dDQ3N3QlFVNTFWMmhqYlZkU1JrSm9hbUpZTlRCcmQzRlVkWEpoTVVremNtOXZSMDlPZVc1RVFVMVBSV1pSU2pkcUxTMWlOVFUzV0d0RFUybHNVV1JFTmxkUFVXSlhXVW81VUZkeGRWa3lWMDVSVjJOcWFGWkpaVjkwZWpGblRWQm1ZVW94ZEhaMlZsWkxabU5QV201WVoyeFRWRnBqTldabVNtRTNZMWxZTURsek1FcDJUWFZIWTIxTlpsbDBVR0pvTms1M1dHVkpiRTQ1V1hCTVFVUmpkME5aYnpsMVluTmZZVmxUYTJ4alNFZGlZak5tWHpsVGVURmxYMUZYZVhBMGJWaE5UMU10VVd4UVdtcHRkVE5HRWhjeU9XMHlXbGxZV1VGelR6RTFUbTlRTlV4aFNubEJNQm9pUVZCWWFHMDFXWEJJYkVkelIzRmhibUZUZUhoVVlVSjZVa2hHZUZFMFl6TnVRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc29mdHdhcmUtZW5naW5lZXItYXQtY25hLXNlYXJjaC0zODExNjYxNjQ1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer (C# and .NET) - Contract",
+      "company_name": "Emergent Software",
+      "location": "  Charlotte, NC   ",
+      "via": "via SimplyHired",
+      "description": "• * This is a 6+ month contract opportunity where you'll work with our client on a contract basis (both W2 and 1099 options are available) with the possibility of converting to full-time with the client. This position is fully remote (indefinitely). Candidates must be able to work in the US without sponsorship.**\n\nEmergent Software is looking for a senior software engineer who is a smart... passionate, and curious problem solver with experience using the Microsoft stack to solve business problems. A qualified candidate is a full stack software developer with advanced knowledge of C# and .NET and experience leading software development projects. This 100% remote position is for self-starters with good communication skills, work ethic, and the ability to participate in all aspects of the agile software development life cycle. \n\nResponsibilities\n• Develop and maintain front-end web applications using JavaScript frameworks (Vue.js preferred) with a minimum of 5 years of experience.\n• Design, implement, and maintain back-end APIs using C# and .NET (with a preference for .NET Core) with a minimum of 7 years of experience.\n• Manage and optimize SQL Server databases with a minimum of 7 years of experience.\n• Utilize NoSQL/Document databases, with a preference for MongoDB, with a minimum of 5 years of experience.\n• Work on microservice development, including the use of Swagger, with a minimum of 3 years of experience.\n• Develop within containerized environments, with a preference for Kubernetes, with a minimum of 3 years of experience.\n\nQualifications\n• Bachelor's degree in Computer Science or a related field.\n• Proven track record of successfully delivering complex software projects.\n• Strong problem-solving skills and the ability to work in a collaborative team environment.\n• Excellent communication skills, both written and verbal.\n• Ability to adapt to new technologies and stay up-to-date with industry trends.\n\nNice to Haves\n• Experience with CQRS (Command Query Responsibility Segregation).\n• Familiarity with the Svelte JavaScript framework.\n• Experience with InnerSource development practices.\n• Proficiency in MicroUI/MicroApp development.\n\nOur Vetting Process\n\nAt Emergent Software, we work hard to find the software engineers who are the right fit for our clients. Here are the steps of our vetting process for this position:\n• Application (5 minutes)\n• Online Assessment & Short Algorithm Challenge (40-60 minutes)\n• Initial Phone Interview (30-45 minutes)\n• 1-2 Interviews with the Client\n• Job Offer!\n\nJob Type: Contract\n\nPay: $60.00 - $75.00 per hour\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Health insurance\n\nSchedule:\n• 8 hour shift\n• Monday to Friday\n\nWork Location: Remote",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates must be able to work in the US without sponsorship.**",
+            "Emergent Software is looking for a senior software engineer who is a smart, passionate, and curious problem solver with experience using the Microsoft stack to solve business problems",
+            "A qualified candidate is a full stack software developer with advanced knowledge of C# and .NET and experience leading software development projects",
+            "Design, implement, and maintain back-end APIs using C# and .NET (with a preference for .NET Core) with a minimum of 7 years of experience",
+            "Manage and optimize SQL Server databases with a minimum of 7 years of experience",
+            "Utilize NoSQL/Document databases, with a preference for MongoDB, with a minimum of 5 years of experience",
+            "Work on microservice development, including the use of Swagger, with a minimum of 3 years of experience",
+            "Develop within containerized environments, with a preference for Kubernetes, with a minimum of 3 years of experience",
+            "Bachelor's degree in Computer Science or a related field",
+            "Proven track record of successfully delivering complex software projects",
+            "Strong problem-solving skills and the ability to work in a collaborative team environment",
+            "Excellent communication skills, both written and verbal",
+            "Ability to adapt to new technologies and stay up-to-date with industry trends",
+            "Experience with CQRS (Command Query Responsibility Segregation)",
+            "Familiarity with the Svelte JavaScript framework",
+            "Experience with InnerSource development practices",
+            "Proficiency in MicroUI/MicroApp development"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This is a 6+ month contract opportunity where you'll work with our client on a contract basis (both W2 and 1099 options are available) with the possibility of converting to full-time with the client",
+            "Pay: $60.00 - $75.00 per hour",
+            "401(k)",
+            "Dental insurance",
+            "Health insurance",
+            "8 hour shift",
+            "Monday to Friday"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=Emergent+Software&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCLsN",
+          "text": "See web results for Emergent Software"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gjawvDzmg-WVLCGg_-cI4G7eqxCMTKgaMjjq8MY&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time and Contractor",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time and Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKEMjIGFuZCAuTkVUKSAtIENvbnRyYWN0IiwiaHRpZG9jaWQiOiJxekx1Zm9Pb2xyUGVxQTVWQUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGpiWEpuZGxZMGREWnNhMUJKWmpOWmQzazNUa3BpT1dGcUxYQnhiVU5oY1V0UE5UaEJjWFF0UWtnMU1sWkZlRWxMY2xabFRGTlhjRXByTVhKTWVrcGtlRkY2V1VabE1XRk9TbXhGVXpSSFJXVlVNblYyV2tKeVVUSlZPRFJMUlcxTWVWRnFaVUprYmpKT2NIZE1OVnB4VWtwVlltVmhUSGhMTlZvdFdVWk9SRWg1WlZnelpuWjBRVWhtWldvM1EzZDVOVFF6UWpGWVdVSkxTVXhCY3pkdlNFRnlhR0p2VHpReU1sWXlTbWxsY0RoTE5FRlNkRnAyWTFOMGJESTBUV3cwZG5aRGIxUkZkV2hDWmpGa2IwRjZkV2hHVG5CbVVWaHBVVkpuZUdsUFdqQnVVSE5JUTJvdE5FeHZlWEJwTVZWMWFTMWpRM0p2VmxCRmVFNVZiVWMxUzIxTVJWTmlNQklYTWpsdE1scFpXRmxCYzA4eE5VNXZVRFZNWVVwNVFUQWFJa0ZRV0dodE5XSnhRWFp6WVZvM2VXVTFaV1p3VXpSaFRIQnBVbGR0VjBzMVRYYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNpbXBseUhpcmVkIiwibGluayI6Imh0dHBzOi8vd3d3LnNpbXBseWhpcmVkLmNvbS9qb2IvM0pKZkdIVzgxLVJxZUtRSERubnVsM3lWNFlNQ1dtbmxMcnZDMkRRUVA3Yjk2YnQxdGQ0NUFBP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "company_name": "LPL Financial",
+      "location": "  Fort Mill, SC   ",
+      "via": "via Careers At LPL - LPL Financial",
+      "description": "Are you a team player? Are you curious to learn? Are you interested in working in meaningful projects? Do you want to work with cutting-edge technology? Are you interested in being part of an innovative team that builds products which are transforming the organization? If so, LPL Financial is the place for you!\n\nLPL Financial is one of the nation's leading financial services companies and a... publicly traded company under ticker symbol LPLA. We support over 18,000 financial professionals—including over 14,000 independent advisors, more than 700 financial institutions, and over 4,000 institutional clearing and technology subscribers. We enable advisors to focus on their clients by reducing the complexity of running their practice and we support their business by offering enabling technology, comprehensive clearing and compliance services, practice management programs and training, and independent research. At LPL, we take care of our advisors, so they can take care of their clients. And Technology is at the center of our mission.\n\nExcited to learn more? If so, then this could be the role for you!\n\nJob Overview:\n\nAt LPL Financial we consider it our mission to take care of our advisors so they can take care of their client. As a Senior Python Developer, you will collaborate with cross-functional teams to build innovative solutions on AWS that are scalable, reliable, and secure. If you have strong Python, API, and AWS skills, we want to hear from you!\n\nResponsibilities:\n• Design, develop, test, tune and implement n-tiered web-based Dot Net applications while collaborating with Development, Enterprise Architecture and Product teams\n• Assess opportunities for application and process improvements and prepare SDLC documentation\n• Maintain, troubleshoot, optimize and enhance existing systems\n• Work collaboratively with QA, DevOPS teams to adopt CI/CD tool chain and develop automation\n• Communicate with technical and non-technical groups on a regular basis as part of product/project support\n• Design and develop core services and components with expertise in service-oriented architecture\n• Design patterns and coding best practices.\n\nWhat are we looking for?\n\nWe want strong collaborators who can deliver a world-class client experience. We are looking for people who thrive in a fast-paced environment, are client-focused, team oriented, and are able to execute in a way that encourages creativity and continuous improvement.\n\nRequirements:\n• Bachelor's degree in Computer Science, Information Systems, or related field\n• 7+ years of experience developing RESTful APIs with Python frameworks such as Flask, Django, Fast API, AWS Powertools, SQL Alchemy, etc.\n• 3+ years of experience developing microservices-based applications on AWS, leveraging services like API Gateway, Lambda, Glue, SNS, SQS, Step Functions, DynamoDB, AWS PostgreSQL RDS, etc.\n• Strong understanding of API design principles and experience with documentation tools like Swagger\n• Experience authoring Infrastructure as Code solutions with Terraform\n• Familiarity with CI/CD pipelines and DevOps practices\n• Working knowledge of Agile methodologies and Jira\n• Ability to work collaboratively in a fast-paced environment\n• Excellent problem-solving skills and ability to work independently\n• Knowledge of AWS serverless architectures\n\nPreferences:\n• Experience with ELK Stack, TeamCity, TFS, and GIT\n• Familiarity with containerization platforms like Docker and Kubernetes\n• Experience with messaging technologies such as Kafka\n\nWhy LPL?\n\nAt LPL, we believe that objective financial guidance is a fundamental need for everyone. As the nation’s leading independent broker-dealer, we offer an integrated platform of proprietary technology, brokerage, and investment advisor services. We provide you with a work environment that encourages your creativity and growth, a leadership team that is supportive and responsive, and the opportunity to create a career that has no limits, only amazing potential.\n\nWe are one team on one mission. We take care of our advisors, so they can take care of their clients.\n\nBecause our company is not too big and not too small, you can seize the opportunity to make a real impact. We are committed to supporting workplace equality, and we embrace the different perspectives and backgrounds of our employees. We also care for our communities, and we encourage our employees to do the same. This creates an environment in which you can do your best work.\n\nWant to hear from our employees on what it’s like to work at LPL? Watch this!\n\nWe take social responsibility seriously. Learn more here!\n\nWant to see info on our benefits? Learn more here.\n\nPay Range:\n$103,360-$155,040/year\n\nActual base salary varies based on factors, including but not limited to, relevant skill, prior experience, education, base salary of internal peers, demonstrated performance, and geographic location. Additionally, LPL Total Rewards package is highly competitive, designed to support your success at work, at home, and at play – such as 401K matching, health benefits, employee stock options, paid time off, volunteer time off, and more. Your recruiter will be happy to discuss all that LPL has to offer!\n\nWhy LPL?\n\nAt LPL, we believe that objective financial guidance is a fundamental need for everyone. As the nation’s leading independent broker-dealer, we offer an integrated platform of proprietary technology, brokerage, and investment advisor services. We provide you with a work environment that encourages your creativity and growth, a leadership team that is supportive and responsive, and the opportunity to create a career that has no limits, only amazing potential.\n\nWe are one team on one mission. We take care of our advisors, so they can take care of their clients.\n\nBecause our company is not too big and not too small, you can seize the opportunity to make a real impact. We are committed to supporting workplace equality, and we embrace the different perspectives and backgrounds of our employees. We also care for our communities, and we encourage our employees to do the same. This creates an environment in which you can do your best work.\n\nWant to hear from our employees on what it’s like to work at LPL? Watch this!\n\nWe take social responsibility seriously. Learn more here\n\nWant to see info on our benefits? Learn more here\n\nJoin the LPL team and help us make a difference by turning life’s aspirations into financial realities. Please log in or create an account to apply to this position. Principals only. EOE.\n\nInformation on Interviews:\n\nLPL will only communicate with a job applicant directly from an @lplfinancial.com email address and will never conduct an interview online or in a chatroom forum. During an interview, LPL will not request any form of payment from the applicant, or information regarding an applicant’s bank or credit card. Should you have any questions regarding the application process, please contact LPL’s Human Resources Solutions Center at (800) 877-7210",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for people who thrive in a fast-paced environment, are client-focused, team oriented, and are able to execute in a way that encourages creativity and continuous improvement",
+            "Bachelor's degree in Computer Science, Information Systems, or related field",
+            "7+ years of experience developing RESTful APIs with Python frameworks such as Flask, Django, Fast API, AWS Powertools, SQL Alchemy, etc",
+            "3+ years of experience developing microservices-based applications on AWS, leveraging services like API Gateway, Lambda, Glue, SNS, SQS, Step Functions, DynamoDB, AWS PostgreSQL RDS, etc",
+            "Strong understanding of API design principles and experience with documentation tools like Swagger",
+            "Experience authoring Infrastructure as Code solutions with Terraform",
+            "Familiarity with CI/CD pipelines and DevOps practices",
+            "Working knowledge of Agile methodologies and Jira",
+            "Ability to work collaboratively in a fast-paced environment",
+            "Excellent problem-solving skills and ability to work independently",
+            "Knowledge of AWS serverless architectures",
+            "Experience with ELK Stack, TeamCity, TFS, and GIT",
+            "Familiarity with containerization platforms like Docker and Kubernetes",
+            "Experience with messaging technologies such as Kafka"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, develop, test, tune and implement n-tiered web-based Dot Net applications while collaborating with Development, Enterprise Architecture and Product teams",
+            "Assess opportunities for application and process improvements and prepare SDLC documentation",
+            "Maintain, troubleshoot, optimize and enhance existing systems",
+            "Work collaboratively with QA, DevOPS teams to adopt CI/CD tool chain and develop automation",
+            "Communicate with technical and non-technical groups on a regular basis as part of product/project support",
+            "Design and develop core services and components with expertise in service-oriented architecture",
+            "Design patterns and coding best practices"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$103,360-$155,040/year",
+            "Actual base salary varies based on factors, including but not limited to, relevant skill, prior experience, education, base salary of internal peers, demonstrated performance, and geographic location",
+            "Additionally, LPL Total Rewards package is highly competitive, designed to support your success at work, at home, and at play – such as 401K matching, health benefits, employee stock options, paid time off, volunteer time off, and more"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.lpl.com/",
+          "text": "lpl.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=LPL+Financial&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCJIO",
+          "text": "See web results for LPL Financial"
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IjlqeWdObFRydnFXSEI2WHVBQUFBQUE9PSIsImZjIjoiRXFJQ0N1SUJRVTUxVjJoamJHaEdSVk5WT1ZadlExWXhhbXA1V1ZCVmJYSlJXR1pJVEZoZlNUQkNNbWRITlVobFJHMUxaVzQzV2xCRFgxb3RVMGROYlVwSGNFdEhjVzkzVVdSamRYSjVVM1pWTVZCSWJXRnZiakI2YzNBNGVEVmxkalF6YjFremVtc3RUVFUyYWxsZllYQjVUV3MxUVRaM01FdDFkRzVmUXpsdlJFeERXR2gxWkhneFNFNXhTVkZVUlV4emRFdDZjMkpIV2pOb2RuRmxXbFZJWkUxRE5WbzBjVVJYVHpKS1NWUlRTRzlmZFhObFUwTklVa1oxZG1KU1VVcDJWbWxMY21GblRGaGlUWGRzZGs5bGNUVlNMVjlETmpKNGEyOVNkbXRvYTNWR2FGOVpRUklYTWpsdE1scFpXRmxCYzA4eE5VNXZVRFZNWVVwNVFUQWFJa0ZRV0dodE5XSlFVVEZMYkdweGIxVnVZWEJsYzBOellrTnNkR1JmTldaa2RXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgQXQgTFBMIC0gTFBMIEZpbmFuY2lhbCIsImxpbmsiOiJodHRwczovL2NhcmVlci5scGwuY29tL2pvYi9SLTAzNDA1My9Tci1Tb2Z0d2FyZS1FbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Staff Software Engineer (.Net)",
+      "company_name": "CrossCountry Mortgage, LLC.",
+      "location": "  Charlotte, NC   ",
+      "via": "via Jobvite",
+      "description": "Position Overview:\n\nThe Staff Software Engineer will lead the design and development of enterprise applications and systems. This position will ensure applications operate efficiently and provide production support, data research, code analysis and development work including enhancements and hot fixes in alignment with project implementation timelines. The Staff Software Engineer will also... collaborate with the stakeholders as necessary to achieve project goals, as well as provide oversight and mentorship to other software engineers.\n\nJob Responsibilities:\n• Ensure applications operate efficiently. Provide production support, data research, code analysis and web and windows development work including enhancements and hot fixes.\n• Analyze relevant software and hardware tools, interdependencies, limitations with reference to functional requirements, system architecture, and industry standards.\n• Design software applications in accordance with the agreed requirement specifications, system limitations and industry standards.\n• Gather clients' feedback and evaluation of the software applications for post-implementation follow-up.\n• Identify design problems in the software.\n• Identify relevant standards and guidelines applicable to the review items.\n• Identify the need for integrating enterprise components with existing systems.\n• Review the software requirements and assumptions for the solution and resolve conflicts and inconsistencies with stakeholders.\n• Provide code-review and coaching to Software Engineers on the team.\n\nQualifications and Skills:\n• Bachelor’s degree or equivalent combination of education and experience.\n• 9+ years of .NET Development experience.\n• Prior experience working in an Architect/Technical Lead capacity.\n• Prior experience in diverse technological environments.\n• Consumer mortgage and lending experience preferred.\n• Experience working on or leading an Agile/Scrum team.\n• Experience working with Encompass SDK/API, a plus.\n• Excellent programming skills with significant expertise in: Object Oriented Programming (OOP), Batch Processing, Document Generation, Data exchange formats (CSV, XML, JSON), Data transfers (HTTP, SFTP, SSL).\n• Expertise in Microsoft .NET technologies including C#, .NET Core, MVC, LINQ, Entity Framework.\n• Knowledge of the Microsoft IIS stack and the ability to configure and troubleshoot issues with web-based applications and services including deployment.\n• Extensive experience in development of APIs and REST Framework.\n• Experience with the design, functioning, and troubleshooting of SQL Server technologies including T-SQL, CRUD - DML and DDL Operations.\n• Experience working with AZURE, AWS (EC2 and RDS), JIRA, TFS, Bit Bucket, GIT.\n• Excellent analytical skills with the ability to assess new and unfamiliar issues and work through potential solutions, issues, and risks.\n• Excellent critical thinking, organizational and communication skills.\n\nThis job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position.\n\nAbout Us:\n\nCrossCountry Mortgage (CCM) is one of the nation’s top 3 retail mortgage lenders with more than 7,000 employees operating nearly 600 branches across all 50 states. We have been recognized nine times on the Inc. 5000 list of America’s fastest-growing private businesses and have received countless awards for our standout culture. Through our dedication to getting it done, we make every mortgage feel like a win.\n\nA culture where you can grow! CCM has created an exceptional culture driving employee engagement, exceeding employee expectations, and directly impacting company success. At our core, our entrepreneurial spirit empowers every employee to be who they are to help us move forward together. You’ll get unwavering support from all departments and total transparency from the top down.\n\nCCM offers eligible employees a competitive compensation plan and a robust benefits package, including medical, dental, vision, as well as a 401K. We also offer company-provided short-term disability, an employee assistance program, and a wellness program.\n\nCrossCountry Mortgage, LLC offers MORE than a job, we offer a career. Apply now to begin your path to success! https://crosscountrymortgage.com/about-us/careers/apply/\n\nCalifornia residents: Please see CrossCountry’s privacy statement for information about how CrossCountry collects and uses personal information about California consumers.\n\nCrossCountry Mortgage, LLC. (NMLS3029) is an Equal Opportunity Employer committed to workforce diversity. Qualified applicants will receive consideration without regard to race, religion, creed, color, orientation, gender, age, national origin, veteran status, disability status, marital status, sexual orientation, gender identity, or gender expression, or any other protected status in accordance with all applicable federal, state and local laws. The collective sum of the individual differences, life experiences, knowledge, inventiveness, innovation, self-expression, unique capabilities and talent that our employees invest in their work represents a significant part of not only our culture, but our reputation. The Company is committed to fostering, cultivating and preserving a culture that welcomes diversity and inclusion. Employment is contingent upon successful completion of a background investigation. CrossCountry Mortgage, LLC. is an FHA Approved Lending Institution and is not acting on behalf of or at the direction of HUD/FHA or the Federal government. To verify licensing, please visit www.NMLSConsumerAccess.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree or equivalent combination of education and experience",
+            "9+ years of .NET Development experience",
+            "Prior experience working in an Architect/Technical Lead capacity",
+            "Prior experience in diverse technological environments",
+            "Experience working on or leading an Agile/Scrum team",
+            "Excellent programming skills with significant expertise in: Object Oriented Programming (OOP), Batch Processing, Document Generation, Data exchange formats (CSV, XML, JSON), Data transfers (HTTP, SFTP, SSL)",
+            "Expertise in Microsoft .NET technologies including C#, .NET Core, MVC, LINQ, Entity Framework",
+            "Knowledge of the Microsoft IIS stack and the ability to configure and troubleshoot issues with web-based applications and services including deployment",
+            "Extensive experience in development of APIs and REST Framework",
+            "Experience with the design, functioning, and troubleshooting of SQL Server technologies including T-SQL, CRUD - DML and DDL Operations",
+            "Experience working with AZURE, AWS (EC2 and RDS), JIRA, TFS, Bit Bucket, GIT",
+            "Excellent analytical skills with the ability to assess new and unfamiliar issues and work through potential solutions, issues, and risks",
+            "Excellent critical thinking, organizational and communication skills",
+            "This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Staff Software Engineer will lead the design and development of enterprise applications and systems",
+            "This position will ensure applications operate efficiently and provide production support, data research, code analysis and development work including enhancements and hot fixes in alignment with project implementation timelines",
+            "The Staff Software Engineer will also collaborate with the stakeholders as necessary to achieve project goals, as well as provide oversight and mentorship to other software engineers",
+            "Analyze relevant software and hardware tools, interdependencies, limitations with reference to functional requirements, system architecture, and industry standards",
+            "Design software applications in accordance with the agreed requirement specifications, system limitations and industry standards",
+            "Gather clients' feedback and evaluation of the software applications for post-implementation follow-up",
+            "Identify design problems in the software",
+            "Identify relevant standards and guidelines applicable to the review items",
+            "Identify the need for integrating enterprise components with existing systems",
+            "Review the software requirements and assumptions for the solution and resolve conflicts and inconsistencies with stakeholders",
+            "Provide code-review and coaching to Software Engineers on the team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "CCM offers eligible employees a competitive compensation plan and a robust benefits package, including medical, dental, vision, as well as a 401K",
+            "We also offer company-provided short-term disability, an employee assistance program, and a wellness program"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=CrossCountry+Mortgage,+LLC.&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCOUO",
+          "text": "See web results for CrossCountry Mortgage, LLC."
+        }
+      ],
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBTb2Z0d2FyZSBFbmdpbmVlciAoLk5ldCkiLCJodGlkb2NpZCI6IkJEYTJQTXp4Q3NkeUVBTEVBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJYTmlhMDFCWmpoa2VWWm9lVWxZUmxSSWFtWkZSRVp0WkdWclVVeEZNRzlrVVdGMVVXVk9kV1JJYkV0VmVreFlUR1J4U0V0Mk1reEpSMlYxTXpjeGJFNDNNa2xIY2xKeE0wUlBOM0ZKT1RCQmVqbGlhV3hrWXpBMU5sUnVTMWgzYzFsQ1pGSlhVRzB3UTFwUlptRmFOemwwZEhCTWIyd3RVVjh4WkdOU09VMXllRXhsYnkxS2JGUk1kRFJmWVRsNVF6SlVUMTg1ZW1vMU1rTjZlRFZmY2psUk55MXhkWEJVU2tRMVRrbzBlbkU1YVhKVWREWjVRVFZzVUdsRVFWWnRkVVZQVm5CWWEwcFVja1JCWW5saWVuZERXV3ByTVRsSFR6TmpjM0JRVDBnMlpVSlVlWGRCZUc4NVVHbG9OWEZGYzA1T2FYRndOVmM1ZEVWV1ZXOUxZMkpxU0hGeE54SVhNamx0TWxwWldGbEJjMDh4TlU1dlVEVk1ZVXA1UVRBYUlrRlFXR2h0TlZwNExVdGFUVVJTVnpGaGMyTkRObmRCTTJkMmFtNU5OV2xNYkhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9idml0ZSIsImxpbmsiOiJodHRwczovL2pvYnMuam9idml0ZS5jb20vY3Jvc3MtY291bnRyeS9qb2Ivb1JwS25mdzc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer - NC",
+      "company_name": "Experis",
+      "location": "  Charlotte, NC   ",
+      "via": "via LinkedIn",
+      "description": "ManpowerGroup has partnered with a leading Financial Services organization in the Multiple locations City for a contract Full Stack Java Developer to assist their team. Future onsite work is required as per CDC and client guidelines for safe return, local candidates or able to relocate encouraged to apply!\n\nTitle: Full Stack Java Developer...\n\nLocation: Charlotte, NC\n\nDuration: 12-18 months\n\nJob Title Job Summary\n• React, Angular or NodeJS\n• ReactJS + TypeScript\n• Spring boot\n• Spring, Spring MVC, Spring Boot, XML, JSON, RESTful\n\nHow To Apply\n\nFor immediate attention please apply online and send an email bhavya.shyamdev@experis.com\n\nAbout Experis https://www.experis.com/\n\nExperis is part of the ManpowerGroup family of brands. ManpowerGroup is the world leader in innovative workforce solutions, connecting human potential to the power of business. ManpowerGroup serves both large and small organizations across all industry sectors through our brands and offerings: Manpower, Experis, Talent Solutions, and Jefferson Wells",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "React, Angular or NodeJS",
+            "ReactJS + TypeScript"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.stealth.fr/",
+          "text": "stealth.fr"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=602210607&q=Experis&sa=X&ved=0ahUKEwjFsdqtlYGEAxXDGlkFHWRbAtkQmJACCKwP",
+          "text": "See web results for Experis"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkLOQPMs8sj5-AoWXb33YBvzULWzcr5feiKt_T4I&s",
+      "extensions": [
+        "6 days ago",
+        "Contractor and Temp work",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Contractor and Temp work"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBOQyIsImh0aWRvY2lkIjoiZDdqcFZ0eVdmQ2JZSDdMT0FBQUFBQT09IiwiZmMiOiJFcUlDQ3VJQlFVNTFWMmhqYlVVM1RGaENaelpyUWtOSVdYazRPWGxNWmswNE5VYzRRVEEzZUdrMlRWQlRORzFvYUdSSWIyVnZSMHRXVVhKR01sbElSMHcwYlVNdGJEWnhNRnB6UVRscWQxODVUazFhTnpSSVNsSnNOMmx0WDJkUVF6Vk9iMDAyVkZFM2NtRlpRbkZYTnpWalQwbE5RbWxtTW5OU1JUVjFVRXRFZEVkbWF6VnJNVkJtYkVFMGJqUjFOakV4YTFoSldHNVZMWG96TjBOellWOXhiakJmUVdOTVQzQjVkbTR4V1dsRWFuRXpNMDUyWmtWd1RXTkdjV2RQVUZwd1IzQk9XVXAxV1dWeE1uZHVlRXhHTkhoaGJHTlNOM1oxWmt4M05rdG5kelJTTlhWeVp4SVhNamx0TWxwWldGbEJjMDh4TlU1dlVEVk1ZVXA1UVRBYUlrRlFXR2h0TldGZlFUaGhXV1puUWpSRWFFZ3ljVGQ0TlZOeE1rcHZkbWsxWjNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItbmMtYXQtZXhwZXJpcy0zODE0MDk2OTE5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Finance analyst",
+          "value": "finance analyst"
+        },
+        {
+          "text": "Coordinator",
+          "value": "coordinator"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Engineers",
+          "value": "engineers"
+        },
+        {
+          "text": "Java engineer",
+          "value": "java engineer"
+        },
+        {
+          "text": "Platform engineer",
+          "value": "platform engineer"
+        },
+        {
+          "text": "Security engineer",
+          "value": "security engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Senior manager",
+          "value": "senior manager"
+        },
+        {
+          "text": "Senior staff",
+          "value": "senior staff"
+        },
+        {
+          "text": "Software programmer",
+          "value": "software programmer"
+        },
+        {
+          "text": "Systems engineer",
+          "value": "systems engineer"
+        },
+        {
+          "text": "Test engineer",
+          "value": "test engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Atlanta, GA",
+          "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+        },
+        {
+          "text": "Raleigh, NC",
+          "value": "9-BRny9arImt8BGKUraQZw=="
+        },
+        {
+          "text": "Charlotte, NC",
+          "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+        },
+        {
+          "text": "Durham, NC",
+          "value": "8WYPEnHkrIl-8kaKidp64Q=="
+        },
+        {
+          "text": "Alpharetta, GA",
+          "value": "N_XFaJ909YhOTGUoYdUSwQ=="
+        },
+        {
+          "text": "Columbia, SC",
+          "value": "49ExeWml-IiW-nmz9Ago8w=="
+        },
+        {
+          "text": "Charlottesville, VA",
+          "value": "j6RQ6i2Gs4n8dIvDlvCGkA=="
+        },
+        {
+          "text": "Augusta, GA",
+          "value": "QaoLFpfQ-YjkC6rj_YrnPg=="
+        },
+        {
+          "text": "Cary, NC",
+          "value": "Q4tK_1S9rInhS0Ra249WRA=="
+        },
+        {
+          "text": "Charleston, SC",
+          "value": "dySo3EJ6_ohr7OGu4Pf6NQ=="
+        },
+        {
+          "text": "Blacksburg, VA",
+          "value": "w9wG3AqVTYgt2kJI6rjOhg=="
+        },
+        {
+          "text": "Chattanooga, TN",
+          "value": "heeDikBgYIiqKIeJHyZxJA=="
+        },
+        {
+          "text": "Greensboro, NC",
+          "value": "eXvHOD8ZU4jIEr54lMS5kw=="
+        },
+        {
+          "text": "Morrisville, NC",
+          "value": "10H8rmWSrIk-q6M_Ay-_4Q=="
+        },
+        {
+          "text": "Asheville, NC",
+          "value": "CW8PPKmMWYhdOjQGwTHvlA=="
+        },
+        {
+          "text": "Blountville, TN",
+          "value": "Y_WODcuEWoj71ak0cZb-yA=="
+        },
+        {
+          "text": "Dunwoody, GA",
+          "value": "8atB5MgB9YgRG0RZMhu81Q=="
+        },
+        {
+          "text": "Fayetteville, NC",
+          "value": "I0qSQk8Tq4mbO3YSdZ6row=="
+        },
+        {
+          "text": "Fort Mill, SC",
+          "value": "92xGtFSEVogCel2lOwFDfw=="
+        },
+        {
+          "text": "Greenville, SC",
+          "value": "BRH6YmaPV4iWdiW_d52q2A=="
+        },
+        {
+          "text": "Knightdale, NC",
+          "value": "-z14gahcrIkWR9xhsSs65g=="
+        },
+        {
+          "text": "Marietta, GA",
+          "value": "XQZHhpYQ9YiB6Y4yxlaHsQ=="
+        },
+        {
+          "text": "Winston-Salem, NC",
+          "value": "d7LWgpuhU4hFgj-0VF8yUA=="
+        },
+        {
+          "text": "Blair, SC",
+          "value": "D5PgCqYxVogQMQS_ZPet9A=="
+        },
+        {
+          "text": "Burnsville, NC",
+          "value": "TaOKDO5cVIiMfGS_SJEPmA=="
+        },
+        {
+          "text": "Chapel Hill, NC",
+          "value": "p35uIRzDrInL5EME4LoDfw=="
+        },
+        {
+          "text": "Charleston, WV",
+          "value": "OV0UiM4sT4gLG8kER6hhdg=="
+        },
+        {
+          "text": "Claremont, NC",
+          "value": "-R0QSzlJUYgKTPi0-V1BjA=="
+        },
+        {
+          "text": "Concord, NC",
+          "value": "S_yqzmIFVIi9rs0-wLih8A=="
+        },
+        {
+          "text": "Conyers, GA",
+          "value": "03GQ_spV9IjsnLolTG99KA=="
+        },
+        {
+          "text": "Dublin, GA",
+          "value": "BwNQPw4g8YjlAvOBmuepgg=="
+        },
+        {
+          "text": "Duluth, GA",
+          "value": "o3Wlch2Y9Yjj2OI8isAmhQ=="
+        },
+        {
+          "text": "Fort Liberty, NC",
+          "value": "ha5bE9dpq4k_7vgQl7i_9w=="
+        },
+        {
+          "text": "Greer, SC",
+          "value": "W717_QsqWIjz_nPT4M9KEQ=="
+        },
+        {
+          "text": "Grovetown, GA",
+          "value": "HU8FWhDW-Yi6tjq5gA15iA=="
+        },
+        {
+          "text": "Huntington, WV",
+          "value": "tTAkearjRYjUUUDtaDVx0w=="
+        },
+        {
+          "text": "Johns Creek, GA",
+          "value": "eaE4GjCf9YgBvUB-qNZGPQ=="
+        },
+        {
+          "text": "Kennesaw, GA",
+          "value": "obC2WeU_9YiSWBaDwT-rmw=="
+        },
+        {
+          "text": "Liberty, NC",
+          "value": "2TOjEs05U4g4SjaiKwz2vA=="
+        },
+        {
+          "text": "Macon, GA",
+          "value": "DeOBiEv484ihpL_xPH2x7g=="
+        },
+        {
+          "text": "Marion, NC",
+          "value": "0eP1MfCyUIiqeGJjRqWdBQ=="
+        },
+        {
+          "text": "Matthews, NC",
+          "value": "kbgLkvAjVIiAR5je9xMWBw=="
+        },
+        {
+          "text": "Mount Pleasant, SC",
+          "value": "9eUerhZt_ojjAV19n1CQaw=="
+        },
+        {
+          "text": "Newton, NC",
+          "value": "011VcyE0UYgmZP0TRtRDIQ=="
+        },
+        {
+          "text": "North Charleston, SC",
+          "value": "4_kLOK9j_ohwTfRLwJoeBw=="
+        },
+        {
+          "text": "Oak Ridge, TN",
+          "value": "3xDIHEczXIi3chDvM0bKWw=="
+        },
+        {
+          "text": "Oakland, SC",
+          "value": "5RXtKeBc_4jvmD5S6V6svw=="
+        },
+        {
+          "text": "Peachtree Corners, GA",
+          "value": "QROd2wah9Yht2sa_CIDkWw=="
+        },
+        {
+          "text": "Pineville, NC",
+          "value": "o1wAvYucVogC2JhiowV-vA=="
+        },
+        {
+          "text": "Piney Flats, TN",
+          "value": "t6-mNsyGWojgOsr3wq52gQ=="
+        },
+        {
+          "text": "Sandy Springs, GA",
+          "value": "McKiwB0M9Ygd3gJn8vrpqQ=="
+        },
+        {
+          "text": "Savannah, GA",
+          "value": "WQbyePx1-4i8IGADUWcMTg=="
+        },
+        {
+          "text": "Tucker, GA",
+          "value": "WTlk2jOm9YgZYnadRU9vbQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Business Support",
+          "value": "/business/naics2007/5614"
+        },
+        {
+          "text": "Restaurant",
+          "value": "/business/naics2007/722"
+        },
+        {
+          "text": "Accommodation",
+          "value": "/business/naics2007/721"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Management",
+          "value": "/business/naics2007/55"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Textiles & Apparel",
+          "value": "/business/naics2007/313"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Lowes",
+          "value": "/m/037922"
+        },
+        {
+          "text": "Mastercard",
+          "value": "/m/021b7r"
+        },
+        {
+          "text": "Jobot",
+          "value": "/g/11jrq3t_g3"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Intuit",
+          "value": "/m/04fdd3"
+        },
+        {
+          "text": "Meta",
+          "value": "/m/0hmyfsv"
+        },
+        {
+          "text": "Cisco",
+          "value": "/m/0dmtp"
+        },
+        {
+          "text": "Emergent Software",
+          "value": "/m/09mjr27"
+        },
+        {
+          "text": "GRAIL",
+          "value": "/g/11m_gx35t8"
+        },
+        {
+          "text": "Lockheed Martin",
+          "value": "/m/0hkqn"
+        },
+        {
+          "text": "Akkodis",
+          "value": "/g/11bc5kjz64"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Fidelity",
+          "value": "/m/028q26"
+        },
+        {
+          "text": "KPMG US",
+          "value": "/m/0zbm9m7"
+        },
+        {
+          "text": "Veeva",
+          "value": "/g/11cnwjsbmh"
+        },
+        {
+          "text": "AT&T",
+          "value": "/m/08z129"
+        },
+        {
+          "text": "Actalent",
+          "value": "/g/11rsrhnd_x"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Bank of America",
+          "value": "/m/01yx7f"
+        },
+        {
+          "text": "Block",
+          "value": "/m/0by16yq"
+        },
+        {
+          "text": "Chick-fil-A, Inc.",
+          "value": "/m/02cctq"
+        },
+        {
+          "text": "Cloudflare",
+          "value": "/m/0h3tb9y"
+        },
+        {
+          "text": "Epic",
+          "value": "/m/0bgrmg"
+        },
+        {
+          "text": "Equifax",
+          "value": "/g/1tltn6kr"
+        },
+        {
+          "text": "FanDuel",
+          "value": "/m/0j6638f"
+        },
+        {
+          "text": "HII's Mission Technologies division",
+          "value": "/g/11fy1t1m6q"
+        },
+        {
+          "text": "Itential, Inc.",
+          "value": "/g/11fhqh61_q"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "NetApp",
+          "value": "/m/03hm8t"
+        },
+        {
+          "text": "Pearson",
+          "value": "/m/07p5zs"
+        },
+        {
+          "text": "Regions",
+          "value": "/m/09hssh"
+        },
+        {
+          "text": "Salesforce",
+          "value": "/m/07btr5"
+        },
+        {
+          "text": "State Farm",
+          "value": "/m/03dnbx"
+        },
+        {
+          "text": "UMB Bank",
+          "value": "/m/09n1m13"
+        },
+        {
+          "text": "WARNERMEDIA",
+          "value": "/m/0l8sx"
+        },
+        {
+          "text": "Walmart",
+          "value": "/m/0841v"
+        },
+        {
+          "text": "Wells Fargo",
+          "value": "/m/01kdws"
+        },
+        {
+          "text": "ABB",
+          "value": "/m/01bs_z"
+        },
+        {
+          "text": "AbbVie",
+          "value": "/m/0rzs09c"
+        },
+        {
+          "text": "AccruePartners",
+          "value": "/g/11f01cjfc5"
+        },
+        {
+          "text": "Acuity Brands",
+          "value": "/m/02plkvg"
+        },
+        {
+          "text": "Agile Defense",
+          "value": "/g/11tmxgm2yl"
+        },
+        {
+          "text": "Ameris Bank",
+          "value": "/m/09m9s2q"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        }
+      ]
+    }
+  ]
+}

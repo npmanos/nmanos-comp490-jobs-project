@@ -1,0 +1,1309 @@
+{
+  "search_metadata": {
+    "id": "65b8a1fe1d64ea1d9ecf6a11",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0f61431a767ec67/65b8a1fe1d64ea1d9ecf6a11.json",
+    "created_at": "2024-01-30 07:15:10 UTC",
+    "processed_at": "2024-01-30 07:15:10 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=software+engineer&ibp=htl;jobs&start=0",
+    "raw_html_file": "https://serpapi.com/searches/f0f61431a767ec67/65b8a1fe1d64ea1d9ecf6a11.html",
+    "total_time_taken": 2.07
+  },
+  "search_parameters": {
+    "q": "software engineer",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "start": 0
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Blizzard Entertainment",
+      "location": "  Irvine, CA   ",
+      "via": "via Blizzard Careers - Blizzard Entertainment",
+      "description": "Team Name:\nBattle.net & Online Products\n...\nJob Title:\nSenior Software Engineer\n\nRequisition ID:\nR021450\n\nJob Description:\n\nJob Title: Senior Software Engineer, Platform SDK\n\nDepartment: B&OP ENGINEERING\n\nLocation: This role is anticipated to be a hybrid work position, with some work on-site and some work-from-home. The potential home studio for this role is in Irvine California\n\nDescription:\n\nThe Platform SDK team within Battle.net provides a suite of SDKs which allow game teams to seamlessly integrate with Battle.net services. By integrating Battle.net’s SDKs, studios can easily supercharge their development - unlocking key capabilities like login, social and purchasing - while primarily focusing on crafting genre-defining player experiences in their game. As a Senior Software Engineer, you will be part of a highly performant team responsible for shaping and implementing the future of our SDK strategy within Battle.net. Additionally you will also support our existing SDKs, establishing working relationships with game teams and other development teams within Battle.net, and directly contribute towards a world class gaming ecosystem. Our ideal candidate is an experienced developer with a passion for building SDKs, shareable components, and has a history of working with a team in an agile environment.\n\nResponsibilities:\n\n● Contribute to the development and maintenance of high-performance C++ and C# SDKs which are integrated with game clients to access Battle.net services\n\n● Author and maintain technical documentation for consumption by studio partners\n\n● Support studio partners as they integrate our SDKs into their games\n\n● Create technical design documents and other artifacts\n\n● Participate in on-call rotation to quickly resolve live incidents related to SDK integrations\n\n● Troubleshoot and debug issues with SDKs currently in use by our studio partners\n\n● Uphold and promote the Blizzard Core Values\n\nRequirements:\n\n● Bachelor’s degree in computer science, or equivalent experience, with a specialization in Software Engineering\n\n● A minimum of 5 years of professional software engineering experience in C# ● Experience writing native software for mobile platforms, preference on iOS\n\n● Knowledge of API and communication protocols and integrations\n\n● Strong communication and collaboration skills Pluses:\n\n● Experience with software development in C++\n\n● Experience developing libraries, frameworks, APIs,\n\nWe love hearing from anyone who is enthusiastic about changing the games industry. Not sure you meet all qualifications? Let us decide! Research shows that women and members of other under-represented groups tend to not apply to jobs when they think they may not meet every qualification, when, in fact, they often do! We are committed to creating a diverse and inclusive environment and strongly encourage you to apply.\n\nWe are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to accommodationrequests@activisionblizzard.com. General employment questions cannot be accepted or processed here. Thank you for your interest.\n\nOur World\n\nAt Blizzard Entertainment, we pour our hearts and souls into everything we create. Best known for iconic video game universes including Warcraft, Overwatch, Diablo, and StarCraft, we’ve been creating genre-defining games for millions of players around the world for more than 30 years. We’re on a quest: bring our dreams to life and craft the most epic entertainment experiences…ever. Hard work, iteration and polish go into the Blizzard “secret recipe,” but the most important ingredients come from talented people who share our vision. If that sounds like you, join us.\n\nThe videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry partners.\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status, among other characteristics.\n\nRewards\n\nWe provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered! Subject to eligibility requirements, the Company offers comprehensive benefits including:\n• Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;\n• 401(k) with Company match, tuition reimbursement, charitable donation matching;\n• Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;\n• Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;\n• If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance.\n\nEligibility to participate in these benefits may vary for part time and temporary full-time employees and interns with the Company. You can learn more by visiting https://www.benefitsforeveryworld.com/.\n\nIn the U.S., the standard base pay range for this role is $101,000.00 - $186,754.00 Annual. These values reflect the expected base pay range of new hires across all U.S. locations. Ultimately, your specific range and offer will be based on several factors, including relevant experience, performance, and work location. Your Talent Professional can share this role’s range details for your local geography during the hiring process. In addition to a competitive base pay, employees in this role may be eligible for incentive compensation. Incentive compensation is not guaranteed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in computer science, or equivalent experience, with a specialization in Software Engineering",
+            "A minimum of 5 years of professional software engineering experience in C#",
+            "Experience writing native software for mobile platforms, preference on iOS",
+            "Knowledge of API and communication protocols and integrations",
+            "Strong communication and collaboration skills Pluses:",
+            "Experience with software development in C++",
+            "Experience developing libraries, frameworks, APIs,"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Software Engineer, you will be part of a highly performant team responsible for shaping and implementing the future of our SDK strategy within Battle.net",
+            "Contribute to the development and maintenance of high-performance C++ and C# SDKs which are integrated with game clients to access Battle.net services",
+            "Author and maintain technical documentation for consumption by studio partners",
+            "Support studio partners as they integrate our SDKs into their games",
+            "Create technical design documents and other artifacts",
+            "Participate in on-call rotation to quickly resolve live incidents related to SDK integrations",
+            "Troubleshoot and debug issues with SDKs currently in use by our studio partners",
+            "Uphold and promote the Blizzard Core Values"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!",
+            "Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;",
+            "401(k) with Company match, tuition reimbursement, charitable donation matching;",
+            "Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;",
+            "Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;",
+            "If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance",
+            "In the U.S., the standard base pay range for this role is $101,000.00 - $186,754.00 Annual",
+            "In addition to a competitive base pay, employees in this role may be eligible for incentive compensation",
+            "Incentive compensation is not guaranteed"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://blizzard.com/",
+          "text": "blizzard.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Blizzard+Entertainment&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCOIJ",
+          "text": "See web results for Blizzard Entertainment"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefAVmdsJZwLJmYsi9ifazJqJlj9Ll1Vb2A4J6Vx8&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time and Part-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6InRZYnVXNWpYdUxOYndRY2xBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJtNDNURlJpU1d0UU1ITmlWVUZCZVRKcGRtNHpSR0V3ZGxCUVRXVnVVblZGUlhwTlIzVktRblJWU25vd1YxaGtUSEpwYjJabFRVZENVRkJIU1daVVkzbGZXVnBzY21ORk1uQjRNWGxNUXkwd2VrTm1XVXhPZFhSMlYxbE9MVU5WZEZCMlJGTllaWGQyWmxORmRqWkVWbWhYV0hrdE1WOVZkbVpEWkhoVmVtVkNOMGh2VlhCelozRllZblJEZFVVNFJVNTFha014VTE4MVRVdFZhR3BHYmxkdVNHaGhlSFoyY25acVlWZ3plVzk1VDBjMFdVUmpTMDlyU1VGTGJucGZTV3RHY1dOaGVYaFhiV0pFUVhwUk4wZFdkVnBQTXpVMU9Ya3RWWGsxUjNreFpuSmtkRmxmT1dKc1NHRlNiVFJYWXhJWFh6WkhORnBhZFZoSlNrUTRkMkpyVUdsUFIyVXdRV01hSWtGUVdHaHROV0pwUzNWaFoxbEpXbFpYYjJwTFNXNXZhV3RvZUV0cWJGQlZlV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIEJsaXp6YXJkIENhcmVlcnMgLSBCbGl6emFyZCBFbnRlcnRhaW5tZW50IiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5ibGl6emFyZC5jb20vZ2xvYmFsL2VuL2pvYi9SMDIxNDUwL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "IT Minds LLC",
+      "location": "  Riverside, CA   ",
+      "via": "via LinkedIn",
+      "description": "Senior Software Engineer @ Riverside, CA\n\nJob Description...\n\nKey responsibilities:\n• Design and develop API specifications using OpenAPI Specifications/YAML that is scalable and provides greater security on data.\n• Create build and deployment pipelines for APIs using appropriate tools to implement.\n• Continuous integration and continuous deployment.\n• Support end-end management of the APIs over their entire lifecycle.\n• Work with various application teams to understand their business needs and requirements for the API implementation.\n• Ensure API documentation is created and remains up to date.\n• Lead the development review and ensure code and design quality with appropriate logging, monitoring, tracing, and security standards in place.\n• Help troubleshoot and resolve issues related to the API platform, API accessibility, and API deployments.\n• Perform root cause analysis for Production issues and come up with solutions that will prevent them from happening in the future.\n• Participate and contribute to grooming technical user stories impacting integration.\n\nSkills\n\nExperience:\n• Minimum of 4 years of experience in the development, and implementation of enterprise-wide solutions based on Java Technologies.\n• At least 4 years of hands-on experience with design, development, and implementation of Spring Boot, Spring Cloud, Spring Integration, or Node.js based Microservices.\n\nSkills And Qualifications\n• Excellent analytical, oral, written communication, and presentation skills with the ability to interact with global delivery technical teams.\n• Experience in Agile methodologies - Kanban or SCRUM\n• Experience in Deploying Microservices (spring-boot, node.js) on Docker, Kubernetes, etc.\n• Good understanding of security protocols (e.g. OAuth, SAML)\n• Governance, Event Driven Architecture, message-based architectures, and caching strategies and frameworks.\n• Demonstrated knowledge of test-driven development practices and experience with any of the version control tools such as GitLab, and Continuous Integrations with various CI/CD tools.\n• Experience with Swagger/Swagger Hub.\n• Experience with API Gateway & Management, e.g. Apigee.\n• Experience with Docker & Kubernetes.\n• Experience with AWS cloud products.\n\nWorking attire: Business casual\n\nWorkspend Program Team Notes\n\nThis role is a 3 Months CTH\n\nPlease submit candidates that can work 100% onsite 5 days a week from Site: 503 IHS org, 4223 Fairgrounds St, Riverside, CA- 92501. This will be standard role with Work-hours expanding b/w 09:00 – 5:00 PM Local time\n\nTop Skills\n• Front end --- creating a form that will show to the users (Angular would be great but React is also good. Will ask to write in Angular) – They are using the latest version of Angular\n• Database programming – Need to know how to use SQL but Node JS would be good too --- querying databases --- They use Dynamo DB from AWS --- Most important for him is being able to create lambda functions using AWS --- ability to deploy into",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum of 4 years of experience in the development, and implementation of enterprise-wide solutions based on Java Technologies",
+            "At least 4 years of hands-on experience with design, development, and implementation of Spring Boot, Spring Cloud, Spring Integration, or Node.js based Microservices",
+            "Excellent analytical, oral, written communication, and presentation skills with the ability to interact with global delivery technical teams",
+            "Experience in Agile methodologies - Kanban or SCRUM",
+            "Experience in Deploying Microservices (spring-boot, node.js) on Docker, Kubernetes, etc",
+            "Good understanding of security protocols (e.g. OAuth, SAML)",
+            "Governance, Event Driven Architecture, message-based architectures, and caching strategies and frameworks",
+            "Demonstrated knowledge of test-driven development practices and experience with any of the version control tools such as GitLab, and Continuous Integrations with various CI/CD tools",
+            "Experience with Swagger/Swagger Hub",
+            "Experience with API Gateway & Management, e.g. Apigee",
+            "Experience with AWS cloud products",
+            "Front end --- creating a form that will show to the users (Angular would be great but React is also good",
+            "Will ask to write in Angular) – They are using the latest version of Angular"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design and develop API specifications using OpenAPI Specifications/YAML that is scalable and provides greater security on data",
+            "Create build and deployment pipelines for APIs using appropriate tools to implement",
+            "Continuous integration and continuous deployment",
+            "Support end-end management of the APIs over their entire lifecycle",
+            "Work with various application teams to understand their business needs and requirements for the API implementation",
+            "Ensure API documentation is created and remains up to date",
+            "Lead the development review and ensure code and design quality with appropriate logging, monitoring, tracing, and security standards in place",
+            "Help troubleshoot and resolve issues related to the API platform, API accessibility, and API deployments",
+            "Perform root cause analysis for Production issues and come up with solutions that will prevent them from happening in the future",
+            "Participate and contribute to grooming technical user stories impacting integration",
+            "This will be standard role with Work-hours expanding b/w 09:00 – 5:00 PM Local time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.itminds.net/",
+          "text": "itminds.net"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=IT+Minds+LLC&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCLMK",
+          "text": "See web results for IT Minds LLC"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w-oTBmYYsL1_zBRWJV6qDzsCIlGKYBSk1fH1-IQ&s",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IlRORUNvcXZnMTEtQ1p5T0ZBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJqaHBkMGRtYzFSNmFqWkdRelJEUVZwbFdqTkRkVTVLUzJKdmVHNUpaR05WZGxST04zUk5iekJzUjNkVFNFTmhSVVoyVFRCNVVXRnhkRFZ0WlRCV2EwVkVRME15VEdkWlptNU5ORXBYVVdWdmFHbFllVk0zUzBKVVQwdHlhbTR5Y2s1ck5GbFJlVjl4ZEU1MU0wTlRSSFJQUlZWNU5IQlVRM0JzVTBJM1lWVmlNVXBWZEhsUFUyYzNabmN0VlhWUVZHa3hUbUp0TlRKVU5HTkpVa2t5WTNwV05YQTNRWGRLVDFseVowSjNiVkl3UjBaNWVtcHRabVZKVHpaVWIxbGhkemswUTNGVmFrVklhMVJaY2tOYVEyNUZiWGRhZVRWSWEwYzNTMlY0UW1kcE1EVlNibkJCVVVGMWJFOHpUR1YzU1JJWFh6WkhORnBhZFZoSlNrUTRkMkpyVUdsUFIyVXdRV01hSWtGUVdHaHROV0pFT0ZoTWJqVXhTV0ZhUm1oTU9HVXhja1V6UkRscmJrTklkSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWF0LWl0LW1pbmRzLWxsYy0zNzM3Njk1MTgwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "First American Financial Corporation",
+      "location": "  Santa Ana, CA   ",
+      "via": "via First American",
+      "description": "Who We Are\n\nJoin a team that puts its People First! As a member of First American’s family of companies, FirstFunding, operates as a non-depository (non-bank) company offering warehouse lending facilities. These facilities help provide necessary funding capability to non-delegated correspondent lenders, correspondent lenders, community banks and credit unions. First Funding services roughly 300... accounts currently and is growing! Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for eight consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.\n\nWhat We Do\n\nHOW YOU’LL CONTRIBUTE\n• Research, design, write, unit- tests, implement and maintain new software applications.\n• Build tools to be used by Development and by our Functional QA Teams\n• Build test automation suites to ensure the quality of guest impacting products\n• Modify and enhance existing applications.\n• Prepare detailed specifications from which programs will be modeled, configured, implemented, tested and debugged.\n• May develop business relationships and integrate activities with other IT departments to ensure successful implementation and support project efforts\n• Report to management on the status of project efforts, identify issues that inhibit the attainment of project goals and implement corrective actions.\n• Required to perform duties outside of normal work hours based on business needs.\n• Other duties as assigned\n\nWHAT YOU’LL BRING\n\nRequired Education, Experience, Certification/Licensure\n• Bachelor's Degree or equivalent combination of education and experience\n• Minimum 1 year experience working with Adobe ColdFusion 2021\n\nKNOWLEDGE, SKILLS, AND ABILITIES (KSAs)\n• Familiarity with various application development languages and platforms\n• Familiarity with multi-tiered software applications\n• Constantly updating personal technical knowledge and skills\n\nPay Range: $67,000-$95,000\n\nThis hiring range is a reasonable estimate of the base pay range for this position at the time of posting. Pay is based on a number of factors which may include job-related knowledge, skills, experience, business requirements and geographic location\n\nWhat We Offer\n\nBy choice, we don’t simply accept individuality – we embrace it, we support it, and we thrive on it! Our People First Culture celebrates diversity, equity and inclusion not simply because it’s the right thing to do, but also because it’s the key to our success. We are proud to foster an authentic and inclusive workplace For All. You are free and encouraged to bring your entire, unique self to work. First American is an equal opportunity employer in every sense of the term.\n\nBased on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree or equivalent combination of education and experience",
+            "Minimum 1 year experience working with Adobe ColdFusion 2021",
+            "KNOWLEDGE, SKILLS, AND ABILITIES (KSAs)",
+            "Familiarity with various application development languages and platforms",
+            "Familiarity with multi-tiered software applications",
+            "Constantly updating personal technical knowledge and skills"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Research, design, write, unit- tests, implement and maintain new software applications",
+            "Build tools to be used by Development and by our Functional QA Teams",
+            "Build test automation suites to ensure the quality of guest impacting products",
+            "Modify and enhance existing applications",
+            "Prepare detailed specifications from which programs will be modeled, configured, implemented, tested and debugged",
+            "May develop business relationships and integrate activities with other IT departments to ensure successful implementation and support project efforts",
+            "Report to management on the status of project efforts, identify issues that inhibit the attainment of project goals and implement corrective actions",
+            "Required to perform duties outside of normal work hours based on business needs",
+            "Other duties as assigned"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range: $67,000-$95,000",
+            "This hiring range is a reasonable estimate of the base pay range for this position at the time of posting",
+            "Pay is based on a number of factors which may include job-related knowledge, skills, experience, business requirements and geographic location",
+            "Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.firstam.com/",
+          "text": "firstam.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=First+American+Financial+Corporation&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCIgL",
+          "text": "See web results for First American Financial Corporation"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ12_w4yZOR2qb5f_Gf53ShKzTeKVgj-nq6x8&s=0",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiU0EzcDFsT0JkOV9sazVZSUFBQUFBQT09IiwiZmMiOiJFc3dDQ293Q1FVNTFWMmhqYmpVNVlrcFFhakp3VVdadWNqWm1RVTE2UldsNmVFZHJWRzFWWkhGNk9HTXhOVGt6V2pGSlNYQXRNbTVTVEdsMVUydE9UamxOUmtoNFdHWldSVlpDZVZjMVZqaEdMVXhZUm1OYWMydDRZa3RwUm1wSFFWWk9aRlJsVEZkc1UwbzRUMU40VDJ0V1dFc3dNSFJOU1daRU5FcEZSRGR3WWtoSlZYWjNkalJmU0hGb1h6Um9aVXcxT0dOM1pIUkRkbmRZUWpOTE1UQnRSbVJGYkcxWVJsVTJPVVp5ZWs5c1JURkxkbVJUV0VOd1VUTldYMGN6VkhWM2NIbzRkbE5RZEVoYVoydDVhMjltYUhKRmFFMTNjbWxMTjNwWFpqaDBjVlJQZVRsUk4wWnBlRzVZZVVGNFowVkJhVk4yU201T1Z6aDBhRTFJVEhoa2VtZEhjM2hFTUVkMlNGSkdOV0ZrVXhJWFh6WkhORnBhZFZoSlNrUTRkMkpyVUdsUFIyVXdRV01hSWtGUVdHaHROVmxZVm05NVZFcENlbXRIVW5SeGNuQk5jMjlxUkdSZmNGcEZZMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZpcnN0IEFtZXJpY2FuIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5maXJzdGFtLmNvbS9qb2Ivc2FudGEtYW5hL3NvZnR3YXJlLWVuZ2luZWVyLzM5MDU0LzYwNDI3NDQ2MTkyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Senior Staff Software Engineer",
+      "company_name": "The Trade Desk",
+      "location": "  Irvine, CA   ",
+      "via": "via The Trade Desk",
+      "description": "Search open roles at The Trade Desk. Because the future of the open internet starts with you.",
+      "job_highlights": [
+        {
+          "items": [
+            "Search open roles at The Trade Desk. Because the future of the open internet starts with you."
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.thetradedesk.com/",
+          "text": "thetradedesk.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=The+Trade+Desk&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCMEL",
+          "text": "See web results for The Trade Desk"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNlbmlvciBTdGFmZiBTb2Z0d2FyZSBFbmdpbmVlciIsImh0aWRvY2lkIjoiZlZRVkhzN0xRUVo5Vko4S0FBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYlVwSWFHdFRWMHBuVldoeWNGTXpOelF5WW1wUk9HNHhPWFJKU0hJMVoyeEhNamxIYWpWT1MyMUxibVJGYWtoVExWRjNRVzAzTTNkRmRYUmZWVTE0ZUVSTmJrZERlbXBXUlMwMGRraFRTMmxMWW1zME5EVnFURUZUVjNJeVdUYzVjMHhuYlZCaWJGQkhWVlUwWDBVdGREWTFVamRPVm05MVlteE5aMXBwTmxkbVZFeE1UbGhaVTFBNGEyUk9OVTgyY1hkcU5GZGZVblJ0UzNNdFUwb3RZMmhUU1U5RE9YRkhhbU4wV0ZCTGNHTjRkMG96UjJwWVgyNVpVbVZOWlZGTWFHcHBjVzB0WjFSdGNIVlNaRUpRTkhaUFRqRk5XRmsyV21ocU9YWjJTa3BQYzJkalRteE9Uemh1ZWtobU5tczRZeElYWHpaSE5GcGFkVmhKU2tRNGQySnJVR2xQUjJVd1FXTWFJa0ZRV0dodE5XSkJabXhhU1ZVM2RrZzFRV05sTjB4UE9GQklaVVYzVFRWRk0yYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVGhlIFRyYWRlIERlc2siLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnRoZXRyYWRlZGVzay5jb20vam9icy80MTI3MDI1MDA3L2xlYWQtc2VuaW9yLXN0YWZmLXNvZnR3YXJlLWVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Software Engineer, Online - Diablo IV",
+      "company_name": "Blizzard Entertainment",
+      "location": "  Irvine, CA   ",
+      "via": "via Blizzard Careers - Blizzard Entertainment",
+      "description": "Team Name:\nDiablo\n...\nJob Title:\nLead Software Engineer, Online - Diablo IV\n\nRequisition ID:\nR021516\n\nJob Description:\n\nLead Software Engineer, Online, Diablo IV\n\nThe minions of Hell are growing stronger...\n\nWe are looking for a passionate Lead Software Engineer, Online, who is excited to drive implementation of server technology at a global scale in service of amazing experiences for our players. If you have a passion for game development and want to participate in the future of Blizzard, we would love to hear from you! Our team values creativity, collaboration and a commitment to quality and we are searching for like-minded developers to add to our team of talented game makers.\n\nYou will help develop new systems and services for our game, coordinating across disciplines with designers and client engineers. In addition to having the usual technical chops, we want to hear from qualified engineers who have an absolute passion for gaming, programming, and finding simple solutions to complex problems. The ideal candidate should be excited by the idea of working closely with designers to create compelling and epic features that will keep players engaged for years.\n\nWe love engineering, geeking out over new technology and helping move the industry forward. Most importantly, we learn, grow, and ultimately enjoy success as a team, overcoming new challenges together.\n\nThis role is anticipated to be a hybrid work position, with some work on-site and some work-from-home. The potential home studio for this role is either Albany, NY, Irvine, CA or Austin, TX\n\nRESPONSIBILITIES:\n• Contribute to defining the project’s technical vision for the server infrastructure, collaborating within the project team and across multiple operations teams within Blizzard to ensure service requirements for the project are clearly defined and met.\n• Managerial responsibilities to include: one on ones, annual review process, reviewing peoples work, planning and team direction, establishing vision for your team, coaching and mentoring, assessing priorities and risks, meeting with engineering department managers.\n• Ensure the efficiency, maintainability, and scalability of the services and technology developed by the Online team.\n• Participate in driving the delivery of social and other multiplayer features\n• Act as a point of contact for cross-team server development, partnering with a central-service and platform team to define and execute on project requirements\n• Promote, contribute to, and participate in our culture of inclusion and diversity\n• You are going to work with production staff and other leads of the Diablo team to prioritize tasks and track development.\n• Ensure that your team adheres to established coding standards, development philosophies, and maintains efficient coding practices.\n• Serve as an active partner within the larger Diablo team leadership group.\n• REQUIREMENTS:\n• Minimum of 1 year leading a small software engineering team\n• Strong programming skills in C++\n• A minimum of 5 years' programming experience with at least one shipped video game\n• Prior development experience in distributed systems and client/server architectures\n• Strong code review, interpersonal and communications skills\n• Experience working in a collaborative team environment and handling multiple projects simultaneously\n\nPLUSES:\n• Previous experience shipping and supporting a Live product at a global scale\n• Networking experience in TCP, UDP, and higher-level protocols\n• Expertise in Windows and Linux environments.\n• Experience with cloud/virtualization/containerization technologies and infrastructure\n• Expertise in relevant technologies such as SQL, Cassandra, Docker, Kubernetes, Pulsar, etc.\n• Familiar with security considerations (encryption, denial of service).\n• A degree in computer science, or a related field\n• Previous experience shipping video games on console platforms\n• Passion for video games\n\nThe videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry partners.\n\nWe love hearing from anyone who is enthusiastic about changing the games industry. Not sure you meet all qualifications? Let us decide! Research shows that women and members of other under-represented groups tend to not apply to jobs when they think they may not meet every qualification, when, in fact, they often do! We are committed to creating a diverse and inclusive environment and strongly encourage you to apply.\n\nAccommodation Request: We are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to accommodationrequests@activisionblizzard.com. General employment questions cannot be accepted or processed here. Thank you for your interest.\n\nOur World\n\nAt Blizzard Entertainment, we pour our hearts and souls into everything we create. Best known for iconic video game universes including Warcraft, Overwatch, Diablo, and StarCraft, we’ve been creating genre-defining games for millions of players around the world for more than 30 years. We’re on a quest: bring our dreams to life and craft the most epic entertainment experiences…ever. Hard work, iteration and polish go into the Blizzard “secret recipe,” but the most important ingredients come from talented people who share our vision. If that sounds like you, join us.\n\nThe videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry partners.\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status, among other characteristics.\n\nRewards\n\nWe provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered! Subject to eligibility requirements, the Company offers comprehensive benefits including:\n• Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;\n• 401(k) with Company match, tuition reimbursement, charitable donation matching;\n• Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;\n• Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;\n• If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance.\n\nEligibility to participate in these benefits may vary for part time and temporary full-time employees and interns with the Company. You can learn more by visiting https://www.benefitsforeveryworld.com/.\n\nIn the U.S., the standard base pay range for this role is $121,500.00 - $224,880.00 Annual. These values reflect the expected base pay range of new hires across all U.S. locations. Ultimately, your specific range and offer will be based on several factors, including relevant experience, performance, and work location. Your Talent Professional can share this role’s range details for your local geography during the hiring process. In addition to a competitive base pay, employees in this role may be eligible for incentive compensation. Incentive compensation is not guaranteed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate should be excited by the idea of working closely with designers to create compelling and epic features that will keep players engaged for years",
+            "Minimum of 1 year leading a small software engineering team",
+            "Strong programming skills in C++",
+            "A minimum of 5 years' programming experience with at least one shipped video game",
+            "Prior development experience in distributed systems and client/server architectures",
+            "Strong code review, interpersonal and communications skills",
+            "Experience working in a collaborative team environment and handling multiple projects simultaneously",
+            "Previous experience shipping and supporting a Live product at a global scale",
+            "Networking experience in TCP, UDP, and higher-level protocols",
+            "Expertise in Windows and Linux environments",
+            "Experience with cloud/virtualization/containerization technologies and infrastructure",
+            "Expertise in relevant technologies such as SQL, Cassandra, Docker, Kubernetes, Pulsar, etc",
+            "Familiar with security considerations (encryption, denial of service)",
+            "A degree in computer science, or a related field",
+            "Previous experience shipping video games on console platforms"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will help develop new systems and services for our game, coordinating across disciplines with designers and client engineers",
+            "In addition to having the usual technical chops, we want to hear from qualified engineers who have an absolute passion for gaming, programming, and finding simple solutions to complex problems",
+            "Contribute to defining the project’s technical vision for the server infrastructure, collaborating within the project team and across multiple operations teams within Blizzard to ensure service requirements for the project are clearly defined and met",
+            "Managerial responsibilities to include: one on ones, annual review process, reviewing peoples work, planning and team direction, establishing vision for your team, coaching and mentoring, assessing priorities and risks, meeting with engineering department managers",
+            "Ensure the efficiency, maintainability, and scalability of the services and technology developed by the Online team",
+            "Participate in driving the delivery of social and other multiplayer features",
+            "Act as a point of contact for cross-team server development, partnering with a central-service and platform team to define and execute on project requirements",
+            "Promote, contribute to, and participate in our culture of inclusion and diversity",
+            "You are going to work with production staff and other leads of the Diablo team to prioritize tasks and track development",
+            "Ensure that your team adheres to established coding standards, development philosophies, and maintains efficient coding practices",
+            "Serve as an active partner within the larger Diablo team leadership group"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!",
+            "Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;",
+            "401(k) with Company match, tuition reimbursement, charitable donation matching;",
+            "Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;",
+            "Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;",
+            "If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance",
+            "In the U.S., the standard base pay range for this role is $121,500.00 - $224,880.00 Annual",
+            "In addition to a competitive base pay, employees in this role may be eligible for incentive compensation",
+            "Incentive compensation is not guaranteed"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://blizzard.com/",
+          "text": "blizzard.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Blizzard+Entertainment&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCJgM",
+          "text": "See web results for Blizzard Entertainment"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefAVmdsJZwLJmYsi9ifazJqJlj9Ll1Vb2A4J6Vx8&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time and Part-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time and Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyLCBPbmxpbmUgLSBEaWFibG8gSVYiLCJodGlkb2NpZCI6IkFzREFJQUNBc1VzUFF3Nk9BQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamEyWTFhWFZWYjE5SldrMXNUMHRwYkRCc05rUlNXbXhxVFZSYWNWcGliVzVITXpFeWMySjBNRFZDYW1zMVptNWFla1JYWmxvd1EySTVXR2xaV25CWWRFRTRTM2xIYjNoSmEwbFdjR0V6VDAxcE9XZDFhVGRZYTFGeFlrSTRUVUZWWVdGSmVFaGhjUzFCVkhFNU9VbEViSFY0WVdjM1NVNXhjRXR5YW5jdE0yZE1kMk5mUW1jelVrbEJaRVF5T0c0eFFqRXhYMEZaYVRCT1VVMXJVME5PV25KME5YTkVjbmhaZFRaWFNtZDBjVjkzVkVKNFV6WlhjMFZCTlZWb1RFNXdlbEpoYzNreFlURkNORmxsVjFSR1IyOHhjR3RyT1ZaT1JtVmZTRVpoUlZSeGJHWm1WMDF2Ums5VFYwbENZMjg1TTJaMFlWZFlSa2RKUVVVdE0yZEtOMFZwYkhwelR4SVhYelpITkZwYWRWaEpTa1E0ZDJKclVHbFBSMlV3UVdNYUlrRlFXR2h0TlZwa09YWmtVRVozTTFoaFdFRlFVMnh5VG01aWNWaEtXRXA1TjJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCbGl6emFyZCBDYXJlZXJzIC0gQmxpenphcmQgRW50ZXJ0YWlubWVudCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmxpenphcmQuY29tL2dsb2JhbC9lbi9qb2IvUjAyMTUxNi9MZWFkLVNvZnR3YXJlLUVuZ2luZWVyLU9ubGluZS1EaWFibG8tSVY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Software Engineer III, Embedded Systems/Firmware, Pixel",
+      "company_name": "Google",
+      "location": "  Irvine, CA   ",
+      "via": "via LinkedIn",
+      "description": "Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Irvine, CA, USA.Minimum qualifications:\n• Bachelor’s degree or equivalent practical experience.\n• 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry... setting.\n• 2 years of experience with data structures or algorithms in either an academic or industry setting.\n• 2 years of experience with working with embedded operating systems.\n\nPreferred qualifications:\n• Master's degree or PhD in Computer Science or related technical field\n• 2 years of experience with performance, large scale systems data analysis, visualization tools, and/or debugging.\n• Experience developing accessible technologies.\n• Proficiency in code and system health, diagnosis and resolution, and software test engineering.\n\nAbout The Job\n\nGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.\n\nWith your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.\n\nThe Google Pixel team focuses on designing and delivering the world's most helpful mobile experience. The team works on shaping the future of Pixel devices and services through some of the most advanced designs, techniques, products, and experiences in consumer electronics. This includes bringing together the best of Google’s artificial intelligence, software, and hardware to build global smartphones and create transformative experiences for users across the world.\n\nThe US base salary range for this full-time position is $133,000-$194,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .\n\nResponsibilities\n• Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.\n• Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).\n• Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.\n• Write product or system development code.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form ",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree or equivalent practical experience",
+            "2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting",
+            "2 years of experience with data structures or algorithms in either an academic or industry setting",
+            "2 years of experience with working with embedded operating systems",
+            "We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "With your technical expertise you will manage project priorities, deadlines, and deliverables",
+            "You will design, develop, test, deploy, maintain, and enhance software solutions",
+            "Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies",
+            "Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)",
+            "Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback",
+            "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality",
+            "Write product or system development code"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The US base salary range for this full-time position is $133,000-$194,000 + bonus + equity + benefits",
+            "Our salary ranges are determined by role, level, and location"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.google.com/",
+          "text": "google.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Google&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCOUM",
+          "text": "See web results for Google"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfbWVfO85zlrCUxoqaWJftWvTZfBfU0xDYb0W96o&s",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSUksIEVtYmVkZGVkIFN5c3RlbXMvRmlybXdhcmUsIFBpeGVsIiwiaHRpZG9jaWQiOiJqUEdzS0F3WVh0T0thU0Q3QUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGphM05NWHpObFVXZDRRWEYxTUVwZlptWjFRMkprTkVwQ1FsUkhlbFpZWWxCaGFWcFpTRkpaYjJWSlJFZFFRamhuUlVKYVpqSk5aMGRMZGxoWE5qVnJjWFZvUzBGalkwWXphWFU0UkZwaFJYY3RhVE4yWmxWME1XaE1VVXBVVmxwWmJIRlRZamxrY1RCak1uUjJiVTE1UTFOcGJXVXliazgzYzNCS00zY3RRVU5LUm5GaVRVcFBWa05xWm1sbmRuaGxVMHRZTUd0WVpHaG9OelZ2Wkhwd09XRmxkVXhvUVZrMWR6Sk9SRTV0WkVKak1sazRkak5yYmxWNFN6RmtiWGQxTld4SlYxcFNlR0ZrYUMxRUxWZE9WVjl0UzNkdFQyeHpOUzAyWDJwU1RGUm9WMlZDTUhwMGJsUlRUMEpQVG5oak1VUTBkakZvTUVkd2JpMVpORFpIUVhkSGQyRm1aaElYWHpaSE5GcGFkVmhKU2tRNGQySnJVR2xQUjJVd1FXTWFJa0ZRV0dodE5WbzJUMUZRY0ZjNFVubzRNamRqUTNvNFVFWXpjRFEyTVY5Tk5IYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc29mdHdhcmUtZW5naW5lZXItaWlpLWVtYmVkZGVkLXN5c3RlbXMtZmlybXdhcmUtcGl4ZWwtYXQtZ29vZ2xlLTM4MTI1NTY0MTc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company_name": "First American Financial Corporation",
+      "location": "  Santa Ana, CA   ",
+      "via": "via First American",
+      "description": "Who We Are\n\nJoin a team that puts its People First! As a member of the First American family of companies, First American Trust is a federal savings bank that has provided banking, wealth management, and trust solutions on a national, full-service basis for more than five decades. Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what... they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for eight consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.\n\nWhat We Do\n\nFirst American Trust is looking for a result-driven Lead Software engineer who will be responsible for hands on coding as well as supporting and contributing to the architecture, design of cloud-native applications in addition to mentoring junior software engineers. We're interested in talking to you if you're passionate about new opportunities and you have a demonstrated track record of success in delivering new features and products. You love coding and find yourself keeping up with the latest technology trends. You tinker, explore and regularly read to stay in touch with the development community and are passionate about discovering ways to improve quality, reusability, extensibility, and consistency. You are multi-faceted with a great mix of technical and interpersonal skills, which enables you to succeed in highly collaborative and agile work environments. You are very comfortable leading the charge on multiple fronts and working outside your comfort zone to work on multiple initiatives in parallel.\n\nResponsibilities\n• Monitoring, motivating and supervising software engineers on your team to achieve organizational goals.\n• Work with Solution Architect and strategize design plans.\n• A contributing member of the scrum team to design & develop software in an Azure cloud environment.\n• Independently define, prioritize goals and tasks in a fast-paced agile product environment with small, focused teams.\n• Derive optimal solutions and implement best coding practices.\n• On call by rotation and after-hours support driven by business needs.\n• Propose solutions to tough problems, build consensus among team & mentor junior developers.\n• Very comfortable working outside your comfort zone, lead the charge on multiple fronts and work on multiple initiatives in parallel as needed. Be able to assist other product teams on tough problems as needed.\n• Conduct code reviews to ensure best coding practices are utilized.\n• Create a pleasant working environment that inspires the team.\n\nRequired Qualifications\n• More than 8 to 10 years of experience in cloud-native applications (Azure strongly preferred, AWS is also ok) in Python/C# using SDLC best practices.\n• Thorough understanding of Object-Oriented Programming (OOP) design and practices.\n• Familiarity with design patterns.\n• Strong RDBMS experience (PostgreSQL, MS SQL etc.) designing tables & writing queries. NoSQL experience is a strong plus.\n• REST API development experience.\n• Bachelor's Degree in Computer Science or equivalent combination of education and experience.\n• Excellent communication skills & a great team player.\n\nDesired Skills\n• Strong knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, CI/CD, and DevOps.\n• UI development experience using React/Angular or Ruby On Rails is a plus (nice to have).\n• Deep understanding on API strategies, Integration Patterns and best practices.\n• Eager to learn new languages and technologies.\n\nTARGET TECHNOLOGY STACK:\nPython, React, JavaScript/TypeScript, Azure, GraphQL/REST API, Relational Databases (PostgreSQL,MySQL etc.),NoSQL Databases (MongoDB etc.).\n\nDEVELOPMENT TOOLS:\nDocker, Linux on Windows, AzureDevOps for pipelines, GIT, VSCode, NPM Package Management.\n\n#LI-KC2\n\nPay Range: $94,800-$183,500\n\nThis hiring range is a good faith and reasonable estimate of the salary range of possible compensation at the time of the posting, and is subject to change. The actual compensation offered will be determined by various factors, which may include a candidate’s education, training, experience, and geographic location.\n\nWhat We Offer\n\nBy choice, we don’t simply accept individuality – we embrace it, we support it, and we thrive on it! Our People First Culture celebrates diversity, equity and inclusion not simply because it’s the right thing to do, but also because it’s the key to our success. We are proud to foster an authentic and inclusive workplace For All. You are free and encouraged to bring your entire, unique self to work. First American is an equal opportunity employer in every sense of the term.\n\nBased on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You love coding and find yourself keeping up with the latest technology trends",
+            "You are multi-faceted with a great mix of technical and interpersonal skills, which enables you to succeed in highly collaborative and agile work environments",
+            "You are very comfortable leading the charge on multiple fronts and working outside your comfort zone to work on multiple initiatives in parallel",
+            "Thorough understanding of Object-Oriented Programming (OOP) design and practices",
+            "Familiarity with design patterns",
+            "Strong RDBMS experience (PostgreSQL, MS SQL etc.) designing tables & writing queries",
+            "NoSQL experience is a strong plus",
+            "REST API development experience",
+            "Bachelor's Degree in Computer Science or equivalent combination of education and experience",
+            "Excellent communication skills & a great team player"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Monitoring, motivating and supervising software engineers on your team to achieve organizational goals",
+            "Work with Solution Architect and strategize design plans",
+            "A contributing member of the scrum team to design & develop software in an Azure cloud environment",
+            "Independently define, prioritize goals and tasks in a fast-paced agile product environment with small, focused teams",
+            "Derive optimal solutions and implement best coding practices",
+            "On call by rotation and after-hours support driven by business needs",
+            "Propose solutions to tough problems, build consensus among team & mentor junior developers",
+            "Very comfortable working outside your comfort zone, lead the charge on multiple fronts and work on multiple initiatives in parallel as needed",
+            "Be able to assist other product teams on tough problems as needed",
+            "Conduct code reviews to ensure best coding practices are utilized",
+            "Create a pleasant working environment that inspires the team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range: $94,800-$183,500",
+            "This hiring range is a good faith and reasonable estimate of the salary range of possible compensation at the time of the posting, and is subject to change",
+            "The actual compensation offered will be determined by various factors, which may include a candidate’s education, training, experience, and geographic location",
+            "Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.firstam.com/",
+          "text": "firstam.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=First+American+Financial+Corporation&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCLwN",
+          "text": "See web results for First American Financial Corporation"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ12_w4yZOR2qb5f_Gf53ShKzTeKVgj-nq6x8&s=0",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "8 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJEWWtLN3p5YnhLRkdHbGd4QUFBQUFBPT0iLCJmYyI6IkVzd0NDb3dDUVU1MVYyaGphMmRuVjNaVFMwTjZSVVp2V205cVJXMWpjRGd0TTFoeE9UVjVPRVJLVFhKdU9XdEhVRzVzTlVwcVdXczBlakJFWkhwS1ZqRkZjV28zU1ZSRVRHRkROR04yTWpWRGNraE1YMFp1Um5NM1kzTm5WbXhmZEVkU1drOUZlalV4Ym5sSFRUVnJZVFJzZUdwTFQzRkRSVzlGU0ZweE9Xc3hkMEkwUmpaRVExTnVha1pPTXpRd1p6bHpiQzB3YUVsM1VXMUVSR3QyYjFCc1JURnRXWGs1Ym5GS05YVk5ObXMxUjJreGVtRXhRV3MwVFVsTVRqWnlXRFJzV1VWak5tWlVYMDlOV0hCYVZUQlpWRTV2YW10alF6bGlZWFJKYmtvM2FXbFVlR3BUWTBsNVlURjFlaTFaWkU1WU9GTXpWRUpsVW5NM2VsOWlPRXhMYTFKRE9VYzBORk5rVUdWS2RXTndieElYWHpaSE5GcGFkVmhKU2tRNGQySnJVR2xQUjJVd1FXTWFJa0ZRV0dodE5WcE9VV2R3VTNjMllVeE5XRlppUWtoeVFYTmlVRVpuYlRka09FRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZpcnN0IEFtZXJpY2FuIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5maXJzdGFtLmNvbS9qb2Ivc2FudGEtYW5hL2xlYWQtc29mdHdhcmUtZW5naW5lZXIvMzkwNTQvNDk5ODI2NjYyMjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Manager Software Engineering (Remote)",
+      "company_name": "Acuity Brands",
+      "location": "  Ontario, CA   ",
+      "via": "via Careers - Acuity Brands",
+      "description": "We use technology to solve problems in spaces, light, and more things to come… for our customers, our communities, and our planet.\n\nAcuity Brands, Inc. (NYSE: AYI) is a market-leading industrial technology company. We use technology to solve problems in spaces, light, and more things to come. Through our two business segments, Acuity Brands Lighting and Lighting Controls (ABL) and the Intelligent... Spaces Group (ISG), we design, manufacture, and bring to market products and services that make a valuable difference in people’s lives.\n\nWe are positioned at the intersection of sustainability and technology. Our businesses develop technology that helps save our customers energy and reduce their carbon emissions. We achieve growth through the development of innovative new products and services, including lighting, lighting controls, building management solutions, and location-aware applications.\n\nJob Summary\n\nYou are a doer known for getting things done and making the complicated digestible for others. You have naturally gravitated to a leadership role because of your passion, commitment, and expertise, and you have managed/developed other developers through your role or position. You are an expert in Agile methodologies and see the world in algorithms and processes. Now, you are looking to develop a team to the superstar level to meet your standards while delivering an industry-changing platform.\n\nThe position requires strong, strategic leadership, a mindset towards change, and extensive experience using the Agile/Scrum methodology. The Software Manager will map all business requirements, develop and maintain KPIs for the team, and collaborate with key strategic partners and other project teams to achieve clearly defined results within the agreed-upon time.\n\nKey Tasks & Responsibilities (Essential Functions)\n• Manage activities and priorities of Front-end and Back-end onshore and offshore developers.\n• Coordinate with other teams to align project deliverables and resources based on the organization's timelines.\n• Represent the teams at status, planning, and collaborative meetings.\n• Oversee multiple concurrent projects, which include analyzing business requirements, negotiating scope, defining functional requirements, planning timelines, and allocating resources.\n• Utilize Agile/Scrum to ensure proper alignment of resources and project priorities.\n• Collaborate with the Product Owner, Architecture and SMEs to break down a mulit-generational product\n• Participate in employee recruiting and selection.\n• Conduct employee evaluations to ensure each employee has a development plan, is challenged, and is motivated to continue their professional growth.\n\nSkills and Minimum Experience Required\n• A Bachelor's Degree in Computer Science (CS), Management Information Systems (MIS), Software Engineering, or equivalent.\n• 3+ years of project management/Lead experience\n• 5+ years of software development experience\n• 2+ years of software architecture experience\n• Strong experience in Agile methodology and applying it to projects with hardware and firmware dependencies\n• Professional programming experience in at least 2 languages C++, C#, React, CSS, and Javascript\n• Knowledge of user-interface design concepts\n• Ability to recognize and prioritize requests to provide maximum project success\n• Experience as a Scrum Master (preferred)\n• Experience with Microsoft TFS, VSTS, ADOS, Jira, or related project management software (preferred)\n\nWe value diversity and are an equal opportunity employer. All qualified applicants will be considered for employment without regards to race, color, age, gender, sexual orientation, gender identity and expression, ethnicity or national origin, disability, pregnancy, religion, covered veteran status, protected genetic information, or any other characteristic protected by law.\n\nPlease click here and here for more information.\n\nAccommodation for Applicants with Disabilities: As an equal opportunity employer, Acuity Brands is committed to providing reasonable accommodations in its application process for qualified individuals with disabilities and disabled veterans. If you have difficulty using our online system due to a disability and need an accommodation, you may contact us at (770) 922-9000. Please clearly indicate what type of accommodation you are requesting and for what requisition.\n\nAny unsolicited resumes sent to Acuity Brands from a third party, such as an Agency recruiter, including unsolicited resumes sent to an Acuity Brands mailing address, fax machine or email address, directly to Acuity Brands employees, or to Acuity Brands resume database will be considered Acuity Brands property. Acuity Brands will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.\n\nAcuity Brands will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor, but does not have the appropriate approvals to be engaged on a search.\n\nE-Verify Participation Poster\n\ne-verify.gov\n\neeoc.gov\n\nThe range for this position is $140,200 to $262,400. Placement within this range may vary, depending on the applicant’s experience and geographic location",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You are a doer known for getting things done and making the complicated digestible for others",
+            "You have naturally gravitated to a leadership role because of your passion, commitment, and expertise, and you have managed/developed other developers through your role or position",
+            "You are an expert in Agile methodologies and see the world in algorithms and processes",
+            "The position requires strong, strategic leadership, a mindset towards change, and extensive experience using the Agile/Scrum methodology",
+            "A Bachelor's Degree in Computer Science (CS), Management Information Systems (MIS), Software Engineering, or equivalent",
+            "3+ years of project management/Lead experience",
+            "5+ years of software development experience",
+            "2+ years of software architecture experience",
+            "Strong experience in Agile methodology and applying it to projects with hardware and firmware dependencies",
+            "Professional programming experience in at least 2 languages C++, C#, React, CSS, and Javascript",
+            "Knowledge of user-interface design concepts",
+            "Ability to recognize and prioritize requests to provide maximum project success"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Software Manager will map all business requirements, develop and maintain KPIs for the team, and collaborate with key strategic partners and other project teams to achieve clearly defined results within the agreed-upon time",
+            "Manage activities and priorities of Front-end and Back-end onshore and offshore developers",
+            "Coordinate with other teams to align project deliverables and resources based on the organization's timelines",
+            "Represent the teams at status, planning, and collaborative meetings",
+            "Oversee multiple concurrent projects, which include analyzing business requirements, negotiating scope, defining functional requirements, planning timelines, and allocating resources",
+            "Utilize Agile/Scrum to ensure proper alignment of resources and project priorities",
+            "Collaborate with the Product Owner, Architecture and SMEs to break down a mulit-generational product",
+            "Participate in employee recruiting and selection",
+            "Conduct employee evaluations to ensure each employee has a development plan, is challenged, and is motivated to continue their professional growth"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.acuitybrands.com/",
+          "text": "acuitybrands.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Acuity+Brands&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCI4O",
+          "text": "See web results for Acuity Brands"
+        }
+      ],
+      "extensions": [
+        "24 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "24 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFuYWdlciBTb2Z0d2FyZSBFbmdpbmVlcmluZyAoUmVtb3RlKSIsImh0aWRvY2lkIjoiWW1QSHNSY0tIZ0w5UTZ3NEFBQUFBQT09IiwiZmMiOiJFcmNDQ3ZjQlFVNTFWMmhqYmw5SFIwMXhia1pDWDB4Nk4ydElTRXczUVd4NE5WWTNXSEpuVmtkbFFWOWZWV2RKU0VGdll6SkVVRmhmTFZCUE9WZHpaMXB6U1RGcFpYQm9aMkUxVGxNMlNGSkRYMmxvY0VSS2JFOUdaRzFhZWtSNllpMVBRVkpoUVZSVlZWSktlV1JrTmpGWmJrRnhlRU5sY1hKdk1URm5ielZCVms5eldrUk9aMGszZVZSWGRHbExUbVZ6Y1ZaUlYwOHpXa3AxY2xOMGNuSm9lVkJTTkhaRFRHdFROelpsVWw5a1N6WkljMjB5WDBWeldYWjRSRk0wZFhkQ1gybGhhMk5RU0hSNlgzcGxhUzF6WVc1U1QyWkJhR2R2VjFaNWQwWjZjSGszZFZKeGRGWklSbkJQYjJrMVJWSlJWMUZPTWxsTGJqTmpOQklYWHpaSE5GcGFkVmhKU2tRNGQySnJVR2xQUjJVd1FXTWFJa0ZRV0dodE5XRk9WVzVuU1V4bk9YZGhjMHBHV0dKUVFuRjRaVEV6YzFOc1JsRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgLSBBY3VpdHkgQnJhbmRzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5hY3VpdHlicmFuZHMuY29tL2pvYi9Db255ZXJzLVNlbmlvci1NYW5hZ2VyLVNvZnR3YXJlLUVuZ2luZWVyaW5nLSUyOFJlbW90ZSUyOS1HQS0zMDAxMi8xMDc1MTY4NDAwLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Software Engineer - C++",
+      "company_name": "Siemens Digital Industries Software",
+      "location": "  Irvine, CA   ",
+      "via": "via Jobs | Siemens Digital Industries Software - Siemens",
+      "description": "Company: Siemens EDA\n\nJob Title: Senior Software Engineer – C+Job Reference #: 401598...\n\nJob Location: Wilsonville, OR, Remote - US\n\nSiemens EDA is a global technology leader in Electronic Design Automation software. Our software tools enable companies around the world to develop highly innovative electronic products faster and more cost-effectively. Our customers use our tools to push the boundaries of technology and physics to deliver better products in the increasingly complex world of chip, board, and system design.\n\nWe are looking for high level C++ software engineers to join our team in the development of computer aided design (CAD) tools for the design of integrated circuits (ICs) for the Electronic Design Automation (EDA) industry. You will be part of a group of senior software engineers contributing to new components and algorithms as well as supporting existing components. Self-motivation, the desire to take technical ownership, a results-driven positive attitude and team-orientation will contribute to your success in this role.\n\nResponsibilities\n\nYou will be responsible for designing, implementing, debugging, and supporting innovative and diverse features for IC design. The software frequently involves rapid user interaction, so careful consideration of the user experience is an important part of the job. At the same time, IC design involves massive data sets, so performance considerations are critical when architecting new features. Challenges will include high-performance data-structures, multi-threading, distributed computing, multi-platform support, and object-oriented design of C++ software.\n\nYou will collaborate with quality assurance, marketing, technical publications, and customer support to deliver high-quality products on schedule. You will participate in scheduling and estimation of tasks and assist in defining and developing software development best practices.\n\nRequired Knowledge/Skills, Education, and Experience\n\nJob Qualifications\n\nSuccessful candidates will possess the following combination of education and/or experience:\n• BS/MS in Computer Science, Computer Engineering, or Electrical Engineering\n• 5+ years of experience with object-oriented C++ software development\n• Strong analysis, design and problem-solving skills\n• Knowledge of high-performance data structures, algorithms, and design patterns\n• Principles of developing high quality, testable, and maintainable software\n• Good verbal, written, and interpersonal communication skills\n\nPreferred Knowledge/Skills, Education, and Experience\n\nKnowledge or experience in the following areas is a plus:\n• IC design principles and EDA design tools and methodologies\n• Multi-threaded and distributed computing\n• Techniques for processing high-volume data\n\nQualified Applicants must be legally authorized for employment in the United States. Qualified Applicants will not require employer sponsored work authorization now or in the future for employment in the United States.\n\nThis position will be subject to U.S. export control requirements under the International Traffic in Arms Regulations (ITAR) and/or Export Administration Regulations (EAR). Employment is contingent on either verifying the U.S. Person status or obtaining any necessary export license.\n\nSiemens Software. Transform the Everyday\n\nThe salary range for this position is $101,200 to $182,200 and this role is eligible to earn incentive compensation. The actual compensation offered is based on the successful candidate’s work location as well as additional factors, including job-related skills, experience, and relevant education/training. Siemens offers a variety of health and wellness benefits to employees. Details regarding our benefits can be found here: www.benefitsquickstart.com . In addition, this position is eligible for time off in accordance with Company policies, including paid sick leave, paid parental leave, PTO (for non-exempt employees) or non-accrued flexible vacation (for exempt employees).\n\n#LI-EDA\n\n#LI-CF1\n\n#LI-HYBRID\n\nEqual Employment Opportunity Statement\n\nSiemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.\n\nEEO is the Law\n\nApplicants and employees are protected under Federal law from discrimination. To learn more, Click here.\n\nPay Transparency Non-Discrimination Provision\n\nSiemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.\n\nCalifornia Privacy Notice\n\nCalifornia residents have the right to receive additional notices about their personal information. To learn more, click here.\nJob Family: Research & Development\n\nReq ID: 401598",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Knowledge/Skills, Education, and Experience",
+            "Successful candidates will possess the following combination of education and/or experience:",
+            "BS/MS in Computer Science, Computer Engineering, or Electrical Engineering",
+            "5+ years of experience with object-oriented C++ software development",
+            "Strong analysis, design and problem-solving skills",
+            "Knowledge of high-performance data structures, algorithms, and design patterns",
+            "Principles of developing high quality, testable, and maintainable software",
+            "Good verbal, written, and interpersonal communication skills",
+            "IC design principles and EDA design tools and methodologies",
+            "Multi-threaded and distributed computing",
+            "Techniques for processing high-volume data",
+            "Qualified Applicants must be legally authorized for employment in the United States",
+            "Qualified Applicants will not require employer sponsored work authorization now or in the future for employment in the United States",
+            "This position will be subject to U.S. export control requirements under the International Traffic in Arms Regulations (ITAR) and/or Export Administration Regulations (EAR)",
+            "Employment is contingent on either verifying the U.S. Person status or obtaining any necessary export license"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be part of a group of senior software engineers contributing to new components and algorithms as well as supporting existing components",
+            "Self-motivation, the desire to take technical ownership, a results-driven positive attitude and team-orientation will contribute to your success in this role",
+            "You will be responsible for designing, implementing, debugging, and supporting innovative and diverse features for IC design",
+            "Challenges will include high-performance data-structures, multi-threading, distributed computing, multi-platform support, and object-oriented design of C++ software",
+            "You will collaborate with quality assurance, marketing, technical publications, and customer support to deliver high-quality products on schedule",
+            "You will participate in scheduling and estimation of tasks and assist in defining and developing software development best practices"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The salary range for this position is $101,200 to $182,200 and this role is eligible to earn incentive compensation",
+            "The actual compensation offered is based on the successful candidate’s work location as well as additional factors, including job-related skills, experience, and relevant education/training",
+            "Siemens offers a variety of health and wellness benefits to employees",
+            "In addition, this position is eligible for time off in accordance with Company policies, including paid sick leave, paid parental leave, PTO (for non-exempt employees) or non-accrued flexible vacation (for exempt employees)"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.plm.automation.siemens.com/global/en/",
+          "text": "plm.automation.siemens.com/global/en"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Siemens+Digital+Industries+Software&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCOMO",
+          "text": "See web results for Siemens Digital Industries Software"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZdm5rkFgPcXy4zTA7KhyE9e1iOrgQzWPdf64&s=0",
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBDKysiLCJodGlkb2NpZCI6InJSQXMtWEhpQ0IwaExnWVpBQUFBQUE9PSIsImZjIjoiRXN3Q0Nvd0NRVTUxVjJoamJGQlJhMmxuWm5aU1pEaEVha05pWkU4M1IzTjNkMkU1ZDNkbFRpMHlkRUpMZFZRemRHazFabUV6Y201b1ZETm1jWGhXTkMxc1ltNXVVSE42ZURSeFVHc3pTREpQWjFkck4wUnpkVTlrWkdOeGEyVTNZM2R3Y0RsUUxUVlNkbkJEVUhWRWRubHlaMU5CVlVGUU5FaERjM0JyV0cwMGVrTjJPSFZLZWpSV1RWbHRUMnRRYlhkR1lUWk9PWGMyYjB0dmJtVlJhRVJLWVRKSE5qVnNkak41Vkc5bFNVcGpOMlY1ZDFRMlVYbGlMV041TUVScFltcEdabkJsZVRJd2RVazNMVTVaZGsxV1NYWjRWM050ZUd0RU5tWlFNRTVrTWxJMlNuSmpaVWxaY2xwUVptNWlNbFZ1U0ZwZlJ6Rk5lbTEwVVRGTk5qQnBTMVZmYWxwRU1sbHFPRzR0YzJSWWFCSVhYelpITkZwYWRWaEpTa1E0ZDJKclVHbFBSMlV3UVdNYUlrRlFXR2h0TldKNlYycEVPSFZ2WVVGbWIySjFYMFphY1MxSGJtVlRiazk0UlhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyB8IFNpZW1lbnMgRGlnaXRhbCBJbmR1c3RyaWVzIFNvZnR3YXJlIC0gU2llbWVucyIsImxpbmsiOiJodHRwczovL2pvYnMuc3cuc2llbWVucy5jb20vaXJ2aW5lLWNhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1jLzAyRjAxRUEwQUFFRDQ4QzNBQTk4REQyMzEzQjlDQUZFL2pvYi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Multi Media, LLC",
+      "location": "  Irvine, CA   ",
+      "via": "via LinkedIn",
+      "description": "Multi Media, LLC specializes in developing and managing online platforms and services, with Chaturbate as our flagship product. Independent Broadcasters can use our platforms to interact with their fans via live streaming, chat, community forums, and exclusive digital content. We take pride in helping people to earn additional income by providing user-friendly consumer products where content... creators can foster safe and inclusive spaces for meaningful virtual connections.\n\nAbout the role:\n\nAs a senior software engineer, you will join one of our development teams to brainstorm and build features millions of people use daily! You will be accountable for building comprehensive technical solutions with high-quality standards and practicing clean coding styles. The day-to-day tasks may include technical design, fixing existing bugs, and refactoring/optimizing existing code to deliver the best consumer experience for users and broadcasters worldwide.\n\nIf you’re ready to bring your expertise to a company that is shaping the future of online interactions, we would love to hear from you. Apply today and help us create meaningful virtual connections and foster safe, inclusive digital spaces for everyone!\n\nRequirements\n\nAbout You:\n• You have proven web development experience and a strong system design record, allowing you to make important technical decisions and take responsibility for them\n• You’ve worked with Python professionally\n• You are comfortable with programming in TypeScript or JavaScript and are familiar with modern frameworks\n• You possess strong problem-solving skills, which allows you to perform troubleshooting and debugging effectively.\n\nBonus Points:\n• Experience working with Django in a production environment.\n• You are well-rounded with project management methodologies and tools\n\nBenefits\n\nPerks and benefits:\n• Fully remote optional and flexible work schedule\n• Health, Vision, Dental, and Life Insurance for you and any dependents, with policy premiums covered by the Company\n• 401k plan with 5% matching\n• Long & Short term disability insurance\n• Unlimited PTO\n• Annual Year-End Company Closure\n• 12 Paid Holidays\n• $125/week meals and grocery stipend via Sharebite\n• Employee wellness programs via Holisticly\n• EAP and Employee Recognition Programs\n• And much more!\n\nThe Base Salary range for this position is $140,000 - $175,000 USD annually. This range reflects base salary only and does not include additional compensation or benefits. The range displayed reflects the minimum and maximum range for a new hire across the US for the posted position. A candidate's specific pay will be determined on a case-by-case basis and may vary based on the candidate's job-related skills, relevant education, training, experience, certifications, and abilities of the candidate, as well as other factors unique to each candidate.\n\nMulti Media, LLC is an equal opportunity employer and strives for diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We encourage people from underrepresented groups to apply",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You have proven web development experience and a strong system design record, allowing you to make important technical decisions and take responsibility for them",
+            "You’ve worked with Python professionally",
+            "You are comfortable with programming in TypeScript or JavaScript and are familiar with modern frameworks",
+            "You possess strong problem-solving skills, which allows you to perform troubleshooting and debugging effectively",
+            "Experience working with Django in a production environment",
+            "You are well-rounded with project management methodologies and tools"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be accountable for building comprehensive technical solutions with high-quality standards and practicing clean coding styles",
+            "The day-to-day tasks may include technical design, fixing existing bugs, and refactoring/optimizing existing code to deliver the best consumer experience for users and broadcasters worldwide"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Fully remote optional and flexible work schedule",
+            "Health, Vision, Dental, and Life Insurance for you and any dependents, with policy premiums covered by the Company",
+            "401k plan with 5% matching",
+            "Long & Short term disability insurance",
+            "Unlimited PTO",
+            "Annual Year-End Company Closure",
+            "12 Paid Holidays",
+            "$125/week meals and grocery stipend via Sharebite",
+            "Employee wellness programs via Holisticly",
+            "EAP and Employee Recognition Programs",
+            "The Base Salary range for this position is $140,000 - $175,000 USD annually",
+            "This range reflects base salary only and does not include additional compensation or benefits"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://multimediallc.com/",
+          "text": "multimediallc.com"
+        },
+        {
+          "link": "https://www.google.com/search?sca_esv=213bf1ba865ab4e8&sca_upv=1&q=Multi+Media,+LLC&sa=X&ved=0ahUKEwjbkpWvyISEAxUQfjABHYiwB3oQmJACCLUP",
+          "text": "See web results for Multi Media, LLC"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8PlMmNTa_glmcGO4UXg-gAJxjw5E9r_t93Os1Qw&s",
+      "extensions": [
+        "8 hours ago",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "8 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJodGlkb2NpZCI6IklSLXpITDczRVpyVVN2UWNBQUFBQUE9PSIsImZjIjoiRXJjQ0N2Y0JRVTUxVjJoamJHeGxjMU5xTUhCbk0yaHVWbXhvVVZKVVIwdzJTbmhXY2xCc2R6TjZWRmxHV1ZaM1ozSjFTVUZyVjNOdU1rVXhSSFpPUzBGdloyUlhSVkpHUlhkd2IwMXpTRUp5TTJKUVJFMVZTMkptTmtnMGNXNXhkMlkzZUY5WlFsZHFjbnBXVkROT05HaGxTRXBpYkZCU1dXTjFXblZmTjJ0b05XcDFVM05pYXpaSlowNHlhRlYzUzNSMk9VNVVTekZPZEdoUVVqaDVVRm81TUVvMGIyVk1abEExTURGWWJWa3RZMlJoZDFGUVNFczVSa0ZqVVRSNlpHVjFNVmwzUTJWa0xWTmtPVVV3Tm5CRWJWWnlkR2hFZGs1cFdFaEpNM0F0U0RoTGQxRlNTalpzVURoVU5XaDFNWE50VGkxcExXMXdhek5HUVJJWFh6WkhORnBhZFZoSlNrUTRkMkpyVUdsUFIyVXdRV01hSWtGUVdHaHROVmxyYm14VWJXNDBWbWh3YXkxbVNtUnNYMDFIU2xaTFVXSmhSbEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1hdC1tdWx0aS1tZWRpYS1sbGMtMzgxNzQ0NjYxMj9yZWZJZD0vdFZCMnQzbVZkNWNlWUFUbUs3SjBnJTNEJTNEXHUwMDI2dHJhY2tpbmdJZD11d1Bkb1o0RU5ra3RjR2U4ZyUyQmdZdUElM0QlM0RcdTAwMjZwb3NpdGlvbj0yM1x1MDAyNnBhZ2VOdW09MFx1MDAyNnRyaz1wdWJsaWNfam9ic19qc2VycC1yZXN1bHRfc2VhcmNoLWNhcmRcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Software engineering",
+          "value": "software engineering"
+        },
+        {
+          "text": "Development engineer",
+          "value": "development engineer"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Engineering",
+          "value": "engineering"
+        },
+        {
+          "text": "Engineering manager",
+          "value": "engineering manager"
+        },
+        {
+          "text": "Planning",
+          "value": "planning"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Principal engineer",
+          "value": "principal engineer"
+        },
+        {
+          "text": "Programmer",
+          "value": "programmer"
+        },
+        {
+          "text": "Software engineers",
+          "value": "software engineers"
+        },
+        {
+          "text": "Undergraduate",
+          "value": "undergraduate"
+        },
+        {
+          "text": "Verification engineer",
+          "value": "verification engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "San Diego, CA",
+          "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+        },
+        {
+          "text": "Los Angeles, CA",
+          "value": "E9on3F3HwoD0CEYlb98v4g=="
+        },
+        {
+          "text": "Irvine, CA",
+          "value": "40CRaA7d3IA5mkpgdbV6pw=="
+        },
+        {
+          "text": "Santa Monica, CA",
+          "value": "GQCRws6kwoCr9SP_tQoXtA=="
+        },
+        {
+          "text": "Hawthorne, CA",
+          "value": "8S7MWiu0woABszjMHXHBYg=="
+        },
+        {
+          "text": "El Segundo, CA",
+          "value": "rTzSGUexwoC22Yu8x2IFjA=="
+        },
+        {
+          "text": "Las Vegas, NV",
+          "value": "0X31pIK3voCjebPV5tXMOg=="
+        },
+        {
+          "text": "Burbank, CA",
+          "value": "lcUYKBWVwoDUih-Qr5F3MA=="
+        },
+        {
+          "text": "Carlsbad, CA",
+          "value": "We47P0Vz3IAvXfb8klXLpA=="
+        },
+        {
+          "text": "Costa Mesa, CA",
+          "value": "eW9X_G_f3IDawAPYEoQB7w=="
+        },
+        {
+          "text": "Santa Ana, CA",
+          "value": "hTCCbJXb3IC8_R4fOoRPxw=="
+        },
+        {
+          "text": "Glendale, CA",
+          "value": "qYPwyDLAwoCmJsn-nqE_5Q=="
+        },
+        {
+          "text": "Goleta, CA",
+          "value": "40iJCXlA6YBYTYgAxUTKkw=="
+        },
+        {
+          "text": "Thousand Oaks, CA",
+          "value": "kYgocFYl6IAmLsxHAXoujQ=="
+        },
+        {
+          "text": "Long Beach, CA",
+          "value": "WdeZQOjKwoCqjyrE-joAoQ=="
+        },
+        {
+          "text": "Agoura Hills, CA",
+          "value": "lRyqIx4h6IDW_d8trvYOrA=="
+        },
+        {
+          "text": "Anaheim, CA",
+          "value": "Z-hVgPnW3IBgsSuaq4mrAQ=="
+        },
+        {
+          "text": "Brea, CA",
+          "value": "F4yeaIbU3IDkSgSWt7UYFQ=="
+        },
+        {
+          "text": "Cypress, CA",
+          "value": "7_ZrWZIu3YAQVMHVrdcs1A=="
+        },
+        {
+          "text": "Ladera Ranch, CA",
+          "value": "N6h92Cfe3ID10oKXJRgJBQ=="
+        },
+        {
+          "text": "Malibu, CA",
+          "value": "P9YI-akd6IBajOqycS23kw=="
+        },
+        {
+          "text": "Newport Beach, CA",
+          "value": "3bO_xLbo3IC9WYtkVJVU8Q=="
+        },
+        {
+          "text": "Orange, CA",
+          "value": "r4p1a6nQ3IC-1O-Ack9iIg=="
+        },
+        {
+          "text": "Pasadena, CA",
+          "value": "UQszONzCwoBKj9EaFkErBQ=="
+        },
+        {
+          "text": "San Luis Obispo, CA",
+          "value": "J8Jse77m7IBGD-_OwpACvA=="
+        },
+        {
+          "text": "Santa Barbara, CA",
+          "value": "1YMtb8cU6YBIdrrXZDrRyA=="
+        },
+        {
+          "text": "Azusa, CA",
+          "value": "40sVQULpwoBbdS998xuaJQ=="
+        },
+        {
+          "text": "Calabasas, CA",
+          "value": "wdPvFyOewoCuFeZvwuKiYQ=="
+        },
+        {
+          "text": "Camarillo, CA",
+          "value": "u5REjxA26IDnbGWKD0FZbg=="
+        },
+        {
+          "text": "Cerritos, CA",
+          "value": "Szhb9wAt3YABPpPdSJVJDg=="
+        },
+        {
+          "text": "Coronado, CA",
+          "value": "f9GTj2JN2YAs-5DOIU-xOA=="
+        },
+        {
+          "text": "Culver City, CA",
+          "value": "nXN32x66woD-WetL0emFMQ=="
+        },
+        {
+          "text": "Del Mar, CA",
+          "value": "IcQpcAz524AZ8o6GFdGgEA=="
+        },
+        {
+          "text": "Edwards Air Force Base, CA",
+          "value": "68MpOrBKwoDoRhPZuyNw3w=="
+        },
+        {
+          "text": "Fresno, CA",
+          "value": "nU6eVOFdlIARuKNJZEASew=="
+        },
+        {
+          "text": "Gardena, CA",
+          "value": "Cd2bU4G1woCRymK1GjcZxg=="
+        },
+        {
+          "text": "Henderson, NV",
+          "value": "kUJfH67JyIC1YSDKOCob7w=="
+        },
+        {
+          "text": "Lake Forest, CA",
+          "value": "T4TjKRno3IDlDzaRoDNJ3A=="
+        },
+        {
+          "text": "Lancaster, CA",
+          "value": "QYDoaLFawoAHPgt9z3LEWA=="
+        },
+        {
+          "text": "Lemon Grove, CA",
+          "value": "170mWC9R2YCQ1v6NCy5hag=="
+        },
+        {
+          "text": "Marina del Rey, CA",
+          "value": "LbMF8IqwwoCezgubsdpWlw=="
+        },
+        {
+          "text": "Monrovia, CA",
+          "value": "2eJeOzfZwoCF97UILjokTw=="
+        },
+        {
+          "text": "Moorpark, CA",
+          "value": "7X5H3AQy6IAjuUUOmcH_sA=="
+        },
+        {
+          "text": "North Las Vegas, NV",
+          "value": "Mz3UCrDCyIAm9az1E_rHIg=="
+        },
+        {
+          "text": "Oceanside, CA",
+          "value": "BXdbYF5l3ICHn485P8ueAQ=="
+        },
+        {
+          "text": "Ontario, CA",
+          "value": "e2Ld6ts0w4CQMVj5WuMDBw=="
+        },
+        {
+          "text": "Palmdale, CA",
+          "value": "td1w7IRXwoA64BKtLXlsag=="
+        },
+        {
+          "text": "Redlands, CA",
+          "value": "Q7GWQcZT24Bnuts7yunZdQ=="
+        },
+        {
+          "text": "Riverside, CA",
+          "value": "u330f9-m3IDoCl4TBdeh9w=="
+        },
+        {
+          "text": "Seal Beach, CA",
+          "value": "MWN2ONje3IAVlCdu7HD8PQ=="
+        },
+        {
+          "text": "Torrance, CA",
+          "value": "096zWNFK3YAeZgpObtNLrQ=="
+        },
+        {
+          "text": "Universal City, CA",
+          "value": "gbqKQEm-woAkzp5tRJRRWQ=="
+        },
+        {
+          "text": "Vista, CA",
+          "value": "53MR5wML3ICN90vhiRNceA=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        },
+        {
+          "text": "Advertising",
+          "value": "/business/naics2007/5418"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Management",
+          "value": "/business/naics2007/55"
+        },
+        {
+          "text": "Public Administration",
+          "value": "/business/naics2007/92"
+        },
+        {
+          "text": "Rental",
+          "value": "/business/naics2007/532"
+        },
+        {
+          "text": "Restaurant",
+          "value": "/business/naics2007/722"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        },
+        {
+          "text": "SpaceX",
+          "value": "/m/03fkyw"
+        },
+        {
+          "text": "Leidos",
+          "value": "/m/01h2kg"
+        },
+        {
+          "text": "Blizzard Entertainment",
+          "value": "/m/01jx9"
+        },
+        {
+          "text": "ClearanceJobs",
+          "value": "/m/09mcn9g"
+        },
+        {
+          "text": "Google",
+          "value": "/m/045c7b"
+        },
+        {
+          "text": "RTX",
+          "value": "/g/11c6qvm0kj"
+        },
+        {
+          "text": "Disney Direct to Consumer",
+          "value": "/g/11fktcdlj_"
+        },
+        {
+          "text": "Shield AI",
+          "value": "/g/11jybkrw9b"
+        },
+        {
+          "text": "StubHub",
+          "value": "/m/0c83_f"
+        },
+        {
+          "text": "Disney Entertainment & ESPN Technology",
+          "value": "/m/0gx0dwy"
+        },
+        {
+          "text": "Intuit",
+          "value": "/m/04fdd3"
+        },
+        {
+          "text": "Jobot",
+          "value": "/g/11jrq3t_g3"
+        },
+        {
+          "text": "ServiceNow",
+          "value": "/m/0gvrh0z"
+        },
+        {
+          "text": "BAE Systems",
+          "value": "/m/01cf6w"
+        },
+        {
+          "text": "Boeing",
+          "value": "/m/0178g"
+        },
+        {
+          "text": "First American Financial Corporation",
+          "value": "/g/11bc6q3t7w"
+        },
+        {
+          "text": "Qualcomm",
+          "value": "/m/01m1xf"
+        },
+        {
+          "text": "Snap Inc.",
+          "value": "/g/11c1s2xz66"
+        },
+        {
+          "text": "Viasat, Inc.",
+          "value": "/m/0f9lmh"
+        },
+        {
+          "text": "WARNERMEDIA",
+          "value": "/m/0l8sx"
+        },
+        {
+          "text": "Alignment Healthcare",
+          "value": "/g/11f01fpptr"
+        },
+        {
+          "text": "Anduril Industries",
+          "value": "/g/11h1y432fv"
+        },
+        {
+          "text": "Collectors",
+          "value": "/m/03p1v8g"
+        },
+        {
+          "text": "DoorDash",
+          "value": "/g/11b7xlbf4l"
+        },
+        {
+          "text": "HRL Laboratories",
+          "value": "/m/01z4xt"
+        },
+        {
+          "text": "Motional",
+          "value": "/g/11p4ytgq94"
+        },
+        {
+          "text": "Multi Media, LLC",
+          "value": "/g/11dxpvkmnl"
+        },
+        {
+          "text": "Nautilus Biotechnology",
+          "value": "/g/11h1y4m578"
+        },
+        {
+          "text": "NewRocket",
+          "value": "/g/11gxm6dkhx"
+        },
+        {
+          "text": "Recharge Payments",
+          "value": "/g/11v6c82bj7"
+        },
+        {
+          "text": "Rivian",
+          "value": "/m/0gj8vdm"
+        },
+        {
+          "text": "Teradata",
+          "value": "/m/016l78"
+        },
+        {
+          "text": "Varian",
+          "value": "/m/0632c5"
+        },
+        {
+          "text": "3M",
+          "value": "/m/0h1jr"
+        },
+        {
+          "text": "Abbott Laboratories",
+          "value": "/m/02gkg4"
+        },
+        {
+          "text": "Acuity Brands",
+          "value": "/m/02plkvg"
+        },
+        {
+          "text": "Aditi Consulting",
+          "value": "/m/02x0w19"
+        },
+        {
+          "text": "Allegiant",
+          "value": "/m/04xjst"
+        },
+        {
+          "text": "Alphatec Spine",
+          "value": "/m/03p1fw5"
+        },
+        {
+          "text": "Amazon",
+          "value": "/m/0mgkg"
+        },
+        {
+          "text": "Artera",
+          "value": "/g/11f00xr0m6"
+        },
+        {
+          "text": "Ascendion",
+          "value": "/g/11bc6n8838"
+        },
+        {
+          "text": "Bluon",
+          "value": "/g/11g9n79mwm"
+        }
+      ]
+    }
+  ]
+}
