@@ -44,9 +44,9 @@ A small utility to store 50 Google Jobs Search results in a database and write a
 
 After building the project, run `dist/bin/job-search` in your terminal.
 
-[!IMPORTANT]
-There is a known bug which can cause file writing to take a long time. If the application seems to be frozen on `Saving file...` please be patient.
-This may be resolved in v2.0.0+ but may still occur in certain circumstances.
+> [!IMPORTANT]
+> There is a known bug which can cause file writing to take a long time. If the application seems to be frozen on `Saving file...` please be patient.
+> This may be resolved in v2.0.0+ but may still occur in certain circumstances.
 
 ```text
 dist/bin/job-search --help
@@ -66,6 +66,15 @@ Options:
   -h, --help             Show this message and exit
 
 ```
+
+## Database Structure
+
+Each object in the `jobs_results` array of the API response is stored in the JobDAO table with `jobId` as the primary key,
+except for the `job_highlights`, `related_links`, `extensions`, and `detected_extensions` arrays, which are stored in
+their own tables using `jobId` as a foreign key in order to implement a many-to-one relationship. The QueryDAO table
+tracks what searches returned a particular result also using a `jobId` foreign key many-to-one relationship.
+
+![Project database structure](img/job_db_diagram.png)
 
 ## TODO
 
