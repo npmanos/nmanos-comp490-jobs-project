@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "edu.bridgew.comp490"
-version = "1.0.0"
+version = "2.0.0"
 
 application {
     mainClass = "edu.bridgew.comp490.proj1.MainKt"
@@ -130,6 +130,7 @@ licenseReport {
 }
 
 val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
+    tasks["generateMainJobSearchDBInterface"].dependsOn(this) // I know not why this is true, but it is
     dependsOn(tasks["licenseReport"])
     from(tasks["licenseReport"])
     rename { "NOTICE${it.removePrefix("licenseReport")}" }

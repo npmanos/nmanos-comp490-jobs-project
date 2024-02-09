@@ -35,13 +35,18 @@ private val dotenv = dotenv {
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobSearch : CliktCommand(
     help = """
-    |This application saves 50 results from a Google job search for <query> to <output>.
+    |This application saves 50 results from a Google job search for <query> to <database> and writes all job results to <output>.
     |
-    |You can customize <query> and <output> using the options below.
+    |NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
+    |
+    |You can customize <query>, <database>, and <output> using the options below.
     """.trimMargin(),
 ) {
     private val query by option("-q", "--query", help = "Job search query")
         .default("software engineer boston")
+
+    private val dbPath by option("-d", "--database", help = "Database file location")
+        .default("output/jobs.db")
 
     private val output by option("-o", "--output", help = "Output file location")
         .file(mustExist = false, canBeDir = false, mustBeWritable = true)
@@ -59,7 +64,7 @@ class JobSearch : CliktCommand(
         echo("Searching...")
         echo()
 
-        val driver = JdbcSqliteDriver("jdbc:sqlite:output/jobs.db", Properties().apply { put("foreign_keys", "true") })
+        val driver = JdbcSqliteDriver("jdbc:sqlite:$dbPath", Properties().apply { put("foreign_keys", "true") })
         JobSearchDB.Schema.create(driver)
         val db = JobSearchDB(driver)
 
