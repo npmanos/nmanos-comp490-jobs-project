@@ -47,7 +47,7 @@ After building the project, run `dist/bin/job-search` in your terminal.
 > [!IMPORTANT]
 > There is a known bug which can cause file writing to take a long time. If the application seems to be frozen on
 > `Saving file...`, please be patient.
-> 
+>
 > This may be partially resolved in v2.0.0+, but could still occur in certain circumstances.
 
 ```text
