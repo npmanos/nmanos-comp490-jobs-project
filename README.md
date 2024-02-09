@@ -55,15 +55,17 @@ dist/bin/job-search --help
 
 Usage: job-search [<options>]
 
-  This application saves 50 results from a Google job search for <query> to <database> and writes all job results to <output>.
+  This application saves 50 results from a Google job search for <query> to
+  <database> and writes all job results to <output>.
 
-  NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
+  NOTE: Saving to <output> may take a few minutes. If the application seems
+  frozen, please be patient.
 
   You can customize <query>, <database>, and <output> using the options below.
 
 Options:
   -q, --query=<text>     Job search query (default: software engineer boston)
-  -d, --database=<text>  Database file location (default: output/jobs.db)
+  -d, --database=<path>  Database file location (default: output/jobs.db)
   -o, --output=<path>    Output file location (default: output/jobs.txt)
   -h, --help             Show this message and exit
 
