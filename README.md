@@ -4,7 +4,7 @@
 
 Author: Nick Manos
 
-A small utility to save 50 Google Jobs Search results to a text file.
+A small utility to store 50 Google Jobs Search results in a database and write all stored jobs to a text file.
 
 ## Installation
 
@@ -42,25 +42,33 @@ A small utility to save 50 Google Jobs Search results to a text file.
 
 ## Usage
 
-You can run the application by calling `dist/bin/job-search`
+After building the project, run `dist/bin/job-search` in your terminal.
+
+[!IMPORTANT]
+There is a known bug which can cause file writing to take a long time. If the application seems to be frozen on `Saving file...` please be patient.
+This may be resolved in v2.0.0+ but may still occur in certain circumstances.
 
 ```text
 dist/bin/job-search --help
 
 Usage: job-search [<options>]
 
-  This application saves 50 results from a Google job search for <query> to
-  <output>.
+  This application saves 50 results from a Google job search for <query> to <database> and writes all job results to <output>.
 
-  You can customize <query> and <output> using the options below.
+  NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
+
+  You can customize <query>, <database>, and <output> using the options below.
 
 Options:
-  -q, --query=<text>   Job search query (default: software engineer boston)
-  -o, --output=<path>  Output file location (default: output/jobs.txt)
-  -h, --help           Show this message and exit
+  -q, --query=<text>     Job search query (default: software engineer boston)
+  -d, --database=<text>  Database file location (default: output/jobs.db)
+  -o, --output=<path>    Output file location (default: output/jobs.txt)
+  -h, --help             Show this message and exit
+
 ```
 
 ## TODO
 
-- [ ] Write more unit tests
+- [ ] Prove slow file writing has been fully resolved
+  - [ ] Write a unit test to catch regressions
 - [ ] Write KDoc comments
