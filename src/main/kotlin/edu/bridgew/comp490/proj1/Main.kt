@@ -46,10 +46,12 @@ class JobSearch : CliktCommand(
         .default("software engineer boston")
 
     private val dbPath by option("-d", "--database", help = "Database file location")
+        .file(mustExist = false, canBeDir = false, mustBeWritable = false)
+        .convert { it.path }
         .default("output/jobs.db")
 
     private val output by option("-o", "--output", help = "Output file location")
-        .file(mustExist = false, canBeDir = false, mustBeWritable = true)
+        .file(mustExist = false, canBeDir = false, mustBeWritable = false)
         .convert { it.toOkioPath() }
         .default("output/jobs.txt".toPath(), "output/jobs.txt")
 
