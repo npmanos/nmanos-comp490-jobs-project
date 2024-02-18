@@ -168,7 +168,7 @@ class JobRepositoryTest {
 
     private class JobTestDataProvider : ArgumentsProvider {
         private val jsonTestData: MutableList<Path> = Path(dotenv["JOBSPROJ_TEST_DIR"])
-            .listDirectoryEntries("software_engineer-*.json")
+            .listDirectoryEntries("*.json")
             .toMutableList()
 
         override fun provideArguments(context: ExtensionContext?): Stream<out Arguments> {
