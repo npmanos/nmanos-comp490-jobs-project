@@ -83,7 +83,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
                 jobId = row.jobId
             )
 
-            println(job)
+            upsertJob(query, job)
         }
     }
 
