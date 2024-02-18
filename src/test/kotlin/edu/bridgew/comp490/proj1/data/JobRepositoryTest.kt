@@ -54,8 +54,12 @@ class JobRepositoryTest {
 
     @BeforeTest
     fun setupTests() {
-        driver = JdbcSqliteDriver(JdbcSqliteDriver.IN_MEMORY, Properties().apply { put("foreign_keys", "true") })
-        JobSearchDB.Schema.create(driver)
+        driver = JdbcSqliteDriver(
+            JdbcSqliteDriver.IN_MEMORY,
+            Properties().apply { put("foreign_keys", "true") },
+            JobSearchDB.Schema,
+        )
+
         db = JobSearchDB(driver)
 
         jobRepository = JobRepository(apiService, db)
@@ -87,7 +91,9 @@ class JobRepositoryTest {
 
         coEvery {
             apiService.getJobs(any(), more(0, andEquals = true))
-        } coAnswers { flow { emit(ApiResult.Success(testData)) } }
+        } coAnswers {
+            flow { emit(ApiResult.Success(testData)) }
+        }
 
         var jobs = 0
 
@@ -138,9 +144,9 @@ class JobRepositoryTest {
             )
             CREATE TABLE JobHighlightDAO (
                 title TEXT,
-                items TEXT NOT NULL,
                 jobId TEXT NOT NULL,
-                PRIMARY KEY (title, jobId),
+                item TEXT NOT NULL,
+                PRIMARY KEY (title, jobId, item),
                 FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
             )
             CREATE TABLE LinkDAO (
@@ -176,10 +182,9 @@ class JobRepositoryTest {
                 .map {
                     named(
                         it.name,
-                        moshi.adapter<JobSearchResult>().fromJson(it.readText())!!
+                        moshi.adapter<JobSearchResult>().fromJson(it.readText())!!,
                     )
                 }.map(Arguments::of)
         }
-
     }
 }
