@@ -38,6 +38,7 @@ dependencies {
     val sqlDelightVersion = "2.0.1"
     val prettytimeVersion = "5.0.7.Final"
     val slf4jVersion = "1.7.36"
+    val poiVersion = "5.2.5"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
@@ -63,6 +64,9 @@ dependencies {
     implementation("org.slf4j:slf4j-nop:$slf4jVersion")
 
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
+
+    implementation("org.apache.poi:poi:$poiVersion")
+    implementation("org.apache.poi:poi-ooxml:$poiVersion")
 
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
