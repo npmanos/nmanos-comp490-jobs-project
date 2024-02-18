@@ -83,7 +83,7 @@ class JobSearch : CliktCommand( // TODO: Update help string w/ <excel> option
         val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
 
-        jobRepo.saveJobsFromExcel(xlsx)
+        jobRepo.saveJobsFromExcel(query, xlsx)
 
         jobRepo.getJobs(query, pages)
             .buffer(pages)

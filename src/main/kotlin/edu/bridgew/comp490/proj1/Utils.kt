@@ -1,6 +1,10 @@
 package edu.bridgew.comp490.proj1
 
 import app.cash.sqldelight.ExecutableQuery
+import org.apache.poi.ss.usermodel.Cell
+import org.apache.poi.ss.usermodel.Row
+import org.apache.poi.ss.usermodel.Sheet
+import org.apache.poi.ss.usermodel.Workbook
 import org.apache.poi.xssf.usermodel.XSSFCell
 import org.apache.poi.xssf.usermodel.XSSFRow
 import org.apache.poi.xssf.usermodel.XSSFSheet
@@ -15,8 +19,8 @@ fun <C : Collection<*>> C.nullIfEmpty() = this.ifEmpty { null }
 
 fun <RowType : Any> ExecutableQuery<RowType>.executeAsListOrNull() = this.executeAsList().nullIfEmpty()
 
-operator fun XSSFWorkbook.get(index: Int): XSSFSheet = this.getSheetAt(index)
-operator fun XSSFWorkbook.get(name: String): XSSFSheet? = this.getSheet(name)
-operator fun XSSFSheet.get(rowIndex: Int): XSSFRow? = this.getRow(rowIndex)
-operator fun XSSFRow.get(columnIndex: Int): XSSFCell? = this.getCell(columnIndex)
-operator fun XSSFSheet.get(rowIndex: Int, columnIndex: Int): XSSFCell? = this[rowIndex]?.get(columnIndex)
+operator fun Workbook.get(index: Int): Sheet = this.getSheetAt(index)
+operator fun Workbook.get(name: String): Sheet? = this.getSheet(name)
+operator fun Sheet.get(rowIndex: Int): Row? = this.getRow(rowIndex)
+operator fun Row.get(columnIndex: Int): Cell? = this.getCell(columnIndex)
+operator fun Sheet.get(rowIndex: Int, columnIndex: Int): Cell? = this[rowIndex]?.get(columnIndex)

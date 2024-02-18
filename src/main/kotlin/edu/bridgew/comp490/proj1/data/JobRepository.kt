@@ -16,6 +16,7 @@ import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
 import edu.bridgew.comp490.proj1.get
 import edu.bridgew.comp490.proj1.nullIfEmpty
+import edu.bridgew.comp490.proj1.relativeTimeString
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
@@ -26,6 +27,8 @@ import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
+import java.time.LocalDateTime
+import java.time.ZoneOffset
 
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
@@ -55,7 +58,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
         return@withContext getJobsFromDB(query)
     }
 
-    suspend fun saveJobsFromExcel(xlsx: XSSFWorkbook) = withContext(Dispatchers.IO) {
+    suspend fun saveJobsFromExcel(query: String, xlsx: XSSFWorkbook) = withContext(Dispatchers.IO) {
         val sheet = requireNotNull(xlsx["Comp490 Jobs"]) { "ERROR! Excel file is missing sheet named \"Comp490 Jobs\"" }
 
         val headerRow = requireNotNull(sheet[0]) { "ERROR! \"Comp490 Jobs\" sheet is empty" }
@@ -63,6 +66,48 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
         for (i in 0 until 10) {
             val colHeader = requireNotNull(sheet[0, i]?.stringCellValue) { "ERROR! Missing \"${header[i]}\" column" }
             require(colHeader == header[i])
+        }
+
+        sheet.forEachIndexed { index, row ->
+            if (index == 0) return@forEachIndexed
+
+            val title = requireNotNull(row[9]?.stringCellValue) { "ERROR! Job Title is missing in row ${index + 1}" }
+            val companyName = requireNotNull(row[0]?.stringCellValue) { "ERROR! Company Name is missing in row ${index + 1}" }
+            val location = row[4]?.stringCellValue
+
+            val extensions = mutableListOf<String>()
+            val detectedExtensions = mutableListOf<Extension>()
+
+            val postedAt = row[5]?.let { PostedAt(LocalDateTime.ofEpochSecond(it.numericCellValue.toLong() / 1000, (it.numericCellValue.toLong() % 1000).toInt(), ZoneOffset.UTC)) }
+            if (postedAt != null) {
+                extensions.add(postedAt.date.relativeTimeString)
+                detectedExtensions.add(postedAt)
+            }
+
+            val salaryMin = row[7]?.numericCellValue?.toString() ?: ""
+            val salaryMax = row[6]?.let { if (it.numericCellValue == -1.0) "" else "-${it.numericCellValue}" } ?: ""
+            val salary = when (row[8]?.stringCellValue) {
+                "hourly" -> Salary("$salaryMin$salaryMax an hour")
+                "yearly" -> Salary("$salaryMin$salaryMax a year")
+                else -> null
+            }
+            if (salary != null) {
+                extensions.add(salary.salaryRange)
+                detectedExtensions.add(salary)
+            }
+
+            val jobId = requireNotNull(row[2]?.stringCellValue) {"ERROR! Job Id is missing in row ${index + 1}"}
+
+            val job = Job(
+                title,
+                companyName,
+                location,
+                extensions = extensions.nullIfEmpty(),
+                detectedExtensions = detectedExtensions,
+                jobId = jobId
+            )
+
+            println(job)
         }
     }
 
