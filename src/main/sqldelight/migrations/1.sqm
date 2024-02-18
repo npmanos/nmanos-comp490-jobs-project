@@ -1,0 +1,18 @@
+PRAGMA foreign_keys = off;
+
+ALTER TABLE JobHighlightDAO RENAME COLUMN items TO item;
+ALTER TABLE JobHighlightDAO RENAME TO old_JobHighlightDAO;
+
+CREATE TABLE JobHighlightDAO (
+    title TEXT,
+    jobId TEXT NOT NULL,
+    item TEXT NOT NULL,
+    PRIMARY KEY (title, jobId, item),
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);
+
+INSERT INTO JobHighlightDAO SELECT * FROM old_JobHighlightDAO;
+
+DROP TABLE old_JobHighlightDAO;
+
+PRAGMA foreign_keys = on;

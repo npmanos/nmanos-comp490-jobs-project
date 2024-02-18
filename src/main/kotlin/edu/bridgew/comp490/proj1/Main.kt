@@ -74,8 +74,12 @@ class JobSearch : CliktCommand( // TODO: Update help string w/ <excel> option
         echo("Searching...")
         echo()
 
-        val driver = JdbcSqliteDriver("jdbc:sqlite:$dbPath", Properties().apply { put("foreign_keys", "true") })
-        JobSearchDB.Schema.create(driver)
+        val driver = JdbcSqliteDriver(
+            "jdbc:sqlite:$dbPath",
+            Properties().apply { put("foreign_keys", "true") },
+            JobSearchDB.Schema,
+        )
+
         val db = JobSearchDB(driver)
 
         val writer = JobsFileWriter(output)

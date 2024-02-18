@@ -101,7 +101,13 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
             )
 
             queries.insertQuery(query, job.jobId)
-            job.jobHighlights?.forEach { queries.insertHighlight(it.title, it.items.joinToString("\n"), job.jobId) }
+
+            job.jobHighlights?.forEach { highlight ->
+                highlight.items.forEach { item ->
+                    queries.insertHighlight(highlight.title, item, job.jobId)
+                }
+            }
+
             job.relatedLinks?.forEach { queries.insertLink(it.link, it.text, job.jobId) }
             job.extensions?.forEach { queries.insertExtension(it, job.jobId) }
             job.detectedExtensions?.forEach {
@@ -123,7 +129,14 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
 
     private fun Flow<List<JobDAO>>.transformToJob() = this.transform { jobList ->
         jobList.forEach { job ->
-            val highlights = queries.getHighlights(job.jobId, JobHighlight::daoMapper).executeAsListOrNull()
+            val highlights = queries.getHighlights(job.jobId)
+                .executeAsListOrNull()
+                ?.groupBy(
+                    keySelector = { it.title },
+                    valueTransform = { it.item },
+                )
+                ?.map { JobHighlight(it.key, it.value) }
+
             val links = queries.getLinks(job.jobId, ::Link).executeAsListOrNull()
             val extensions = queries.getExtensions(job.jobId).executeAsListOrNull()
             val detectedExtensions = getDetectedExtensions(job)
