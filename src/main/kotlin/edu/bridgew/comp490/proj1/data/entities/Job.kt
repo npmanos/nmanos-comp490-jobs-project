@@ -8,12 +8,12 @@ import edu.bridgew.comp490.proj1.data.db.JobDAO
 data class Job(
     val title: String,
     @Json(name = "company_name") val companyName: String,
-    val location: String?,
-    val description: String?,
-    @Json(name = "job_highlights") val jobHighlights: List<JobHighlight>?,
-    @Json(name = "related_links") val relatedLinks: List<Link>?,
-    val thumbnail: String?,
-    val extensions: List<String>?,
+    val location: String? = null,
+    val description: String? = null,
+    @Json(name = "job_highlights") val jobHighlights: List<JobHighlight>? = null,
+    @Json(name = "related_links") val relatedLinks: List<Link>? = null,
+    val thumbnail: String? = null,
+    val extensions: List<String>? = null,
     @Json(name = "detected_extensions") val detectedExtensions: List<Extension>?,
     @Json(name = "job_id") val jobId: String,
 ) {
