@@ -12,6 +12,7 @@ import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
+import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -83,7 +84,7 @@ class JobSearch : CliktCommand( // TODO: Update help string w/ <excel> option
         val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
 
-        jobRepo.saveJobsFromExcel(query, xlsx)
+        jobRepo.saveJobsFromExcel(query, JobXlsx(xlsx))
 
         jobRepo.getJobs(query, pages)
             .buffer(pages)
