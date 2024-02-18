@@ -24,6 +24,8 @@ import kotlinx.coroutines.flow.timeout
 import kotlinx.coroutines.runBlocking
 import okio.Path.Companion.toOkioPath
 import okio.Path.Companion.toPath
+import org.apache.poi.xssf.usermodel.XSSFWorkbook
+import java.io.FileInputStream
 import java.util.*
 import kotlin.time.Duration.Companion.milliseconds
 
@@ -33,7 +35,7 @@ private val dotenv = dotenv {
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
-class JobSearch : CliktCommand(
+class JobSearch : CliktCommand( // TODO: Update help string w/ <excel> option
     help = """
     |This application saves 50 results from a Google job search for <query> to <database> and writes all job results to <output>.
     |
@@ -49,6 +51,11 @@ class JobSearch : CliktCommand(
         .file(mustExist = false, canBeDir = false, mustBeWritable = false)
         .convert { it.path }
         .default("output/jobs.db")
+
+    private val xlsx by option("-x", "--excel", help = "Excel (.xlsx) file location")
+        .file(mustExist = true, canBeDir = false, mustBeReadable = true)
+        .convert { XSSFWorkbook(it.inputStream()) }
+        .default(XSSFWorkbook(FileInputStream("data/Sprint3Data.xlsx")))
 
     private val output by option("-o", "--output", help = "Output file location")
         .file(mustExist = false, canBeDir = false, mustBeWritable = false)
@@ -75,6 +82,8 @@ class JobSearch : CliktCommand(
         val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
         val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
+
+        jobRepo.saveJobsFromExcel(xlsx)
 
         jobRepo.getJobs(query, pages)
             .buffer(pages)

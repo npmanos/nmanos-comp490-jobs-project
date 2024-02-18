@@ -14,6 +14,7 @@ import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
+import edu.bridgew.comp490.proj1.get
 import edu.bridgew.comp490.proj1.nullIfEmpty
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -24,10 +25,16 @@ import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
+import org.apache.poi.xssf.usermodel.XSSFWorkbook
 
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
     private val queries = db.jobQueries
+
+    private companion object {
+        @JvmStatic
+        private val header = listOf("Company Name", "Posting Age", "Job Id", "Country", "Location", "Publication Date", "Salary Max", "Salary Min", "Salary Type", "Job Title")
+    }
 
     suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
         (0 until pages).asFlow()
@@ -46,6 +53,17 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
             .launchIn(this)
 
         return@withContext getJobsFromDB(query)
+    }
+
+    suspend fun saveJobsFromExcel(xlsx: XSSFWorkbook) = withContext(Dispatchers.IO) {
+        val sheet = requireNotNull(xlsx["Comp490 Jobs"]) { "ERROR! Excel file is missing sheet named \"Comp490 Jobs\"" }
+
+        val headerRow = requireNotNull(sheet[0]) { "ERROR! \"Comp490 Jobs\" sheet is empty" }
+
+        for (i in 0 until 10) {
+            val colHeader = requireNotNull(sheet[0, i]?.stringCellValue) { "ERROR! Missing \"${header[i]}\" column" }
+            require(colHeader == header[i])
+        }
     }
 
     private fun upsertJob(query: String, job: Job) {
