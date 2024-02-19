@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "edu.bridgew.comp490"
-version = "2.0.1"
+version = "3.0.0-SNAPSHOT"
 
 application {
     mainClass = "edu.bridgew.comp490.proj1.MainKt"
@@ -39,6 +39,7 @@ dependencies {
     val prettytimeVersion = "5.0.7.Final"
     val slf4jVersion = "1.7.36"
     val poiVersion = "5.2.5"
+    val fakerVersion = "1.16.0"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
@@ -70,6 +71,9 @@ dependencies {
 
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
+    testImplementation("io.github.serpro69:kotlin-faker:$fakerVersion")
+//    testImplementation("io.github.serpro69:kotlin-faker-commerce:$fakerVersion")
+//    testImplementation("io.github.serpro69:kotlin-faker-edu:$fakerVersion")
     testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0-RC2")
