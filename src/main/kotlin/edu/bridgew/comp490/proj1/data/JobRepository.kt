@@ -14,7 +14,6 @@ import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
-import edu.bridgew.comp490.proj1.get
 import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
 import edu.bridgew.comp490.proj1.relativeTimeString
@@ -27,9 +26,6 @@ import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
-import org.apache.poi.xssf.usermodel.XSSFWorkbook
-import java.time.LocalDateTime
-import java.time.ZoneOffset
 
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
@@ -60,6 +56,8 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
 
             val salary = when (row.salaryType) {
                 "hourly" -> Salary("${row.salaryMin}${row.salaryMax} an hour")
+                "weekly" -> Salary("${row.salaryMin}${row.salaryMax} a week")
+                "monthly" -> Salary("${row.salaryMin}${row.salaryMax} a month")
                 "yearly" -> Salary("${row.salaryMin}${row.salaryMax} a year")
                 else -> null
             }
