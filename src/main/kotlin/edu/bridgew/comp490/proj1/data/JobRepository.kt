@@ -28,7 +28,7 @@ import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
 
 @OptIn(ExperimentalCoroutinesApi::class)
-class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
+class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobSearchDB) {
     private val queries = db.jobQueries
 
     suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {

@@ -39,10 +39,10 @@ dependencies {
     val prettytimeVersion = "5.0.7.Final"
     val slf4jVersion = "1.7.36"
     val poiVersion = "5.2.5"
-    val fakerVersion = "1.16.0"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
+    implementation(platform("org.apache.logging.log4j:log4j-bom:2.22.1"))
 
     ksp("com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion")
     ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
@@ -62,7 +62,10 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
 
     implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
-    implementation("org.slf4j:slf4j-nop:$slf4jVersion")
+//    implementation("org.slf4j:slf4j-nop:$slf4jVersion")
+    implementation("org.apache.logging.log4j:log4j-api")
+    runtimeOnly("org.apache.logging.log4j:log4j-core")
+    implementation("org.apache.logging.log4j:log4j-slf4j-impl")
 
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
 
@@ -71,14 +74,14 @@ dependencies {
 
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
-    testImplementation("io.github.serpro69:kotlin-faker:$fakerVersion")
-//    testImplementation("io.github.serpro69:kotlin-faker-commerce:$fakerVersion")
-//    testImplementation("io.github.serpro69:kotlin-faker-edu:$fakerVersion")
     testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0-RC2")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.2")
-    testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
+//    testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
+    testImplementation("org.apache.logging.log4j:log4j-api")
+    testRuntimeOnly("org.apache.logging.log4j:log4j-core")
+    testImplementation("org.apache.logging.log4j:log4j-slf4j-impl")
 }
 
 val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchResults") {
