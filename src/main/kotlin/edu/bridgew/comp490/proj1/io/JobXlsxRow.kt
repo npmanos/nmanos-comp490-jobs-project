@@ -7,8 +7,8 @@ interface JobXlsxRow {
     val companyName: String
     val location: String?
     val postedAt: LocalDateTime?
-    val salaryMin: String?
-    val salaryMax: String?
+    val salaryMin: String
+    val salaryMax: String
     val salaryType: String?
     val jobId: String
 
