@@ -39,7 +39,6 @@ class JobXlsx(xlsx: Workbook) : Iterable<JobXlsxRow> {
                 done()
             }
         }
-
     }
 }
 
@@ -53,7 +52,7 @@ private class JobXlsxRowImpl(private val row: Row) : JobXlsxRow {
             LocalDateTime.ofEpochSecond(
                 it.numericCellValue.toLong() / 1000,
                 (it.numericCellValue.toLong() % 1000).toInt(),
-                ZoneOffset.UTC
+                ZoneOffset.UTC,
             )
         }
     }

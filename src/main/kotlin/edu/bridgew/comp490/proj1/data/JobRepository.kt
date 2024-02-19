@@ -78,7 +78,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
                 row.location,
                 extensions = extensions.nullIfEmpty(),
                 detectedExtensions = detectedExtensions,
-                jobId = row.jobId
+                jobId = row.jobId,
             )
 
             upsertJob(query, job)
