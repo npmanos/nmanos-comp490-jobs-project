@@ -14,7 +14,9 @@ import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
+import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
+import edu.bridgew.comp490.proj1.relativeTimeString
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
@@ -26,7 +28,7 @@ import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
 
 @OptIn(ExperimentalCoroutinesApi::class)
-class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
+class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobSearchDB) {
     private val queries = db.jobQueries
 
     suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
@@ -46,6 +48,41 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
             .launchIn(this)
 
         return@withContext getJobsFromDB(query)
+    }
+
+    suspend fun saveJobsFromExcel(query: String, xlsx: JobXlsx) = withContext(Dispatchers.IO) {
+        xlsx.forEach { row ->
+            val postedAt = row.postedAt?.let { PostedAt(it) }
+
+            val salary = when (row.salaryType) {
+                "hourly" -> Salary("${row.salaryMin}${row.salaryMax} an hour")
+                "weekly" -> Salary("${row.salaryMin}${row.salaryMax} a week")
+                "monthly" -> Salary("${row.salaryMin}${row.salaryMax} a month")
+                "yearly" -> Salary("${row.salaryMin}${row.salaryMax} a year")
+                else -> null
+            }
+
+            val extensions = mutableListOf<String>().apply {
+                if (postedAt != null) this.add(postedAt.date.relativeTimeString)
+                if (salary != null) this.add(salary.salaryRange)
+            }
+
+            val detectedExtensions = mutableListOf<Extension>().apply {
+                if (postedAt != null) this.add(postedAt)
+                if (salary != null) this.add(salary)
+            }
+
+            val job = Job(
+                row.title,
+                row.companyName,
+                row.location,
+                extensions = extensions.nullIfEmpty(),
+                detectedExtensions = detectedExtensions,
+                jobId = row.jobId,
+            )
+
+            upsertJob(query, job)
+        }
     }
 
     private fun upsertJob(query: String, job: Job) {

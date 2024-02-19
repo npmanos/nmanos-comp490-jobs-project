@@ -1,5 +1,6 @@
 package edu.bridgew.comp490.proj1
 
+import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.core.context
@@ -12,6 +13,7 @@ import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
+import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -21,9 +23,12 @@ import kotlinx.coroutines.flow.buffer
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.onCompletion
 import kotlinx.coroutines.flow.timeout
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 import okio.Path.Companion.toOkioPath
 import okio.Path.Companion.toPath
+import org.apache.poi.xssf.usermodel.XSSFWorkbook
+import java.io.File
 import java.util.*
 import kotlin.time.Duration.Companion.milliseconds
 
@@ -35,13 +40,17 @@ private val dotenv = dotenv {
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobSearch : CliktCommand(
     help = """
-    |This application saves 50 results from a Google job search for <query> to <database> and writes all job results to <output>.
+    |This application saves job search results from <excel> and 50 results from a Google job search for <query> to <database> and writes them all to <output>.
     |
     |NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
     |
-    |You can customize <query>, <database>, and <output> using the options below.
+    |You can customize <excel>, <query>, <database>, and <output> using the options below.
     """.trimMargin(),
 ) {
+    private val xlsx by option("-x", "--excel", help = "Excel (.xlsx) file location")
+        .file(mustExist = true, canBeDir = false, mustBeReadable = true)
+        .default(File("data/Sprint3Data.xlsx"))
+
     private val query by option("-q", "--query", help = "Job search query")
         .default("software engineer boston")
 
@@ -63,14 +72,15 @@ class JobSearch : CliktCommand(
 
     @OptIn(FlowPreview::class)
     override fun run() = runBlocking {
-        echo("Searching...")
-        echo()
-
         val driver = JdbcSqliteDriver(
             "jdbc:sqlite:$dbPath",
             Properties().apply { put("foreign_keys", "true") },
             JobSearchDB.Schema,
         )
+
+        JobSearchDB.Schema.create(driver)
+        val currentSchemaVersion = Query(788_663, driver, "PRAGMA USER_VERSION") { cursor -> cursor.getLong(0)!! }.executeAsOne()
+        JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 2)
 
         val db = JobSearchDB(driver)
 
@@ -79,6 +89,13 @@ class JobSearch : CliktCommand(
         val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
         val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
+
+        echo("Loading ${xlsx.name}...")
+
+        val saveExcel = launch { jobRepo.saveJobsFromExcel(query, JobXlsx(XSSFWorkbook(xlsx.inputStream()))) }
+
+        echo("Searching...")
+        echo()
 
         jobRepo.getJobs(query, pages)
             .buffer(pages)
@@ -92,6 +109,8 @@ class JobSearch : CliktCommand(
                 echo("[${job.companyName}] ${job.title}")
                 writer.writeJob(job)
             }
+
+        saveExcel.join()
     }
 }
 
