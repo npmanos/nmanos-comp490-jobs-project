@@ -27,10 +27,29 @@ import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
 
+/**
+ * Repository class for managing job data.
+ *
+ * This class provides methods to save jobs from the Google Job Search Service or an Excel file to a database,
+ * and then all the jobs from the database.
+ *
+ * @property apiService The [GoogleJobSearchServiceImpl] instance used to get jobs from the Google Job Search Service.
+ * @param db The [JobSearchDB] instance used to interact with the local database.
+ */
 @OptIn(ExperimentalCoroutinesApi::class)
 class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobSearchDB) {
     private val queries = db.jobQueries
 
+    /**
+     * Get jobs from the Google Job Search Service and the local database.
+     *
+     * This method first gets jobs from the Google Job Search Service based on the provided query and number of pages.
+     * The jobs are then saved to the local database. Finally, the jobs are retrieved from the local database and returned.
+     *
+     * @param query The search query string.
+     * @param pages The number of pages to get from the Google Job Search Service. Default value is 1.
+     * @return A [Flow] of [Jobs][Job] from the local database.
+     */
     suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
         (0 until pages).asFlow()
             .flatMapMerge { apiService.getJobs(query, it) }
@@ -50,6 +69,14 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         return@withContext getJobsFromDB(query)
     }
 
+    /**
+     * Save jobs from an Excel file to the local database.
+     *
+     * This method reads jobs from the provided Excel file and saves them to the local database.
+     *
+     * @param query The search query string to associate the jobs with in the database.
+     * @param xlsx The JobXlsx instance representing the Excel file.
+     */
     suspend fun saveJobsFromExcel(query: String, xlsx: JobXlsx) = withContext(Dispatchers.IO) {
         xlsx.forEach { row ->
             val postedAt = row.postedAt?.let { PostedAt(it) }

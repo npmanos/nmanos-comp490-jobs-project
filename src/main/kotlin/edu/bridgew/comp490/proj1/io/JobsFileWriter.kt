@@ -37,6 +37,13 @@ class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
         buffer = fileSink.buffer()
     }
 
+    /**
+     * Writes a job to the file.
+     *
+     * This method writes the details of a job to the file. The job details include the job title, company name, location, salary, posting date, highlights, and description.
+     *
+     * @param job The job to be written to the file.
+     */
     suspend fun writeJob(job: Job): Unit = withContext(Dispatchers.IO) {
         var scheduleType: ScheduleType? = null
         var postedAt: PostedAt? = null

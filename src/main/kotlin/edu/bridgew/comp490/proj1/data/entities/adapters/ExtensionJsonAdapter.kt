@@ -16,7 +16,7 @@ import java.time.LocalDateTime
 import java.time.Period
 import java.time.temporal.TemporalAmount
 
-class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
+internal class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
 
     private companion object {
         @JvmStatic

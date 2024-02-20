@@ -12,11 +12,31 @@ import edu.bridgew.comp490.proj1.io.JobXlsxHeader.SALARY_MAX
 import edu.bridgew.comp490.proj1.io.JobXlsxHeader.SALARY_MIN
 import edu.bridgew.comp490.proj1.io.JobXlsxHeader.SALARY_TYPE
 import edu.bridgew.comp490.proj1.io.JobXlsxHeader.headerNames
+import org.apache.poi.hssf.usermodel.HSSFWorkbook
 import org.apache.poi.ss.usermodel.Row
 import org.apache.poi.ss.usermodel.Workbook
+import org.apache.poi.xssf.streaming.SXSSFWorkbook
+import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.time.LocalDateTime
 import java.time.ZoneOffset
 
+/**
+ * Class for representing a Job Excel file.
+ *
+ * The Excel file must contain a sheet named `"Comp490 Jobs"` and must contain the following fields in this order:
+ *
+ * | Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
+ * |:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
+ *
+ * This class provides an iterator over the rows in the `"Comp490 Jobs"` sheet of the provided Excel workbook.
+ * Each row is represented as a [JobXlsxRow] instance.
+ *
+ * @param xlsx The [Excel workbook][Workbook] containing the job data.
+ *
+ * @see XSSFWorkbook
+ * @see HSSFWorkbook
+ * @see SXSSFWorkbook
+ */
 class JobXlsx(xlsx: Workbook) : Iterable<JobXlsxRow> {
     private val sheet = requireNotNull(xlsx["Comp490 Jobs"]) { "ERROR! Excel file is missing sheet named \"Comp490 Jobs\"" }
 
@@ -25,7 +45,7 @@ class JobXlsx(xlsx: Workbook) : Iterable<JobXlsxRow> {
 
         for (i in 0 until 10) {
             val colHeader = requireNotNull(sheet[0, i]?.stringCellValue) { "ERROR! Missing \"${headerNames[i]}\" column" }
-            require(colHeader == headerNames[i])
+            require(colHeader == headerNames[i]) { "ERROR! Column ${i + 1} was expected to be \"${headerNames[i]}\" but was actually $colHeader" }
         }
     }
 
