@@ -16,14 +16,14 @@ then write them all to a formatted text file.
 - [Jobs Excel File](data/Sprint3Data.xlsx) - This workbook **must** contain a sheet named `Comp490 Jobs` with the
   following column format:
 
-  > [!NOTE]
-  > Column headers **must** match the name and order and **must** be the first row.
+> [!NOTE]
+> Column headers **must** match the name and order and **must** be the first row.
 
-  | Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
-  |:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
+| Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
+|:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
 
-  > [!TIP]
-  > A compatible spreadsheet is included with the software in the data folder and is used by default.
+> [!TIP]
+> A compatible spreadsheet is included with the software in the data folder and is used by default.
 
 ### Build Instructions
 
