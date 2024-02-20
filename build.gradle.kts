@@ -22,6 +22,10 @@ distributions {
     main {
         contents {
             from("README.md", "sample.env", "NOTICE.html")
+            from(layout.projectDirectory) {
+                include("data/**")
+                exclude("data/**/~$*.xls", "data/**/~$*.xlsx")
+            }
         }
     }
 }
@@ -37,7 +41,6 @@ dependencies {
     val moshiVersion = "1.15.1"
     val sqlDelightVersion = "2.0.1"
     val prettytimeVersion = "5.0.7.Final"
-    val slf4jVersion = "1.7.36"
     val poiVersion = "5.2.5"
     val mockkVersion = "1.13.9"
 
@@ -135,7 +138,7 @@ licenseReport {
     generateCsvReport = false
     generateHtmlReport = true
     generateJsonReport = false
-    generateTextReport = false
+    generateTextReport = true
 }
 
 val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
