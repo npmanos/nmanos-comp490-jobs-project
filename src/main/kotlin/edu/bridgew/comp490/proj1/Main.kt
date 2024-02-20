@@ -43,15 +43,14 @@ class JobSearch : CliktCommand(
     |
     |<excel> should contain a sheet named "Comp490 Jobs" using the following format:
     |
-    || Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
-    ||:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
+    |Company Name,Posting Age,Job Id,Country,Location,Publication Date,Salary Max,Salary Min,Salary Type,Job Title
     |
     |NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
     |
     |You can customize <excel>, <query>, <database>, and <output> using the options below.
     """.trimMargin(),
 ) {
-    private val xlsx by option("-x", "--excel", help = "Excel (.xlsx) file location")
+    private val xlsx by option("-x", "--excel", help = "Excel (.xls or .xlsx) file location")
         .file(mustExist = true, canBeDir = false, mustBeReadable = true)
         .default(File("data/Sprint3Data.xlsx"))
 
