@@ -1,10 +1,11 @@
-# Project 1 - Jobs API
+# Project 1 - Jobs Data
 
 [![build](https://github.com/npmanos/nmanos-comp490-jobs-project/actions/workflows/gradle.yml/badge.svg)](https://github.com/npmanos/nmanos-comp490-jobs-project/actions/workflows/gradle.yml) [![lint](https://github.com/npmanos/nmanos-comp490-jobs-project/actions/workflows/super-linter.yml/badge.svg)](https://github.com/npmanos/nmanos-comp490-jobs-project/actions/workflows/super-linter.yml)
 
 Author: Nick Manos
 
-A small utility to store 50 Google Jobs Search results in a database and write all stored jobs to a text file.
+A small utility to saves job search results from an Excel file and 50 results from a Google job search to a database
+then write them all to a formatted text file.
 
 ## Installation
 
@@ -12,6 +13,17 @@ A small utility to store 50 Google Jobs Search results in a database and write a
 
 - [JDK 21](https://adoptium.net/marketplace/?version=21)
 - [SerpApi API Key](https://serpapi.com/)
+- [Jobs Excel File](data/Sprint3Data.xlsx) - This workbook **must** contain a sheet named `Comp490 Jobs` with the
+  following column format:
+
+  > [!NOTE]
+  > Column headers **must** match the name and order and **must** be the first row.
+
+  | Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
+  |:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
+
+  > [!TIP]
+  > A compatible spreadsheet is included with the software in the data folder and is used by default.
 
 ### Build Instructions
 
@@ -55,20 +67,29 @@ dist/bin/job-search --help
 
 Usage: job-search [<options>]
 
-  This application saves 50 results from a Google job search for <query> to
-  <database> and writes all job results to <output>.
+  This application saves job search results from <excel> and 50 results from a
+  Google job search for <query> to <database> and writes them all to <output>.
+
+  <excel> should contain a sheet named "Comp490 Jobs" using the following
+  format:
+
+  Company Name,Posting Age,Job Id,Country,Location,Publication Date,Salary
+  Max,Salary Min,Salary Type,Job Title
 
   NOTE: Saving to <output> may take a few minutes. If the application seems
   frozen, please be patient.
 
-  You can customize <query>, <database>, and <output> using the options below.
+  You can customize <excel>, <query>, <database>, and <output> using the options
+  below.
 
 Options:
+  -x, --excel=<path>     Excel (.xls or .xlsx) file location (default:
+                         data/Sprint3Data.xlsx)
   -q, --query=<text>     Job search query (default: software engineer boston)
   -d, --database=<path>  Database file location (default: output/jobs.db)
   -o, --output=<path>    Output file location (default: output/jobs.txt)
+  -V, --version          Display version information and exit
   -h, --help             Show this message and exit
-
 ```
 
 ## Database Structure
@@ -84,4 +105,3 @@ tracks what searches returned a particular result also using a `jobId` foreign k
 
 - [ ] Prove slow file writing has been fully resolved
   - [ ] Write a unit test to catch regressions
-- [ ] Write KDoc comments

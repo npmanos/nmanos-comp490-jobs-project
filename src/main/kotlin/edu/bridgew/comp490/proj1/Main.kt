@@ -3,10 +3,13 @@ package edu.bridgew.comp490.proj1
 import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
+import com.github.ajalt.clikt.core.CliktError
+import com.github.ajalt.clikt.core.PrintMessage
 import com.github.ajalt.clikt.core.context
 import com.github.ajalt.clikt.output.MordantHelpFormatter
 import com.github.ajalt.clikt.parameters.options.convert
 import com.github.ajalt.clikt.parameters.options.default
+import com.github.ajalt.clikt.parameters.options.eagerOption
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
@@ -16,7 +19,6 @@ import edu.bridgew.comp490.proj1.data.db.JobSearchDB
 import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
-import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.TimeoutCancellationException
 import kotlinx.coroutines.flow.buffer
@@ -37,17 +39,20 @@ private val dotenv = dotenv {
     ignoreIfMalformed = true
 }
 
-@OptIn(ExperimentalCoroutinesApi::class)
 class JobSearch : CliktCommand(
     help = """
     |This application saves job search results from <excel> and 50 results from a Google job search for <query> to <database> and writes them all to <output>.
+    |
+    |<excel> should contain a sheet named "Comp490 Jobs" using the following format:
+    |
+    |Company Name,Posting Age,Job Id,Country,Location,Publication Date,Salary Max,Salary Min,Salary Type,Job Title
     |
     |NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
     |
     |You can customize <excel>, <query>, <database>, and <output> using the options below.
     """.trimMargin(),
 ) {
-    private val xlsx by option("-x", "--excel", help = "Excel (.xlsx) file location")
+    private val xlsx by option("-x", "--excel", help = "Excel (.xls or .xlsx) file location")
         .file(mustExist = true, canBeDir = false, mustBeReadable = true)
         .default(File("data/Sprint3Data.xlsx"))
 
@@ -68,10 +73,22 @@ class JobSearch : CliktCommand(
         context {
             helpFormatter = { MordantHelpFormatter(it, showDefaultValues = true) }
         }
+
+        eagerOption("-V", "--version", help = "Display version information and exit") {
+            throw PrintMessage("$commandName version 3.0.0")
+        }
     }
 
     @OptIn(FlowPreview::class)
     override fun run() = runBlocking {
+        echo("Loading ${xlsx.name}...")
+
+        val jobXlsx = try {
+            JobXlsx(XSSFWorkbook(xlsx.inputStream()))
+        } catch (e: IllegalArgumentException) {
+            throw CliktError(e.message, e, 47)
+        }
+
         val driver = JdbcSqliteDriver(
             "jdbc:sqlite:$dbPath",
             Properties().apply { put("foreign_keys", "true") },
@@ -90,9 +107,7 @@ class JobSearch : CliktCommand(
         val jobRepo = JobRepository(jobSearchClient, db)
         val pages = 5
 
-        echo("Loading ${xlsx.name}...")
-
-        val saveExcel = launch { jobRepo.saveJobsFromExcel(query, JobXlsx(XSSFWorkbook(xlsx.inputStream()))) }
+        val saveExcel = launch { jobRepo.saveJobsFromExcel(query, jobXlsx) }
 
         echo("Searching...")
         echo()

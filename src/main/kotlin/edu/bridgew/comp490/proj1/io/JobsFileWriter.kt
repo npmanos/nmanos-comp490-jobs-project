@@ -13,11 +13,23 @@ import okio.BufferedSink
 import okio.FileSystem
 import okio.Path
 import okio.buffer
+import java.io.Flushable
 
-class JobsFileWriter(path: Path) {
+/**
+ * Class for writing job data to a file.
+ *
+ * This class provides methods to write job data to a file. The job data is written in a specific format.
+ *
+ * @param path The file where the job data will be written as a [Path].
+ */
+class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
     private val buffer: BufferedSink
     private val newline = "\n"
-    val open: Boolean
+
+    /**
+     * Indicates whether the buffer is open or not.
+     */
+    val isOpen: Boolean
         get() = buffer.isOpen
 
     init {
@@ -25,6 +37,13 @@ class JobsFileWriter(path: Path) {
         buffer = fileSink.buffer()
     }
 
+    /**
+     * Writes a job to the file.
+     *
+     * This method writes the details of a job to the file. The job details include the job title, company name, location, salary, posting date, highlights, and description.
+     *
+     * @param job The job to be written to the file.
+     */
     suspend fun writeJob(job: Job): Unit = withContext(Dispatchers.IO) {
         var scheduleType: ScheduleType? = null
         var postedAt: PostedAt? = null
@@ -123,8 +142,12 @@ class JobsFileWriter(path: Path) {
         buffer.writeLnUtf8()
     }
 
-    fun close() {
+    override fun flush() {
         buffer.flush()
+    }
+
+    override fun close() {
+        flush()
         buffer.close()
     }
 

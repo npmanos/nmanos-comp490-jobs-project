@@ -10,7 +10,7 @@ import edu.bridgew.comp490.proj1.data.entities.StatusProcessing
 import edu.bridgew.comp490.proj1.data.entities.StatusSuccess
 import edu.bridgew.comp490.proj1.data.entities.StatusUnknown
 
-class SearchStatusAdapter : JsonAdapter<SearchStatus>() {
+internal class SearchStatusAdapter : JsonAdapter<SearchStatus>() {
     override fun fromJson(reader: JsonReader): SearchStatus = with(reader) {
         return try {
             val status = peekJson().nextString()

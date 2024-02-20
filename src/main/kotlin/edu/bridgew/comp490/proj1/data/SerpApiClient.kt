@@ -18,8 +18,24 @@ private val dotenv = dotenv {
     ignoreIfMalformed = true
 }
 
+/**
+ * Client class for the Serp API.
+ *
+ * This class is used to interact with the Serp API. It uses an API key for authentication and provides a [Retrofit] instance
+ * for making API calls. The Retrofit instance is configured with a base URL and a [Moshi] converter factory.
+ *
+ * @param apiKey The API key used for authentication with the Serp API.
+ */
 class SerpApiClient(private val apiKey: String) {
-    private class ApiKeyInterceptor(private val apiKey: String) : Interceptor {
+    /**
+     * Interceptor class for adding the API key to the request.
+     *
+     * This class intercepts the original request and adds the API key as a query parameter to the request URL.
+     * The modified request is then proceeded with.
+     *
+     * @param apiKey The API key used for authentication with the Serp API.
+     */
+    private inner class ApiKeyInterceptor(private val apiKey: String) : Interceptor {
         override fun intercept(chain: Interceptor.Chain): Response {
             val request = chain.request()
             val url = request.url.newBuilder()
@@ -54,15 +70,18 @@ class SerpApiClient(private val apiKey: String) {
         return@lazy builder.build()
     }
 
-    val retrofit by lazy {
+    /**
+     * Lazy initialization of the [Retrofit] instance.
+     *
+     * This property is a Retrofit instance that is lazily initialized. The Retrofit instance is configured
+     * with the [OkHttp client][OkHttpClient], the base URL for the Serp API, and a [Moshi] converter factory.
+     * The Moshi converter factory is used to convert JSON to Kotlin objects and vice versa.
+     */
+    val retrofit: Retrofit by lazy {
         Retrofit.Builder()
             .client(okHttp)
             .baseUrl(BASE_URL)
             .addConverterFactory(MoshiConverterFactory.create(moshi))
             .build()
-    }
-
-    val jobSearchApi by lazy {
-        retrofit.create(GoogleJobSearchService::class.java)
     }
 }
