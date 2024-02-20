@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS JobHighlightDAO (
     title TEXT,
-    items TEXT NOT NULL,
     jobId TEXT NOT NULL,
-    PRIMARY KEY (title, jobId),
+    item TEXT NOT NULL,
+    PRIMARY KEY (title, jobId, item),
     FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
 );

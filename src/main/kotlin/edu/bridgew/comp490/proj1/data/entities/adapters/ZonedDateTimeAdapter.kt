@@ -5,7 +5,7 @@ import com.squareup.moshi.ToJson
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter
 
-class ZonedDateTimeAdapter {
+internal class ZonedDateTimeAdapter {
     private val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss zzz")
 
     @FromJson

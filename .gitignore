@@ -2,6 +2,7 @@
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
+.idea/sqlDataSources.xml
 .idea/libraries/
 *.iws
 *.iml
@@ -9,6 +10,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/vcs.xml
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,kotlin,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,kotlin,visualstudiocode
@@ -144,3 +146,7 @@ dist/
 !**/src/main/**/build/
 !**/src/test/**/build/
 src/test/resources/edu/bridgew/comp430/proj1/api/responses/raw/*.json
+
+# Excel backup
+~$*.xls
+~$*.xlsx

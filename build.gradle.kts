@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "edu.bridgew.comp490"
-version = "2.0.1"
+version = "3.0.0"
 
 application {
     mainClass = "edu.bridgew.comp490.proj1.MainKt"
@@ -22,6 +22,10 @@ distributions {
     main {
         contents {
             from("README.md", "sample.env", "NOTICE.html")
+            from(layout.projectDirectory) {
+                include("data/**")
+                exclude("data/**/~$*.xls", "data/**/~$*.xlsx")
+            }
         }
     }
 }
@@ -37,10 +41,11 @@ dependencies {
     val moshiVersion = "1.15.1"
     val sqlDelightVersion = "2.0.1"
     val prettytimeVersion = "5.0.7.Final"
-    val slf4jVersion = "1.7.36"
+    val poiVersion = "5.2.5"
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
+    implementation(platform("org.apache.logging.log4j:log4j-bom:2.22.1"))
 
     ksp("com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion")
     ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
@@ -57,20 +62,27 @@ dependencies {
 
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
 
     implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
-    implementation("org.slf4j:slf4j-nop:$slf4jVersion")
+    implementation("org.apache.logging.log4j:log4j-api")
+    runtimeOnly("org.apache.logging.log4j:log4j-core")
+    implementation("org.apache.logging.log4j:log4j-slf4j-impl")
 
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
+
+    implementation("org.apache.poi:poi:$poiVersion")
+    implementation("org.apache.poi:poi-ooxml:$poiVersion")
 
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0-RC2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.2")
-    testImplementation("org.slf4j:slf4j-nop:$slf4jVersion")
+    testImplementation("org.apache.logging.log4j:log4j-api")
+    testRuntimeOnly("org.apache.logging.log4j:log4j-core")
+    testImplementation("org.apache.logging.log4j:log4j-slf4j-impl")
 }
 
 val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchResults") {
@@ -126,7 +138,7 @@ licenseReport {
     generateCsvReport = false
     generateHtmlReport = true
     generateJsonReport = false
-    generateTextReport = false
+    generateTextReport = true
 }
 
 val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {

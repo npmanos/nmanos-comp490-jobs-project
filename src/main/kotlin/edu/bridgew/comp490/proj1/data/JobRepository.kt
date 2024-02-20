@@ -14,7 +14,9 @@ import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
+import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
+import edu.bridgew.comp490.proj1.relativeTimeString
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
@@ -25,10 +27,29 @@ import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.flow.transform
 import kotlinx.coroutines.withContext
 
+/**
+ * Repository class for managing job data.
+ *
+ * This class provides methods to save jobs from the Google Job Search Service or an Excel file to a database,
+ * and then all the jobs from the database.
+ *
+ * @property apiService The [GoogleJobSearchServiceImpl] instance used to get jobs from the Google Job Search Service.
+ * @param db The [JobSearchDB] instance used to interact with the local database.
+ */
 @OptIn(ExperimentalCoroutinesApi::class)
-class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private val db: JobSearchDB) {
+class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobSearchDB) {
     private val queries = db.jobQueries
 
+    /**
+     * Get jobs from the Google Job Search Service and the local database.
+     *
+     * This method first gets jobs from the Google Job Search Service based on the provided query and number of pages.
+     * The jobs are then saved to the local database. Finally, the jobs are retrieved from the local database and returned.
+     *
+     * @param query The search query string.
+     * @param pages The number of pages to get from the Google Job Search Service. Default value is 1.
+     * @return A [Flow] of [Jobs][Job] from the local database.
+     */
     suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
         (0 until pages).asFlow()
             .flatMapMerge { apiService.getJobs(query, it) }
@@ -48,6 +69,49 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
         return@withContext getJobsFromDB(query)
     }
 
+    /**
+     * Save jobs from an Excel file to the local database.
+     *
+     * This method reads jobs from the provided Excel file and saves them to the local database.
+     *
+     * @param query The search query string to associate the jobs with in the database.
+     * @param xlsx The JobXlsx instance representing the Excel file.
+     */
+    suspend fun saveJobsFromExcel(query: String, xlsx: JobXlsx) = withContext(Dispatchers.IO) {
+        xlsx.forEach { row ->
+            val postedAt = row.postedAt?.let { PostedAt(it) }
+
+            val salary = when (row.salaryType) {
+                "hourly" -> Salary("${row.salaryMin}${row.salaryMax} an hour")
+                "weekly" -> Salary("${row.salaryMin}${row.salaryMax} a week")
+                "monthly" -> Salary("${row.salaryMin}${row.salaryMax} a month")
+                "yearly" -> Salary("${row.salaryMin}${row.salaryMax} a year")
+                else -> null
+            }
+
+            val extensions = mutableListOf<String>().apply {
+                if (postedAt != null) this.add(postedAt.date.relativeTimeString)
+                if (salary != null) this.add(salary.salaryRange)
+            }
+
+            val detectedExtensions = mutableListOf<Extension>().apply {
+                if (postedAt != null) this.add(postedAt)
+                if (salary != null) this.add(salary)
+            }
+
+            val job = Job(
+                row.title,
+                row.companyName,
+                row.location,
+                extensions = extensions.nullIfEmpty(),
+                detectedExtensions = detectedExtensions,
+                jobId = row.jobId,
+            )
+
+            upsertJob(query, job)
+        }
+    }
+
     private fun upsertJob(query: String, job: Job) {
         queries.transaction {
             val isWFH: Boolean? = (job.detectedExtensions?.firstOrNull { it is WorkFromHome } as WorkFromHome?)?.isWFH
@@ -62,7 +126,13 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
             )
 
             queries.insertQuery(query, job.jobId)
-            job.jobHighlights?.forEach { queries.insertHighlight(it.title, it.items.joinToString("\n"), job.jobId) }
+
+            job.jobHighlights?.forEach { highlight ->
+                highlight.items.forEach { item ->
+                    queries.insertHighlight(highlight.title, item, job.jobId)
+                }
+            }
+
             job.relatedLinks?.forEach { queries.insertLink(it.link, it.text, job.jobId) }
             job.extensions?.forEach { queries.insertExtension(it, job.jobId) }
             job.detectedExtensions?.forEach {
@@ -84,7 +154,14 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, private 
 
     private fun Flow<List<JobDAO>>.transformToJob() = this.transform { jobList ->
         jobList.forEach { job ->
-            val highlights = queries.getHighlights(job.jobId, JobHighlight::daoMapper).executeAsListOrNull()
+            val highlights = queries.getHighlights(job.jobId)
+                .executeAsListOrNull()
+                ?.groupBy(
+                    keySelector = { it.title },
+                    valueTransform = { it.item },
+                )
+                ?.map { JobHighlight(it.key, it.value) }
+
             val links = queries.getLinks(job.jobId, ::Link).executeAsListOrNull()
             val extensions = queries.getExtensions(job.jobId).executeAsListOrNull()
             val detectedExtensions = getDetectedExtensions(job)

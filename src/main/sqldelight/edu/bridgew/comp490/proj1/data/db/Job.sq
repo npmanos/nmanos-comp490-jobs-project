@@ -65,12 +65,12 @@ VALUES (?, ?);
 
 -- JOB HIGHLIGHTS --
 getHighlights:
-SELECT title, items
+SELECT title, item
 FROM JobHighlightDAO
 WHERE :jobId = jobId;
 
 insertHighlight:
-INSERT OR REPLACE INTO JobHighlightDAO(title, items, jobId)
+INSERT OR REPLACE INTO JobHighlightDAO(title, item, jobId)
 VALUES (?, ?, ?);
 
 -- LINKS --
