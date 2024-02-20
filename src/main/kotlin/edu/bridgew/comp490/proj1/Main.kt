@@ -4,10 +4,12 @@ import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.core.CliktError
+import com.github.ajalt.clikt.core.PrintMessage
 import com.github.ajalt.clikt.core.context
 import com.github.ajalt.clikt.output.MordantHelpFormatter
 import com.github.ajalt.clikt.parameters.options.convert
 import com.github.ajalt.clikt.parameters.options.default
+import com.github.ajalt.clikt.parameters.options.eagerOption
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
@@ -70,6 +72,10 @@ class JobSearch : CliktCommand(
     init {
         context {
             helpFormatter = { MordantHelpFormatter(it, showDefaultValues = true) }
+        }
+
+        eagerOption("-V", "--version", help = "Display version information and exit") {
+            throw PrintMessage("$commandName version 3.0.0")
         }
     }
 
