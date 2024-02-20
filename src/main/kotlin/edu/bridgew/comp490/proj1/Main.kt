@@ -41,6 +41,11 @@ class JobSearch : CliktCommand(
     help = """
     |This application saves job search results from <excel> and 50 results from a Google job search for <query> to <database> and writes them all to <output>.
     |
+    |<excel> should contain a sheet named "Comp490 Jobs" using the following format:
+    |
+    || Company Name | Posting Age | Job Id | Country | Location | Publication Date | Salary Max | Salary Min | Salary Type | Job Title |
+    ||:------------:|:-----------:|:------:|:-------:|:--------:|:----------------:|:----------:|:----------:|:-----------:|:---------:|
+    |
     |NOTE: Saving to <output> may take a few minutes. If the application seems frozen, please be patient.
     |
     |You can customize <excel>, <query>, <database>, and <output> using the options below.
@@ -76,11 +81,7 @@ class JobSearch : CliktCommand(
         val jobXlsx = try {
             JobXlsx(XSSFWorkbook(xlsx.inputStream()))
         } catch (e: IllegalArgumentException) {
-            throw CliktError(
-                e.message,
-                e,
-                47,
-            )
+            throw CliktError(e.message, e, 47)
         }
 
         val driver = JdbcSqliteDriver(
