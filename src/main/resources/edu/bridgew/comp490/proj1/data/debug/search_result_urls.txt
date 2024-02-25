@@ -34,4 +34,3 @@ https://serpapi.com/searches/e747c10680468e2d/65b4babc4055aaf439d7ec85.json
 https://serpapi.com/searches/16edf422849aa4dd/65b4ba8e66d81f54a0aa88ad.json
 https://serpapi.com/searches/f0f61431a767ec67/65b4b6fbc90e0a81b934c151.json
 https://serpapi.com/searches/2ce033f53e795549/65b47550e0ded4e5c677e2e7.json
-https://serpapi.com/searches/abc1f8d56394a0df/65b296d31d986e1018bce3a9.json
