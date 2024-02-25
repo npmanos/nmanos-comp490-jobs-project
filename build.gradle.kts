@@ -73,6 +73,7 @@ dependencies {
 
     implementation("org.apache.poi:poi:$poiVersion")
     implementation("org.apache.poi:poi-ooxml:$poiVersion")
+    implementation("org.apache.commons:commons-compress:1.26.0")
 
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
