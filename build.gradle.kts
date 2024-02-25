@@ -4,7 +4,7 @@ import groovy.json.JsonSlurper
 plugins {
     kotlin("jvm") version "1.9.22"
     id("org.jetbrains.compose") version "1.5.12"
-    application
+//    application
     id("app.cash.sqldelight") version "2.0.1"
     id("com.google.devtools.ksp") version "1.9.22-1.0.17"
     id("com.jaredsburrows.license") version "0.9.7"
@@ -14,22 +14,28 @@ plugins {
 group = "edu.bridgew.comp490"
 version = "4.0.0-SNAPSHOT"
 
-application {
-    mainClass = "edu.bridgew.comp490.proj1.CliKt"
-    applicationName = "job-search"
-}
+//application {
+//    mainClass = "edu.bridgew.comp490.proj1.CliKt"
+//    applicationName = "job-search"
+//}
 
-distributions {
-    main {
-        contents {
-            from("README.md", "sample.env", "NOTICE.html")
-            from(layout.projectDirectory) {
-                include("data/**")
-                exclude("data/**/~$*.xls", "data/**/~$*.xlsx")
-            }
-        }
+compose.desktop {
+    application {
+        mainClass = "edu.bridgew.comp490.MainKt"
     }
 }
+
+//distributions {
+//    main {
+//        contents {
+//            from("README.md", "sample.env", "NOTICE.html")
+//            from(layout.projectDirectory) {
+//                include("data/**")
+//                exclude("data/**/~$*.xls", "data/**/~$*.xlsx")
+//            }
+//        }
+//    }
+//}
 
 repositories {
     mavenCentral()
@@ -160,19 +166,19 @@ tasks.test {
     environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.buildDirectory.dir("test-data").get().asFile.absolutePath)
 }
 
-val copyDist by tasks.register<Copy>("copyDist") {
-    from(tasks.installDist)
-    into(layout.projectDirectory.dir("dist"))
-}
-
-tasks.installDist {
-    dependsOn(copyLicenseNotice)
-    finalizedBy(copyDist)
-}
-
-tasks.distZip {
-    archiveVersion = "ghbuild"
-}
+//val copyDist by tasks.register<Copy>("copyDist") {
+//    from(tasks.installDist)
+//    into(layout.projectDirectory.dir("dist"))
+//}
+//
+//tasks.installDist {
+//    dependsOn(copyLicenseNotice)
+//    finalizedBy(copyDist)
+//}
+//
+//tasks.distZip {
+//    archiveVersion = "ghbuild"
+//}
 
 kotlin {
     jvmToolchain(21)
