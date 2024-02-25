@@ -2,5 +2,6 @@
 <project version="4">
   <component name="ExternalDependencies">
     <plugin id="com.squareup.sqldelight" min-version="2.0" />
+    <plugin id="org.jetbrains.compose.desktop.ide" min-version="1.5.12" />
   </component>
 </project>

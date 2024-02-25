@@ -3,6 +3,7 @@ import groovy.json.JsonSlurper
 
 plugins {
     kotlin("jvm") version "1.9.22"
+    id("org.jetbrains.compose") version "1.5.12"
     application
     id("app.cash.sqldelight") version "2.0.1"
     id("com.google.devtools.ksp") version "1.9.22-1.0.17"
@@ -43,6 +44,8 @@ dependencies {
     val prettytimeVersion = "5.0.7.Final"
     val poiVersion = "5.2.5"
     val mockkVersion = "1.13.9"
+
+    implementation(compose.desktop.currentOs)
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
     implementation(platform("org.apache.logging.log4j:log4j-bom:2.23.0"))
