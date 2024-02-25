@@ -15,7 +15,7 @@ group = "edu.bridgew.comp490"
 version = "4.0.0-SNAPSHOT"
 
 application {
-    mainClass = "edu.bridgew.comp490.proj1.MainKt"
+    mainClass = "edu.bridgew.comp490.proj1.CliKt"
     applicationName = "job-search"
 }
 
