@@ -45,7 +45,7 @@ dependencies {
     val mockkVersion = "1.13.9"
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
-    implementation(platform("org.apache.logging.log4j:log4j-bom:2.22.1"))
+    implementation(platform("org.apache.logging.log4j:log4j-bom:2.23.0"))
 
     ksp("com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion")
     ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
