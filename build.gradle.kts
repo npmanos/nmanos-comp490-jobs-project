@@ -47,8 +47,10 @@ dependencies {
     val moshiSealedVersion = "0.25.1"
     val moshiVersion = "1.15.1"
     val sqlDelightVersion = "2.0.1"
+    val coroutineVersion = "1.8.0"
     val prettytimeVersion = "5.0.7.Final"
     val poiVersion = "5.2.5"
+    val voyagerVersion = "1.0.0"
     val mockkVersion = "1.13.9"
 
     implementation(compose.desktop.currentOs)
@@ -71,7 +73,8 @@ dependencies {
 
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-swing:$coroutineVersion") // Needed by voyager for coroutine integration
 
     implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
     implementation("org.apache.logging.log4j:log4j-api")
@@ -84,11 +87,18 @@ dependencies {
     implementation("org.apache.poi:poi-ooxml:$poiVersion")
     implementation("org.apache.commons:commons-compress:1.26.0")
 
+    implementation("org.jetbrains.compose.material3:material3-desktop:1.5.12")
+    implementation("cafe.adriel.voyager:voyager-navigator:$voyagerVersion")
+    implementation("cafe.adriel.voyager:voyager-screenmodel:$voyagerVersion")
+    implementation("cafe.adriel.voyager:voyager-bottom-sheet-navigator:$voyagerVersion")
+    implementation("cafe.adriel.voyager:voyager-tab-navigator:$voyagerVersion")
+    implementation("cafe.adriel.voyager:voyager-transitions:$voyagerVersion")
+
     testImplementation("app.cash.turbine:turbine:1.0.0")
     testImplementation("com.squareup.okhttp3:mockwebserver")
     testImplementation("io.mockk:mockk:$mockkVersion")
     testImplementation("org.jetbrains.kotlin:kotlin-test:${kotlin.coreLibrariesVersion}")
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutineVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.2")
     testImplementation("org.apache.logging.log4j:log4j-api")
     testRuntimeOnly("org.apache.logging.log4j:log4j-core")
