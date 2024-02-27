@@ -1,17 +1,20 @@
 
+import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
 import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
+import cafe.adriel.voyager.navigator.CurrentScreen
 import cafe.adriel.voyager.navigator.Navigator
 import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
 import edu.bridgew.comp490.proj1.io.JobXlsx
-import edu.bridgew.comp490.proj1.screen.JobListScreen
-import edu.bridgew.comp490.proj1.screenmodel.JobListScreenModel
+import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
+import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
+import edu.bridgew.comp490.proj1.ui.theme.AppTheme
 import io.github.cdimascio.dotenv.dotenv
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.io.File
@@ -47,15 +50,17 @@ fun App() {
     val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
     val jobRepo = JobRepository(jobSearchClient, db)
 
-    Navigator(
-        screen = JobListScreen(JobListScreenModel(jobRepo))
-    )
+    Navigator(JobListScreen(JobListScreenModel(jobRepo))) {
+        Scaffold(
+            content = { CurrentScreen() }
+        )
+    }
 }
 
 fun main() = application {
     Window(
         onCloseRequest = ::exitApplication
     ) {
-        App()
+        AppTheme(darkTheme = false) { App() }
     }
 }
