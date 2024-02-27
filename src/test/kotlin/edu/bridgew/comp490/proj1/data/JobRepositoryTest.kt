@@ -115,7 +115,7 @@ class JobRepositoryTest {
         var jobs = 0
 
         val coRo = launch {
-            jobRepository.getJobs("software engineer")
+            jobRepository.searchAndGetJobs("software engineer")
                 .collect {
                     assertContains(testData, it)
 

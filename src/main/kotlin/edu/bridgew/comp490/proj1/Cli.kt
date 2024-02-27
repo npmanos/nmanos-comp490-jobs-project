@@ -112,7 +112,7 @@ class JobSearch : CliktCommand(
         echo("Searching...")
         echo()
 
-        jobRepo.getJobs(query, pages)
+        jobRepo.searchAndGetJobs(query, pages)
             .buffer(pages)
             .onCompletion {
                 echo()

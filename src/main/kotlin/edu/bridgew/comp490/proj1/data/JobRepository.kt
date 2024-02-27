@@ -50,7 +50,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
      * @param pages The number of pages to get from the Google Job Search Service. Default value is 1.
      * @return A [Flow] of [Jobs][Job] from the local database.
      */
-    suspend fun getJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
+    suspend fun searchAndGetJobs(query: String, pages: Int = 1): Flow<Job> = withContext(Dispatchers.IO) {
         (0 until pages).asFlow()
             .flatMapMerge { apiService.getJobs(query, it) }
             .flatMapMerge { result ->
@@ -66,7 +66,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
             }.onEach { upsertJob(query, it) }
             .launchIn(this)
 
-        return@withContext getJobsFromDB(query)
+        return@withContext getJobsAsync(query)
     }
 
     /**
@@ -147,28 +147,43 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         }
     }
 
-    private fun getJobsFromDB(query: String): Flow<Job> = queries.getJobsForSearch(query)
+    fun getJobs(): List<Job> = queries.getAllJobs()
+        .executeAsList()
+        .map { it.transformToJob() }
+
+    fun getJobs(query: String): List<Job> = queries.getJobsForSearch(query)
+        .executeAsList()
+        .map { it.transformToJob() }
+
+    fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
         .asFlow()
         .mapToList(Dispatchers.IO)
-        .transformToJob()
+        .transformToJobs()
 
-    private fun Flow<List<JobDAO>>.transformToJob() = this.transform { jobList ->
-        jobList.forEach { job ->
-            val highlights = queries.getHighlights(job.jobId)
-                .executeAsListOrNull()
-                ?.groupBy(
-                    keySelector = { it.title },
-                    valueTransform = { it.item },
-                )
-                ?.map { JobHighlight(it.key, it.value) }
+    fun getJobsAsync(query: String): Flow<Job> = queries.getJobsForSearch(query)
+        .asFlow()
+        .mapToList(Dispatchers.IO)
+        .transformToJobs()
 
-            val links = queries.getLinks(job.jobId, ::Link).executeAsListOrNull()
-            val extensions = queries.getExtensions(job.jobId).executeAsListOrNull()
-            val detectedExtensions = getDetectedExtensions(job)
+    private fun JobDAO.transformToJob(): Job {
+        val highlights = queries.getHighlights(jobId)
+            .executeAsListOrNull()
+            ?.groupBy(
+                keySelector = { it.title },
+                valueTransform = { it.item },
+            )
+            ?.map { JobHighlight(it.key, it.value) }
 
-            emit(Job.daoMapper(job, highlights, links, extensions, detectedExtensions))
-        }
+        val links = queries.getLinks(jobId, ::Link).executeAsListOrNull()
+        val extensions = queries.getExtensions(jobId).executeAsListOrNull()
+        val detectedExtensions = getDetectedExtensions(this)
+
+        return Job.daoMapper(this, highlights, links, extensions, detectedExtensions)
     }
+
+    private fun List<JobDAO>.transformToJobs() = this.map { it.transformToJob() }
+
+    private fun Flow<List<JobDAO>>.transformToJobs() = this.transform { jobList -> jobList.forEach { emit(it.transformToJob()) } }
 
     private fun getDetectedExtensions(job: JobDAO): List<Extension>? {
         val extensions: List<Extension> = mutableListOf<Extension>() +
