@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.screenmodel
+package edu.bridgew.comp490.proj1.ui.screenmodel
 
 import cafe.adriel.voyager.core.model.StateScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
