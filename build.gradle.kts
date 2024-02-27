@@ -1,5 +1,6 @@
 import de.undercouch.gradle.tasks.download.Download
 import groovy.json.JsonSlurper
+import org.jetbrains.compose.ExperimentalComposeLibrary
 
 plugins {
     kotlin("jvm") version "1.9.22"
@@ -42,6 +43,7 @@ repositories {
     maven("https://jitpack.io")
 }
 
+@OptIn(ExperimentalComposeLibrary::class)
 dependencies {
     val retrofitVersion = "2.9.0"
     val moshiSealedVersion = "0.25.1"
@@ -52,8 +54,6 @@ dependencies {
     val poiVersion = "5.2.5"
     val voyagerVersion = "1.0.0"
     val mockkVersion = "1.13.9"
-
-    implementation(compose.desktop.currentOs)
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
     implementation(platform("org.apache.logging.log4j:log4j-bom:2.23.0"))
@@ -87,7 +87,11 @@ dependencies {
     implementation("org.apache.poi:poi-ooxml:$poiVersion")
     implementation("org.apache.commons:commons-compress:1.26.0")
 
-    implementation("org.jetbrains.compose.material3:material3-desktop:1.5.12")
+    implementation(compose.components.resources)
+    implementation(compose.desktop.components.splitPane)
+    implementation(compose.desktop.currentOs)
+    implementation(compose.material3)
+    implementation(compose.materialIconsExtended)
     implementation("cafe.adriel.voyager:voyager-navigator:$voyagerVersion")
     implementation("cafe.adriel.voyager:voyager-screenmodel:$voyagerVersion")
     implementation("cafe.adriel.voyager:voyager-bottom-sheet-navigator:$voyagerVersion")
