@@ -13,7 +13,7 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         data class Result(val jobs: List<Job>) : State()
     }
 
-    fun getJobs(query: String) {
+    fun getJobs() {
         screenModelScope.launch {
             mutableState.value = State.Loading
             mutableState.value = State.Result(repository.getJobs())

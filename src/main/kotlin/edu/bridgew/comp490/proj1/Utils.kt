@@ -1,5 +1,11 @@
 package edu.bridgew.comp490.proj1
 
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.width
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.Dp
 import app.cash.sqldelight.ExecutableQuery
 import org.apache.poi.ss.usermodel.Cell
 import org.apache.poi.ss.usermodel.Row
@@ -80,3 +86,9 @@ operator fun Row.get(columnIndex: Int): Cell? = getCell(columnIndex)
  * @see Row.getCell
  */
 operator fun Sheet.get(rowIndex: Int, columnIndex: Int): Cell? = getRow(rowIndex)?.getCell(columnIndex)
+
+@Composable
+fun HorizontalSpacer(width: Dp) = Spacer(modifier = Modifier.width(width))
+
+@Composable
+fun VerticalSpacer(height: Dp) = Spacer(modifier = Modifier.height(height))
