@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1
+package edu.bridgew.comp490.proj1.cli
 
 import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver

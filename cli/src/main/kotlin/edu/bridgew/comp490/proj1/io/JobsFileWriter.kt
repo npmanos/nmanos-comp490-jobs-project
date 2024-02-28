@@ -66,7 +66,7 @@ class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
 
         // Location
         if (job.location != null) {
-            buffer.writeLnUtf8(job.location.trimStart())
+            buffer.writeLnUtf8(job.location!!.trimStart())
         }
 
         // Salary
@@ -88,7 +88,7 @@ class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
         // Job Description
         if (job.description != null) {
             buffer.writeLnUtf8("Description")
-            buffer.writeLnUtf8(job.description)
+            buffer.writeLnUtf8(job.description!!)
         }
 
         // Two line separator (between jobs)
@@ -101,7 +101,7 @@ class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
     private fun writeHighlights(job: Job) {
         job.jobHighlights?.forEach { highlight ->
             if (highlight.title != null) {
-                buffer.writeLnUtf8(highlight.title)
+                buffer.writeLnUtf8(highlight.title!!)
             }
 
             highlight.items.forEach {

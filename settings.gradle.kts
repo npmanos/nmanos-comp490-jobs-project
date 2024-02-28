@@ -11,3 +11,4 @@ plugins {
 }
 
 rootProject.name = "nmanos-jobs-project"
+include("shared", "cli", "gui")

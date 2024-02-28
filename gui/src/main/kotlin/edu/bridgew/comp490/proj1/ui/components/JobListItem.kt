@@ -14,9 +14,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import edu.bridgew.comp490.proj1.HorizontalSpacer
-import edu.bridgew.comp490.proj1.MaterialIcons
 import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.ui.HorizontalSpacer
+import edu.bridgew.comp490.proj1.ui.MaterialIcons
 
 @Composable
 fun JobListItem(job: Job) = ListItem(
@@ -49,7 +49,7 @@ fun JobListItem(job: Job) = ListItem(
                 )
                 HorizontalSpacer(4.dp)
                 Text(
-                    text = job.location.trim(),
+                    text = job.location!!.trim(),
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.alignByBaseline(),
                 )
