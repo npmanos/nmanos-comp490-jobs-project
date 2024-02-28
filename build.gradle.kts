@@ -22,7 +22,7 @@ version = "4.0.0-SNAPSHOT"
 
 compose.desktop {
     application {
-        mainClass = "edu.bridgew.comp490.MainKt"
+        mainClass = "edu.bridgew.comp490.proj1.ui.MainKt"
     }
 }
 

@@ -1,4 +1,4 @@
-
+package edu.bridgew.comp490.proj1.ui
 import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.window.Window
