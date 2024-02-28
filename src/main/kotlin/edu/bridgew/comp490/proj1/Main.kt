@@ -11,13 +11,10 @@ import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
-import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
 import edu.bridgew.comp490.proj1.ui.theme.AppTheme
 import io.github.cdimascio.dotenv.dotenv
-import org.apache.poi.xssf.usermodel.XSSFWorkbook
-import java.io.File
 import java.util.*
 
 private val dotenv = dotenv {
@@ -27,12 +24,6 @@ private val dotenv = dotenv {
 
 @Composable
 fun App() {
-    val jobXlsx = try {
-        JobXlsx(XSSFWorkbook(File("data/Sprint3Data.xlsx").inputStream()))
-    } catch (e: IllegalArgumentException) {
-        throw e
-    }
-
     val dbPath = "output/jobs.db"
 
     val driver = JdbcSqliteDriver(
