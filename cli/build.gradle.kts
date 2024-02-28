@@ -29,12 +29,7 @@ repositories {
 dependencies {
     implementation(project(":shared"))
 
-    implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
-    implementation(platform("org.apache.logging.log4j:log4j-bom:2.23.0"))
-
-    implementation("com.squareup.okhttp3:okhttp")
-
-    implementation("com.github.ajalt.clikt:clikt:4.2.2")
+    implementation(libs.clikt.core)
 }
 
 val copyDist by tasks.register<Copy>("copyDist") {

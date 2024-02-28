@@ -5,8 +5,8 @@ import groovy.json.JsonSlurper
 plugins {
     id("nmanos-jobs-project.data-import-conventions")
 
-    id("app.cash.sqldelight") version "2.0.1"
-    id("de.undercouch.download").version("5.5.0")
+    alias(libs.plugins.sqldelight)
+    alias(libs.plugins.download)
 }
 
 repositories {
@@ -15,38 +15,22 @@ repositories {
 }
 
 dependencies {
-    val retrofitVersion = "2.9.0"
-    val moshiSealedVersion = "0.25.1"
-    val moshiVersion = "1.15.1"
-    val sqlDelightVersion = "2.0.1"
-    val coroutineVersion = "1.8.0"
-    val prettytimeVersion = "5.0.7.Final"
+    implementation(platform(libs.bom.log4j))
 
-    implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
-    implementation(platform("org.apache.logging.log4j:log4j-bom:2.23.0"))
+    ksp(libs.bundles.ksp.moshi)
 
-    ksp("com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion")
-    ksp("dev.zacsweers.moshix:moshi-sealed-codegen:$moshiSealedVersion")
+    implementation(libs.bundles.moshi)
+    implementation(libs.retrofit.converter.moshi)
 
-    implementation("com.squareup.okhttp3:okhttp")
-    implementation("com.squareup.moshi:moshi:$moshiVersion")
-    implementation("com.squareup.retrofit2:converter-moshi:$retrofitVersion")
-    implementation("dev.zacsweers.moshix:moshi-sealed-runtime:$moshiSealedVersion")
+    implementation(libs.bundles.sqldelight)
 
-    implementation("app.cash.sqldelight:primitive-adapters:$sqlDelightVersion")
-    implementation("app.cash.sqldelight:coroutines-extensions:$sqlDelightVersion")
+    implementation(libs.prettytime.core)
+    implementation(libs.bundles.log4j.impl)
+    runtimeOnly(libs.bundles.log4j.runtime)
 
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
-
-    implementation("org.ocpsoft.prettytime:prettytime:$prettytimeVersion")
-    implementation("org.apache.logging.log4j:log4j-api")
-    runtimeOnly("org.apache.logging.log4j:log4j-core")
-    implementation("org.apache.logging.log4j:log4j-slf4j-impl")
-
-    testImplementation("com.squareup.okhttp3:mockwebserver")
-    testImplementation("org.apache.logging.log4j:log4j-api")
-    testRuntimeOnly("org.apache.logging.log4j:log4j-core")
-    testImplementation("org.apache.logging.log4j:log4j-slf4j-impl")
+    testImplementation(libs.test.okhttp.mockServer)
+    testImplementation(libs.bundles.log4j.impl)
+    testRuntimeOnly(libs.bundles.log4j.runtime)
 }
 
 val downloadTestSearchResults by tasks.register<Download>("downloadTestSearchResults") {
