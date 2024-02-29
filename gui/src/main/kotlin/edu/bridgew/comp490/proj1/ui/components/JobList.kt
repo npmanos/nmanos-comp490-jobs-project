@@ -37,7 +37,7 @@ fun JobList(
                 JobListItem(job)
 
                 if (job != jobs.last()) {
-                    Divider()
+                    HorizontalDivider()
                 }
             }
         }
