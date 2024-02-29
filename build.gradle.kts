@@ -5,7 +5,7 @@ plugins {
     kotlin("jvm") version "1.9.22"
     application
     id("app.cash.sqldelight") version "2.0.1"
-    id("com.google.devtools.ksp") version "1.9.22-1.0.17"
+    id("com.google.devtools.ksp") version "1.9.22-1.0.18"
     id("com.jaredsburrows.license") version "0.9.7"
     id("de.undercouch.download").version("5.5.0")
 }
