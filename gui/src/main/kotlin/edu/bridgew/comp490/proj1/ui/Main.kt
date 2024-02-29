@@ -1,8 +1,11 @@
 package edu.bridgew.comp490.proj1.ui
 import androidx.compose.desktop.ui.tooling.preview.Preview
 import androidx.compose.material.Scaffold
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.window.Window
+import androidx.compose.ui.window.WindowPlacement
+import androidx.compose.ui.window.WindowState
 import androidx.compose.ui.window.application
 import cafe.adriel.voyager.navigator.CurrentScreen
 import cafe.adriel.voyager.navigator.Navigator
@@ -23,7 +26,8 @@ private val dotenv = dotenv {
 fun App() {
     Navigator(JobListScreen) {
         Scaffold(
-            content = { CurrentScreen() }
+            content = { CurrentScreen() },
+            backgroundColor = MaterialTheme.colorScheme.surfaceContainer,
         )
     }
 }

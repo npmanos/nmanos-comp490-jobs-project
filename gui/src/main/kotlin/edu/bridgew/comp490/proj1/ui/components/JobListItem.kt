@@ -13,6 +13,7 @@ import androidx.compose.material3.contentColorFor
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.ui.HorizontalSpacer
@@ -52,6 +53,8 @@ fun JobListItem(job: Job) = ListItem(
                     text = job.location!!.trim(),
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.alignByBaseline(),
+                    maxLines = 1,
+                    overflow = TextOverflow.Ellipsis
                 )
             }
         }
