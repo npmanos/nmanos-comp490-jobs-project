@@ -1,8 +1,9 @@
 package edu.bridgew.comp490.proj1.data.entities
 
 import com.squareup.moshi.Json
+import java.io.Serializable
 
-enum class ChipType(val param: String) {
+enum class ChipType(val param: String) : Serializable {
     Title("job_family_1"),
     Location("city"),
 
@@ -15,5 +16,3 @@ enum class ChipType(val param: String) {
     CompanyType("industry.id"),
     Employer("organization_mid"),
 }
-
-class ChipTypeJsonAdapter

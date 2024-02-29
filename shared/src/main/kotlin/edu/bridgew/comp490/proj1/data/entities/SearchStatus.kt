@@ -1,25 +1,36 @@
 package edu.bridgew.comp490.proj1.data.entities
 
-sealed class SearchStatus(val value: String)
+import java.io.Serializable
 
-data object StatusProcessing : SearchStatus("Processing")
-data object StatusSuccess : SearchStatus("Success")
-data object StatusError : SearchStatus("Error")
-class StatusUnknown(value: String) : SearchStatus(value) {
+sealed class SearchStatus(open val value: String) : Serializable
 
-    override fun equals(other: Any?): Boolean {
-        if (this === other) return true
-        return when (other) {
-            is StatusUnknown -> value == other.value
-            else -> false
-        }
-    }
+data object StatusProcessing : SearchStatus("Processing") {
+    private fun readResolve(): Any = StatusProcessing
+}
 
-    override fun hashCode(): Int {
-        return value::javaClass.hashCode()
-    }
+data object StatusSuccess : SearchStatus("Success") {
+    private fun readResolve(): Any = StatusSuccess
+}
 
-    override fun toString(): String {
-        return "${javaClass.name.substringAfterLast('.')}(value = $value)"
-    }
+data object StatusError : SearchStatus("Error") {
+    private fun readResolve(): Any = StatusError
+}
+
+data class StatusUnknown(override val value: String) : SearchStatus(value) {
+
+//    override fun equals(other: Any?): Boolean {
+//        if (this === other) return true
+//        return when (other) {
+//            is StatusUnknown -> value == other.value
+//            else -> false
+//        }
+//    }
+//
+//    override fun hashCode(): Int {
+//        return value::javaClass.hashCode()
+//    }
+//
+//    override fun toString(): String {
+//        return "${javaClass.name.substringAfterLast('.')}(value = $value)"
+//    }
 }

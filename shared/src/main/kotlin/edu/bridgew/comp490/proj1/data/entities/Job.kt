@@ -3,6 +3,7 @@ package edu.bridgew.comp490.proj1.data.entities
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 import edu.bridgew.comp490.proj1.data.db.JobDAO
+import java.io.Serializable
 
 @JsonClass(generateAdapter = true)
 data class Job(
@@ -16,7 +17,7 @@ data class Job(
     val extensions: List<String>? = null,
     @Json(name = "detected_extensions") val detectedExtensions: List<Extension>?,
     @Json(name = "job_id") val jobId: String,
-) {
+) : Serializable {
     companion object {
         @JvmStatic
         fun daoMapper(

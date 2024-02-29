@@ -2,6 +2,7 @@ package edu.bridgew.comp490.proj1.data.entities
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
+import java.io.Serializable
 import java.time.ZonedDateTime
 
 @JsonClass(generateAdapter = true)
@@ -15,4 +16,4 @@ data class SearchMetadata(
     @Json(name = "google_jobs_url") val googleJobsUrl: String,
     @Json(name = "raw_html_file") val rawHtmlFile: String,
     @Json(name = "total_time_taken") val totalTimeTaken: Double,
-)
+) : Serializable

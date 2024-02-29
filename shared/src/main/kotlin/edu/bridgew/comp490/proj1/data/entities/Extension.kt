@@ -1,8 +1,9 @@
 package edu.bridgew.comp490.proj1.data.entities
 
+import java.io.Serializable
 import java.time.LocalDateTime
 
-sealed class Extension(open val extType: String) {
+sealed class Extension(open val extType: String) : Serializable {
     companion object {
         @JvmStatic
         fun getById(extType: String, value: String): Extension {
