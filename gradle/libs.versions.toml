@@ -1,4 +1,5 @@
 [versions]
+koin = "3.5.3" # REMEMBER TO UPDATE koin-compose!!!!
 kotlin = "1.9.22"
 ksp = "1.9.22-1.0.17"
 sqldelight = "2.0.1"
@@ -24,6 +25,12 @@ test-coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", ve
 dotenv-core = { module = "io.github.cdimascio:dotenv-kotlin", version = "6.4.1" }
 
 test-junit-params = { module = "org.junit.jupiter:junit-jupiter-params", version = "5.10.2" }
+
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+koin-coroutines = { module = "io.insert-koin:koin-core-coroutines", version.ref = "koin" }
+koin-compose = { module = "io.insert-koin:koin-compose", version = "1.1.2" }
+koin-slf4j = { module = "io.insert-koin:koin-logger-slf4j", version.ref = "koin" }
+test-koin = { module = "io.insert-koin:koin-test", version.ref = "koin" }
 
 test-kotlin = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 
@@ -59,6 +66,7 @@ test-turbine = { module = "app.cash.turbine:turbine", version = "1.0.0" }
 
 voyager-core = { module = "cafe.adriel.voyager:voyager-navigator", version.ref = "voyager" }
 voyager-bottomSheet = { module = "cafe.adriel.voyager:voyager-bottom-sheet-navigator", version.ref = "voyager" }
+voyager-koin = { module = "cafe.adriel.voyager:voyager-koin", version.ref = "voyager" }
 voyager-screenmodel = { module = "cafe.adriel.voyager:voyager-screenmodel", version.ref = "voyager" }
 voyager-tab = { module = "cafe.adriel.voyager:voyager-tab-navigator", version.ref = "voyager" }
 voyager-transitions = { module = "cafe.adriel.voyager:voyager-transitions", version.ref = "voyager" }
@@ -66,7 +74,9 @@ voyager-transitions = { module = "cafe.adriel.voyager:voyager-transitions", vers
 [bundles]
 buildSrc-plugins = ["buildSrc-plugin-kotlin", "buildSrc-plugin-ksp"]
 
-log4j-impl = ["log4j-impl-api", "log4j-impl-slf4j"]
+koin = ["koin-core", "koin-coroutines"]
+
+log4j-impl = ["koin-slf4j", "log4j-impl-api", "log4j-impl-slf4j"]
 log4j-runtime = ["log4j-runtime-core"]
 
 moshi = ["moshi-core", "moshi-sealed-core"]
@@ -80,7 +90,7 @@ sqldelight = ["sqldelight-sqlite", "sqldelight-primitives", "sqldelight-coroutin
 
 test-core = ["test-coroutines", "test-junit-params", "test-kotlin", "test-mockk", "test-turbine"]
 
-voyager = ["coroutines-swing", "voyager-core", "voyager-bottomSheet", "voyager-screenmodel", "voyager-tab", "voyager-transitions"]
+voyager = ["coroutines-swing", "koin-compose", "voyager-core", "voyager-bottomSheet", "voyager-koin", "voyager-screenmodel", "voyager-tab", "voyager-transitions"]
 
 [plugins]
 compose = { id = "org.jetbrains.compose", version = "1.6.0" }

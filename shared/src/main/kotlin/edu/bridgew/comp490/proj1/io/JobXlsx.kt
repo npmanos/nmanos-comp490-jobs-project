@@ -17,6 +17,7 @@ import org.apache.poi.ss.usermodel.Row
 import org.apache.poi.ss.usermodel.Workbook
 import org.apache.poi.xssf.streaming.SXSSFWorkbook
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
+import java.io.File
 import java.time.LocalDateTime
 import java.time.ZoneOffset
 
@@ -39,6 +40,8 @@ import java.time.ZoneOffset
  */
 class JobXlsx(xlsx: Workbook) : Iterable<JobXlsxRow> {
     private val sheet = requireNotNull(xlsx["Comp490 Jobs"]) { "ERROR! Excel file is missing sheet named \"Comp490 Jobs\"" }
+
+    constructor(xlsxFile: File) : this(XSSFWorkbook(xlsxFile.inputStream()))
 
     init {
         requireNotNull(sheet[0]) { "ERROR! \"Comp490 Jobs\" sheet is empty" }

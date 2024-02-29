@@ -19,6 +19,8 @@ dependencies {
 
     ksp(libs.bundles.ksp.moshi)
 
+    implementation(libs.bundles.koin)
+
     implementation(libs.bundles.moshi)
     implementation(libs.retrofit.converter.moshi)
 
@@ -28,6 +30,7 @@ dependencies {
     implementation(libs.bundles.log4j.impl)
     runtimeOnly(libs.bundles.log4j.runtime)
 
+    testImplementation(libs.test.koin)
     testImplementation(libs.test.okhttp.mockServer)
     testImplementation(libs.bundles.log4j.impl)
     testRuntimeOnly(libs.bundles.log4j.runtime)
