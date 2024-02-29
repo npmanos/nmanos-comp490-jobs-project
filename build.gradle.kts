@@ -15,7 +15,6 @@ licenseReport {
 }
 
 val copyLicenseNotice by tasks.register<Copy>("copyLicenseNotice") {
-//    tasks["generateMainJobSearchDBInterface"].dependsOn(this) // I know not why this is true, but it is
     dependsOn(tasks["licenseReport"])
     from(tasks["licenseReport"])
     rename { "NOTICE${it.removePrefix("licenseReport")}" }

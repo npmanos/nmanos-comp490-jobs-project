@@ -83,6 +83,6 @@ test-core = ["test-coroutines", "test-junit-params", "test-kotlin", "test-mockk"
 voyager = ["coroutines-swing", "voyager-core", "voyager-bottomSheet", "voyager-screenmodel", "voyager-tab", "voyager-transitions"]
 
 [plugins]
-compose = { id = "org.jetbrains.compose", version = "1.5.12" }
+compose = { id = "org.jetbrains.compose", version = "1.6.0" }
 download = { id = "de.undercouch.download", version = "5.5.0" }
 sqldelight = { id = "app.cash.sqldelight", version.ref = "sqldelight" }

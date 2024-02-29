@@ -16,6 +16,7 @@ compose.desktop {
 repositories {
     mavenCentral()
     maven("https://jitpack.io")
+    google()
 }
 
 @OptIn(ExperimentalComposeLibrary::class)
