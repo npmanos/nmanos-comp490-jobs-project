@@ -21,23 +21,6 @@ private val dotenv = dotenv {
 @Preview
 @Composable
 fun App() {
-//    val dbPath = "output/jobs.db"
-//
-//    val driver = JdbcSqliteDriver(
-//        "jdbc:sqlite:$dbPath",
-//        Properties().apply { put("foreign_keys", "true") },
-//        JobSearchDB.Schema,
-//    )
-//
-//    JobSearchDB.Schema.create(driver)
-//    val currentSchemaVersion = Query(788_663, driver, "PRAGMA USER_VERSION") { cursor -> cursor.getLong(0)!! }.executeAsOne()
-//    JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 2)
-//
-//    val db = JobSearchDB(driver)
-//    val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit
-//    val jobSearchClient = GoogleJobSearchServiceImpl(retrofit)
-//    val jobRepo = JobRepository(jobSearchClient, db)
-
     Navigator(JobListScreen) {
         Scaffold(
             content = { CurrentScreen() }
@@ -52,6 +35,7 @@ fun main() = application {
     }) {
         Window(
             onCloseRequest = ::exitApplication,
+            state = WindowState(placement = WindowPlacement.Maximized)
         ) {
             AppTheme(darkTheme = false) { App() }
         }
