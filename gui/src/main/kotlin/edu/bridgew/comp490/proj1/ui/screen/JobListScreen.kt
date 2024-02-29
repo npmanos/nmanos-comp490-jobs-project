@@ -14,20 +14,21 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import cafe.adriel.voyager.core.model.rememberScreenModel
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
+import cafe.adriel.voyager.koin.getScreenModel
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel.State
+import org.koin.core.parameter.parametersOf
 
-data class JobListScreen(private val screenModel: JobListScreenModel) : Screen {
-    private fun readResolve(): Any = JobListScreen(screenModel)
+object JobListScreen : Screen {
+    private fun readResolve(): Any = JobListScreen
     override val key = uniqueScreenKey
 
     @Composable
     override fun Content() {
-        val screenModel = rememberScreenModel { screenModel }
+        val screenModel = getScreenModel<JobListScreenModel> { parametersOf("output/jobs.db") }
         val state by screenModel.state.collectAsState()
 
         Surface(

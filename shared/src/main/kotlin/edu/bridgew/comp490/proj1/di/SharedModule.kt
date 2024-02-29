@@ -44,5 +44,5 @@ val sharedModule = module {
         JobSearchDB(driver)
     }
 
-    single { params -> JobRepository(get(parameters = params.get()), get()) }
+    single { params -> JobRepository(get(), get(parameters = { params })) }
 }
