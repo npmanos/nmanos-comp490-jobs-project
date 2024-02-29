@@ -5,10 +5,11 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.rememberLazyListState
-import androidx.compose.material.CircularProgressIndicator
-import androidx.compose.material.Surface
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.material3.contentColorFor
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
@@ -39,10 +40,9 @@ object JobListScreen : Screen {
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
             Surface(
-                modifier = Modifier.fillMaxHeight().weight(0.35f),
+                modifier = Modifier.fillMaxHeight().weight(0.35f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
                 shape = MaterialTheme.shapes.large,
-                color = MaterialTheme.colorScheme.background,
-                contentColor = MaterialTheme.colorScheme.contentColorFor(MaterialTheme.colorScheme.background),
+                color = MaterialTheme.colorScheme.surfaceContainer,
             ) {
 
                 val listState = rememberLazyListState()
@@ -51,7 +51,6 @@ object JobListScreen : Screen {
                         LoadingJobs()
                         screenModel.getJobs()
                     }
-
                     is State.Loading -> LoadingJobs()
                     is State.Result -> JobList((state as State.Result).jobs, listState)
                 }
@@ -60,7 +59,7 @@ object JobListScreen : Screen {
             HorizontalSpacer(16.dp)
 
             Surface(
-                modifier = Modifier.fillMaxHeight().weight(0.6f),
+                modifier = Modifier.fillMaxHeight().weight(0.6f).padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
                 shape = MaterialTheme.shapes.large,
                 color = MaterialTheme.colorScheme.background,
                 contentColor = MaterialTheme.colorScheme.contentColorFor(MaterialTheme.colorScheme.background)
