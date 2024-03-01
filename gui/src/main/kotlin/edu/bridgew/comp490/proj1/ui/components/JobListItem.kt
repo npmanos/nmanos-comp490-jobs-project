@@ -1,7 +1,10 @@
 package edu.bridgew.comp490.proj1.ui.components
 
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.material.icons.rounded.Domain
 import androidx.compose.material.icons.rounded.LocationOn
 import androidx.compose.material3.Card
@@ -46,32 +49,43 @@ fun JobListItem(
                 )
             },
             supportingContent = {
-                Row(
-                    verticalAlignment = Alignment.CenterVertically,
-                ) {
-                    Icon(
-                        imageVector = MaterialIcons.Domain,
-                        contentDescription = null,
-                        modifier = Modifier.size(14.dp),
-                    )
-                    HorizontalSpacer(4.dp)
-                    Text(
-                        text = job.companyName.trim(),
-                    )
+                BoxWithConstraints {
+                    val maxWidth = this.maxWidth
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        val companyWidth = if (job.location != null) 0.5f else 1.0f
 
-                    if (job.location != null) {
-                        HorizontalSpacer(8.dp, 12.dp)
-                        Icon(
-                            imageVector = MaterialIcons.LocationOn,
-                            contentDescription = null,
-                            modifier = Modifier.size(14.dp),
-                        )
-                        HorizontalSpacer(4.dp)
-                        Text(
-                            text = job.location!!.trim(),
-                            maxLines = 1,
-                            overflow = TextOverflow.Ellipsis,
-                        )
+                        Row(Modifier.widthIn(max = maxWidth * companyWidth), verticalAlignment = Alignment.CenterVertically) {
+                            Icon(
+                                imageVector = MaterialIcons.Domain,
+                                contentDescription = null,
+                                modifier = Modifier.size(16.dp),
+                            )
+                            HorizontalSpacer(4.dp)
+                            Text(
+                                text = job.companyName.trim(),
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis,
+                            )
+                        }
+
+                        if (job.location != null) {
+                            HorizontalSpacer(8.dp, 12.dp, required = false)
+                            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                                Icon(
+                                    imageVector = MaterialIcons.LocationOn,
+                                    contentDescription = null,
+                                    modifier = Modifier.size(16.dp),
+                                )
+                                HorizontalSpacer(4.dp)
+                                Text(
+                                    text = job.location!!.trim(),
+                                    maxLines = 1,
+                                    overflow = TextOverflow.Ellipsis,
+                                )
+                            }
+                        }
                     }
                 }
             },
