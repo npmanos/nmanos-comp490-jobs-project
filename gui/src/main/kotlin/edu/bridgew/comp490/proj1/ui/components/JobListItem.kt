@@ -20,9 +20,9 @@ import androidx.compose.ui.util.fastFirstOrNull
 import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.relativeTimeString
-import edu.bridgew.comp490.proj1.ui.HorizontalSpacer
-import edu.bridgew.comp490.proj1.ui.MaterialIcons
-import java.time.LocalDate
+import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
+import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
+import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.time.format.FormatStyle
 
@@ -74,9 +74,9 @@ fun JobListItem(
                     val postedAt: PostedAt? = job.detectedExtensions!!.fastFirstOrNull { it is PostedAt } as PostedAt?
 
                     postedAt?.date?.let {
-                        val aWeekAgo = LocalDate.now().minusDays(6)
+                        val aWeekAgo = LocalDateTime.now().minusDays(6)
 
-                        val postedAtStr = if (it.toLocalDate().isBefore(aWeekAgo)) {
+                        val postedAtStr = if (it.isBefore(aWeekAgo)) {
                             it.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT))
                         } else {
                             it.relativeTimeString

@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
 import cafe.adriel.voyager.koin.getScreenModel
-import edu.bridgew.comp490.proj1.ui.HorizontalSpacer
+import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel.State

@@ -1,4 +1,4 @@
-package edu.bridgew.comp490.proj1.ui
+package edu.bridgew.comp490.proj1.ui.utils
 
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
