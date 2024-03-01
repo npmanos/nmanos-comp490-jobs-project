@@ -5,12 +5,12 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.rounded.Domain
 import androidx.compose.material.icons.rounded.LocationOn
 import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
 import androidx.compose.material3.ListItem
 import androidx.compose.material3.ListItemDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
-import androidx.compose.material3.contentColorFor
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -29,12 +29,16 @@ import java.time.format.FormatStyle
 @Composable
 fun JobListItem(
     job: Job,
+    selected: Boolean = false,
     onClick: (Job) -> Unit = {},
 ) {
+    val cardColor = if (selected) CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondaryContainer) else CardDefaults.cardColors()
     Card(
-        onClick = { onClick(job) }
+        onClick = { onClick(job) },
+        colors = cardColor
     ) {
         ListItem(
+            colors = JobListItemColors(selected),
             headlineContent = {
                 Text(
                     text = job.title,
@@ -99,8 +103,10 @@ fun JobListItem(
 }
 
 @Composable
-private fun JobListItemColors(selected: Boolean) = ListItemDefaults.colors(
-    containerColor = MaterialTheme.colorScheme.background,
-    headlineColor = contentColorFor(MaterialTheme.colorScheme.background),
-    supportingColor = contentColorFor(MaterialTheme.colorScheme.background),
-)
+private fun JobListItemColors(selected: Boolean) = if (selected) {
+    ListItemDefaults.colors(
+        containerColor = MaterialTheme.colorScheme.secondaryContainer
+    )
+} else {
+    ListItemDefaults.colors()
+}

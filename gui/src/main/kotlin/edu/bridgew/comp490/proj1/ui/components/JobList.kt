@@ -20,6 +20,7 @@ import edu.bridgew.comp490.proj1.data.entities.Job
 @Composable
 fun JobList(
     jobs: List<Job>,
+    selectedJobId: String,
     listState: LazyListState = rememberLazyListState(),
     onSelect: (Job) -> Unit = {},
 ) {
@@ -35,8 +36,9 @@ fun JobList(
                 key = { it.jobId },
             ) { job ->
                 JobListItem(
-                    job,
-                    onClick = { onSelect(it) }
+                    job = job,
+                    selected = job.jobId == selectedJobId,
+                    onClick = { onSelect(it) },
                 )
             }
         }

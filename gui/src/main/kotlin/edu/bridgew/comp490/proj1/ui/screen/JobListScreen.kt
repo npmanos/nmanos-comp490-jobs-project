@@ -39,6 +39,7 @@ object JobListScreen : Screen {
         val screenModel = getScreenModel<JobListScreenModel> { parametersOf("output/jobs.db") }
         val state by screenModel.state.collectAsState()
         var selectedJob by remember { mutableStateOf<Job?>(null) }
+        var selectedJobId by remember { mutableStateOf("") }
 
         Row(
             modifier = Modifier.fillMaxSize(),
@@ -59,8 +60,12 @@ object JobListScreen : Screen {
                     is State.Loading -> LoadingJobs()
                     is State.Result -> JobList(
                         jobs = (state as State.Result).jobs,
+                        selectedJobId = selectedJobId,
                         listState = listState,
-                        onSelect = { selectedJob = it }
+                        onSelect = {
+                            selectedJob = it
+                            selectedJobId = it.jobId
+                        }
                     )
                 }
             }
