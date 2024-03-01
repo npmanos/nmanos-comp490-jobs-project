@@ -42,7 +42,7 @@ fun main() = application {
             onCloseRequest = ::exitApplication,
             state = state
         ) {
-            AppTheme(darkTheme = false) { App() }
+            AppTheme { App() }
         }
     }
 }
