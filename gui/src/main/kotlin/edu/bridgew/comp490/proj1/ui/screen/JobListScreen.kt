@@ -11,7 +11,9 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.currentCompositeKeyHash
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -54,8 +56,7 @@ object JobListScreen : Screen {
                 val listState = rememberLazyListState()
                 when (state) {
                     is State.Init -> {
-                        LoadingJobs()
-                        screenModel.getJobs()
+                        LaunchedEffect(currentCompositeKeyHash) { screenModel.getJobs() }
                     }
                     is State.Loading -> LoadingJobs()
                     is State.Result -> JobList(
