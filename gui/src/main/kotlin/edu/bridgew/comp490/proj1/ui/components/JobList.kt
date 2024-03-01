@@ -21,6 +21,7 @@ import edu.bridgew.comp490.proj1.data.entities.Job
 fun JobList(
     jobs: List<Job>,
     listState: LazyListState = rememberLazyListState(),
+    onSelect: (Job) -> Unit = {},
 ) {
     Box(modifier = Modifier.fillMaxSize()) {
         LazyColumn(
@@ -33,7 +34,10 @@ fun JobList(
                 items = jobs,
                 key = { it.jobId },
             ) { job ->
-                JobListItem(job)
+                JobListItem(
+                    job,
+                    onClick = { onSelect(it) }
+                )
             }
         }
 

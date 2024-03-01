@@ -28,8 +28,10 @@ dependencies {
     implementation(compose.desktop.currentOs)
     implementation(compose.material3)
     implementation(compose.materialIconsExtended)
+    implementation(libs.constraintLayoutKMP)
 
     implementation(libs.bundles.koin)
+    implementation(libs.bundles.landscapist)
     implementation(libs.bundles.voyager)
 
     testImplementation(libs.test.koin)

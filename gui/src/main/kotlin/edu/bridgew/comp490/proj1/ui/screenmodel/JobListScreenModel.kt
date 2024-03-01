@@ -26,7 +26,7 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
     private val dateComparator = compareBy<Job> { job ->
         val postedAt = job.detectedExtensions?.fastFirstOrNull { it is PostedAt } as PostedAt?
 
-        postedAt?.date?.toLocalDate()
+        postedAt?.date
     }.reversed().thenBy { job ->
         val postedAt = job.detectedExtensions?.fastFirstOrNull { it is PostedAt } as PostedAt?
 

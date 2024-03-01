@@ -2,6 +2,7 @@
 koin = "3.5.3" # REMEMBER TO UPDATE koin-compose!!!!
 kotlin = "1.9.22"
 ksp = "1.9.22-1.0.17"
+landscapist = "2.3.1"
 sqldelight = "2.0.1"
 retrofit = "2.9.0"
 coroutines = "1.8.0"
@@ -18,6 +19,8 @@ clikt-core = { module = "com.github.ajalt.clikt:clikt", version = "4.2.2" }
 
 commons-compress = { module = "org.apache.commons:commons-compress", version = "1.26.0" }
 
+constraintLayoutKMP = { module = "tech.annexflow.compose:constraintlayout-compose-multiplatform", version = "0.2.3" }
+
 coroutines-core  = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
 coroutines-swing = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-swing", version.ref = "coroutines" }
 test-coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines" }
@@ -33,6 +36,9 @@ koin-slf4j = { module = "io.insert-koin:koin-logger-slf4j", version.ref = "koin"
 test-koin = { module = "io.insert-koin:koin-test", version.ref = "koin" }
 
 test-kotlin = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+
+landscapist-coil3 = { module = "com.github.skydoves:landscapist-coil3", version.ref = "landscapist" }
+landscapist-placeholder = { module = "com.github.skydoves:landscapist-placeholder", version.ref = "landscapist" }
 
 bom-log4j = { module = "org.apache.logging.log4j:log4j-bom", version = "2.23.0" }
 log4j-impl-api = { module = "org.apache.logging.log4j:log4j-api" }
@@ -75,6 +81,8 @@ voyager-transitions = { module = "cafe.adriel.voyager:voyager-transitions", vers
 buildSrc-plugins = ["buildSrc-plugin-kotlin", "buildSrc-plugin-ksp"]
 
 koin = ["koin-core", "koin-coroutines"]
+
+landscapist = ["landscapist-coil3", "landscapist-placeholder"]
 
 log4j-impl = ["koin-slf4j", "log4j-impl-api", "log4j-impl-slf4j"]
 log4j-runtime = ["log4j-runtime-core"]

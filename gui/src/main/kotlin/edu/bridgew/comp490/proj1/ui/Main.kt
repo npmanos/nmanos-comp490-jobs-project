@@ -1,12 +1,12 @@
 package edu.bridgew.comp490.proj1.ui
 import androidx.compose.desktop.ui.tooling.preview.Preview
-import androidx.compose.material.Scaffold
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Window
-import androidx.compose.ui.window.WindowPlacement
-import androidx.compose.ui.window.WindowState
 import androidx.compose.ui.window.application
+import androidx.compose.ui.window.rememberWindowState
 import cafe.adriel.voyager.navigator.CurrentScreen
 import cafe.adriel.voyager.navigator.Navigator
 import edu.bridgew.comp490.proj1.ui.di.guiModule
@@ -27,7 +27,7 @@ fun App() {
     Navigator(JobListScreen) {
         Scaffold(
             content = { CurrentScreen() },
-            backgroundColor = MaterialTheme.colorScheme.surfaceContainer,
+            containerColor = MaterialTheme.colorScheme.surfaceContainer,
         )
     }
 }
@@ -37,9 +37,10 @@ fun main() = application {
         printLogger(Level.INFO)
         modules(guiModule)
     }) {
+        val state = rememberWindowState(width = 1280.dp, height = 720.dp)
         Window(
             onCloseRequest = ::exitApplication,
-            state = WindowState(placement = WindowPlacement.Maximized)
+            state = state
         ) {
             AppTheme(darkTheme = false) { App() }
         }

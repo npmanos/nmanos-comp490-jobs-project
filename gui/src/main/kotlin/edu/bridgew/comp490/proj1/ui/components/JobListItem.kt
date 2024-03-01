@@ -29,67 +29,73 @@ import java.time.format.FormatStyle
 @Composable
 fun JobListItem(
     job: Job,
-) = Card {
-    ListItem(
-        headlineContent = {
-            Text(
-                text = job.title,
-                style = MaterialTheme.typography.bodyLarge,
-            )
-        },
-        supportingContent = {
-            Row(
-                verticalAlignment = Alignment.CenterVertically) {
-                Icon(
-                    imageVector = MaterialIcons.Domain,
-                    contentDescription = null,
-                    modifier = Modifier.size(14.dp),
-                )
-                HorizontalSpacer(4.dp)
+    onClick: (Job) -> Unit = {},
+) {
+    Card(
+        onClick = { onClick(job) }
+    ) {
+        ListItem(
+            headlineContent = {
                 Text(
-                    text = job.companyName.trim(),
+                    text = job.title,
+                    style = MaterialTheme.typography.bodyLarge,
                 )
-
-                if (job.location != null) {
-                    HorizontalSpacer(8.dp, 12.dp)
+            },
+            supportingContent = {
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
                     Icon(
-                        imageVector = MaterialIcons.LocationOn,
+                        imageVector = MaterialIcons.Domain,
                         contentDescription = null,
                         modifier = Modifier.size(14.dp),
                     )
                     HorizontalSpacer(4.dp)
                     Text(
-                        text = job.location!!.trim(),
-                        maxLines = 1,
-                        overflow = TextOverflow.Ellipsis,
+                        text = job.companyName.trim(),
                     )
-                }
-            }
-        },
-        trailingContent = {
-            Row(
-                verticalAlignment = Alignment.CenterVertically,
-            ) {
-                if (!job.detectedExtensions.isNullOrEmpty()) {
-                    val postedAt: PostedAt? = job.detectedExtensions!!.fastFirstOrNull { it is PostedAt } as PostedAt?
 
-                    postedAt?.date?.let {
-                        val aWeekAgo = LocalDateTime.now().minusDays(6)
-
-                        val postedAtStr = if (it.isBefore(aWeekAgo)) {
-                            it.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT))
-                        } else {
-                            it.relativeTimeString
-                        }
-
+                    if (job.location != null) {
+                        HorizontalSpacer(8.dp, 12.dp)
+                        Icon(
+                            imageVector = MaterialIcons.LocationOn,
+                            contentDescription = null,
+                            modifier = Modifier.size(14.dp),
+                        )
+                        HorizontalSpacer(4.dp)
                         Text(
-                            text = postedAtStr
+                            text = job.location!!.trim(),
+                            maxLines = 1,
+                            overflow = TextOverflow.Ellipsis,
                         )
                     }
                 }
-            }
-        },
-    )
+            },
+            trailingContent = {
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    if (!job.detectedExtensions.isNullOrEmpty()) {
+                        val postedAt: PostedAt? = job.detectedExtensions!!.fastFirstOrNull { it is PostedAt } as PostedAt?
+
+                        postedAt?.date?.let {
+                            val aWeekAgo = LocalDateTime.now().minusDays(6)
+
+                            val postedAtStr = if (it.isBefore(aWeekAgo)) {
+                                it.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT))
+                            } else {
+                                it.relativeTimeString
+                            }
+
+                            Text(
+                                text = postedAtStr,
+                            )
+                        }
+                    }
+                }
+            },
+        )
+    }
 }
 
 @Composable
