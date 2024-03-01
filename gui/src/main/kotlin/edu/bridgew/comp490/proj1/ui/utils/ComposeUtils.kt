@@ -13,6 +13,10 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.Dp
+import edu.bridgew.comp490.proj1.relativeTimeString
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
+import java.time.format.FormatStyle
 
 @Composable
 fun HorizontalSpacer(width: Dp, required: Boolean = true) = when(required) {
@@ -39,3 +43,14 @@ fun VerticalSpacer(min: Dp, max: Dp, required: Boolean = true) = when(required) 
 }
 
 typealias MaterialIcons = Icons.Rounded
+
+val LocalDateTime.relativeTimeStringGui: String
+    get() {
+        val aWeekAgo = LocalDateTime.now().minusDays(6)
+
+        if (this.isBefore(aWeekAgo)) {
+            return this.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT))
+        } else {
+            return this.relativeTimeString
+        }
+    }
