@@ -7,6 +7,8 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.input.key.Key
+import androidx.compose.ui.input.key.KeyShortcut
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
@@ -21,6 +23,8 @@ import com.darkrockstudios.libraries.mpfilepicker.MPFile
 import edu.bridgew.comp490.proj1.ui.di.guiModule
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
 import edu.bridgew.comp490.proj1.ui.theme.BsuTheme
+import io.github.cdimascio.dotenv.Dotenv
+import org.apache.commons.lang3.SystemUtils
 import org.koin.compose.KoinApplication
 import org.koin.compose.koinInject
 import org.koin.core.logger.Level
@@ -62,7 +66,11 @@ fun main() = application {
 
             MenuBar {
                 Menu("File", mnemonic = 'F') {
-                    Item("Open...", onClick = { showFilePicker = true })
+                    Item(
+                        "Open...",
+                        onClick = { showFilePicker = true },
+                        shortcut = KeyShortcut(Key.O, ctrl = !SystemUtils.IS_OS_MAC, meta = SystemUtils.IS_OS_MAC)
+                    )
                     Separator()
                     Item("Exit", onClick = { exitApplication() })
                 }

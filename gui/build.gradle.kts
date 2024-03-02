@@ -31,6 +31,8 @@ dependencies {
     implementation(libs.composeFilePicker)
     implementation(libs.constraintLayoutKMP)
 
+    implementation(libs.commons.lang)
+
     implementation(libs.bundles.koin)
     implementation(libs.bundles.landscapist)
     implementation(libs.bundles.voyager)

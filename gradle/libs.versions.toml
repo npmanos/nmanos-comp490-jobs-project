@@ -18,6 +18,7 @@ buildSrc-plugin-ksp = { module = "com.google.devtools.ksp:symbol-processing-grad
 clikt-core = { module = "com.github.ajalt.clikt:clikt", version = "4.2.2" }
 
 commons-compress = { module = "org.apache.commons:commons-compress", version = "1.26.0" }
+commons-lang = { module = "org.apache.commons:commons-lang3", version = "3.14.0" }
 
 composeFilePicker = { module = "com.darkrockstudios:mpfilepicker", version = "3.1.0" }
 
