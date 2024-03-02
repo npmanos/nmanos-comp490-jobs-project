@@ -18,7 +18,7 @@ class JobXlsxTest {
 
     @BeforeTest
     fun setup() {
-        workbook = XSSFWorkbook(FileInputStream("data/Sprint3Data.xlsx"))
+        workbook = XSSFWorkbook(FileInputStream("../data/Sprint3Data.xlsx"))
     }
 
     @Test

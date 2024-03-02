@@ -30,7 +30,7 @@ dependencies {
     implementation(libs.bundles.log4j.impl)
     runtimeOnly(libs.bundles.log4j.runtime)
 
-    testImplementation(libs.test.koin)
+//    testImplementation(libs.test.koin)
     testImplementation(libs.test.okhttp.mockServer)
     testImplementation(libs.bundles.log4j.impl)
     testRuntimeOnly(libs.bundles.log4j.runtime)
@@ -72,11 +72,11 @@ val renameTestSearchResults by tasks.register<Copy>("renameTestSearchResults") {
 
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
-    into(layout.buildDirectory.dir("test-data"))
+    into(layout.projectDirectory.dir("test-data"))
 }
 
 tasks.test {
-    dependsOn(downloadTestSearchResults)
+//    dependsOn(downloadTestSearchResults)
 }
 
 sqldelight {

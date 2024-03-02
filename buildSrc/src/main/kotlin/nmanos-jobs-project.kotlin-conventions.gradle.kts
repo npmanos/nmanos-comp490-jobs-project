@@ -31,7 +31,7 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
     jvmArgs("-XX:+EnableDynamicAgentLoading")
-    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to layout.buildDirectory.dir("test-data").get().asFile.absolutePath)
+    environment("JOBSPROJ_DEBUG_API" to "false", "JOBSPROJ_TEST_DIR" to rootProject.layout.projectDirectory.dir("test-data").asFile.absolutePath)
 }
 
 kotlin {

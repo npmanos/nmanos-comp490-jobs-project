@@ -37,5 +37,5 @@ dependencies {
     implementation(libs.bundles.landscapist)
     implementation(libs.bundles.voyager)
 
-    testImplementation(libs.test.koin)
+//    testImplementation(libs.test.koin)
 }

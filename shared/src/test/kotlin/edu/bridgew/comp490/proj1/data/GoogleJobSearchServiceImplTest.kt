@@ -23,6 +23,7 @@ import kotlin.test.assertIs
 private val dotenv = dotenv {
     ignoreIfMissing = true
     ignoreIfMalformed = true
+    directory = ".."
 }
 
 @OptIn(ExperimentalCoroutinesApi::class)
