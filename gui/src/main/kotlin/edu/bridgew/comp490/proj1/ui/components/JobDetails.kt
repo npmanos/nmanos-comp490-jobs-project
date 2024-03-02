@@ -10,13 +10,21 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.rememberScrollbarAdapter
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.rounded.AttachMoney
+import androidx.compose.material.icons.rounded.ChevronLeft
+import androidx.compose.material.icons.rounded.ChevronRight
 import androidx.compose.material.icons.rounded.DateRange
 import androidx.compose.material.icons.rounded.HomeWork
 import androidx.compose.material.icons.rounded.Schedule
+import androidx.compose.material3.Button
+import androidx.compose.material3.ElevatedButton
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -30,6 +38,8 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.material3.contentColorFor
 import androidx.compose.material3.surfaceColorAtElevation
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -49,6 +59,9 @@ import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 import edu.bridgew.comp490.proj1.ui.utils.relativeTimeStringGui
+import kotlinx.coroutines.launch
+import java.awt.Desktop
+import java.net.URI
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -135,6 +148,71 @@ fun JobDetails(
                             text = job.description!!,
                             style = MaterialTheme.typography.bodyMedium,
                         )
+                    }
+
+                    if (!job.relatedLinks.isNullOrEmpty()) {
+                        val linkScrollState = rememberLazyListState()
+                        val coroutineScope = rememberCoroutineScope()
+                        val desktop = remember { Desktop.getDesktop() }
+
+                        HorizontalDivider(modifier = Modifier.fillMaxWidth())
+
+                        Box(modifier = Modifier.fillMaxWidth()) {
+                            LazyRow(
+                                modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp),
+                                state = linkScrollState,
+                                horizontalArrangement = Arrangement.spacedBy(16.dp),
+                            ) {
+                                items(
+                                    items = job.relatedLinks!!,
+                                    key = { it.link },
+                                ) {
+                                    val uri = URI(it.link)
+
+                                    Button(
+                                        onClick = {
+                                            desktop.browse(uri)
+                                        },
+                                    ) {
+                                        Text(text = it.text)
+                                    }
+                                }
+                            }
+
+                            if (linkScrollState.canScrollBackward) {
+                                ElevatedButton(
+                                    modifier = Modifier.align(Alignment.CenterStart),
+                                    shape = CircleShape,
+                                    onClick = {
+                                        coroutineScope.launch {
+                                            linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex - 1)
+                                        }
+                                    },
+                                ) {
+                                    Icon(
+                                        imageVector = MaterialIcons.ChevronLeft,
+                                        contentDescription = null,
+                                    )
+                                }
+                            }
+
+                            if (linkScrollState.canScrollForward) {
+                                ElevatedButton(
+                                    modifier = Modifier.align(Alignment.CenterEnd),
+                                    shape = CircleShape,
+                                    onClick = {
+                                        coroutineScope.launch {
+                                            linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex + 1)
+                                        }
+                                    },
+                                ) {
+                                    Icon(
+                                        imageVector = MaterialIcons.ChevronRight,
+                                        contentDescription = null,
+                                    )
+                                }
+                            }
+                        }
                     }
                 }
 

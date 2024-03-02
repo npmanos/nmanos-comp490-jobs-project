@@ -46,7 +46,10 @@ data class JobListScreen(private val dbPath: String) : Screen {
             horizontalArrangement = Arrangement.SpaceBetween,
         ) {
             Box(
-                modifier = Modifier.fillMaxHeight().weight(0.3f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
+                modifier = Modifier
+                    .fillMaxHeight()
+                    .weight(0.3f)
+                    .padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
             ) {
                 val listState = rememberLazyListState()
                 when (state) {
