@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name=":cli:MainKt" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="edu.bridgew.comp490.proj1.cli.MainKt" />
+    <module name="nmanos-jobs-project.cli.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
