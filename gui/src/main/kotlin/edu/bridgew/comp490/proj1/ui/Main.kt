@@ -10,6 +10,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.window.MenuBar
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
 import androidx.compose.ui.window.rememberWindowState
@@ -58,10 +59,21 @@ fun main() = application {
             var showFilePicker by remember { mutableStateOf(true) }
             var dbPath by remember { mutableStateOf<String?>(null) }
 
+            MenuBar {
+                Menu("File", mnemonic = 'F') {
+                    Item("Open...", onClick = { showFilePicker = true })
+                    Separator()
+                    Item("Exit", onClick = { exitApplication() })
+                }
+            }
+
             FilePicker(showFilePicker, fileExtensions = listOf("db", "sqlite", "sqlite3"), title = "Select jobs database...") {
                 if (it == null) exitApplication()
 
-                dbPath = (it as MPFile<File>).platformFile.path
+                val selected = (it as MPFile<File>)
+
+                dbPath = selected.platformFile.path
+                windowTitle = "Job Browser - ${selected.platformFile.name}"
                 showFilePicker = false
             }
 
