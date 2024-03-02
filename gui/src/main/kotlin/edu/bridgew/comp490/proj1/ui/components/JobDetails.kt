@@ -140,7 +140,7 @@ fun JobDetails(
                     modifier = Modifier
                         .align(Alignment.CenterEnd)
                         .fillMaxHeight()
-                        .padding(top = paddingValues.calculateTopPadding()),
+                        .padding(top = paddingValues.calculateTopPadding(), bottom = paddingValues.calculateBottomPadding() + 16.dp),
                     adapter = rememberScrollbarAdapter(scrollState),
                 )
             }
