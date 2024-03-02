@@ -15,6 +15,7 @@ import androidx.compose.foundation.rememberScrollbarAdapter
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.rounded.AttachMoney
 import androidx.compose.material.icons.rounded.DateRange
+import androidx.compose.material.icons.rounded.HomeWork
 import androidx.compose.material.icons.rounded.Schedule
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
@@ -45,6 +46,7 @@ import edu.bridgew.comp490.proj1.data.entities.JobHighlight
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 import edu.bridgew.comp490.proj1.ui.utils.relativeTimeStringGui
 
@@ -196,10 +198,11 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
 
 @Composable
 private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modifier) = ConstraintLayout(modifier) {
-    val (postedAt, postedAtIcon, salary, salaryIcon, schedule, scheduleIcon) = createRefs()
+    val (postedAt, postedAtIcon, salary, salaryIcon, schedule, scheduleIcon, wfh, wfhIcon) = createRefs()
     val postedAtExt = extensions.fastFirstOrNull { it is PostedAt } as PostedAt?
     val salaryExt = extensions.fastFirstOrNull { it is Salary } as Salary?
     val scheduleExt = extensions.fastFirstOrNull { it is ScheduleType } as ScheduleType?
+    val wfhExt = extensions.fastFirstOrNull { it is WorkFromHome } as WorkFromHome?
     val color = LocalContentColor.current.copy(alpha = 2f / 3f)
     val style = MaterialTheme.typography.bodyMedium
 
@@ -283,6 +286,41 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             color = color,
             modifier = Modifier.constrainAs(schedule) {
                 start.linkTo(scheduleIcon.end, 8.dp)
+                top.linkTo(parent.top)
+            }
+        )
+    }
+
+    if (wfhExt != null && wfhExt.isWFH) {
+        Icon(
+            imageVector = MaterialIcons.HomeWork,
+            contentDescription = null,
+            modifier = Modifier.constrainAs(wfhIcon) {
+                val ref = if (scheduleExt != null) {
+                    schedule
+                } else if (salaryExt != null) {
+                    salary
+                } else if (postedAtExt != null) {
+                    postedAt
+                } else {
+                    parent
+                }
+
+                start.linkTo(ref.end, 16.dp)
+                top.linkTo(wfh.top)
+                bottom.linkTo(wfh.bottom)
+
+                height = Dimension.fillToConstraints
+            },
+            tint = color,
+        )
+
+        Text(
+            text = "Work from home",
+            style = style,
+            color = color,
+            modifier = Modifier.constrainAs(wfh) {
+                start.linkTo(wfhIcon.end, 8.dp)
                 top.linkTo(parent.top)
             }
         )
