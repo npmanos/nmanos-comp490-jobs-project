@@ -9,7 +9,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -20,6 +19,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
@@ -28,7 +28,6 @@ import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.ui.components.JobDetails
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
-import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel.State
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import org.koin.core.parameter.parametersOf
 
@@ -47,26 +46,24 @@ object JobListScreen : Screen {
             modifier = Modifier.fillMaxSize(),
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
-            Surface(
-                modifier = Modifier.fillMaxHeight().weight(0.35f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
-                shape = MaterialTheme.shapes.large,
-                color = MaterialTheme.colorScheme.surfaceContainer,
+            Box(
+                modifier = Modifier.fillMaxHeight().weight(0.35f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp).clip(MaterialTheme.shapes.large),
             ) {
-
                 val listState = rememberLazyListState()
                 when (state) {
-                    is State.Init -> {
+                    is JobListScreenModel.State.Init -> {
                         LaunchedEffect(currentCompositeKeyHash) { screenModel.getJobs() }
                     }
-                    is State.Loading -> LoadingJobs()
-                    is State.Result -> JobList(
-                        jobs = (state as State.Result).jobs,
+
+                    is JobListScreenModel.State.Loading -> LoadingJobs()
+                    is JobListScreenModel.State.Result -> JobList(
+                        jobs = (state as JobListScreenModel.State.Result).jobs,
                         selectedJobId = selectedJobId,
                         listState = listState,
                         onSelect = {
                             selectedJob = it
                             selectedJobId = it.jobId
-                        }
+                        },
                     )
                 }
             }
@@ -78,7 +75,6 @@ object JobListScreen : Screen {
                     job = selectedJob,
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
                     shape = MaterialTheme.shapes.large,
-                    color = MaterialTheme.colorScheme.background,
                 )
             }
         }

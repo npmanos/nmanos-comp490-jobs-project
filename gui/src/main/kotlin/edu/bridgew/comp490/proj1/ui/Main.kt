@@ -11,7 +11,7 @@ import cafe.adriel.voyager.navigator.CurrentScreen
 import cafe.adriel.voyager.navigator.Navigator
 import edu.bridgew.comp490.proj1.ui.di.guiModule
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
-import edu.bridgew.comp490.proj1.ui.theme.AppTheme
+import edu.bridgew.comp490.proj1.ui.theme.BsuTheme
 import io.github.cdimascio.dotenv.dotenv
 import org.koin.compose.KoinApplication
 import org.koin.core.logger.Level
@@ -42,7 +42,7 @@ fun main() = application {
             onCloseRequest = ::exitApplication,
             state = state
         ) {
-            AppTheme { App() }
+            BsuTheme { App() }
         }
     }
 }

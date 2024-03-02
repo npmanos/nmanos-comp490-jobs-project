@@ -26,7 +26,7 @@ fun JobList(
 ) {
     Box(modifier = Modifier.fillMaxSize()) {
         LazyColumn(
-            modifier = Modifier.fillMaxSize(),
+            modifier = Modifier.fillMaxSize().padding(end = 12.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
             state = listState,
         ) {
@@ -44,7 +44,7 @@ fun JobList(
         }
 
         VerticalScrollbar(
-            modifier = Modifier.align(Alignment.CenterEnd).fillMaxHeight().padding(end = 2.dp, top = 4.dp, bottom = 4.dp),
+            modifier = Modifier.align(Alignment.CenterEnd).fillMaxHeight().padding(top = 6.dp, bottom = 6.dp),
             adapter = rememberScrollbarAdapter(listState),
         )
     }
