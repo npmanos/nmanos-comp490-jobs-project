@@ -1,7 +1,14 @@
 package edu.bridgew.comp490.proj1.ui.components
 
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.calculateEndPadding
+import androidx.compose.foundation.layout.calculateStartPadding
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.rounded.AttachMoney
 import androidx.compose.material.icons.rounded.DateRange
 import androidx.compose.material.icons.rounded.Schedule
@@ -19,12 +26,14 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shape
+import androidx.compose.ui.platform.LocalLayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.util.fastFirstOrNull
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
 import edu.bridgew.comp490.proj1.data.entities.Extension
 import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.data.entities.JobHighlight
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
@@ -52,49 +61,44 @@ fun JobDetails(
             if (job != null) {
                 TopAppBar(
                     title = { Text(job.title.trim()) },
-
                 )
             }
         },
     ) { paddingValues ->
         if (job != null) {
-            ConstraintLayout(modifier = Modifier.padding(paddingValues).fillMaxSize()) {
-                val (companyLocationLogo, companyLocLogoDivider) = createRefs()
+            Column(
+                modifier = Modifier
+                    .padding(
+                        top = paddingValues.calculateTopPadding() + 8.dp,
+                        start = paddingValues.calculateStartPadding(LocalLayoutDirection.current) + 16.dp,
+                        end = paddingValues.calculateEndPadding(LocalLayoutDirection.current) + 16.dp,
+                        bottom = paddingValues.calculateBottomPadding() + 16.dp
+                    )
+                    .fillMaxSize()
+                    .verticalScroll(rememberScrollState()),
+                verticalArrangement = Arrangement.spacedBy(16.dp),
+            ) {
                 JobCompanyLocationLogo(
                     job = job,
-                    modifier = Modifier.constrainAs(companyLocationLogo) {
-                        top.linkTo(parent.top, 8.dp)
-                        start.linkTo(companyLocLogoDivider.start)
-                        end.linkTo(companyLocLogoDivider.end)
-
-                        horizontalBias = 0f
-                    }
                 )
 
                 HorizontalDivider(
-                    modifier = Modifier.constrainAs(companyLocLogoDivider) {
-                        top.linkTo(companyLocationLogo.bottom, 16.dp)
-                        start.linkTo(parent.start, 16.dp)
-                        end.linkTo(parent.end, 16.dp)
-
-                        width = Dimension.fillToConstraints
-                    }
+                    modifier = Modifier.fillMaxWidth()
                 )
-
-                val (jobExtensions,) = createRefs()
 
                 if (!job.detectedExtensions.isNullOrEmpty()) {
                     JobExtensions(
                         extensions = job.detectedExtensions!!,
-                        modifier = Modifier.constrainAs(jobExtensions) {
-                            top.linkTo(companyLocLogoDivider.bottom, 16.dp)
-                            start.linkTo(companyLocLogoDivider.start)
-                            end.linkTo(companyLocLogoDivider.end)
-
-                            horizontalBias = 0f
-                            width = Dimension.fillToConstraints
-                        }
                     )
+                }
+
+                if (!job.jobHighlights.isNullOrEmpty()) {
+                    Text(
+                        text = "Job highlights",
+                        style = MaterialTheme.typography.titleMedium,
+                    )
+
+                    job.jobHighlights!!.forEach { JobHighlightItem(it) }
                 }
             }
         }
@@ -106,7 +110,7 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
     val (thumbnail, company, location) = createRefs()
     val companyTextStyle = if (job.location != null) MaterialTheme.typography.bodyMedium else MaterialTheme.typography.bodyLarge
 
-    BusinessThumbnail(
+    CompanyLogo(
         imageUrl = job.thumbnail,
         modifier = Modifier.constrainAs(thumbnail) {
             if (job.location != null) {
@@ -240,4 +244,33 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             }
         )
     }
+}
+
+@Composable
+private fun JobHighlightItem(highlight: JobHighlight, modifier: Modifier = Modifier) = ConstraintLayout(modifier) {
+    val (titleLabel, bodyText) = createRefs()
+
+    Text(
+        text = highlight.title ?: "",
+        style = MaterialTheme.typography.bodyLarge,
+        modifier = Modifier.constrainAs(titleLabel) {
+            start.linkTo(parent.start)
+            end.linkTo(parent.end)
+            horizontalBias = 0f
+
+            top.linkTo(parent.top)
+        },
+    )
+
+    Text(
+        text = makeBulletedList(highlight.items),
+        style = MaterialTheme.typography.bodyMedium,
+        modifier = Modifier.constrainAs(bodyText) {
+            start.linkTo(parent.start)
+            end.linkTo(parent.end)
+            horizontalBias = 0f
+
+            top.linkTo(titleLabel.bottom, 8.dp)
+        }
+    )
 }

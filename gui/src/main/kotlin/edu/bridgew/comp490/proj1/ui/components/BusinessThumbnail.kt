@@ -15,7 +15,7 @@ import com.skydoves.landscapist.coil3.CoilImage
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 
 @Composable
-fun BusinessThumbnail(
+fun CompanyLogo(
     modifier: Modifier = Modifier,
     imageUrl: String?
 ) {
@@ -23,16 +23,16 @@ fun BusinessThumbnail(
         CoilImage(
             modifier = Modifier.clip(CircleShape).then(modifier),
             imageModel = { imageUrl },
-            loading = { BusinessThumbnailPlaceholder() },
-            failure = { BusinessThumbnailPlaceholder() },
+            loading = { CompanyLogoPlaceholder() },
+            failure = { CompanyLogoPlaceholder() },
         )
     } else {
-        Box(modifier = modifier) { BusinessThumbnailPlaceholder() }
+        Box(modifier = modifier) { CompanyLogoPlaceholder() }
     }
 }
 
 @Composable
-fun BusinessThumbnailPlaceholder() {
+fun CompanyLogoPlaceholder() {
     Box(
         modifier = Modifier
             .clip(CircleShape)
