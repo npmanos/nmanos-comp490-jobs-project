@@ -106,10 +106,26 @@ fun JobDetails(
                 if (!job.jobHighlights.isNullOrEmpty()) {
                     Text(
                         text = "Job highlights",
-                        style = MaterialTheme.typography.titleMedium,
+                        style = MaterialTheme.typography.titleLarge,
                     )
 
                     job.jobHighlights!!.forEach { JobHighlightItem(it) }
+
+                    HorizontalDivider(
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                }
+
+                if (job.description != null) {
+                    Text(
+                        text = "Job description",
+                        style = MaterialTheme.typography.titleLarge,
+                    )
+
+                    Text(
+                        text = job.description!!,
+                        style = MaterialTheme.typography.bodyMedium,
+                    )
                 }
             }
         }
@@ -261,17 +277,19 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
 private fun JobHighlightItem(highlight: JobHighlight, modifier: Modifier = Modifier) = ConstraintLayout(modifier) {
     val (titleLabel, bodyText) = createRefs()
 
-    Text(
-        text = highlight.title ?: "",
-        style = MaterialTheme.typography.bodyLarge,
-        modifier = Modifier.constrainAs(titleLabel) {
-            start.linkTo(parent.start)
-            end.linkTo(parent.end)
-            horizontalBias = 0f
+    if (highlight.title != null) {
+        Text(
+            text = highlight.title!!,
+            style = MaterialTheme.typography.bodyLarge,
+            modifier = Modifier.constrainAs(titleLabel) {
+                start.linkTo(parent.start)
+                end.linkTo(parent.end)
+                horizontalBias = 0f
 
-            top.linkTo(parent.top)
-        },
-    )
+                top.linkTo(parent.top)
+            },
+        )
+    }
 
     Text(
         text = makeBulletedList(highlight.items),
@@ -281,7 +299,11 @@ private fun JobHighlightItem(highlight: JobHighlight, modifier: Modifier = Modif
             end.linkTo(parent.end)
             horizontalBias = 0f
 
-            top.linkTo(titleLabel.bottom, 8.dp)
+            if (highlight.title != null) {
+                top.linkTo(titleLabel.bottom, 8.dp)
+            } else {
+                top.linkTo(parent.top)
+            }
         }
     )
 }

@@ -1,10 +1,10 @@
 package edu.bridgew.comp490.proj1.ui.components
 
 import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.widthIn
 import androidx.compose.material.icons.rounded.Domain
 import androidx.compose.material.icons.rounded.LocationOn
 import androidx.compose.material3.Card
@@ -36,21 +36,26 @@ fun JobListItem(
     ) {
         ListItem(
             colors = JobListItemColors(selected),
+            leadingContent = {
+                CompanyLogo(
+                    imageUrl = job.thumbnail,
+                    modifier = Modifier.size(40.dp)
+                )
+            },
             headlineContent = {
                 Text(
                     text = job.title,
-                    style = MaterialTheme.typography.bodyLarge,
+                    maxLines = 2,
+                    overflow = TextOverflow.Ellipsis
                 )
             },
             supportingContent = {
                 BoxWithConstraints {
                     val maxWidth = this.maxWidth
-                    Row(
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
+                    Column {
                         val companyWidth = if (job.location != null) 0.5f else 1.0f
 
-                        Row(Modifier.widthIn(max = maxWidth * companyWidth), verticalAlignment = Alignment.CenterVertically) {
+                        Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
                             Icon(
                                 imageVector = MaterialIcons.Domain,
                                 contentDescription = null,

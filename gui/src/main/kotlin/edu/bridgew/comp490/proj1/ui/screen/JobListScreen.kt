@@ -19,7 +19,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
@@ -47,7 +46,7 @@ object JobListScreen : Screen {
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
             Box(
-                modifier = Modifier.fillMaxHeight().weight(0.35f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp).clip(MaterialTheme.shapes.large),
+                modifier = Modifier.fillMaxHeight().weight(0.3f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
             ) {
                 val listState = rememberLazyListState()
                 when (state) {
@@ -70,7 +69,7 @@ object JobListScreen : Screen {
 
             HorizontalSpacer(16.dp)
 
-            Box(modifier = Modifier.weight(0.6f)){
+            Box(modifier = Modifier.weight(0.65f)){
                 JobDetails(
                     job = selectedJob,
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
