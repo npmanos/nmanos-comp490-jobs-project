@@ -22,6 +22,7 @@ import edu.bridgew.comp490.proj1.ui.di.guiModule
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
 import edu.bridgew.comp490.proj1.ui.theme.BsuTheme
 import org.koin.compose.KoinApplication
+import org.koin.compose.koinInject
 import org.koin.core.logger.Level
 import java.awt.Dimension
 import java.io.File
@@ -65,6 +66,14 @@ fun main() = application {
                     Separator()
                     Item("Exit", onClick = { exitApplication() })
                 }
+            }
+
+            val dotenv: Dotenv = koinInject()
+
+            if (dotenv["JOBSPROJ_DEBUG_DB"] != null) {
+                dbPath = dotenv["JOBSPROJ_DEBUG_DB"]
+                showFilePicker = false
+                windowTitle = "Job Browser - $dbPath"
             }
 
             FilePicker(showFilePicker, fileExtensions = listOf("db", "sqlite", "sqlite3"), title = "Select jobs database...") {
