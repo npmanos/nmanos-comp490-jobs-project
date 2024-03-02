@@ -1,13 +1,17 @@
 package edu.bridgew.comp490.proj1.ui.components
 
+import androidx.compose.foundation.VerticalScrollbar
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.calculateEndPadding
 import androidx.compose.foundation.layout.calculateStartPadding
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.rememberScrollbarAdapter
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.rounded.AttachMoney
 import androidx.compose.material.icons.rounded.DateRange
@@ -25,6 +29,7 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.material3.contentColorFor
 import androidx.compose.material3.surfaceColorAtElevation
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shape
@@ -76,57 +81,68 @@ fun JobDetails(
             }
         },
     ) { paddingValues ->
-        if (job != null) {
-            Column(
-                modifier = Modifier
-                    .padding(
-                        top = paddingValues.calculateTopPadding() + 8.dp,
-                        start = paddingValues.calculateStartPadding(LocalLayoutDirection.current) + 16.dp,
-                        end = paddingValues.calculateEndPadding(LocalLayoutDirection.current) + 16.dp,
-                        bottom = paddingValues.calculateBottomPadding() + 16.dp
+        Box(modifier = Modifier.fillMaxSize()) {
+            if (job != null) {
+                val scrollState = rememberScrollState()
+
+                Column(
+                    modifier = Modifier
+                        .padding(
+                            top = paddingValues.calculateTopPadding() + 8.dp,
+                            start = paddingValues.calculateStartPadding(LocalLayoutDirection.current) + 16.dp,
+                            end = paddingValues.calculateEndPadding(LocalLayoutDirection.current) + 16.dp,
+                            bottom = paddingValues.calculateBottomPadding() + 16.dp,
+                        ).fillMaxSize()
+                        .verticalScroll(scrollState),
+                    verticalArrangement = Arrangement.spacedBy(16.dp),
+                ) {
+                    JobCompanyLocationLogo(
+                        job = job,
                     )
-                    .fillMaxSize()
-                    .verticalScroll(rememberScrollState()),
-                verticalArrangement = Arrangement.spacedBy(16.dp),
-            ) {
-                JobCompanyLocationLogo(
-                    job = job,
-                )
-
-                HorizontalDivider(
-                    modifier = Modifier.fillMaxWidth()
-                )
-
-                if (!job.detectedExtensions.isNullOrEmpty()) {
-                    JobExtensions(
-                        extensions = job.detectedExtensions!!,
-                    )
-                }
-
-                if (!job.jobHighlights.isNullOrEmpty()) {
-                    Text(
-                        text = "Job highlights",
-                        style = MaterialTheme.typography.titleLarge,
-                    )
-
-                    job.jobHighlights!!.forEach { JobHighlightItem(it) }
 
                     HorizontalDivider(
-                        modifier = Modifier.fillMaxWidth()
-                    )
-                }
-
-                if (job.description != null) {
-                    Text(
-                        text = "Job description",
-                        style = MaterialTheme.typography.titleLarge,
+                        modifier = Modifier.fillMaxWidth(),
                     )
 
-                    Text(
-                        text = job.description!!,
-                        style = MaterialTheme.typography.bodyMedium,
-                    )
+                    if (!job.detectedExtensions.isNullOrEmpty()) {
+                        JobExtensions(
+                            extensions = job.detectedExtensions!!,
+                        )
+                    }
+
+                    if (!job.jobHighlights.isNullOrEmpty()) {
+                        Text(
+                            text = "Job highlights",
+                            style = MaterialTheme.typography.titleLarge,
+                        )
+
+                        job.jobHighlights!!.forEach { JobHighlightItem(it) }
+
+                        HorizontalDivider(
+                            modifier = Modifier.fillMaxWidth(),
+                        )
+                    }
+
+                    if (job.description != null) {
+                        Text(
+                            text = "Job description",
+                            style = MaterialTheme.typography.titleLarge,
+                        )
+
+                        Text(
+                            text = job.description!!,
+                            style = MaterialTheme.typography.bodyMedium,
+                        )
+                    }
                 }
+
+                VerticalScrollbar(
+                    modifier = Modifier
+                        .align(Alignment.CenterEnd)
+                        .fillMaxHeight()
+                        .padding(top = paddingValues.calculateTopPadding()),
+                    adapter = rememberScrollbarAdapter(scrollState),
+                )
             }
         }
     }
