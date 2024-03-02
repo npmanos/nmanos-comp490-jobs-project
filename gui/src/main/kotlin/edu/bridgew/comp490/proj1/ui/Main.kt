@@ -3,6 +3,10 @@ import androidx.compose.desktop.ui.tooling.preview.Preview
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
@@ -11,17 +15,20 @@ import androidx.compose.ui.window.application
 import androidx.compose.ui.window.rememberWindowState
 import cafe.adriel.voyager.navigator.CurrentScreen
 import cafe.adriel.voyager.navigator.Navigator
+import com.darkrockstudios.libraries.mpfilepicker.FilePicker
+import com.darkrockstudios.libraries.mpfilepicker.MPFile
 import edu.bridgew.comp490.proj1.ui.di.guiModule
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
 import edu.bridgew.comp490.proj1.ui.theme.BsuTheme
 import org.koin.compose.KoinApplication
 import org.koin.core.logger.Level
 import java.awt.Dimension
+import java.io.File
 
 @Preview
 @Composable
-fun App() {
-    Navigator(JobListScreen) {
+fun App(dbPath: String) {
+    Navigator(JobListScreen(dbPath)) {
         Scaffold(
             content = { CurrentScreen() },
             containerColor = MaterialTheme.colorScheme.surfaceContainer,
@@ -35,9 +42,12 @@ fun main() = application {
         modules(guiModule)
     }) {
         val state = rememberWindowState(width = 1280.dp, height = 720.dp)
+        var windowTitle by remember { mutableStateOf("Job Browser") }
+
         Window(
             onCloseRequest = ::exitApplication,
-            state = state
+            state = state,
+            title = windowTitle,
         ) {
             // Min window size code from https://github.com/JetBrains/compose-multiplatform/issues/2285#issuecomment-1873001531
             with (LocalDensity.current) {
@@ -45,7 +55,19 @@ fun main() = application {
                 window.minimumSize = Dimension(minSize.width.toInt(), minSize.height.toInt())
             }
 
-            BsuTheme { App() }
+            var showFilePicker by remember { mutableStateOf(true) }
+            var dbPath by remember { mutableStateOf<String?>(null) }
+
+            FilePicker(showFilePicker, fileExtensions = listOf("db", "sqlite", "sqlite3"), title = "Select jobs database...") {
+                if (it == null) exitApplication()
+
+                dbPath = (it as MPFile<File>).platformFile.path
+                showFilePicker = false
+            }
+
+            if (dbPath != null) {
+                BsuTheme { App(dbPath!!) }
+            }
         }
     }
 }

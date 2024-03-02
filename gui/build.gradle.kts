@@ -28,6 +28,7 @@ dependencies {
     implementation(compose.desktop.currentOs)
     implementation(compose.material3)
     implementation(compose.materialIconsExtended)
+    implementation(libs.composeFilePicker)
     implementation(libs.constraintLayoutKMP)
 
     implementation(libs.bundles.koin)

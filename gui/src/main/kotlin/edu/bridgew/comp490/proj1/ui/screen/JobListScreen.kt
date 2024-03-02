@@ -30,13 +30,13 @@ import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import org.koin.core.parameter.parametersOf
 
-object JobListScreen : Screen {
-    private fun readResolve(): Any = JobListScreen
+data class JobListScreen(private val dbPath: String) : Screen {
+    private fun readResolve(): Any = this.copy()
     override val key = uniqueScreenKey
 
     @Composable
     override fun Content() {
-        val screenModel = getScreenModel<JobListScreenModel> { parametersOf("output/jobs.db") }
+        val screenModel = getScreenModel<JobListScreenModel> { parametersOf(dbPath) }
         val state by screenModel.state.collectAsState()
         var selectedJob by remember { mutableStateOf<Job?>(null) }
         var selectedJobId by remember { mutableStateOf("") }
