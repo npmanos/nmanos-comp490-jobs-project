@@ -57,7 +57,7 @@ fun main() = application {
         ) {
             // Min window size code from https://github.com/JetBrains/compose-multiplatform/issues/2285#issuecomment-1873001531
             with(LocalDensity.current) {
-                val minSize = DpSize(1280.dp, 720.dp).toSize()
+                val minSize = DpSize(1040.dp, 585.dp).toSize()
                 window.minimumSize = Dimension(minSize.width.toInt(), minSize.height.toInt())
             }
 
