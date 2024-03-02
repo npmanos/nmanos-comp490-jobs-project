@@ -17,7 +17,7 @@ import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 @Composable
 fun CompanyLogo(
     modifier: Modifier = Modifier,
-    imageUrl: String?
+    imageUrl: String?,
 ) {
     if (imageUrl != null) {
         CoilImage(
@@ -37,7 +37,7 @@ fun CompanyLogoPlaceholder() {
         modifier = Modifier
             .clip(CircleShape)
             .background(MaterialTheme.colorScheme.surfaceVariant)
-            .aspectRatio(1.0f, true)
+            .aspectRatio(1.0f, true),
     ) {
         Icon(
             modifier = Modifier.align(Alignment.Center),

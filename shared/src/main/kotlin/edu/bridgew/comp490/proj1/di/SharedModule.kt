@@ -30,7 +30,7 @@ val sharedModule = module {
     single { SerpApiClient(get(named("apiKey"))).retrofit }
     single { GoogleJobSearchServiceImpl(get()) } bind GoogleJobSearchService::class
 
-    single { (dbPath : String) ->
+    single { (dbPath: String) ->
         val driver = JdbcSqliteDriver(
             "jdbc:sqlite:$dbPath",
             Properties().apply { put("foreign_keys", "true") },

@@ -77,8 +77,8 @@ fun JobDetails(
                     scrollBehavior = scrollBehavior,
                     colors = TopAppBarDefaults.topAppBarColors(
                         containerColor = color,
-                        scrolledContainerColor = MaterialTheme.colorScheme.surfaceColorAtElevation(3.dp)
-                    )
+                        scrolledContainerColor = MaterialTheme.colorScheme.surfaceColorAtElevation(3.dp),
+                    ),
                 )
             }
         },
@@ -168,7 +168,7 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
 
             start.linkTo(parent.start)
             height = Dimension.fillToConstraints
-        }
+        },
     )
 
     Text(
@@ -180,7 +180,7 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
             if (job.location != null) {
                 start.linkTo(thumbnail.end, 8.dp)
             }
-        }
+        },
     )
 
     if (job.location != null) {
@@ -191,7 +191,7 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
             modifier = Modifier.constrainAs(location) {
                 top.linkTo(company.bottom)
                 start.linkTo(company.start)
-            }
+            },
         )
     }
 }
@@ -217,7 +217,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
 
                 height = Dimension.fillToConstraints
             },
-            tint = color
+            tint = color,
         )
 
         Text(
@@ -227,7 +227,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             modifier = Modifier.constrainAs(postedAt) {
                 start.linkTo(postedAtIcon.end, 8.dp)
                 top.linkTo(parent.top)
-            }
+            },
         )
     }
 
@@ -244,7 +244,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
 
                 height = Dimension.fillToConstraints
             },
-            tint = color
+            tint = color,
         )
 
         Text(
@@ -254,7 +254,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             modifier = Modifier.constrainAs(salary) {
                 start.linkTo(salaryIcon.end)
                 top.linkTo(parent.top)
-            }
+            },
         )
     }
 
@@ -287,7 +287,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             modifier = Modifier.constrainAs(schedule) {
                 start.linkTo(scheduleIcon.end, 8.dp)
                 top.linkTo(parent.top)
-            }
+            },
         )
     }
 
@@ -322,7 +322,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
             modifier = Modifier.constrainAs(wfh) {
                 start.linkTo(wfhIcon.end, 8.dp)
                 top.linkTo(parent.top)
-            }
+            },
         )
     }
 }
@@ -358,6 +358,6 @@ private fun JobHighlightItem(highlight: JobHighlight, modifier: Modifier = Modif
             } else {
                 top.linkTo(parent.top)
             }
-        }
+        },
     )
 }

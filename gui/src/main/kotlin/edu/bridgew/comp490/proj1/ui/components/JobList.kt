@@ -32,7 +32,6 @@ fun JobList(
             verticalArrangement = Arrangement.spacedBy(8.dp),
             state = listState,
         ) {
-
             items(
                 items = jobs,
                 key = { it.jobId },

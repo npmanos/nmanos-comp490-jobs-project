@@ -19,25 +19,25 @@ import java.time.format.DateTimeFormatter
 import java.time.format.FormatStyle
 
 @Composable
-fun HorizontalSpacer(width: Dp, required: Boolean = true) = when(required) {
+fun HorizontalSpacer(width: Dp, required: Boolean = true) = when (required) {
     true -> Spacer(modifier = Modifier.requiredWidth(width))
     false -> Spacer(modifier = Modifier.width(width))
 }
 
 @Composable
-fun HorizontalSpacer(min: Dp, max: Dp, required: Boolean = true) = when(required) {
+fun HorizontalSpacer(min: Dp, max: Dp, required: Boolean = true) = when (required) {
     true -> Spacer(modifier = Modifier.requiredWidthIn(min, max))
     false -> Spacer(modifier = Modifier.widthIn(min, max))
 }
 
 @Composable
-fun VerticalSpacer(height: Dp, required: Boolean = true) = when(required) {
+fun VerticalSpacer(height: Dp, required: Boolean = true) = when (required) {
     true -> Spacer(modifier = Modifier.requiredHeight(height))
     false -> Spacer(modifier = Modifier.height(height))
 }
 
 @Composable
-fun VerticalSpacer(min: Dp, max: Dp, required: Boolean = true) = when(required) {
+fun VerticalSpacer(min: Dp, max: Dp, required: Boolean = true) = when (required) {
     true -> Spacer(modifier = Modifier.requiredHeightIn(min, max))
     false -> Spacer(modifier = Modifier.heightIn(min, max))
 }

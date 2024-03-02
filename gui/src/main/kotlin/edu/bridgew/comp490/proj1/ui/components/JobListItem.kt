@@ -39,14 +39,14 @@ fun JobListItem(
             leadingContent = {
                 CompanyLogo(
                     imageUrl = job.thumbnail,
-                    modifier = Modifier.size(40.dp)
+                    modifier = Modifier.size(40.dp),
                 )
             },
             headlineContent = {
                 Text(
                     text = job.title,
                     maxLines = 2,
-                    overflow = TextOverflow.Ellipsis
+                    overflow = TextOverflow.Ellipsis,
                 )
             },
             supportingContent = {
@@ -110,7 +110,7 @@ fun JobListItem(
 @Composable
 private fun JobListItemColors(selected: Boolean) = if (selected) {
     ListItemDefaults.colors(
-        containerColor = MaterialTheme.colorScheme.secondaryContainer
+        containerColor = MaterialTheme.colorScheme.secondaryContainer,
     )
 } else {
     ListItemDefaults.colors()

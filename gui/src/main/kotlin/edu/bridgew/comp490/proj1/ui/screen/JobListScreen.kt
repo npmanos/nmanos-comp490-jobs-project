@@ -43,7 +43,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
 
         Row(
             modifier = Modifier.fillMaxSize(),
-            horizontalArrangement = Arrangement.SpaceBetween
+            horizontalArrangement = Arrangement.SpaceBetween,
         ) {
             Box(
                 modifier = Modifier.fillMaxHeight().weight(0.3f).padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
@@ -69,7 +69,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
 
             HorizontalSpacer(16.dp)
 
-            Box(modifier = Modifier.weight(0.65f)){
+            Box(modifier = Modifier.weight(0.65f)) {
                 JobDetails(
                     job = selectedJob,
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
@@ -77,8 +77,6 @@ data class JobListScreen(private val dbPath: String) : Screen {
                 )
             }
         }
-
-
     }
 
     @Composable
