@@ -8,10 +8,12 @@ import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.relativeTimeString
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
+import kotlinx.coroutines.async
 import java.io.Serializable
 
 class JobListScreenModel(private val repository: JobRepository) : StateScreenModel<JobListScreenModel.State>(State.Init) {
+    private var dbCoJob: kotlinx.coroutines.Job? = null
+
     sealed class State : Serializable {
         data object Init : State() {
             private fun readResolve(): Any = Init
@@ -34,15 +36,17 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         postedAt?.date?.relativeTimeString
     }.thenBy { job -> job.title }
 
-    fun getJobs(textFilter: String = "") {
-        screenModelScope.launch(Dispatchers.IO) {
-            mutableState.value = State.Loading
+    suspend fun getJobs(textFilter: String = "") {
+        mutableState.value = State.Loading
 
+        val result = screenModelScope.async(Dispatchers.IO) {
             when(textFilter.isBlank()) {
-                true -> mutableState.value = State.Result(getAllJobs())
-                false -> mutableState.value = State.Result(getJobsWithText(textFilter))
+                true -> State.Result(getAllJobs())
+                false -> State.Result(getJobsWithText(textFilter))
             }
         }
+
+        mutableState.value = result.await()
     }
 
     private fun getAllJobs() = repository.getJobs().sortedWith(dateComparator)

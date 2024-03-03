@@ -74,6 +74,7 @@ fun JobList(
                                 ) { Icon(MaterialIcons.Cancel, null) }
                             }
                         },
+                        isError = jobs.isEmpty() && searchText.isNotBlank(),
                         singleLine = true,
                         shape = CircleShape,
                         modifier = Modifier.fillMaxWidth()
