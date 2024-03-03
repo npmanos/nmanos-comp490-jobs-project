@@ -7,6 +7,7 @@ import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.relativeTimeString
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import java.io.Serializable
 
@@ -33,8 +34,8 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         postedAt?.date?.relativeTimeString
     }.thenBy { job -> job.title }
 
-    fun getJobs() {
-        screenModelScope.launch {
+    fun getJobs(textFilter: String = "") {
+        screenModelScope.launch(Dispatchers.IO) {
             mutableState.value = State.Loading
             mutableState.value = State.Result(repository.getJobs().sortedWith(dateComparator))
         }
