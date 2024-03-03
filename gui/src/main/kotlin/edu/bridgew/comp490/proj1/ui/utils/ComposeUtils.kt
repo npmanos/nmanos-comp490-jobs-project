@@ -19,27 +19,27 @@ import java.time.format.DateTimeFormatter
 import java.time.format.FormatStyle
 
 @Composable
-fun HorizontalSpacer(width: Dp, required: Boolean = true) = when (required) {
-    true -> Spacer(modifier = Modifier.requiredWidth(width))
+fun HorizontalSpacer(width: Dp, required: Boolean = true, modifier: Modifier = Modifier) = when (required) {
+    true -> Spacer(modifier = Modifier.requiredWidth(width).then(modifier))
     false -> Spacer(modifier = Modifier.width(width))
 }
 
 @Composable
-fun HorizontalSpacer(min: Dp, max: Dp, required: Boolean = true) = when (required) {
-    true -> Spacer(modifier = Modifier.requiredWidthIn(min, max))
-    false -> Spacer(modifier = Modifier.widthIn(min, max))
+fun HorizontalSpacer(min: Dp, max: Dp, required: Boolean = true, modifier: Modifier = Modifier) = when (required) {
+    true -> Spacer(modifier = Modifier.requiredWidthIn(min, max).then(modifier))
+    false -> Spacer(modifier = Modifier.widthIn(min, max).then(modifier))
 }
 
 @Composable
-fun VerticalSpacer(height: Dp, required: Boolean = true) = when (required) {
-    true -> Spacer(modifier = Modifier.requiredHeight(height))
-    false -> Spacer(modifier = Modifier.height(height))
+fun VerticalSpacer(height: Dp, required: Boolean = true, modifier: Modifier = Modifier) = when (required) {
+    true -> Spacer(modifier = Modifier.requiredHeight(height).then(modifier))
+    false -> Spacer(modifier = Modifier.height(height).then(modifier))
 }
 
 @Composable
-fun VerticalSpacer(min: Dp, max: Dp, required: Boolean = true) = when (required) {
-    true -> Spacer(modifier = Modifier.requiredHeightIn(min, max))
-    false -> Spacer(modifier = Modifier.heightIn(min, max))
+fun VerticalSpacer(min: Dp, max: Dp, required: Boolean = true, modifier: Modifier = Modifier) = when (required) {
+    true -> Spacer(modifier = Modifier.requiredHeightIn(min, max).then(modifier))
+    false -> Spacer(modifier = Modifier.heightIn(min, max).then(modifier))
 }
 
 typealias MaterialIcons = Icons.Rounded

@@ -59,6 +59,7 @@ import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
+import edu.bridgew.comp490.proj1.ui.utils.VerticalSpacer
 import edu.bridgew.comp490.proj1.ui.utils.relativeTimeStringGui
 import kotlinx.coroutines.launch
 import java.awt.Desktop
@@ -106,7 +107,7 @@ fun JobDetails(
                             top = paddingValues.calculateTopPadding() + 8.dp,
                             start = paddingValues.calculateStartPadding(LocalLayoutDirection.current) + 16.dp,
                             end = paddingValues.calculateEndPadding(LocalLayoutDirection.current) + 16.dp,
-                            bottom = paddingValues.calculateBottomPadding() + 16.dp,
+                            bottom = paddingValues.calculateBottomPadding(),
                         ).fillMaxSize()
                         .verticalScroll(scrollState),
                     verticalArrangement = Arrangement.spacedBy(16.dp),
@@ -215,6 +216,8 @@ fun JobDetails(
                         }
                     }
                 }
+
+                VerticalSpacer(16.dp, modifier = Modifier.align(Alignment.BottomCenter))
 
                 VerticalScrollbar(
                     modifier = Modifier
