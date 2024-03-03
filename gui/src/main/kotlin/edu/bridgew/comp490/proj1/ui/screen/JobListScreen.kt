@@ -25,9 +25,11 @@ import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
 import cafe.adriel.voyager.koin.getScreenModel
 import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.ui.components.FilterDialog
 import edu.bridgew.comp490.proj1.ui.components.JobDetails
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
+import edu.bridgew.comp490.proj1.ui.state.rememberFilterState
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import kotlinx.coroutines.launch
 import org.koin.core.parameter.parametersOf
@@ -44,6 +46,8 @@ data class JobListScreen(private val dbPath: String) : Screen {
         var selectedJob by remember { mutableStateOf<Job?>(null) }
         var selectedJobId by remember { mutableStateOf("") }
         var searchFilterText by remember { mutableStateOf("") }
+        var showFilterDialog by remember { mutableStateOf(false) }
+        val filterState = rememberFilterState()
         val listState = rememberLazyListState()
         val detailScrollState = rememberScrollState()
         val coroutineScope = rememberCoroutineScope()
@@ -72,6 +76,9 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     },
                     onClearFilterSearchClicked = {
                         searchFilterText = ""
+                    },
+                    onFilterButtonClick = {
+                        showFilterDialog = true
                     }
                 )
 
@@ -90,6 +97,14 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
                     shape = MaterialTheme.shapes.large,
                     scrollState = detailScrollState,
+                )
+            }
+
+            if (showFilterDialog) {
+                FilterDialog(
+                    onApplyFilters = { showFilterDialog = false },
+                    onDismissRequest = { showFilterDialog = false },
+                    state = filterState,
                 )
             }
 

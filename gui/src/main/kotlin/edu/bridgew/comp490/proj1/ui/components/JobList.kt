@@ -5,6 +5,7 @@ import androidx.compose.foundation.VerticalScrollbar
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -17,7 +18,9 @@ import androidx.compose.foundation.rememberScrollbarAdapter
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.rounded.Cancel
 import androidx.compose.material.icons.rounded.ErrorOutline
+import androidx.compose.material.icons.rounded.FilterList
 import androidx.compose.material.icons.rounded.Search
+import androidx.compose.material3.BadgedBox
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LocalContentColor
@@ -44,7 +47,9 @@ private const val searchBarKey = "edu.bridgew.comp490.proj1.ui.components.JobLis
 fun JobList(
     jobs: List<Job>,
     onSearchFilterTextChange: (String) -> Unit,
-    onClearFilterSearchClicked: () -> Unit = {},
+    onClearFilterSearchClicked: () -> Unit,
+    activeFilterCount: Int = 0,
+    onFilterButtonClick: () -> Unit = {},
     selectedJobId: String,
     listState: LazyListState = rememberLazyListState(),
     onSelect: (Job) -> Unit = {},
@@ -68,19 +73,31 @@ fun JobList(
                         placeholder = { Text("Search jobs") },
                         leadingIcon = { Icon(MaterialIcons.Search, null) },
                         trailingIcon = {
-                            if (searchText.isNotBlank()) {
-                                IconButton(
-                                    onClick = {
-                                        searchText = ""
-                                        onClearFilterSearchClicked()
-                                    }
-                                ) { Icon(MaterialIcons.Cancel, null) }
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                            ) {
+                                if (searchText.isNotBlank()) {
+                                    IconButton(
+                                        onClick = {
+                                            searchText = ""
+                                            onClearFilterSearchClicked()
+                                        },
+                                    ) { Icon(MaterialIcons.Cancel, null) }
+                                }
+
+                                BadgedBox(
+                                    badge = { if (activeFilterCount > 0) Text("$activeFilterCount") }
+                                ) {
+                                    IconButton(
+                                        onClick = onFilterButtonClick,
+                                    ) { Icon(MaterialIcons.FilterList, null) }
+                                }
                             }
                         },
                         isError = jobs.isEmpty() && searchText.isNotBlank(),
                         singleLine = true,
                         shape = CircleShape,
-                        modifier = Modifier.fillMaxWidth()
+                        modifier = Modifier.fillMaxWidth(),
                     )
                 }
             }
