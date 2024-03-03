@@ -39,7 +39,7 @@ val sharedModule = module {
 
         JobSearchDB.Schema.create(driver)
         val currentSchemaVersion = Query(788_663, driver, "PRAGMA USER_VERSION") { cursor -> cursor.getLong(0)!! }.executeAsOne()
-        JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 2)
+        JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 3)
 
         JobSearchDB(driver)
     }

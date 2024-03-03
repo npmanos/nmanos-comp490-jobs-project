@@ -1,0 +1,20 @@
+CREATE VIRTUAL TABLE IF NOT EXISTS JobFTS
+USING fts5(title, description, jobId UNINDEXED, content=JobDAO, content_rowid=rowid, tokenize='porter');
+
+CREATE TRIGGER IF NOT EXISTS JobFTS_ai
+AFTER INSERT ON JobDAO BEGIN
+    INSERT INTO JobFTS(rowid, title, description, jobId) VALUES (new.rowid, new.title, new.description, new.jobId);
+END;
+
+CREATE TRIGGER IF NOT EXISTS JobFTS_ad
+AFTER DELETE ON JobDAO BEGIN
+    INSERT INTO JobFTS(JobFTS, rowid, title, description, jobId) VALUES ('delete', old.rowid, old.title, old.description, old.jobId);
+END;
+
+CREATE TRIGGER IF NOT EXISTS JobFTS_au
+AFTER UPDATE ON JobDAO BEGIN
+    INSERT INTO JobFTS(JobFTS, rowid, title, description, jobId) VALUES ('delete', old.rowid, old.title, old.description, old.jobId);
+    INSERT INTO JobFTS(rowid, title, description, jobId) VALUES (new.rowid, new.title, new.description, new.jobId);
+END;
+
+INSERT INTO JobFTS(JobFTS) VALUES ('rebuild');
