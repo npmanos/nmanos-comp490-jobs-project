@@ -1,5 +1,6 @@
 package edu.bridgew.comp490.proj1.ui.components
 
+import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.VerticalScrollbar
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -71,6 +72,7 @@ fun JobDetails(
     shape: Shape = MaterialTheme.shapes.large,
     color: Color = MaterialTheme.colorScheme.background,
     contentColor: Color = contentColorFor(color),
+    scrollState: ScrollState = rememberScrollState()
 ) = Surface(
     modifier = modifier,
     shape = shape,
@@ -98,8 +100,6 @@ fun JobDetails(
     ) { paddingValues ->
         Box(modifier = Modifier.fillMaxSize()) {
             if (job != null) {
-                val scrollState = rememberScrollState()
-
                 Column(
                     modifier = Modifier
                         .padding(

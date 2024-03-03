@@ -7,6 +7,7 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
@@ -16,6 +17,7 @@ import androidx.compose.runtime.currentCompositeKeyHash
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -28,6 +30,7 @@ import edu.bridgew.comp490.proj1.ui.components.JobDetails
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
+import kotlinx.coroutines.launch
 import org.koin.core.parameter.parametersOf
 
 data class JobListScreen(private val dbPath: String) : Screen {
@@ -40,6 +43,9 @@ data class JobListScreen(private val dbPath: String) : Screen {
         val state by screenModel.state.collectAsState()
         var selectedJob by remember { mutableStateOf<Job?>(null) }
         var selectedJobId by remember { mutableStateOf("") }
+        val listState = rememberLazyListState()
+        val detailScrollState = rememberScrollState()
+        val coroutineScope = rememberCoroutineScope()
 
         Row(
             modifier = Modifier.fillMaxSize(),
@@ -51,7 +57,6 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     .weight(0.3f)
                     .padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
             ) {
-                val listState = rememberLazyListState()
                 when (state) {
                     is JobListScreenModel.State.Init -> {
                         LaunchedEffect(currentCompositeKeyHash) { screenModel.getJobs() }
@@ -65,6 +70,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
                         onSelect = {
                             selectedJob = it
                             selectedJobId = it.jobId
+                            coroutineScope.launch { detailScrollState.scrollTo(0) }
                         },
                     )
                 }
@@ -77,6 +83,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     job = selectedJob,
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
                     shape = MaterialTheme.shapes.large,
+                    scrollState = detailScrollState,
                 )
             }
         }
