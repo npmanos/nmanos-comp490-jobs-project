@@ -155,6 +155,10 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .executeAsList()
         .map { it.transformToJob() }
 
+    fun getJobsWithText(text: String): List<Job> = queries.getJobsWithText(text)
+        .executeAsList()
+        .map { it.transformToJob() }
+
     fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
         .asFlow()
         .mapToList(Dispatchers.IO)

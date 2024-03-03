@@ -27,6 +27,15 @@ WHERE jobId IN (
     WHERE query = :query
 );
 
+getJobsWithText:
+SELECT *
+FROM JobDAO
+WHERE jobId IN (
+    SELECT jobId
+    FROM JobFTS
+    WHERE JobFTS MATCH :text
+);
+
 insertJob:
 INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)
 VALUES (

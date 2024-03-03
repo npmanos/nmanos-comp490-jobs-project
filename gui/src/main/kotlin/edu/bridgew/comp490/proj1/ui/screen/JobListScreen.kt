@@ -13,7 +13,6 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.currentCompositeKeyHash
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -41,8 +40,10 @@ data class JobListScreen(private val dbPath: String) : Screen {
     override fun Content() {
         val screenModel = getScreenModel<JobListScreenModel> { parametersOf(dbPath) }
         val state by screenModel.state.collectAsState()
+        var jobList by remember { mutableStateOf(listOf<Job>()) }
         var selectedJob by remember { mutableStateOf<Job?>(null) }
         var selectedJobId by remember { mutableStateOf("") }
+        var searchFilterText by remember { mutableStateOf("") }
         val listState = rememberLazyListState()
         val detailScrollState = rememberScrollState()
         val coroutineScope = rememberCoroutineScope()
@@ -57,22 +58,27 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     .weight(0.3f)
                     .padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
             ) {
-                when (state) {
-                    is JobListScreenModel.State.Init -> {
-                        LaunchedEffect(currentCompositeKeyHash) { screenModel.getJobs() }
+                JobList(
+                    jobs = jobList,
+                    selectedJobId = selectedJobId,
+                    listState = listState,
+                    onSelect = {
+                        selectedJob = it
+                        selectedJobId = it.jobId
+                        coroutineScope.launch { detailScrollState.scrollTo(0) }
+                    },
+                    onSearchFilterTextChange = {
+                        searchFilterText = if (it.isBlank()) "" else "$it*"
+                    },
+                    onClearFilterSearchClicked = {
+                        searchFilterText = ""
                     }
+                )
 
+                when (state) {
+                    is JobListScreenModel.State.Init,
                     is JobListScreenModel.State.Loading -> LoadingJobs()
-                    is JobListScreenModel.State.Result -> JobList(
-                        jobs = (state as JobListScreenModel.State.Result).jobs,
-                        selectedJobId = selectedJobId,
-                        listState = listState,
-                        onSelect = {
-                            selectedJob = it
-                            selectedJobId = it.jobId
-                            coroutineScope.launch { detailScrollState.scrollTo(0) }
-                        },
-                    )
+                    is JobListScreenModel.State.Result -> jobList = (state as JobListScreenModel.State.Result).jobs
                 }
             }
 
@@ -86,6 +92,8 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     scrollState = detailScrollState,
                 )
             }
+
+            LaunchedEffect(searchFilterText) { screenModel.getJobs(searchFilterText) }
         }
     }
 

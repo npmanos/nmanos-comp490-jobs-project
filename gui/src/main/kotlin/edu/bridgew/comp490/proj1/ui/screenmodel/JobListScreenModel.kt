@@ -37,7 +37,15 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
     fun getJobs(textFilter: String = "") {
         screenModelScope.launch(Dispatchers.IO) {
             mutableState.value = State.Loading
-            mutableState.value = State.Result(repository.getJobs().sortedWith(dateComparator))
+
+            when(textFilter.isBlank()) {
+                true -> mutableState.value = State.Result(getAllJobs())
+                false -> mutableState.value = State.Result(getJobsWithText(textFilter))
+            }
         }
     }
+
+    private fun getAllJobs() = repository.getJobs().sortedWith(dateComparator)
+
+    private fun getJobsWithText(text: String) = repository.getJobsWithText(text).sortedWith(dateComparator)
 }
