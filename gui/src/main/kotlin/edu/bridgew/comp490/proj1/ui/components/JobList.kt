@@ -4,6 +4,7 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.VerticalScrollbar
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -15,9 +16,11 @@ import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollbarAdapter
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.rounded.Cancel
+import androidx.compose.material.icons.rounded.ErrorOutline
 import androidx.compose.material.icons.rounded.Search
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
+import androidx.compose.material3.LocalContentColor
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Surface
@@ -80,7 +83,6 @@ fun JobList(
                         modifier = Modifier.fillMaxWidth()
                     )
                 }
-
             }
 
             items(
@@ -92,6 +94,13 @@ fun JobList(
                     selected = job.jobId == selectedJobId,
                     onClick = { onSelect(it) },
                 )
+            }
+        }
+
+        if (jobs.isEmpty() && searchText.isNotBlank()) {
+            Column(Modifier.align(Alignment.Center), Arrangement.spacedBy(4.dp), Alignment.CenterHorizontally) {
+                Icon(MaterialIcons.ErrorOutline, null, tint = LocalContentColor.current.copy(0.67f))
+                Text("No jobs found", color = LocalContentColor.current.copy(0.67f))
             }
         }
 
