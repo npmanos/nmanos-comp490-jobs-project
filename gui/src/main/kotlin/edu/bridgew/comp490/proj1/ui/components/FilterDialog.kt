@@ -79,7 +79,7 @@ fun FilterDialog(
 
                 TextButton(
                     onClick = localState::reset,
-                    enabled = state.isDefault,
+                    enabled = !localState.isDefault,
                     modifier = Modifier.constrainAs(resetButton) {
                         start.linkTo(parent.start, 16.dp)
                         top.linkTo(cancelButton.top)

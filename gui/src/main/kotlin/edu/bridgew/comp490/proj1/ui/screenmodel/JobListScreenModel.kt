@@ -36,14 +36,14 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         postedAt?.date?.relativeTimeString
     }.thenBy { job -> job.title }
 
-    suspend fun getJobs(textFilter: String = "") {
+    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean) {
         mutableState.value = State.Loading
 
         val result = screenModelScope.async(Dispatchers.IO) {
-            when(textFilter.isBlank()) {
-                true -> State.Result(getAllJobs())
-                false -> State.Result(getJobsWithText(textFilter))
-            }
+            State.Result(repository.getFilteredJobs(
+                keywordFilter,
+                if (wfhOnly) true else null,
+            ).sortedWith(dateComparator))
         }
 
         mutableState.value = result.await()
@@ -51,5 +51,5 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
 
     private fun getAllJobs() = repository.getJobs().sortedWith(dateComparator)
 
-    private fun getJobsWithText(text: String) = repository.getJobsWithText(text).sortedWith(dateComparator)
+    private fun getJobsWithText(text: String) = repository.getFilteredJobs(text).sortedWith(dateComparator)
 }

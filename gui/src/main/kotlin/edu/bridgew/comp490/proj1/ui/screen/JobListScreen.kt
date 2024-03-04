@@ -72,11 +72,12 @@ data class JobListScreen(private val dbPath: String) : Screen {
                         coroutineScope.launch { detailScrollState.scrollTo(0) }
                     },
                     onSearchFilterTextChange = {
-                        searchFilterText = if (it.isBlank()) "" else "$it*"
+                        searchFilterText = if (it.isBlank()) "" else it
                     },
                     onClearFilterSearchClicked = {
                         searchFilterText = ""
                     },
+                    activeFilterCount = filterState.activeFilterCount,
                     onFilterButtonClick = {
                         showFilterDialog = true
                     }
@@ -108,7 +109,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
                 )
             }
 
-            LaunchedEffect(searchFilterText) { screenModel.getJobs(searchFilterText) }
+            LaunchedEffect(searchFilterText, filterState.wfhOnly) { screenModel.getJobs(searchFilterText, filterState.wfhOnly) }
         }
     }
 

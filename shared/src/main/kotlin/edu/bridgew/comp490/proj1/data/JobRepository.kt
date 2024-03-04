@@ -155,7 +155,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .executeAsList()
         .map { it.transformToJob() }
 
-    fun getJobsWithText(text: String): List<Job> = queries.getJobsWithText(text)
+    fun getFilteredJobs(keywordFilter: String, isWFH: Boolean? = null): List<Job> = queries.getFilteredJobs(keywordFilter, isWFH)
         .executeAsList()
         .map { it.transformToJob() }
 

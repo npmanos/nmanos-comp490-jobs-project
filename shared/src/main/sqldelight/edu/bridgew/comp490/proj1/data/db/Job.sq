@@ -27,14 +27,14 @@ WHERE jobId IN (
     WHERE query = :query
 );
 
-getJobsWithText:
+getFilteredJobs:
 SELECT *
 FROM JobDAO
-WHERE jobId IN (
+WHERE (:keywordFilter = '' OR jobId IN (
     SELECT jobId
     FROM JobFTS
-    WHERE JobFTS MATCH :text
-);
+    WHERE JobFTS MATCH :keywordFilter || '*'
+)) AND (:isWFH IS NULL OR isWFH = :isWFH);
 
 insertJob:
 INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)

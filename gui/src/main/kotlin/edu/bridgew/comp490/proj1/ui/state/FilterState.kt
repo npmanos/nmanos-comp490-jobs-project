@@ -28,6 +28,7 @@ fun FilterState.copyInto(other: FilterState) {
 interface FilterState {
     var wfhOnly: Boolean
 
+    val activeFilterCount: Int
     val isDefault: Boolean
 
     fun reset()
@@ -37,6 +38,9 @@ private class FilterStateImpl(
     wfhOnly: Boolean,
 ) : FilterState {
     override var wfhOnly: Boolean by mutableStateOf(wfhOnly)
+
+    override val activeFilterCount: Int
+        get() = if (wfhOnly) 1 else 0
 
     override val isDefault: Boolean
         get() = !wfhOnly
