@@ -12,7 +12,7 @@ import kotlinx.coroutines.async
 import java.io.Serializable
 
 class JobListScreenModel(private val repository: JobRepository) : StateScreenModel<JobListScreenModel.State>(State.Init) {
-    private var dbCoJob: kotlinx.coroutines.Job? = null
+    val locations by lazy { repository.getLocations().sortedBy { it.trim() } }
 
     sealed class State : Serializable {
         data object Init : State() {
@@ -36,20 +36,17 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         postedAt?.date?.relativeTimeString
     }.thenBy { job -> job.title }
 
-    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean) {
+    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean, selectedLocations: Collection<String>) {
         mutableState.value = State.Loading
 
         val result = screenModelScope.async(Dispatchers.IO) {
             State.Result(repository.getFilteredJobs(
                 keywordFilter,
                 if (wfhOnly) true else null,
+                selectedLocations.ifEmpty { null },
             ).sortedWith(dateComparator))
         }
 
         mutableState.value = result.await()
     }
-
-    private fun getAllJobs() = repository.getJobs().sortedWith(dateComparator)
-
-    private fun getJobsWithText(text: String) = repository.getFilteredJobs(text).sortedWith(dateComparator)
 }

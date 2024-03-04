@@ -34,7 +34,14 @@ WHERE (:keywordFilter = '' OR jobId IN (
     SELECT jobId
     FROM JobFTS
     WHERE JobFTS MATCH :keywordFilter || '*'
-)) AND (:isWFH IS NULL OR isWFH = :isWFH);
+)) AND (:isWFH IS NULL OR isWFH = :isWFH)
+AND (:filterLocation IS FALSE OR location IN :selectedLocations);
+
+getLocations:
+SELECT DISTINCT location
+FROM JobDAO
+WHERE location IS NOT NULL
+ORDER BY location;
 
 insertJob:
 INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)

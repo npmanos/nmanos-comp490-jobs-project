@@ -155,8 +155,17 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .executeAsList()
         .map { it.transformToJob() }
 
-    fun getFilteredJobs(keywordFilter: String, isWFH: Boolean? = null): List<Job> = queries.getFilteredJobs(keywordFilter, isWFH)
-        .executeAsList()
+    fun getFilteredJobs(
+        keywordFilter: String,
+        isWFH: Boolean? = null,
+        selectedLocations: Collection<String>? = null
+    ): List<Job> = queries
+        .getFilteredJobs(
+            keywordFilter,
+            isWFH,
+            if (!selectedLocations.isNullOrEmpty()) 1 else 0,
+            selectedLocations ?: listOf()
+        ).executeAsList()
         .map { it.transformToJob() }
 
     fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
@@ -168,6 +177,8 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .asFlow()
         .mapToList(Dispatchers.IO)
         .transformToJobs()
+
+    fun getLocations(): List<String> = queries.getLocations().executeAsList()
 
     private fun JobDAO.transformToJob(): Job {
         val highlights = queries.getHighlights(jobId)

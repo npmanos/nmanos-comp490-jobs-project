@@ -14,6 +14,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
@@ -47,7 +48,8 @@ data class JobListScreen(private val dbPath: String) : Screen {
         var selectedJobId by remember { mutableStateOf("") }
         var searchFilterText by remember { mutableStateOf("") }
         var showFilterDialog by remember { mutableStateOf(false) }
-        val filterState = rememberFilterState()
+        val selectedLocations = remember { mutableStateListOf<String>() }
+        val filterState = rememberFilterState(selectedLocations = selectedLocations)
         val listState = rememberLazyListState()
         val detailScrollState = rememberScrollState()
         val coroutineScope = rememberCoroutineScope()
@@ -67,9 +69,11 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     selectedJobId = selectedJobId,
                     listState = listState,
                     onSelect = {
-                        selectedJob = it
-                        selectedJobId = it.jobId
-                        coroutineScope.launch { detailScrollState.scrollTo(0) }
+                        if (selectedJobId != it.jobId) {
+                            selectedJob = it
+                            selectedJobId = it.jobId
+                            coroutineScope.launch { detailScrollState.scrollTo(0) }
+                        }
                     },
                     onSearchFilterTextChange = {
                         searchFilterText = if (it.isBlank()) "" else it
@@ -106,10 +110,20 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     onApplyFilters = { showFilterDialog = false },
                     onDismissRequest = { showFilterDialog = false },
                     state = filterState,
+                    allLocations = screenModel.locations,
                 )
             }
 
-            LaunchedEffect(searchFilterText, filterState.wfhOnly) { screenModel.getJobs(searchFilterText, filterState.wfhOnly) }
+            LaunchedEffect(
+                searchFilterText,
+                showFilterDialog,
+                filterState
+            ) { screenModel.getJobs(
+                    searchFilterText,
+                    filterState.wfhOnly,
+                    filterState.selectedLocations,
+                )
+            }
         }
     }
 
