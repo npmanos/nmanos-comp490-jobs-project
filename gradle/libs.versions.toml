@@ -22,7 +22,7 @@ commons-lang = { module = "org.apache.commons:commons-lang3", version = "3.14.0"
 
 composeFilePicker = { module = "com.darkrockstudios:mpfilepicker", version = "3.1.0" }
 
-constraintLayoutKMP = { module = "tech.annexflow.compose:constraintlayout-compose-multiplatform", version = "0.2.3" }
+constraintLayoutKMP = { module = "tech.annexflow.compose:constraintlayout-compose-multiplatform", version = "0.3.0" }
 
 coroutines-core  = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
 coroutines-swing = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-swing", version.ref = "coroutines" }
