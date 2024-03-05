@@ -13,8 +13,8 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
@@ -48,8 +48,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
         var selectedJobId by remember { mutableStateOf("") }
         var searchFilterText by remember { mutableStateOf("") }
         var showFilterDialog by remember { mutableStateOf(false) }
-        val selectedLocations = remember { mutableStateListOf<String>() }
-        val filterState = rememberFilterState(selectedLocations = selectedLocations)
+        val filterState = rememberFilterState()
         val listState = rememberLazyListState()
         val detailScrollState = rememberScrollState()
         val coroutineScope = rememberCoroutineScope()
@@ -107,18 +106,21 @@ data class JobListScreen(private val dbPath: String) : Screen {
 
             if (showFilterDialog) {
                 FilterDialog(
-                    onApplyFilters = { showFilterDialog = false },
+                    onApplyRequest = {
+                        showFilterDialog = false
+                    },
                     onDismissRequest = { showFilterDialog = false },
                     state = filterState,
                     allLocations = screenModel.locations,
                 )
             }
 
+            val filterStateHash by derivedStateOf { filterState.hashCode() }
             LaunchedEffect(
                 searchFilterText,
-                showFilterDialog,
-                filterState
-            ) { screenModel.getJobs(
+                filterStateHash,
+            ) {
+                screenModel.getJobs(
                     searchFilterText,
                     filterState.wfhOnly,
                     filterState.selectedLocations,

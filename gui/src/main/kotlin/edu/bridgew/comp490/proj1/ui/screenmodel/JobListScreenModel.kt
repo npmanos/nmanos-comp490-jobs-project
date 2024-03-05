@@ -36,14 +36,14 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         postedAt?.date?.relativeTimeString
     }.thenBy { job -> job.title }
 
-    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean, selectedLocations: Collection<String>) {
+    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean, selectedLocations: Collection<String>?) {
         mutableState.value = State.Loading
 
         val result = screenModelScope.async(Dispatchers.IO) {
             State.Result(repository.getFilteredJobs(
                 keywordFilter,
                 if (wfhOnly) true else null,
-                selectedLocations.ifEmpty { null },
+                selectedLocations?.ifEmpty { null },
             ).sortedWith(dateComparator))
         }
 

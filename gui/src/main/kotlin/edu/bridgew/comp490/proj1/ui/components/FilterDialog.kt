@@ -37,18 +37,21 @@ import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import androidx.compose.ui.window.PopupProperties
 import androidx.constraintlayout.compose.ConstraintLayout
+import androidx.constraintlayout.compose.Dimension
 import edu.bridgew.comp490.proj1.ui.state.FilterState
+import edu.bridgew.comp490.proj1.ui.state.copy
 import edu.bridgew.comp490.proj1.ui.state.rememberFilterState
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 
 @OptIn(ExperimentalLayoutApi::class, ExperimentalMaterial3Api::class)
 @Composable
 fun FilterDialog(
-    onApplyFilters: () -> Unit,
+    onApplyRequest: () -> Unit,
     onDismissRequest: () -> Unit,
     state: FilterState = rememberFilterState(),
     allLocations: List<String>,
 ) {
+    val localState = state.copy()
     var locationDropdownExpanded by remember { mutableStateOf(false) }
     var locationSearchText by remember { mutableStateOf("") }
     val dropdownOptionsFiltered = allLocations.filter { it.contains(locationSearchText, true) }
@@ -73,6 +76,7 @@ fun FilterDialog(
                     filterTitle,
                     wfhCheckbox,
                     whfLabel,
+                    resetButton,
                     cancelButton,
                     applyButton,
                     locationChips,
@@ -90,9 +94,9 @@ fun FilterDialog(
                 )
 
                 Checkbox(
-                    checked = state.wfhOnly,
+                    checked = localState.wfhOnly,
                     onCheckedChange = {
-                        state.wfhOnly = it
+                        localState.wfhOnly = it
                     },
                     modifier = Modifier.constrainAs(wfhCheckbox) {
                         start.linkTo(filterTitle.start)
@@ -111,23 +115,24 @@ fun FilterDialog(
 
                 FlowRow(
                     horizontalArrangement = Arrangement.spacedBy(4.dp),
-                    verticalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalArrangement = Arrangement.spacedBy(1.dp),
                     modifier = Modifier.constrainAs(locationChips) {
-                        start.linkTo(filterTitle.start)
+                        start.linkTo(locationDropdown.start)
                         end.linkTo(parent.end, 16.dp)
                         horizontalBias = 0f
+                        width = Dimension.fillToConstraints
 
                         top.linkTo(wfhCheckbox.bottom, 8.dp)
                     }
                 ) {
-                    state.selectedLocations.forEach { location ->
+                    localState.selectedLocations.forEach { location ->
                         InputChip(
                             selected = true,
                             onClick = {
-                                state.selectedLocations.remove(location)
+                                localState.selectedLocations.remove(location)
                             },
                             label = { Text(location.trim()) },
-                            enabled = state.locationFilterEnabled,
+                            enabled = localState.locationFilterEnabled,
                             avatar = {
                                 Icon(
                                     MaterialIcons.LocationOn,
@@ -147,37 +152,40 @@ fun FilterDialog(
                 }
 
                 Checkbox(
-                    checked = state.locationFilterEnabled,
-                    onCheckedChange = { state.locationFilterEnabled = it },
+                    checked = localState.locationFilterEnabled,
+                    onCheckedChange = { localState.locationFilterEnabled = it },
                     modifier = Modifier.constrainAs(locationCheckbox) {
                         start.linkTo(filterTitle.start)
-                        top.linkTo(locationChips.bottom, 8.dp)
+                        top.linkTo(locationChips.top)
+                        bottom.linkTo(locationDropdown.bottom)
                     }
                 )
 
                 ExposedDropdownMenuBox(
-                    expanded = locationDropdownExpanded,
+                    expanded = locationDropdownExpanded  && localState.locationFilterEnabled,
                     onExpandedChange = { locationDropdownExpanded = it },
                     modifier = Modifier.constrainAs(locationDropdown) {
                         start.linkTo(locationCheckbox.end, 4.dp)
-                        top.linkTo(locationCheckbox.top)
-                        bottom.linkTo(locationCheckbox.bottom)
+                        top.linkTo(locationChips.bottom, 4.dp)
                     }
                 ) {
                     TextField(
                         modifier = Modifier.menuAnchor(),
                         value = locationSearchText,
-                        onValueChange = { locationSearchText = it },
-                        enabled = state.locationFilterEnabled,
+                        onValueChange = {
+                            locationSearchText = it
+                            locationDropdownExpanded = true
+                        },
+                        enabled = localState.locationFilterEnabled,
                         placeholder = { Text("Location") },
-                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(locationDropdownExpanded) },
+                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(locationDropdownExpanded  && localState.locationFilterEnabled) },
                         singleLine = true,
                         colors = ExposedDropdownMenuDefaults.textFieldColors()
                     )
 
                     if (dropdownOptionsFiltered.isNotEmpty()) {
                         DropdownMenu(
-                            expanded = locationDropdownExpanded,
+                            expanded = locationDropdownExpanded && localState.locationFilterEnabled,
                             onDismissRequest = { locationDropdownExpanded = false },
                             properties = PopupProperties(focusable = false),
                             modifier = Modifier.exposedDropdownSize(true)
@@ -186,15 +194,15 @@ fun FilterDialog(
                                 DropdownMenuItem(
                                     text = { Text(locationOption.trim()) },
                                     onClick = {
-                                        if (locationOption !in state.selectedLocations) {
-                                            state.selectedLocations.add(locationOption)
-                                            state.selectedLocations.sort()
+                                        if (locationOption !in localState.selectedLocations) {
+                                            localState.selectedLocations.add(locationOption)
+                                            localState.selectedLocations.sort()
                                         } else {
-                                            state.selectedLocations.remove(locationOption)
+                                            localState.selectedLocations.remove(locationOption)
                                         }
                                     },
                                     trailingIcon = {
-                                        if (locationOption in state.selectedLocations) {
+                                        if (locationOption in localState.selectedLocations) {
                                             Icon(MaterialIcons.Check, null)
                                         }
                                     },
@@ -206,9 +214,10 @@ fun FilterDialog(
                 }
 
                 TextButton(
-                    onClick = state::reset,
-                    modifier = Modifier.constrainAs(cancelButton) {
-                        end.linkTo(applyButton.start, 8.dp)
+                    onClick = localState::reset,
+                    enabled = !localState.isDefault,
+                    modifier = Modifier.constrainAs(resetButton) {
+                        start.linkTo(parent.start, 16.dp)
                         top.linkTo(applyButton.top)
                         bottom.linkTo(applyButton.bottom)
                     },
@@ -216,12 +225,38 @@ fun FilterDialog(
                     Text("Reset")
                 }
 
+                TextButton(
+                    onClick = {
+                        localState.wfhOnly = state.wfhOnly
+                        localState.locationFilterEnabled = state.locationFilterEnabled
+                        localState.selectedLocations.clear()
+                        localState.selectedLocations.addAll(state.selectedLocations)
+
+                        onDismissRequest()
+                    },
+                    modifier = Modifier.constrainAs(cancelButton) {
+                        end.linkTo(applyButton.start, 8.dp)
+                        top.linkTo(applyButton.top)
+                        bottom.linkTo(applyButton.bottom)
+                    },
+                ) {
+                    Text("Cancel")
+                }
+
                 FilledTonalButton(
-                    onClick = onApplyFilters,
+                    onClick = {
+                        state.wfhOnly = localState.wfhOnly
+                        state.locationFilterEnabled = localState.locationFilterEnabled
+                        state.selectedLocations.clear()
+                        state.selectedLocations.addAll(localState.selectedLocations)
+
+                        onApplyRequest()
+                    },
+                    enabled = localState != state,
                     modifier = Modifier.constrainAs(applyButton) {
                         end.linkTo(parent.end, 16.dp)
                         bottom.linkTo(parent.bottom, 16.dp)
-                    }
+                    },
                 ) {
                     Text("Apply")
                 }

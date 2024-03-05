@@ -1,6 +1,7 @@
 package edu.bridgew.comp490.proj1.ui.state
 
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
@@ -23,24 +24,27 @@ fun rememberFilterState(
 }
 
 @Composable
-fun FilterState.rememberCopy(): FilterState = rememberFilterState(
-    wfhOnly,
-    locationFilterEnabled,
-    selectedLocations,
-)
+fun FilterState.copy(
+    wfhOnly: Boolean = this.wfhOnly,
+    locationFilterEnabled: Boolean = this.locationFilterEnabled,
+    selectedLocations: MutableList<String> = this.selectedLocations.toMutableStateList(),
+) = rememberFilterState(wfhOnly, locationFilterEnabled, selectedLocations)
 
-fun FilterState.copyInto(other: FilterState) {
-    other.wfhOnly = wfhOnly
-    other.locationFilterEnabled = locationFilterEnabled
-    other.selectedLocations.clear()
-    selectedLocations.toCollection(other.selectedLocations)
+fun FilterState.copyFrom(other: FilterState) {
+    wfhOnly = other.wfhOnly
+    locationFilterEnabled = other.locationFilterEnabled
+    selectedLocations.clear()
+    selectedLocations.addAll(other.selectedLocations)
 }
 
 interface FilterState {
     var wfhOnly: Boolean
+    operator fun component1() = wfhOnly
 
     var locationFilterEnabled: Boolean
     val selectedLocations: MutableList<String>
+    operator fun component2() = locationFilterEnabled
+    operator fun component3() = selectedLocations
 
     val activeFilterCount: Int
     val isDefault: Boolean
@@ -58,9 +62,10 @@ private class FilterStateImpl(
     override var locationFilterEnabled: Boolean by mutableStateOf(locationFilterEnabled)
     override val selectedLocations: MutableList<String> = selectedLocations.toMutableStateList()
 
-    private var _activeFilterCount by mutableStateOf(0)
-    override val activeFilterCount: Int
-        get() = (if (wfhOnly) 1 else 0) + (if (locationFilterEnabled) 1 else 0)
+    override val activeFilterCount: Int by derivedStateOf {
+        (if (wfhOnly) 1 else 0) +
+        (if (locationFilterEnabled) 1 else 0)
+    }
 
     override val isDefault: Boolean
         get() = !wfhOnly
@@ -73,9 +78,35 @@ private class FilterStateImpl(
         selectedLocations.clear()
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as FilterStateImpl
+
+        if (wfhOnly != other.wfhOnly) return false
+        if (locationFilterEnabled != other.locationFilterEnabled) return false
+        if (selectedLocations.toList() != other.selectedLocations.toList()) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = wfhOnly.hashCode()
+        result = 31 * result + locationFilterEnabled.hashCode()
+        result = 31 * result + selectedLocations.toList().hashCode()
+        return result
+    }
+
+    override fun toString(): String {
+        return "FilterStateImpl(wfhOnly=$wfhOnly, locationFilterEnabled=$locationFilterEnabled, selectedLocations=$selectedLocations)"
+    }
+
     companion object {
         fun Saver() = listSaver<FilterState, Any>(
             save = {
+                println("selectedLocations canBeSaved: ${canBeSaved(it.selectedLocations)}")
+
                 listOf(
                     it.wfhOnly,
                     it.locationFilterEnabled,
@@ -91,4 +122,6 @@ private class FilterStateImpl(
             }
         )
     }
+
+
 }
