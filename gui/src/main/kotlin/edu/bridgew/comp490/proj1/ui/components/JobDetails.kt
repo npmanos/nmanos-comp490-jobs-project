@@ -52,12 +52,15 @@ import androidx.compose.ui.util.fastFirstOrNull
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
 import edu.bridgew.comp490.proj1.data.entities.Extension
-import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.JobHighlight
+import edu.bridgew.comp490.proj1.data.entities.Link
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.ShortJob
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
+import edu.bridgew.comp490.proj1.ui.state.JobDetailLoadState
+import edu.bridgew.comp490.proj1.ui.state.ShortJobDetailLoadState
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 import edu.bridgew.comp490.proj1.ui.utils.VerticalSpacer
 import edu.bridgew.comp490.proj1.ui.utils.relativeTimeStringGui
@@ -65,10 +68,14 @@ import kotlinx.coroutines.launch
 import java.awt.Desktop
 import java.net.URI
 
+private typealias None = JobDetailLoadState.None
+private typealias Loading = ShortJobDetailLoadState.Loading
+private typealias Result = ShortJobDetailLoadState.Result
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun JobDetails(
-    job: Job?,
+    state: JobDetailLoadState,
     modifier: Modifier = Modifier,
     shape: Shape = MaterialTheme.shapes.large,
     color: Color = MaterialTheme.colorScheme.background,
@@ -80,27 +87,26 @@ fun JobDetails(
     color = color,
     contentColor = contentColor,
 ) {
-    val scrollBehavior = TopAppBarDefaults.pinnedScrollBehavior()
+    if (state !is None) {
+        val state = state as ShortJobDetailLoadState
+        val scrollBehavior = TopAppBarDefaults.pinnedScrollBehavior()
 
-    Scaffold(
-        modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
-        containerColor = color,
-        contentColor = contentColor,
-        topBar = {
-            if (job != null) {
+        Scaffold(
+            modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
+            containerColor = color,
+            contentColor = contentColor,
+            topBar = {
                 TopAppBar(
-                    title = { Text(job.title.trim()) },
+                    title = { Text(state.job.title) },
                     scrollBehavior = scrollBehavior,
                     colors = TopAppBarDefaults.topAppBarColors(
                         containerColor = color,
                         scrolledContainerColor = MaterialTheme.colorScheme.surfaceColorAtElevation(3.dp),
                     ),
                 )
-            }
-        },
-    ) { paddingValues ->
-        Box(modifier = Modifier.fillMaxSize()) {
-            if (job != null) {
+            },
+        ) { paddingValues ->
+            Box(modifier = Modifier.fillMaxSize()) {
                 Column(
                     modifier = Modifier
                         .padding(
@@ -113,106 +119,51 @@ fun JobDetails(
                     verticalArrangement = Arrangement.spacedBy(16.dp),
                 ) {
                     JobCompanyLocationLogo(
-                        job = job,
+                        job = state.job,
                     )
 
                     HorizontalDivider(
                         modifier = Modifier.fillMaxWidth(),
                     )
 
-                    if (!job.detectedExtensions.isNullOrEmpty()) {
-                        JobExtensions(
-                            extensions = job.detectedExtensions!!,
-                        )
-                    }
+                    if (state is Loading) {
+                        FilledCircularProgressIndicator()
+                    } else if (state is Result) {
+                        val job = state.job
 
-                    if (!job.jobHighlights.isNullOrEmpty()) {
-                        Text(
-                            text = "Job highlights",
-                            style = MaterialTheme.typography.titleLarge,
-                        )
+                        if (!job.detectedExtensions.isNullOrEmpty()) {
+                            JobExtensions(
+                                extensions = job.detectedExtensions!!,
+                            )
+                        }
 
-                        job.jobHighlights!!.forEach { JobHighlightItem(it) }
+                        if (!job.jobHighlights.isNullOrEmpty()) {
+                            Text(
+                                text = "Job highlights",
+                                style = MaterialTheme.typography.titleLarge,
+                            )
 
-                        HorizontalDivider(
-                            modifier = Modifier.fillMaxWidth(),
-                        )
-                    }
+                            job.jobHighlights!!.forEach { JobHighlightItem(it) }
 
-                    if (job.description != null) {
-                        Text(
-                            text = "Job description",
-                            style = MaterialTheme.typography.titleLarge,
-                        )
+                            HorizontalDivider(
+                                modifier = Modifier.fillMaxWidth(),
+                            )
+                        }
 
-                        Text(
-                            text = job.description!!,
-                            style = MaterialTheme.typography.bodyMedium,
-                        )
-                    }
+                        if (job.description != null) {
+                            Text(
+                                text = "Job description",
+                                style = MaterialTheme.typography.titleLarge,
+                            )
 
-                    if (!job.relatedLinks.isNullOrEmpty()) {
-                        val linkScrollState = rememberLazyListState()
-                        val coroutineScope = rememberCoroutineScope()
-                        val desktop = remember { Desktop.getDesktop() }
+                            Text(
+                                text = job.description!!,
+                                style = MaterialTheme.typography.bodyMedium,
+                            )
+                        }
 
-                        HorizontalDivider(modifier = Modifier.fillMaxWidth())
-
-                        Box(modifier = Modifier.fillMaxWidth()) {
-                            LazyRow(
-                                modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp),
-                                state = linkScrollState,
-                                horizontalArrangement = Arrangement.spacedBy(16.dp),
-                            ) {
-                                items(
-                                    items = job.relatedLinks!!,
-                                    key = { it.link },
-                                ) {
-                                    val uri = URI(it.link)
-
-                                    Button(
-                                        onClick = {
-                                            desktop.browse(uri)
-                                        },
-                                    ) {
-                                        Text(text = it.text)
-                                    }
-                                }
-                            }
-
-                            if (linkScrollState.canScrollBackward) {
-                                ElevatedButton(
-                                    modifier = Modifier.align(Alignment.CenterStart),
-                                    shape = CircleShape,
-                                    onClick = {
-                                        coroutineScope.launch {
-                                            linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex - 1)
-                                        }
-                                    },
-                                ) {
-                                    Icon(
-                                        imageVector = MaterialIcons.ChevronLeft,
-                                        contentDescription = null,
-                                    )
-                                }
-                            }
-
-                            if (linkScrollState.canScrollForward) {
-                                ElevatedButton(
-                                    modifier = Modifier.align(Alignment.CenterEnd),
-                                    shape = CircleShape,
-                                    onClick = {
-                                        coroutineScope.launch {
-                                            linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex + 1)
-                                        }
-                                    },
-                                ) {
-                                    Icon(
-                                        imageVector = MaterialIcons.ChevronRight,
-                                        contentDescription = null,
-                                    )
-                                }
-                            }
+                        if (!job.relatedLinks.isNullOrEmpty()) {
+                            JobRelatedLinks(job.relatedLinks!!)
                         }
                     }
                 }
@@ -232,7 +183,7 @@ fun JobDetails(
 }
 
 @Composable
-private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = ConstraintLayout(modifier) {
+private fun JobCompanyLocationLogo(job: ShortJob, modifier: Modifier = Modifier) = ConstraintLayout(modifier) {
     val (thumbnail, company, location) = createRefs()
     val companyTextStyle = if (job.location != null) MaterialTheme.typography.bodyMedium else MaterialTheme.typography.bodyLarge
 
@@ -274,6 +225,72 @@ private fun JobCompanyLocationLogo(job: Job, modifier: Modifier = Modifier) = Co
                 start.linkTo(company.start)
             },
         )
+    }
+}
+
+@Composable
+private fun JobRelatedLinks(relatedLinks: List<Link>, modifier: Modifier = Modifier) {
+    val linkScrollState = rememberLazyListState()
+    val coroutineScope = rememberCoroutineScope()
+    val desktop = remember { Desktop.getDesktop() }
+
+    HorizontalDivider(modifier = Modifier.fillMaxWidth())
+
+    Box(modifier = Modifier.fillMaxWidth().then(modifier)) {
+        LazyRow(
+            modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp),
+            state = linkScrollState,
+            horizontalArrangement = Arrangement.spacedBy(16.dp),
+        ) {
+            items(
+                items = relatedLinks,
+                key = { it.link },
+            ) {
+                val uri = URI(it.link)
+
+                Button(
+                    onClick = {
+                        desktop.browse(uri)
+                    },
+                ) {
+                    Text(text = it.text)
+                }
+            }
+        }
+
+        if (linkScrollState.canScrollBackward) {
+            ElevatedButton(
+                modifier = Modifier.align(Alignment.CenterStart),
+                shape = CircleShape,
+                onClick = {
+                    coroutineScope.launch {
+                        linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex - 1)
+                    }
+                },
+            ) {
+                Icon(
+                    imageVector = MaterialIcons.ChevronLeft,
+                    contentDescription = null,
+                )
+            }
+        }
+
+        if (linkScrollState.canScrollForward) {
+            ElevatedButton(
+                modifier = Modifier.align(Alignment.CenterEnd),
+                shape = CircleShape,
+                onClick = {
+                    coroutineScope.launch {
+                        linkScrollState.animateScrollToItem(linkScrollState.firstVisibleItemIndex + 1)
+                    }
+                },
+            ) {
+                Icon(
+                    imageVector = MaterialIcons.ChevronRight,
+                    contentDescription = null,
+                )
+            }
+        }
     }
 }
 

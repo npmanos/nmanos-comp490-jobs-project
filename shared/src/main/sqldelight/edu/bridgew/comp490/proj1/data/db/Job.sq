@@ -27,15 +27,34 @@ WHERE jobId IN (
     WHERE query = :query
 );
 
-getFilteredJobs:
+getJob:
 SELECT *
 FROM JobDAO
+WHERE jobId = :jobId;
+
+
+getFilteredShortJobs:
+SELECT
+    title,
+    companyName,
+    location,
+    thumbnail,
+    postedAt,
+    jobId
+FROM JobDAO LEFT JOIN (
+    SELECT
+        jobId AS extJobId,
+        value AS postedAt
+    FROM DetectedExtensionDAO
+    WHERE extType = 'posted_at'
+) AS ext ON JobDAO.jobId = ext.extJobId
 WHERE (:keywordFilter = '' OR jobId IN (
     SELECT jobId
     FROM JobFTS
     WHERE JobFTS MATCH :keywordFilter || '*'
 )) AND (:isWFH IS NULL OR isWFH = :isWFH)
-AND (:filterLocation IS FALSE OR location IN :selectedLocations);
+   AND (:filterLocation = FALSE OR location IN :selectedLocations)
+ORDER BY datetime(postedAt) DESC, title;
 
 getLocations:
 SELECT DISTINCT location

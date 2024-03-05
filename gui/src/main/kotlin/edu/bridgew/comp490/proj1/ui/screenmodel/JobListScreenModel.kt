@@ -1,14 +1,15 @@
 package edu.bridgew.comp490.proj1.ui.screenmodel
 
-import androidx.compose.ui.util.fastFirstOrNull
 import cafe.adriel.voyager.core.model.StateScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.data.JobRepository
-import edu.bridgew.comp490.proj1.data.entities.Job
-import edu.bridgew.comp490.proj1.data.entities.PostedAt
-import edu.bridgew.comp490.proj1.relativeTimeString
+import edu.bridgew.comp490.proj1.ui.state.JobDetailLoadState
+import edu.bridgew.comp490.proj1.ui.state.ShortJobDetailLoadState
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import java.io.Serializable
 
 class JobListScreenModel(private val repository: JobRepository) : StateScreenModel<JobListScreenModel.State>(State.Init) {
@@ -23,30 +24,35 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
             private fun readResolve(): Any = Loading
         }
 
-        data class Result(val jobs: List<Job>) : State()
+        data class Result(val jobs: List<ShortJobDAO>) : State()
     }
-
-    private val dateComparator = compareBy<Job> { job ->
-        val postedAt = job.detectedExtensions?.fastFirstOrNull { it is PostedAt } as PostedAt?
-
-        postedAt?.date
-    }.reversed().thenBy { job ->
-        val postedAt = job.detectedExtensions?.fastFirstOrNull { it is PostedAt } as PostedAt?
-
-        postedAt?.date?.relativeTimeString
-    }.thenBy { job -> job.title }
 
     suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean, selectedLocations: Collection<String>?) {
         mutableState.value = State.Loading
 
         val result = screenModelScope.async(Dispatchers.IO) {
-            State.Result(repository.getFilteredJobs(
-                keywordFilter,
-                if (wfhOnly) true else null,
-                selectedLocations?.ifEmpty { null },
-            ).sortedWith(dateComparator))
+            State.Result(
+                repository.getFilteredShortJobs(
+                    keywordFilter,
+                    if (wfhOnly) true else null,
+                    selectedLocations?.ifEmpty { null },
+                )
+            )
         }
 
         mutableState.value = result.await()
+    }
+
+    private val mutableDetailState = MutableStateFlow<JobDetailLoadState>(JobDetailLoadState.None)
+    val detailState = mutableDetailState.asStateFlow()
+
+    suspend fun getFullJob(job: ShortJobDAO) {
+        mutableDetailState.value = ShortJobDetailLoadState.Loading(job)
+
+        val result = screenModelScope.async(Dispatchers.IO) {
+            ShortJobDetailLoadState.Result(repository.getJob(job.jobId))
+        }
+
+        mutableDetailState.value = result.await()
     }
 }

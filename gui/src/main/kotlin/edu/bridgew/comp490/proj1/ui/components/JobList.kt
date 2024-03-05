@@ -32,6 +32,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
@@ -39,7 +40,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
-import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 
 private const val searchBarKey = "edu.bridgew.comp490.proj1.ui.components.JobList:SearchBar"
@@ -47,14 +48,14 @@ private const val searchBarKey = "edu.bridgew.comp490.proj1.ui.components.JobLis
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun JobList(
-    jobs: List<Job>,
+    jobs: List<ShortJobDAO>,
     onSearchFilterTextChange: (String) -> Unit,
     onClearFilterSearchClicked: () -> Unit,
     activeFilterCount: Int = 0,
     onFilterButtonClick: () -> Unit = {},
-    selectedJobId: String,
+    selectedJobId: String?,
     listState: LazyListState = rememberLazyListState(),
-    onSelect: (Job) -> Unit = {},
+    onSelect: (ShortJobDAO) -> Unit = {},
 ) {
     var searchText by remember { mutableStateOf("") }
 
@@ -109,11 +110,13 @@ fun JobList(
                 items = jobs,
                 key = { it.jobId },
             ) { job ->
-                JobListItem(
-                    job = job,
-                    selected = job.jobId == selectedJobId,
-                    onClick = { onSelect(it) },
-                )
+                key(job.jobId) {
+                    JobListItem(
+                        job = job,
+                        selected = job.jobId == selectedJobId,
+                        onClick = { onSelect(job) },
+                    )
+                }
             }
         }
 

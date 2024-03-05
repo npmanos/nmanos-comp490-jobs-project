@@ -11,6 +11,7 @@ import edu.bridgew.comp490.proj1.data.entities.Link
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
@@ -147,6 +148,10 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         }
     }
 
+    fun getJob(jobId: String): Job = queries.getJob(jobId)
+        .executeAsOne()
+        .transformToJob()
+
     fun getJobs(): List<Job> = queries.getAllJobs()
         .executeAsList()
         .map { it.transformToJob() }
@@ -155,18 +160,17 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .executeAsList()
         .map { it.transformToJob() }
 
-    fun getFilteredJobs(
+    fun getFilteredShortJobs(
         keywordFilter: String,
         isWFH: Boolean? = null,
         selectedLocations: Collection<String>? = null
-    ): List<Job> = queries
-        .getFilteredJobs(
-            keywordFilter,
-            isWFH,
-            if (!selectedLocations.isNullOrEmpty()) 1 else 0,
-            selectedLocations ?: listOf()
-        ).executeAsList()
-        .map { it.transformToJob() }
+    ): List<ShortJobDAO> = queries.getFilteredShortJobs(
+        keywordFilter,
+        isWFH,
+        if (!selectedLocations.isNullOrEmpty()) 1 else 0,
+        selectedLocations ?: listOf(),
+        ShortJobDAO::build
+    ).executeAsList()
 
     fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
         .asFlow()

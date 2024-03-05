@@ -80,3 +80,4 @@ operator fun Row.get(columnIndex: Int): Cell? = getCell(columnIndex)
  * @see Row.getCell
  */
 operator fun Sheet.get(rowIndex: Int, columnIndex: Int): Cell? = getRow(rowIndex)?.getCell(columnIndex)
+

@@ -105,8 +105,6 @@ private class FilterStateImpl(
     companion object {
         fun Saver() = listSaver<FilterState, Any>(
             save = {
-                println("selectedLocations canBeSaved: ${canBeSaved(it.selectedLocations)}")
-
                 listOf(
                     it.wfhOnly,
                     it.locationFilterEnabled,

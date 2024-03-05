@@ -23,3 +23,5 @@ data class PostedAt(val date: LocalDateTime) : Extension("posted_at")
 data class Salary(val salaryRange: String) : Extension("salary")
 data class WorkFromHome(val isWFH: Boolean) : Extension("work_from_home")
 data class UnknownExtension(override val extType: String, val value: String) : Extension(extType)
+
+
