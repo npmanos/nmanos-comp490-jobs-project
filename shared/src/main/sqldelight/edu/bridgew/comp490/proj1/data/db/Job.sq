@@ -49,11 +49,17 @@ FROM JobDAO LEFT JOIN (
     WHERE extType = 'posted_at'
 ) AS ext ON JobDAO.jobId = ext.extJobId
 WHERE (:keywordFilter = '' OR jobId IN (
-    SELECT jobId
-    FROM JobFTS
-    WHERE JobFTS MATCH :keywordFilter || '*'
-)) AND (:isWFH IS NULL OR isWFH = :isWFH)
+        SELECT jobId
+        FROM JobFTS
+        WHERE JobFTS MATCH :keywordFilter || '*'
+    ))
+   AND (:isWFH IS NULL OR isWFH = :isWFH)
    AND (:filterLocation = FALSE OR location IN :selectedLocations)
+   AND (:filterSalary = FALSE OR jobId IN (
+        SELECT jobId
+        FROM SalaryDAO
+        WHERE min >= :minimumSalary
+   ))
 ORDER BY datetime(postedAt) DESC, title;
 
 getLocations:

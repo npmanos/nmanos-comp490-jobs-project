@@ -86,3 +86,5 @@ operator fun Sheet.get(rowIndex: Int, columnIndex: Int): Cell? = getRow(rowIndex
 fun List<Double>.foldThousands() = foldIndexed(0.0) { idx, acc, next ->
     next * 10.0.pow((size - idx - 1) * 3) + acc
 }
+
+fun Boolean.toLong(): Long = if (this) 1 else 0

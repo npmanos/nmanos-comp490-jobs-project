@@ -20,6 +20,7 @@ import edu.bridgew.comp490.proj1.executeAsListOrNull
 import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
 import edu.bridgew.comp490.proj1.relativeTimeString
+import edu.bridgew.comp490.proj1.toLong
 import io.nacular.measured.units.div
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -168,13 +169,16 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
     fun getFilteredShortJobs(
         keywordFilter: String,
         isWFH: Boolean? = null,
-        selectedLocations: Collection<String>? = null
+        selectedLocations: Collection<String>? = null,
+        minSalary: Double? = null,
     ): List<ShortJobDAO> = queries.getFilteredShortJobs(
         keywordFilter,
         isWFH,
         if (!selectedLocations.isNullOrEmpty()) 1 else 0,
         selectedLocations ?: listOf(),
-        ShortJobDAO::build
+        (minSalary != null).toLong(),
+        minSalary ?: -1.0,
+        ShortJobDAO::build,
     ).executeAsList()
 
     fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
