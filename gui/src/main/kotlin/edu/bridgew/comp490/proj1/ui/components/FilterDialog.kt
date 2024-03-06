@@ -8,6 +8,8 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.text.KeyboardOptions
+import androidx.compose.material.icons.rounded.AttachMoney
 import androidx.compose.material.icons.rounded.Check
 import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.LocationOn
@@ -22,6 +24,7 @@ import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.InputChip
 import androidx.compose.material3.InputChipDefaults
+import androidx.compose.material3.LocalTextStyle
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
@@ -33,16 +36,22 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import androidx.compose.ui.window.PopupProperties
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
+import edu.bridgew.comp490.proj1.data.Currency.Companion.dollars
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.hour
 import edu.bridgew.comp490.proj1.ui.state.FilterState
 import edu.bridgew.comp490.proj1.ui.state.copy
 import edu.bridgew.comp490.proj1.ui.state.rememberFilterState
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
+import io.nacular.measured.units.div
+import io.nacular.measured.units.times
 
 @OptIn(ExperimentalLayoutApi::class, ExperimentalMaterial3Api::class)
 @Composable
@@ -56,6 +65,8 @@ fun FilterDialog(
     var locationDropdownExpanded by remember { mutableStateOf(false) }
     var locationSearchText by remember { mutableStateOf("") }
     val dropdownOptionsFiltered by remember { derivedStateOf { allLocations.filter { it.contains(locationSearchText, true) } } }
+    var minimumSalaryText by remember { mutableStateOf(localState.minimumSalary?.amount?.toString() ?: "") }
+    var invalidSalaryInput by remember { mutableStateOf(false) }
 
     Dialog(
         onDismissRequest = onDismissRequest,
@@ -83,6 +94,9 @@ fun FilterDialog(
                     locationChips,
                     locationCheckbox,
                     locationDropdown,
+                    salaryCheckbox,
+                    salaryInput,
+                    salaryUnitDropdown,
                 ) = createRefs()
 
                 Text(
@@ -215,6 +229,45 @@ fun FilterDialog(
                     }
                 }
 
+                Checkbox(
+                    checked = localState.salaryFilterEnabled,
+                    onCheckedChange = { localState.salaryFilterEnabled = it },
+                    modifier = Modifier.constrainAs(salaryCheckbox) {
+                        start.linkTo(filterTitle.start)
+                        top.linkTo(salaryInput.top)
+                        bottom.linkTo(salaryInput.bottom)
+                    }
+                )
+
+                TextField(
+                    value = minimumSalaryText,
+                    onValueChange = {
+                        if (it.isBlank()) {
+                            minimumSalaryText = ""
+                            localState.minimumSalary = null
+                        } else {
+                            try {
+                                localState.minimumSalary = it.toDouble() * dollars / hour
+                                minimumSalaryText = it
+                                invalidSalaryInput = false
+                            } catch (e: NumberFormatException) {
+                                invalidSalaryInput = true
+                            }
+                        }
+                    },
+                    enabled = localState.salaryFilterEnabled,
+                    textStyle = LocalTextStyle.current.copy(textAlign = TextAlign.End),
+                    placeholder = { Text("Minimum", textAlign = TextAlign.End) },
+                    leadingIcon = { Icon(MaterialIcons.AttachMoney, null) },
+                    isError = invalidSalaryInput,
+                    keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Decimal),
+                    singleLine = true,
+                    modifier = Modifier.constrainAs(salaryInput) {
+                        start.linkTo(salaryCheckbox.end, 4.dp)
+                        top.linkTo(locationChips.bottom, 8.dp)
+                    }
+                )
+
                 TextButton(
                     onClick = localState::reset,
                     enabled = !localState.isDefault,
@@ -251,6 +304,8 @@ fun FilterDialog(
                         state.locationFilterEnabled = localState.locationFilterEnabled
                         state.selectedLocations.clear()
                         state.selectedLocations.addAll(localState.selectedLocations)
+                        state.salaryFilterEnabled = localState.salaryFilterEnabled
+                        state.minimumSalary = localState.minimumSalary
 
                         onApplyRequest()
                     },

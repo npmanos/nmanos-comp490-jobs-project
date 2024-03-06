@@ -21,6 +21,7 @@ import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
 import edu.bridgew.comp490.proj1.relativeTimeString
 import edu.bridgew.comp490.proj1.toLong
+import io.nacular.measured.units.Measure
 import io.nacular.measured.units.div
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -172,14 +173,14 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         locationFilterEnabled: Boolean = false,
         selectedLocations: Collection<String>? = null,
         salaryFilterEnabled: Boolean = false,
-        minSalary: Double? = null,
+        minSalary: Measure<Wage>? = null,
     ): List<ShortJobDAO> = queries.getFilteredShortJobs(
         keywordFilter,
         isWFH,
         locationFilterEnabled.toLong(),
         selectedLocations ?: listOf(),
         salaryFilterEnabled.toLong(),
-        minSalary ?: -1.0,
+        minSalary?.`in`(dollars / hour) ?: -1.0,
         ShortJobDAO::build,
     ).executeAsList()
 

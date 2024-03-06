@@ -9,6 +9,8 @@ import androidx.compose.runtime.saveable.listSaver
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.toMutableStateList
+import edu.bridgew.comp490.proj1.data.Wage
+import io.nacular.measured.units.Measure
 
 @Composable
 fun rememberFilterState(
@@ -16,7 +18,7 @@ fun rememberFilterState(
     locationFilterEnabled: Boolean = false,
     selectedLocations: MutableList<String> = mutableStateListOf(),
     salaryFilterEnabled: Boolean = false,
-    minimumSalary: Double? = null,
+    minimumSalary: Measure<Wage>? = null,
 ): FilterState = rememberSaveable(saver = FilterStateImpl.Saver()) {
     FilterStateImpl(
         wfhOnly,
@@ -33,7 +35,7 @@ fun FilterState.copy(
     locationFilterEnabled: Boolean = this.locationFilterEnabled,
     selectedLocations: MutableList<String> = this.selectedLocations.toMutableStateList(),
     salaryFilterEnabled: Boolean = this.salaryFilterEnabled,
-    minimumSalary: Double? = this.minimumSalary,
+    minimumSalary: Measure<Wage>? = this.minimumSalary,
 ) = rememberFilterState(wfhOnly, locationFilterEnabled, selectedLocations, salaryFilterEnabled, minimumSalary)
 
 fun FilterState.copyFrom(other: FilterState) {
@@ -53,7 +55,7 @@ interface FilterState {
     operator fun component3() = selectedLocations
 
     var salaryFilterEnabled: Boolean
-    var minimumSalary: Double?
+    var minimumSalary: Measure<Wage>?
     operator fun component4() = salaryFilterEnabled
     operator fun component5() = minimumSalary
 
@@ -68,7 +70,7 @@ private class FilterStateImpl(
     locationFilterEnabled: Boolean,
     selectedLocations: MutableList<String>,
     salaryFilterEnabled: Boolean,
-    minimumSalary: Double?,
+    minimumSalary: Measure<Wage>?,
 ) : FilterState {
     override var wfhOnly: Boolean by mutableStateOf(wfhOnly)
 
@@ -81,7 +83,7 @@ private class FilterStateImpl(
     }
 
     override var salaryFilterEnabled: Boolean by mutableStateOf(salaryFilterEnabled)
-    override var minimumSalary: Double? by mutableStateOf(minimumSalary)
+    override var minimumSalary: Measure<Wage>? by mutableStateOf(minimumSalary)
 
     override val isDefault: Boolean
         get() = !wfhOnly
@@ -145,7 +147,7 @@ private class FilterStateImpl(
                     locationFilterEnabled = state[1] as Boolean,
                     selectedLocations = state[2] as MutableList<String>,
                     salaryFilterEnabled = state[3] as Boolean,
-                    minimumSalary = state[4] as Double?,
+                    minimumSalary = state[4] as Measure<Wage>?,
                 )
             }
         )
