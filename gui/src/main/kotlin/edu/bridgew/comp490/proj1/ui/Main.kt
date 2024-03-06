@@ -95,7 +95,7 @@ fun main() = application {
             }
 
             if (dbPath != null) {
-                BsuTheme { App(dbPath!!) }
+                BsuTheme(darkTheme = true) { App(dbPath!!) }
             }
         }
     }
