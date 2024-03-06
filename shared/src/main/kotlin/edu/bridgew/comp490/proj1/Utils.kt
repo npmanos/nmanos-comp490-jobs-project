@@ -7,6 +7,7 @@ import org.apache.poi.ss.usermodel.Sheet
 import org.apache.poi.ss.usermodel.Workbook
 import org.ocpsoft.prettytime.PrettyTime
 import java.time.LocalDateTime
+import kotlin.math.pow
 
 /**
  * Relative time string representation of this LocalDateTime object.
@@ -81,3 +82,7 @@ operator fun Row.get(columnIndex: Int): Cell? = getCell(columnIndex)
  */
 operator fun Sheet.get(rowIndex: Int, columnIndex: Int): Cell? = getRow(rowIndex)?.getCell(columnIndex)
 
+
+fun List<Double>.foldThousands() = foldIndexed(0.0) { idx, acc, next ->
+    next * 10.0.pow((size - idx - 1) * 3) + acc
+}

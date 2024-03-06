@@ -346,7 +346,7 @@ private fun JobExtensions(extensions: List<Extension>, modifier: Modifier = Modi
         )
 
         Text(
-            text = salaryExt.salaryRange,
+            text = salaryExt.originalJson,
             style = style,
             color = color,
             modifier = Modifier.constrainAs(salary) {

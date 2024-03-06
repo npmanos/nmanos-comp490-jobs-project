@@ -98,6 +98,16 @@ insertExtension:
 INSERT OR IGNORE INTO OtherExtensionDAO(value, jobId)
 VALUES (?, ?);
 
+-- SALARY --
+getSalary:
+SELECT min, max, unit, originalJson
+FROM SalaryDAO
+WHERE jobId = :jobId;
+
+insertSalary:
+INSERT INTO SalaryDAO(min, max, unit, originalJson, jobId)
+VALUES (?, ?, ?, ?, ?);
+
 -- JOB HIGHLIGHTS --
 getHighlights:
 SELECT title, item

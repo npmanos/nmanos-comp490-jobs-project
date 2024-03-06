@@ -1,11 +1,13 @@
 package edu.bridgew.comp490.proj1.data
 
+import app.cash.sqldelight.EnumColumnAdapter
 import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.adapter
 import com.squareup.moshi.addAdapter
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
+import edu.bridgew.comp490.proj1.data.db.SalaryDAO
 import edu.bridgew.comp490.proj1.data.entities.Extension
 import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.JobSearchResult
@@ -77,7 +79,7 @@ class JobRepositoryTest {
             JobSearchDB.Schema,
         )
 
-        db = JobSearchDB(driver)
+        db = JobSearchDB(driver, SalaryDAO.Adapter(EnumColumnAdapter()))
 
         jobRepository = JobRepository(apiService, db)
     }
@@ -135,8 +137,8 @@ class JobRepositoryTest {
     @ParameterizedTest
     @MethodSource("getExcelTestData")
     fun `verify saveJobsFromExcel correctly stores records in the database`(
-        minSalary: String,
-        maxSalary: String,
+        minSalary: Double,
+        maxSalary: Double,
         typeOfSalary: String?,
         jobTitle: String,
         nameOfCompany: String,
@@ -154,8 +156,9 @@ class JobRepositoryTest {
         }
 
         if (salaryRange != null) {
-            testExtensions.add(salaryRange)
-            testDetectedExtensions.add(Salary(salaryRange))
+            val salary = Salary.parse(salaryRange)
+            testExtensions.add(salary.originalJson)
+            testDetectedExtensions.add(salary)
         }
 
         val testJob = Job(
@@ -198,7 +201,8 @@ class JobRepositoryTest {
         assertEquals(testExtensions.size, extensionsInDb.size)
         assertContentEquals(testExtensions, extensionsInDb)
 
-        val detectedExtensionsInDb = db.jobQueries.getDetectedExtensions(testJob.jobId, Extension::getById).executeAsList()
+        val detectedExtensionsInDb = db.jobQueries.getDetectedExtensions(testJob.jobId, Extension::getById).executeAsList() +
+            db.jobQueries.getSalary(testJob.jobId) { min, max, unit, originalJson -> Salary(min.hourly() `as` unit.unit, max.hourly() `as` unit.unit, unit, originalJson) }.executeAsList()
         assertEquals(testDetectedExtensions.size, detectedExtensionsInDb.size)
         assertContentEquals(testDetectedExtensions, detectedExtensionsInDb)
     }
@@ -262,63 +266,63 @@ class JobRepositoryTest {
         @JvmStatic
         val excelTestData = Stream.of(
             arguments(
-                "15",
-                "-25",
+                15.0,
+                25.0,
                 "hourly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 LocalDateTime.now(),
-                "15-25 an hour",
+                "15.0-25.0 an hour",
                 "Test JobId",
             ),
             arguments(
-                "600",
-                "-900",
+                600,
+                900,
                 "weekly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 LocalDateTime.now(),
-                "600-900 a week",
+                "600.0-900.0 a week",
                 "Test JobId",
             ),
             arguments(
-                "2400",
-                "-3600",
+                2400,
+                3600,
                 "monthly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 LocalDateTime.now(),
-                "2400-3600 a month",
+                "2400.0-3600.0 a month",
                 "Test JobId",
             ),
             arguments(
-                "90000",
-                "-135000",
+                90000,
+                135000,
                 "yearly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 LocalDateTime.now(),
-                "90000-135000 a year",
+                "90000.0-135000.0 a year",
                 "Test JobId",
             ),
             arguments(
-                "2400",
-                "",
+                2400,
+                -1.0,
                 "monthly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 LocalDateTime.now(),
-                "2400 a month",
+                "2400.0 a month",
                 "Test JobId",
             ),
             arguments(
-                "0",
-                "0",
+                -1.0,
+                -1.0,
                 "N/A",
                 "Software Engineer",
                 "Test Company",
@@ -328,25 +332,25 @@ class JobRepositoryTest {
                 "Test JobId",
             ),
             arguments(
-                "90000",
-                "-135000",
+                90000,
+                135000,
                 "yearly",
                 "Software Engineer",
                 "Test Company",
                 null,
                 LocalDateTime.now(),
-                "90000-135000 a year",
+                "90000.0-135000.0 a year",
                 "Test JobId",
             ),
             arguments(
-                "90000",
-                "-135000",
+                90000,
+                135000,
                 "yearly",
                 "Software Engineer",
                 "Test Company",
                 "Test Location",
                 null,
-                "90000-135000 a year",
+                "90000.0-135000.0 a year",
                 "Test JobId",
             ),
         )

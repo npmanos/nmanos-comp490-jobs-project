@@ -1,5 +1,6 @@
 package edu.bridgew.comp490.proj1.cli
 
+import app.cash.sqldelight.EnumColumnAdapter
 import app.cash.sqldelight.Query
 import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.github.ajalt.clikt.core.CliktCommand
@@ -16,6 +17,7 @@ import edu.bridgew.comp490.proj1.data.GoogleJobSearchServiceImpl
 import edu.bridgew.comp490.proj1.data.JobRepository
 import edu.bridgew.comp490.proj1.data.SerpApiClient
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
+import edu.bridgew.comp490.proj1.data.db.SalaryDAO
 import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.io.JobsFileWriter
 import io.github.cdimascio.dotenv.dotenv
@@ -97,9 +99,9 @@ class JobSearch : CliktCommand(
 
         JobSearchDB.Schema.create(driver)
         val currentSchemaVersion = Query(788_663, driver, "PRAGMA USER_VERSION") { cursor -> cursor.getLong(0)!! }.executeAsOne()
-        JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 2)
+        JobSearchDB.Schema.migrate(driver, currentSchemaVersion, 4)
 
-        val db = JobSearchDB(driver)
+        val db = JobSearchDB(driver, SalaryDAO.Adapter(EnumColumnAdapter()))
 
         val writer = JobsFileWriter(output)
         val retrofit = SerpApiClient(dotenv["JOBSPROJ_API_KEY"]).retrofit

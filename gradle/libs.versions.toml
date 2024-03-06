@@ -40,6 +40,8 @@ test-koin = { module = "io.insert-koin:koin-test", version.ref = "koin" }
 
 test-kotlin = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 
+kotlinspirit-core = { module = "com.github.tiksem:KotlinSpirit", version = "1.1.7" }
+
 landscapist-coil3 = { module = "com.github.skydoves:landscapist-coil3", version.ref = "landscapist" }
 landscapist-placeholder = { module = "com.github.skydoves:landscapist-placeholder", version.ref = "landscapist" }
 

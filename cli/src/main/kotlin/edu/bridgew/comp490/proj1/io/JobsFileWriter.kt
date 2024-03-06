@@ -72,7 +72,7 @@ class JobsFileWriter(path: Path) : AutoCloseable, Flushable {
         // Salary
         if (salary != null) {
             buffer.writeUtf8("Salary: ")
-            buffer.writeLnUtf8(salary!!.salaryRange)
+            buffer.writeLnUtf8(salary!!.originalJson)
         }
 
         // Posted at

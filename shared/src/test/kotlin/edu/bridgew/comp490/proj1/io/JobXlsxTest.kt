@@ -53,8 +53,8 @@ class JobXlsxTest {
                 readPostedAt = true
             }
 
-            if (it.salaryMax.isNotEmpty()) readSalaryMax = true
-            if (it.salaryMin.isNotEmpty()) readSalaryMin = true
+            if (it.salaryMax >= -1.0) readSalaryMax = true
+            if (it.salaryMin >= -1.0) readSalaryMin = true
 
             if (it.salaryType != null) {
                 assertContains(listOf("N/A", "hourly", "weekly", "monthly", "yearly"), it.salaryType)
