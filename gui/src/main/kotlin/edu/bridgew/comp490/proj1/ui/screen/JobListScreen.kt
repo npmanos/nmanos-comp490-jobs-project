@@ -113,8 +113,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
             ) {
                 screenModel.getJobs(
                     searchFilterText,
-                    filterState.wfhOnly,
-                    filterState.selectedLocations,
+                    filterState
                 )
             }
 

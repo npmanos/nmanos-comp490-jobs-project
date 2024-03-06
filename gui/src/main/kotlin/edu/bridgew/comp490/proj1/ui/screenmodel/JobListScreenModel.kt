@@ -2,8 +2,9 @@ package edu.bridgew.comp490.proj1.ui.screenmodel
 
 import cafe.adriel.voyager.core.model.StateScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
-import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.data.JobRepository
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
+import edu.bridgew.comp490.proj1.ui.state.FilterState
 import edu.bridgew.comp490.proj1.ui.state.JobDetailLoadState
 import edu.bridgew.comp490.proj1.ui.state.ShortJobDetailLoadState
 import kotlinx.coroutines.Dispatchers
@@ -27,15 +28,21 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
         data class Result(val jobs: List<ShortJobDAO>) : State()
     }
 
-    suspend fun getJobs(keywordFilter: String, wfhOnly: Boolean, selectedLocations: Collection<String>?) {
+    suspend fun getJobs(
+        keywordFilter: String,
+        filterState: FilterState,
+    ) {
         mutableState.value = State.Loading
 
         val result = screenModelScope.async(Dispatchers.IO) {
             State.Result(
                 repository.getFilteredShortJobs(
                     keywordFilter,
-                    if (wfhOnly) true else null,
-                    selectedLocations?.ifEmpty { null },
+                    if (filterState.wfhOnly) true else null,
+                    filterState.locationFilterEnabled,
+                    filterState.selectedLocations,
+                    filterState.salaryFilterEnabled,
+                    filterState.minimumSalary,
                 )
             )
         }

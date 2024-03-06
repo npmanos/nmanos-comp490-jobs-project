@@ -169,14 +169,16 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
     fun getFilteredShortJobs(
         keywordFilter: String,
         isWFH: Boolean? = null,
+        locationFilterEnabled: Boolean = false,
         selectedLocations: Collection<String>? = null,
+        salaryFilterEnabled: Boolean = false,
         minSalary: Double? = null,
     ): List<ShortJobDAO> = queries.getFilteredShortJobs(
         keywordFilter,
         isWFH,
-        if (!selectedLocations.isNullOrEmpty()) 1 else 0,
+        locationFilterEnabled.toLong(),
         selectedLocations ?: listOf(),
-        (minSalary != null).toLong(),
+        salaryFilterEnabled.toLong(),
         minSalary ?: -1.0,
         ShortJobDAO::build,
     ).executeAsList()

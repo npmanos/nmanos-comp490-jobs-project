@@ -14,12 +14,16 @@ import androidx.compose.runtime.toMutableStateList
 fun rememberFilterState(
     wfhOnly: Boolean = false,
     locationFilterEnabled: Boolean = false,
-    selectedLocations: MutableList<String> = mutableStateListOf()
+    selectedLocations: MutableList<String> = mutableStateListOf(),
+    salaryFilterEnabled: Boolean = false,
+    minimumSalary: Double? = null,
 ): FilterState = rememberSaveable(saver = FilterStateImpl.Saver()) {
     FilterStateImpl(
         wfhOnly,
         locationFilterEnabled,
-        selectedLocations
+        selectedLocations,
+        salaryFilterEnabled,
+        minimumSalary,
     )
 }
 
@@ -28,7 +32,9 @@ fun FilterState.copy(
     wfhOnly: Boolean = this.wfhOnly,
     locationFilterEnabled: Boolean = this.locationFilterEnabled,
     selectedLocations: MutableList<String> = this.selectedLocations.toMutableStateList(),
-) = rememberFilterState(wfhOnly, locationFilterEnabled, selectedLocations)
+    salaryFilterEnabled: Boolean = this.salaryFilterEnabled,
+    minimumSalary: Double? = this.minimumSalary,
+) = rememberFilterState(wfhOnly, locationFilterEnabled, selectedLocations, salaryFilterEnabled, minimumSalary)
 
 fun FilterState.copyFrom(other: FilterState) {
     wfhOnly = other.wfhOnly
@@ -46,6 +52,11 @@ interface FilterState {
     operator fun component2() = locationFilterEnabled
     operator fun component3() = selectedLocations
 
+    var salaryFilterEnabled: Boolean
+    var minimumSalary: Double?
+    operator fun component4() = salaryFilterEnabled
+    operator fun component5() = minimumSalary
+
     val activeFilterCount: Int
     val isDefault: Boolean
 
@@ -55,7 +66,9 @@ interface FilterState {
 private class FilterStateImpl(
     wfhOnly: Boolean,
     locationFilterEnabled: Boolean,
-    selectedLocations: MutableList<String>
+    selectedLocations: MutableList<String>,
+    salaryFilterEnabled: Boolean,
+    minimumSalary: Double?,
 ) : FilterState {
     override var wfhOnly: Boolean by mutableStateOf(wfhOnly)
 
@@ -67,15 +80,26 @@ private class FilterStateImpl(
         (if (locationFilterEnabled) 1 else 0)
     }
 
+    override var salaryFilterEnabled: Boolean by mutableStateOf(salaryFilterEnabled)
+    override var minimumSalary: Double? by mutableStateOf(minimumSalary)
+
     override val isDefault: Boolean
         get() = !wfhOnly
             && !locationFilterEnabled
             && selectedLocations.isEmpty()
+            && !salaryFilterEnabled
+            && minimumSalary == null
 
     override fun reset() {
         wfhOnly = false
         locationFilterEnabled = false
         selectedLocations.clear()
+        salaryFilterEnabled = false
+        minimumSalary = null
+    }
+
+    override fun toString(): String {
+        return "FilterStateImpl(wfhOnly=$wfhOnly, locationFilterEnabled=$locationFilterEnabled, selectedLocations=$selectedLocations)"
     }
 
     override fun equals(other: Any?): Boolean {
@@ -87,6 +111,8 @@ private class FilterStateImpl(
         if (wfhOnly != other.wfhOnly) return false
         if (locationFilterEnabled != other.locationFilterEnabled) return false
         if (selectedLocations.toList() != other.selectedLocations.toList()) return false
+        if (salaryFilterEnabled != other.salaryFilterEnabled) return false
+        if (minimumSalary != other.minimumSalary) return false
 
         return true
     }
@@ -95,20 +121,22 @@ private class FilterStateImpl(
         var result = wfhOnly.hashCode()
         result = 31 * result + locationFilterEnabled.hashCode()
         result = 31 * result + selectedLocations.toList().hashCode()
+        result = 31 * result + activeFilterCount
+        result = 31 * result + salaryFilterEnabled.hashCode()
+        result = 31 * result + minimumSalary.hashCode()
         return result
     }
 
-    override fun toString(): String {
-        return "FilterStateImpl(wfhOnly=$wfhOnly, locationFilterEnabled=$locationFilterEnabled, selectedLocations=$selectedLocations)"
-    }
-
+    @Suppress("UNCHECKED_CAST")
     companion object {
-        fun Saver() = listSaver<FilterState, Any>(
+        fun Saver() = listSaver<FilterState, Any?>(
             save = {
                 listOf(
                     it.wfhOnly,
                     it.locationFilterEnabled,
-                    it.selectedLocations
+                    it.selectedLocations,
+                    it.salaryFilterEnabled,
+                    it.minimumSalary,
                 )
             },
             restore = { state ->
@@ -116,6 +144,8 @@ private class FilterStateImpl(
                     wfhOnly = state[0] as Boolean,
                     locationFilterEnabled = state[1] as Boolean,
                     selectedLocations = state[2] as MutableList<String>,
+                    salaryFilterEnabled = state[3] as Boolean,
+                    minimumSalary = state[4] as Double?,
                 )
             }
         )
