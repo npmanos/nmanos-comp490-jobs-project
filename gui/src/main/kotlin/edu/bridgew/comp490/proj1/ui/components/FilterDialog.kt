@@ -27,6 +27,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -54,7 +55,7 @@ fun FilterDialog(
     val localState = state.copy()
     var locationDropdownExpanded by remember { mutableStateOf(false) }
     var locationSearchText by remember { mutableStateOf("") }
-    val dropdownOptionsFiltered = allLocations.filter { it.contains(locationSearchText, true) }
+    val dropdownOptionsFiltered by remember { derivedStateOf { allLocations.filter { it.contains(locationSearchText, true) } } }
 
     Dialog(
         onDismissRequest = onDismissRequest,
@@ -115,14 +116,13 @@ fun FilterDialog(
 
                 FlowRow(
                     horizontalArrangement = Arrangement.spacedBy(4.dp),
-                    verticalArrangement = Arrangement.spacedBy(1.dp),
                     modifier = Modifier.constrainAs(locationChips) {
                         start.linkTo(locationDropdown.start)
                         end.linkTo(parent.end, 16.dp)
                         horizontalBias = 0f
                         width = Dimension.fillToConstraints
 
-                        top.linkTo(wfhCheckbox.bottom, 8.dp)
+                        top.linkTo(locationDropdown.bottom, 4.dp)
                     }
                 ) {
                     localState.selectedLocations.forEach { location ->
@@ -146,7 +146,8 @@ fun FilterDialog(
                                     null,
                                     Modifier.size(InputChipDefaults.IconSize)
                                 )
-                            }
+                            },
+                            modifier = Modifier.padding(2.dp)
                         )
                     }
                 }
@@ -156,7 +157,7 @@ fun FilterDialog(
                     onCheckedChange = { localState.locationFilterEnabled = it },
                     modifier = Modifier.constrainAs(locationCheckbox) {
                         start.linkTo(filterTitle.start)
-                        top.linkTo(locationChips.top)
+                        top.linkTo(locationDropdown.top)
                         bottom.linkTo(locationDropdown.bottom)
                     }
                 )
@@ -166,7 +167,7 @@ fun FilterDialog(
                     onExpandedChange = { locationDropdownExpanded = it },
                     modifier = Modifier.constrainAs(locationDropdown) {
                         start.linkTo(locationCheckbox.end, 4.dp)
-                        top.linkTo(locationChips.bottom, 4.dp)
+                        top.linkTo(wfhCheckbox.bottom, 8.dp)
                     }
                 ) {
                     TextField(
@@ -196,10 +197,11 @@ fun FilterDialog(
                                     onClick = {
                                         if (locationOption !in localState.selectedLocations) {
                                             localState.selectedLocations.add(locationOption)
-                                            localState.selectedLocations.sort()
+                                            localState.selectedLocations.sortBy { it.trim() }
                                         } else {
                                             localState.selectedLocations.remove(locationOption)
                                         }
+                                        locationDropdownExpanded = false
                                     },
                                     trailingIcon = {
                                         if (locationOption in localState.selectedLocations) {
