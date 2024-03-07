@@ -32,6 +32,7 @@ import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
@@ -42,18 +43,20 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import androidx.compose.ui.window.PopupProperties
+import androidx.constraintlayout.compose.ChainStyle
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
-import edu.bridgew.comp490.proj1.data.Currency.Companion.dollars
-import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.hour
 import edu.bridgew.comp490.proj1.ui.state.FilterState
 import edu.bridgew.comp490.proj1.ui.state.copy
 import edu.bridgew.comp490.proj1.ui.state.rememberFilterState
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
-import io.nacular.measured.units.div
 import io.nacular.measured.units.times
+import nmanos_jobs_project.gui.generated.resources.Res
+import nmanos_jobs_project.gui.generated.resources.slash_forward
+import org.jetbrains.compose.resources.ExperimentalResourceApi
+import org.jetbrains.compose.resources.painterResource
 
-@OptIn(ExperimentalLayoutApi::class, ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalLayoutApi::class, ExperimentalMaterial3Api::class, ExperimentalResourceApi::class)
 @Composable
 fun FilterDialog(
     onApplyRequest: () -> Unit,
@@ -67,6 +70,8 @@ fun FilterDialog(
     val dropdownOptionsFiltered by remember { derivedStateOf { allLocations.filter { it.contains(locationSearchText, true) } } }
     var minimumSalaryText by remember { mutableStateOf(localState.minimumSalary?.amount?.toString() ?: "") }
     var invalidSalaryInput by remember { mutableStateOf(false) }
+    var salaryUnitDropdownExpanded by remember { mutableStateOf(false) }
+    val selectedSalaryUnit by remember(localState.selectedSalaryUnitStr) { derivedStateOf { FilterState.salaryUnitMap[localState.selectedSalaryUnitStr]!!.unit } }
 
     Dialog(
         onDismissRequest = onDismissRequest,
@@ -98,6 +103,7 @@ fun FilterDialog(
                     salaryInput,
                     salaryUnitDropdown,
                 ) = createRefs()
+                val salaryInputChain = createHorizontalChain(salaryInput, salaryUnitDropdown, chainStyle = ChainStyle.SpreadInside)
 
                 Text(
                     "Filters",
@@ -206,24 +212,26 @@ fun FilterDialog(
                             modifier = Modifier.exposedDropdownSize(true)
                         ) {
                             dropdownOptionsFiltered.forEach { locationOption ->
-                                DropdownMenuItem(
-                                    text = { Text(locationOption.trim()) },
-                                    onClick = {
-                                        if (locationOption !in localState.selectedLocations) {
-                                            localState.selectedLocations.add(locationOption)
-                                            localState.selectedLocations.sortBy { it.trim() }
-                                        } else {
-                                            localState.selectedLocations.remove(locationOption)
-                                        }
-                                        locationDropdownExpanded = false
-                                    },
-                                    trailingIcon = {
-                                        if (locationOption in localState.selectedLocations) {
-                                            Icon(MaterialIcons.Check, null)
-                                        }
-                                    },
-                                    contentPadding = ExposedDropdownMenuDefaults.ItemContentPadding,
-                                )
+                                key(locationOption) {
+                                    DropdownMenuItem(
+                                        text = { Text(locationOption.trim()) },
+                                        onClick = {
+                                            if (locationOption !in localState.selectedLocations) {
+                                                localState.selectedLocations.add(locationOption)
+                                                localState.selectedLocations.sortBy { it.trim() }
+                                            } else {
+                                                localState.selectedLocations.remove(locationOption)
+                                            }
+                                            locationDropdownExpanded = false
+                                        },
+                                        trailingIcon = {
+                                            if (locationOption in localState.selectedLocations) {
+                                                Icon(MaterialIcons.Check, null)
+                                            }
+                                        },
+                                        contentPadding = ExposedDropdownMenuDefaults.ItemContentPadding,
+                                    )
+                                }
                             }
                         }
                     }
@@ -239,6 +247,11 @@ fun FilterDialog(
                     }
                 )
 
+                constrain(salaryInputChain) {
+                    start.linkTo(salaryCheckbox.end, 4.dp)
+                    end.linkTo(parent.end, 128.dp)
+                }
+
                 TextField(
                     value = minimumSalaryText,
                     onValueChange = {
@@ -247,7 +260,7 @@ fun FilterDialog(
                             localState.minimumSalary = null
                         } else {
                             try {
-                                localState.minimumSalary = it.toDouble() * dollars / hour
+                                localState.minimumSalary = it.toDouble() * selectedSalaryUnit
                                 minimumSalaryText = it
                                 invalidSalaryInput = false
                             } catch (e: NumberFormatException) {
@@ -257,16 +270,65 @@ fun FilterDialog(
                     },
                     enabled = localState.salaryFilterEnabled,
                     textStyle = LocalTextStyle.current.copy(textAlign = TextAlign.End),
-                    placeholder = { Text("Minimum", textAlign = TextAlign.End) },
                     leadingIcon = { Icon(MaterialIcons.AttachMoney, null) },
                     isError = invalidSalaryInput,
                     keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Decimal),
                     singleLine = true,
                     modifier = Modifier.constrainAs(salaryInput) {
-                        start.linkTo(salaryCheckbox.end, 4.dp)
                         top.linkTo(locationChips.bottom, 8.dp)
+                        width = Dimension.fillToConstraints
+                        horizontalChainWeight = 0.55f
                     }
                 )
+
+                ExposedDropdownMenuBox(
+                    expanded = salaryUnitDropdownExpanded && localState.salaryFilterEnabled,
+                    onExpandedChange = { salaryUnitDropdownExpanded = it },
+                    modifier = Modifier.constrainAs(salaryUnitDropdown) {
+                        top.linkTo(salaryInput.top)
+                        bottom.linkTo(salaryInput.bottom)
+                        width = Dimension.fillToConstraints
+                        horizontalChainWeight = 0.45f
+                    }
+                ) {
+                    TextField(
+                        modifier = Modifier.menuAnchor(),
+                        onValueChange = {},
+                        value = localState.selectedSalaryUnitStr,
+                        readOnly = true,
+                        enabled = localState.salaryFilterEnabled,
+                        leadingIcon = { Icon(painterResource(Res.drawable.slash_forward), null) },
+                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(salaryUnitDropdownExpanded && localState.salaryFilterEnabled) },
+                        singleLine = true,
+                        colors = ExposedDropdownMenuDefaults.textFieldColors(),
+                    )
+
+                    DropdownMenu(
+                        expanded = salaryUnitDropdownExpanded && localState.salaryFilterEnabled,
+                        onDismissRequest = { salaryUnitDropdownExpanded = false },
+                        modifier = Modifier.exposedDropdownSize()
+                    ) {
+                        FilterState.salaryUnitOptionsList.forEach { unit ->
+                            key(unit) {
+                                DropdownMenuItem(
+                                    text = { Text(unit) },
+                                    onClick = {
+                                        localState.selectedSalaryUnitStr = unit
+                                        if (minimumSalaryText.isNotBlank()) {
+                                            localState.minimumSalary = minimumSalaryText.toDouble() * selectedSalaryUnit
+                                        }
+                                        salaryUnitDropdownExpanded = false
+                                    },
+                                    trailingIcon = {
+                                        if (localState.selectedSalaryUnitStr == unit) {
+                                            Icon(MaterialIcons.Check, null)
+                                        }
+                                    }
+                                )
+                            }
+                        }
+                    }
+                }
 
                 TextButton(
                     onClick = localState::reset,
@@ -306,6 +368,7 @@ fun FilterDialog(
                         state.selectedLocations.addAll(localState.selectedLocations)
                         state.salaryFilterEnabled = localState.salaryFilterEnabled
                         state.minimumSalary = localState.minimumSalary
+                        state.selectedSalaryUnitStr = localState.selectedSalaryUnitStr
 
                         onApplyRequest()
                     },
