@@ -119,7 +119,7 @@ class JobRepositoryTest {
         var jobs = 0
 
         val coRo = launch {
-            jobRepository.searchAndGetJobs("software engineer")
+            jobRepository.searchAndGetJobs("UNIT_TEST")
                 .collect {
                     assertContains(testData, it)
 
@@ -190,7 +190,7 @@ class JobRepositoryTest {
             }
         }
 
-        jobRepository.saveJobsFromExcel("software engineer", xlsx)
+        jobRepository.saveJobsFromExcel("UNIT_TEST", xlsx)
 
         val jobsInDb = db.jobQueries.getAllJobs().executeAsList()
         assertEquals(testJobs.size, jobsInDb.size)
@@ -207,6 +207,40 @@ class JobRepositoryTest {
             db.jobQueries.getSalary(testJob.jobId) { min, max, unit, originalJson -> Salary(min.hourly() `as` unit.unit, max.hourly() `as` unit.unit, unit, originalJson) }.executeAsList()
         assertEquals(testDetectedExtensions.size, detectedExtensionsInDb.size)
         assertContentEquals(testDetectedExtensions, detectedExtensionsInDb)
+    }
+
+    @ParameterizedTest(name = "{0}")
+    @ArgumentsSource(JobTestDataProvider::class)
+    fun `test text search filter`(testJobSearchResult: JobSearchResult) {
+        val testData = testJobSearchResult.jobsResults!!
+
+        testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
+
+        val expectedJava = testData
+            .filter { it.title.lowercase().contains("java") || it.description?.lowercase()?.contains("java") ?: false }
+        val actualJava = jobRepository.getFilteredShortJobs("java")
+        assertEquals(expectedJava.size, actualJava.size, "Different number of java results")
+        val actualJavaIds = actualJava.map { it.jobId }
+        expectedJava.forEach { assertContains(actualJavaIds, it.jobId, "Missing java job ID") }
+
+        val expectedPython = testData
+            .filter { it.title.lowercase().contains("python") || it.description?.lowercase()?.contains("python") ?: false }
+        val actualPython = jobRepository.getFilteredShortJobs("python")
+        assertEquals(expectedPython.size, actualPython.size, "Different number of python results")
+        val actualPythonIds = actualPython.map { it.jobId }
+        expectedPython.forEach { assertContains(actualPythonIds, it.jobId, "Missing python job ID") }
+
+        val expectedFooBar = testData
+            .filter { it.title.lowercase().contains("foo bar") || it.description?.lowercase()?.contains("foo bar") ?: false }
+        val actualFooBar = jobRepository.getFilteredShortJobs("foo bar")
+        assertEquals(expectedFooBar.size, actualFooBar.size, "Different number of foo bar results")
+        val actualFooBarIds = actualFooBar.map { it.jobId }
+        expectedFooBar.forEach { assertContains(actualFooBarIds, it.jobId, "Missing foo bar job ID") }
+
+        val actualFull = jobRepository.getFilteredShortJobs("")
+        assertEquals(testData.size, actualFull.size, "Different number of unfiltered results")
+        val actualFullIds = actualFull.map { it.jobId }
+        testData.forEach { assertContains(actualFullIds, it.jobId, "Missing unfiltered job ID") }
     }
 
     companion object {
@@ -388,7 +422,6 @@ class JobRepositoryTest {
     private class JobTestDataProvider : ArgumentsProvider {
         private val jsonTestData: MutableList<Path> = Path(dotenv["JOBSPROJ_TEST_DIR"])
             .listDirectoryEntries("*.json")
-//            .listDirectoryEntries("healthcare_recruiter_nh-20240131000808-0.json")
             .toMutableList()
 
         override fun provideArguments(context: ExtensionContext?): Stream<out Arguments> {

@@ -120,7 +120,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         }
     }
 
-    private fun upsertJob(query: String, job: Job) {
+    internal fun upsertJob(query: String, job: Job) {
         queries.transaction {
             val isWFH: Boolean? = (job.detectedExtensions?.firstOrNull { it is WorkFromHome } as WorkFromHome?)?.isWFH
             queries.insertJob(
