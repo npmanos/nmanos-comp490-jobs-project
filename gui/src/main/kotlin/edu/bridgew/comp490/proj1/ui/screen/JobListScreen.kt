@@ -73,12 +73,13 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     activeFilterCount = filterState.activeFilterCount,
                     onFilterButtonClick = {
                         showFilterDialog = true
-                    }
+                    },
                 )
 
                 when (jobListState) {
                     is JobListScreenModel.State.Init,
-                    is JobListScreenModel.State.Loading -> FilledCircularProgressIndicator()
+                    is JobListScreenModel.State.Loading,
+                    -> FilledCircularProgressIndicator()
                     is JobListScreenModel.State.Result -> jobList = (jobListState as JobListScreenModel.State.Result).jobs
                 }
             }
@@ -113,7 +114,7 @@ data class JobListScreen(private val dbPath: String) : Screen {
             ) {
                 screenModel.getJobs(
                     searchFilterText,
-                    filterState
+                    filterState,
                 )
             }
 

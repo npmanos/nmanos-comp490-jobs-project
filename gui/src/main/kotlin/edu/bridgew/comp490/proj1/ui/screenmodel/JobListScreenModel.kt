@@ -43,7 +43,7 @@ class JobListScreenModel(private val repository: JobRepository) : StateScreenMod
                     filterState.selectedLocations,
                     filterState.salaryFilterEnabled,
                     filterState.minimumSalary,
-                )
+                ),
             )
         }
 

@@ -65,7 +65,7 @@ data class ShortJobDAO(
             location: String?,
             thumbnail: String?,
             postedAt: String?,
-            jobId: String
+            jobId: String,
         ) = ShortJobDAO(title, companyName, location, thumbnail, postedAt, jobId)
     }
 }

@@ -80,7 +80,7 @@ fun JobDetails(
     shape: Shape = MaterialTheme.shapes.large,
     color: Color = MaterialTheme.colorScheme.background,
     contentColor: Color = contentColorFor(color),
-    scrollState: ScrollState = rememberScrollState()
+    scrollState: ScrollState = rememberScrollState(),
 ) = Surface(
     modifier = modifier,
     shape = shape,

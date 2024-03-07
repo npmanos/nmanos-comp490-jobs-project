@@ -47,5 +47,5 @@ enum class SalaryUnit(val unit: Wage) {
     Hourly(dollars / hour),
     Weekly(dollars / week),
     Monthly(dollars / month),
-    Yearly(dollars / year);
+    Yearly(dollars / year),
 }

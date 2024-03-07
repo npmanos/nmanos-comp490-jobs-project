@@ -77,7 +77,7 @@ fun FilterDialog(
         onDismissRequest = onDismissRequest,
         properties = DialogProperties(
             dismissOnClickOutside = false,
-        )
+        ),
     ) {
         Card(
             modifier = Modifier
@@ -111,7 +111,7 @@ fun FilterDialog(
                     modifier = Modifier.constrainAs(filterTitle) {
                         start.linkTo(parent.start, 16.dp)
                         top.linkTo(parent.top, 16.dp)
-                    }
+                    },
                 )
 
                 Checkbox(
@@ -122,7 +122,7 @@ fun FilterDialog(
                     modifier = Modifier.constrainAs(wfhCheckbox) {
                         start.linkTo(filterTitle.start)
                         top.linkTo(filterTitle.bottom, 8.dp)
-                    }
+                    },
                 )
 
                 Text(
@@ -131,7 +131,7 @@ fun FilterDialog(
                         start.linkTo(wfhCheckbox.end, 4.dp)
                         top.linkTo(wfhCheckbox.top)
                         bottom.linkTo(wfhCheckbox.bottom)
-                    }
+                    },
                 )
 
                 FlowRow(
@@ -143,7 +143,7 @@ fun FilterDialog(
                         width = Dimension.fillToConstraints
 
                         top.linkTo(locationDropdown.bottom, 4.dp)
-                    }
+                    },
                 ) {
                     localState.selectedLocations.forEach { location ->
                         InputChip(
@@ -157,17 +157,17 @@ fun FilterDialog(
                                 Icon(
                                     MaterialIcons.LocationOn,
                                     null,
-                                    Modifier.size(InputChipDefaults.IconSize)
+                                    Modifier.size(InputChipDefaults.IconSize),
                                 )
                             },
                             trailingIcon = {
                                 Icon(
                                     MaterialIcons.Close,
                                     null,
-                                    Modifier.size(InputChipDefaults.IconSize)
+                                    Modifier.size(InputChipDefaults.IconSize),
                                 )
                             },
-                            modifier = Modifier.padding(2.dp)
+                            modifier = Modifier.padding(2.dp),
                         )
                     }
                 }
@@ -179,16 +179,16 @@ fun FilterDialog(
                         start.linkTo(filterTitle.start)
                         top.linkTo(locationDropdown.top)
                         bottom.linkTo(locationDropdown.bottom)
-                    }
+                    },
                 )
 
                 ExposedDropdownMenuBox(
-                    expanded = locationDropdownExpanded  && localState.locationFilterEnabled,
+                    expanded = locationDropdownExpanded && localState.locationFilterEnabled,
                     onExpandedChange = { locationDropdownExpanded = it },
                     modifier = Modifier.constrainAs(locationDropdown) {
                         start.linkTo(locationCheckbox.end, 4.dp)
                         top.linkTo(wfhCheckbox.bottom, 8.dp)
-                    }
+                    },
                 ) {
                     TextField(
                         modifier = Modifier.menuAnchor(),
@@ -199,9 +199,9 @@ fun FilterDialog(
                         },
                         enabled = localState.locationFilterEnabled,
                         placeholder = { Text("Location") },
-                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(locationDropdownExpanded  && localState.locationFilterEnabled) },
+                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(locationDropdownExpanded && localState.locationFilterEnabled) },
                         singleLine = true,
-                        colors = ExposedDropdownMenuDefaults.textFieldColors()
+                        colors = ExposedDropdownMenuDefaults.textFieldColors(),
                     )
 
                     if (dropdownOptionsFiltered.isNotEmpty()) {
@@ -209,7 +209,7 @@ fun FilterDialog(
                             expanded = locationDropdownExpanded && localState.locationFilterEnabled,
                             onDismissRequest = { locationDropdownExpanded = false },
                             properties = PopupProperties(focusable = false),
-                            modifier = Modifier.exposedDropdownSize(true)
+                            modifier = Modifier.exposedDropdownSize(true),
                         ) {
                             dropdownOptionsFiltered.forEach { locationOption ->
                                 key(locationOption) {
@@ -244,7 +244,7 @@ fun FilterDialog(
                         start.linkTo(filterTitle.start)
                         top.linkTo(salaryInput.top)
                         bottom.linkTo(salaryInput.bottom)
-                    }
+                    },
                 )
 
                 constrain(salaryInputChain) {
@@ -278,7 +278,7 @@ fun FilterDialog(
                         top.linkTo(locationChips.bottom, 8.dp)
                         width = Dimension.fillToConstraints
                         horizontalChainWeight = 0.55f
-                    }
+                    },
                 )
 
                 ExposedDropdownMenuBox(
@@ -289,7 +289,7 @@ fun FilterDialog(
                         bottom.linkTo(salaryInput.bottom)
                         width = Dimension.fillToConstraints
                         horizontalChainWeight = 0.45f
-                    }
+                    },
                 ) {
                     TextField(
                         modifier = Modifier.menuAnchor(),
@@ -306,7 +306,7 @@ fun FilterDialog(
                     DropdownMenu(
                         expanded = salaryUnitDropdownExpanded && localState.salaryFilterEnabled,
                         onDismissRequest = { salaryUnitDropdownExpanded = false },
-                        modifier = Modifier.exposedDropdownSize()
+                        modifier = Modifier.exposedDropdownSize(),
                     ) {
                         FilterState.salaryUnitOptionsList.forEach { unit ->
                             key(unit) {
@@ -323,7 +323,7 @@ fun FilterDialog(
                                         if (localState.selectedSalaryUnitStr == unit) {
                                             Icon(MaterialIcons.Check, null)
                                         }
-                                    }
+                                    },
                                 )
                             }
                         }

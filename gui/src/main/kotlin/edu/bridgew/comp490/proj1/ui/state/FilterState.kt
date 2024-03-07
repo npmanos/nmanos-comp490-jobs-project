@@ -20,7 +20,7 @@ fun rememberFilterState(
     selectedLocations: MutableList<String> = mutableListOf(),
     salaryFilterEnabled: Boolean = false,
     minimumSalary: Measure<Wage>? = null,
-    selectedSalaryStr: String = "hour"
+    selectedSalaryStr: String = "hour",
 ): FilterState = rememberSaveable(saver = FilterStateImpl.Saver()) {
     val stateSelectedLocations = mutableStateListOf<String>()
     stateSelectedLocations.addAll(selectedLocations)
@@ -85,7 +85,7 @@ private class FilterStateImpl(
     selectedLocations: MutableList<String>,
     salaryFilterEnabled: Boolean,
     minimumSalary: Measure<Wage>?,
-    selectedSalaryStr: String
+    selectedSalaryStr: String,
 ) : FilterState {
     override var wfhOnly: Boolean by mutableStateOf(wfhOnly)
 
@@ -94,8 +94,8 @@ private class FilterStateImpl(
 
     override val activeFilterCount: Int by derivedStateOf {
         (if (wfhOnly) 1 else 0) +
-        (if (locationFilterEnabled) 1 else 0) +
-        (if (salaryFilterEnabled) 1 else 0)
+            (if (locationFilterEnabled) 1 else 0) +
+            (if (salaryFilterEnabled) 1 else 0)
     }
 
     override var salaryFilterEnabled: Boolean by mutableStateOf(salaryFilterEnabled)
@@ -103,12 +103,12 @@ private class FilterStateImpl(
     override var selectedSalaryUnitStr: String by mutableStateOf(selectedSalaryStr)
 
     override val isDefault: Boolean
-        get() = !wfhOnly
-            && !locationFilterEnabled
-            && selectedLocations.isEmpty()
-            && !salaryFilterEnabled
-            && minimumSalary == null
-            && selectedSalaryUnitStr == "hour"
+        get() = !wfhOnly &&
+            !locationFilterEnabled &&
+            selectedLocations.isEmpty() &&
+            !salaryFilterEnabled &&
+            minimumSalary == null &&
+            selectedSalaryUnitStr == "hour"
 
     override fun reset() {
         wfhOnly = false
@@ -148,7 +148,7 @@ private class FilterStateImpl(
         return result
     }
 
-    @Suppress("UNCHECKED_CAST")
+    @Suppress("UNCHECKED_CAST", "ktlint:standard:function-naming")
     companion object {
         fun Saver() = listSaver<FilterState, Any?>(
             save = {
@@ -170,9 +170,7 @@ private class FilterStateImpl(
                     minimumSalary = state[4] as Measure<Wage>?,
                     selectedSalaryStr = state[5] as String,
                 )
-            }
+            },
         )
     }
-
-
 }

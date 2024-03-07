@@ -38,12 +38,12 @@ val sharedModule = module {
             "jdbc:sqlite:$dbPath",
             Properties().apply { put("foreign_keys", "true") },
             JobSearchDB.Schema,
-            callbacks = arrayOf(AfterVersion(3, Migrations.After3::onMigration))
+            callbacks = arrayOf(AfterVersion(3, Migrations.After3::onMigration)),
         )
 
         JobSearchDB(
             driver,
-            SalaryDAO.Adapter(EnumColumnAdapter())
+            SalaryDAO.Adapter(EnumColumnAdapter()),
         )
     }
 

@@ -28,14 +28,18 @@ internal object Migrations {
                 DetectedExtensionDAO(
                     cursor.getString(0)!!,
                     cursor.getString(1)!!,
-                    cursor.getString(2)!!
+                    cursor.getString(2)!!,
                 )
             }.executeAsList().forEach {
                 val salary = Salary.parse(it.value_)
-                val rowsInserted = driver.execute(null, """
+                val rowsInserted = driver.execute(
+                    null,
+                    """
                     |INSERT INTO SalaryDAO(min, max, unit, originalJson, jobId)
                     |VALUES (?, ?, ?, ?, ?)
-                    """.trimMargin(), 5) {
+                    """.trimMargin(),
+                    5,
+                ) {
                     bindDouble(0, salary.min `in` dollars / hour)
                     bindDouble(1, salary.max `in` dollars / hour)
                     bindString(2, enumAdapter.encode(salary.unit))
@@ -46,11 +50,12 @@ internal object Migrations {
                 require(rowsInserted.value == 1L)
 
                 val rowsDeleted = driver.execute(
-                    null, """
+                    null,
+                    """
                     DELETE FROM DetectedExtensionDAO
                     WHERE jobId = ? AND extType = 'salary'
                     """.trimIndent(),
-                    1
+                    1,
                 ) {
                     bindString(0, it.jobId)
                 }

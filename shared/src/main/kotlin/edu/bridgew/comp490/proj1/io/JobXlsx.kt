@@ -82,7 +82,7 @@ private class JobXlsxRowImpl(private val row: Row) : JobXlsxRow {
 
     override val salaryMin by lazy { row[SALARY_MIN]?.numericCellValue ?: -1.0 }
     override val salaryMax by lazy { row[SALARY_MAX]?.numericCellValue ?: -1.0 }
-    override val salaryType by lazy { (row[SALARY_TYPE]?.stringCellValue )}
+    override val salaryType by lazy { (row[SALARY_TYPE]?.stringCellValue) }
 
     override val jobId by lazy { requireNotNull(row[JOB_ID]?.stringCellValue) { nullColumnError("Job Id") } }
 

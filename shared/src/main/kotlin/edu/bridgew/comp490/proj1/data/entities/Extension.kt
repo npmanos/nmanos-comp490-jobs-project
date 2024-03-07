@@ -71,16 +71,18 @@ data class Salary(val min: Measure<Wage>, val max: Measure<Wage>, val unit: Sala
                     "hourly",
                     "weekly",
                     "monthly",
-                    "yearly"
+                    "yearly",
                 )
 
-                return (digits { minSalary = it.foldThousands() } +
-                    -multiplier { minSalary *= 1000 } +
-                    -char('-', '–', '—') +
-                    -digits { maxSalary = it.foldThousands() } +
-                    -multiplier { maxSalary *= 1000 } +
-                    ' ' + -char('a') + -char('n') + -char(' ') +
-                    wagePeriod { perUnit = it }) { originalJson = it }
+                return (
+                    digits { minSalary = it.foldThousands() } +
+                        -multiplier { minSalary *= 1000 } +
+                        -char('-', '–', '—') +
+                        -digits { maxSalary = it.foldThousands() } +
+                        -multiplier { maxSalary *= 1000 } +
+                        ' ' + -char('a') + -char('n') + -char(' ') +
+                        wagePeriod { perUnit = it }
+                    ) { originalJson = it }
             }
 
             override val result: Salary
@@ -97,7 +99,7 @@ data class Salary(val min: Measure<Wage>, val max: Measure<Wage>, val unit: Sala
                         "hourly" to "an hour",
                         "weekly" to "a week",
                         "monthly" to "a month",
-                        "yearly" to "a year"
+                        "yearly" to "a year",
                     ).forEach { (oldUnit, newUnit) ->
                         if (originalJson.endsWith(oldUnit)) {
                             originalJson = originalJson.removeSuffix(oldUnit).toString() + newUnit
@@ -136,5 +138,3 @@ data class Salary(val min: Measure<Wage>, val max: Measure<Wage>, val unit: Sala
 }
 data class WorkFromHome(val isWFH: Boolean) : Extension("work_from_home")
 data class UnknownExtension(override val extType: String, val value: String) : Extension(extType)
-
-

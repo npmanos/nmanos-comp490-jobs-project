@@ -90,10 +90,10 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
             val salaryMaxStr = if (row.salaryMax != -1.0) "-${row.salaryMax}" else ""
 
             val salary = when (row.salaryType) {
-                "hourly" -> Salary.parse("${row.salaryMin}${salaryMaxStr} an hour")
-                "weekly" -> Salary.parse("${row.salaryMin}${salaryMaxStr} a week")
-                "monthly" -> Salary.parse("${row.salaryMin}${salaryMaxStr} a month")
-                "yearly" -> Salary.parse("${row.salaryMin}${salaryMaxStr} a year")
+                "hourly" -> Salary.parse("${row.salaryMin}$salaryMaxStr an hour")
+                "weekly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a week")
+                "monthly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a month")
+                "yearly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a year")
                 else -> null
             }
 

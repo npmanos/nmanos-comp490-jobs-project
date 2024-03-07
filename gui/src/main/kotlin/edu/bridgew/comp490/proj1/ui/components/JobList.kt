@@ -43,7 +43,7 @@ import androidx.compose.ui.unit.dp
 import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 
-private const val searchBarKey = "edu.bridgew.comp490.proj1.ui.components.JobList:SearchBar"
+private const val SEARCH_BAR_KEY = "edu.bridgew.comp490.proj1.ui.components.JobList:SearchBar"
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
@@ -65,7 +65,7 @@ fun JobList(
             verticalArrangement = Arrangement.spacedBy(8.dp),
             state = listState,
         ) {
-            stickyHeader(searchBarKey) {
+            stickyHeader(SEARCH_BAR_KEY) {
                 Surface(shape = CircleShape) {
                     OutlinedTextField(
                         value = searchText,
@@ -90,7 +90,7 @@ fun JobList(
 
                                 BadgedBox(
                                     badge = { if (activeFilterCount > 0) Badge { Text("$activeFilterCount") } },
-                                    modifier = Modifier.wrapContentSize()
+                                    modifier = Modifier.wrapContentSize(),
                                 ) {
                                     IconButton(
                                         onClick = onFilterButtonClick,
