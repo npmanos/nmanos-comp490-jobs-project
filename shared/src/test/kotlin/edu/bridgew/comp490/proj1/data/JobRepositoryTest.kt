@@ -227,6 +227,19 @@ class JobRepositoryTest {
                 PRIMARY KEY (extType, jobId),
                 FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
             )
+            CREATE TRIGGER JobFTS_ad
+            AFTER DELETE ON JobDAO BEGIN
+                INSERT INTO JobFTS(JobFTS, rowid, title, description, jobId) VALUES ('delete', old.rowid, old.title, old.description, old.jobId);
+            END
+            CREATE TRIGGER JobFTS_ai
+            AFTER INSERT ON JobDAO BEGIN
+                INSERT INTO JobFTS(rowid, title, description, jobId) VALUES (new.rowid, new.title, new.description, new.jobId);
+            END
+            CREATE TRIGGER JobFTS_au
+            AFTER UPDATE ON JobDAO BEGIN
+                INSERT INTO JobFTS(JobFTS, rowid, title, description, jobId) VALUES ('delete', old.rowid, old.title, old.description, old.jobId);
+                INSERT INTO JobFTS(rowid, title, description, jobId) VALUES (new.rowid, new.title, new.description, new.jobId);
+            END
             CREATE TABLE JobDAO (
               title TEXT NOT NULL,
               companyName TEXT NOT NULL,
@@ -236,6 +249,12 @@ class JobRepositoryTest {
               isWFH INTEGER,
               jobId TEXT PRIMARY KEY
             )
+            CREATE VIRTUAL TABLE JobFTS
+            USING fts5(title, description, jobId UNINDEXED, content=JobDAO, content_rowid=rowid, tokenize='porter')
+            CREATE TABLE 'JobFTS_config'(k PRIMARY KEY, v) WITHOUT ROWID
+            CREATE TABLE 'JobFTS_data'(id INTEGER PRIMARY KEY, block BLOB)
+            CREATE TABLE 'JobFTS_docsize'(id INTEGER PRIMARY KEY, sz BLOB)
+            CREATE TABLE 'JobFTS_idx'(segid, term, pgno, PRIMARY KEY(segid, term)) WITHOUT ROWID
             CREATE TABLE JobHighlightDAO (
                 title TEXT,
                 jobId TEXT NOT NULL,
@@ -263,6 +282,14 @@ class JobRepositoryTest {
                 FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
             )
             CREATE INDEX search_query_idx ON QueryDAO(query)
+            CREATE TABLE SalaryDAO (
+                min REAL NOT NULL,
+                max REAL NOT NULL,
+                unit TEXT NOT NULL,
+                originalJson TEXT NOT NULL,
+                jobId TEXT PRIMARY KEY,
+                FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+            )
             """.trimIndent()
 
         @JvmStatic
@@ -361,6 +388,7 @@ class JobRepositoryTest {
     private class JobTestDataProvider : ArgumentsProvider {
         private val jsonTestData: MutableList<Path> = Path(dotenv["JOBSPROJ_TEST_DIR"])
             .listDirectoryEntries("*.json")
+//            .listDirectoryEntries("healthcare_recruiter_nh-20240131000808-0.json")
             .toMutableList()
 
         override fun provideArguments(context: ExtensionContext?): Stream<out Arguments> {
