@@ -244,8 +244,6 @@ class JobRepositoryTest {
         testData.forEach { assertContains(actualFullIds, it.jobId, "Missing unfiltered job ID") }
     }
 
-
-
     @ParameterizedTest(name = "{0}")
     @ArgumentsSource(JobTestDataProvider::class)
     fun `test work from home filter`(testJobSearchResult: JobSearchResult) {
@@ -271,6 +269,19 @@ class JobRepositoryTest {
         assertEquals(expectedFalse.size, actualFalse.size, "Different number of false results")
         val actualFalseIds = actualFalse.map { it.jobId }
         expectedFalse.forEach { assertContains(actualFalseIds, it.jobId, "Missing false job ID") }
+    }
+
+    @ParameterizedTest(name = "{0}")
+    @ArgumentsSource(JobTestDataProvider::class)
+    fun `test unique location retrieval`(testJobSearchResult: JobSearchResult) {
+        val testData = testJobSearchResult.jobsResults!!
+
+        testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
+
+        val expectedLocations = testData.mapNotNull { it.location }.distinct()
+        val actualLocations = jobRepository.getLocations()
+        assertEquals(expectedLocations.size, actualLocations.size, "Different number of locations")
+        actualLocations.forEach { assertContains(expectedLocations, it, "Missing location") }
     }
 
     companion object {
