@@ -18,14 +18,14 @@ import org.koin.dsl.module
 import java.util.*
 
 val sharedModule = module {
-    single(createdAtStart = true) {
+    single {
         dotenv {
             ignoreIfMissing = true
             ignoreIfMalformed = true
         }
     }
 
-    single(named("apiKey"), createdAtStart = true) {
+    single(named("apiKey")) {
         val dotenv by inject<Dotenv>()
         dotenv["JOBSPROJ_API_KEY"]
     }

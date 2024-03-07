@@ -26,7 +26,7 @@ private val dotenv = dotenv {
  *
  * @param apiKey The API key used for authentication with the Serp API.
  */
-class SerpApiClient(private val apiKey: String) {
+class SerpApiClient(private val apiKey: String = "") {
     /**
      * Interceptor class for adding the API key to the request.
      *

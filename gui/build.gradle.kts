@@ -10,6 +10,9 @@ plugins {
 compose.desktop {
     application {
         mainClass = "edu.bridgew.comp490.proj1.ui.MainKt"
+        nativeDistributions {
+            modules("java.instrument", "java.management", "java.security.jgss", "java.sql", "java.xml.crypto", "jdk.unsupported")
+        }
     }
 }
 

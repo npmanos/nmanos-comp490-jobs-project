@@ -10,7 +10,7 @@ import edu.bridgew.comp490.proj1.data.db.DetectedExtensionDAO
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import io.nacular.measured.units.div
 
-internal object Migrations {
+object Migrations {
     object After3 {
         @JvmStatic
         fun onMigration(driver: SqlDriver) {

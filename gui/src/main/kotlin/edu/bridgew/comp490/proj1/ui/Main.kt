@@ -23,12 +23,16 @@ import com.darkrockstudios.libraries.mpfilepicker.MPFile
 import edu.bridgew.comp490.proj1.ui.di.guiModule
 import edu.bridgew.comp490.proj1.ui.screen.JobListScreen
 import edu.bridgew.comp490.proj1.ui.theme.BsuTheme
-import io.github.cdimascio.dotenv.Dotenv
+import io.github.cdimascio.dotenv.dotenv
 import org.apache.commons.lang3.SystemUtils
 import org.koin.compose.KoinApplication
-import org.koin.compose.koinInject
 import java.awt.Dimension
 import java.io.File
+
+private val dotenv = dotenv {
+    ignoreIfMissing = true
+    ignoreIfMalformed = true
+}
 
 @Preview
 @Composable
@@ -74,7 +78,7 @@ fun main() = application {
                 }
             }
 
-            val dotenv: Dotenv = koinInject()
+//            val dotenv: Dotenv = koinInject()
 
             if (dotenv["JOBSPROJ_DEBUG_DB"] != null) {
                 dbPath = dotenv["JOBSPROJ_DEBUG_DB"]
