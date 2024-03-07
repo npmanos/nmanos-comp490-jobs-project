@@ -284,6 +284,37 @@ class JobRepositoryTest {
         actualLocations.forEach { assertContains(expectedLocations, it, "Missing location") }
     }
 
+    @ParameterizedTest(name = "{0}")
+    @ArgumentsSource(JobTestDataProvider::class)
+    fun `test location retrieval`(testJobSearchResult: JobSearchResult) {
+        val testData = testJobSearchResult.jobsResults!!
+
+        testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
+        val locations = testData.mapNotNull { it.location }.distinct()
+
+        locations.forEach { location ->
+            val expectedJobs = testData.filter { it.location == location }
+            val actualJobs = jobRepository.getFilteredShortJobs("", locationFilterEnabled = true, selectedLocations = listOf(location))
+            assertEquals(expectedJobs.size, actualJobs.size, "Different number of filtered jobs")
+            val expectedJobIds = expectedJobs.map { it.jobId }
+            actualJobs.forEach { assertContains(expectedJobIds, it.jobId, "Missing filtered job id") }
+        }
+
+        val expectedAllJobIds = testData.map { it.jobId }
+
+        val actualFilterDisabled = jobRepository.getFilteredShortJobs("", locationFilterEnabled = false, selectedLocations = locations)
+        assertEquals(testData.size, actualFilterDisabled.size, "Different number of disabled jobs")
+        actualFilterDisabled.forEach { assertContains(expectedAllJobIds, it.jobId, "Missing disabled job id") }
+
+        val actualEmptyList = jobRepository.getFilteredShortJobs("", locationFilterEnabled = true, selectedLocations = listOf())
+        assertEquals(testData.size, actualEmptyList.size, "Different number of empty list jobs")
+        actualEmptyList.forEach { assertContains(expectedAllJobIds, it.jobId, "Missing empty list job id") }
+
+        val actualNull = jobRepository.getFilteredShortJobs("", locationFilterEnabled = true, selectedLocations = null)
+        assertEquals(testData.size, actualNull.size, "Different number of null jobs")
+        actualNull.forEach { assertContains(expectedAllJobIds, it.jobId, "Missing null job id") }
+    }
+
     companion object {
         @JvmStatic
         val moshi: Moshi = Moshi.Builder()
