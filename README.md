@@ -141,5 +141,3 @@ tracks what searches returned a particular result also using a `jobId` foreign k
 - [ ] Display the jobs data on a map
   - Make sure to display jobs in such a way that users can tell how many jobs are in a given area
   - This could be using map pins, choropleth maps or some other method
-- [ ] Write additional automated tests:
-  - [ ] Write a test to test each of your four filter functions (four tests in total)
