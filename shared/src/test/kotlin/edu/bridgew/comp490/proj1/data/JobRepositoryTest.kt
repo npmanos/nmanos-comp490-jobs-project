@@ -13,6 +13,7 @@ import edu.bridgew.comp490.proj1.data.entities.Job
 import edu.bridgew.comp490.proj1.data.entities.JobSearchResult
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
+import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.data.entities.adapters.ExtensionJsonAdapter
 import edu.bridgew.comp490.proj1.data.entities.adapters.SearchStatusAdapter
 import edu.bridgew.comp490.proj1.data.entities.adapters.ZonedDateTimeAdapter
@@ -241,6 +242,35 @@ class JobRepositoryTest {
         assertEquals(testData.size, actualFull.size, "Different number of unfiltered results")
         val actualFullIds = actualFull.map { it.jobId }
         testData.forEach { assertContains(actualFullIds, it.jobId, "Missing unfiltered job ID") }
+    }
+
+
+
+    @ParameterizedTest(name = "{0}")
+    @ArgumentsSource(JobTestDataProvider::class)
+    fun `test work from home filter`(testJobSearchResult: JobSearchResult) {
+        val testData = testJobSearchResult.jobsResults!!
+
+        testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
+
+        val actualUnfiltered = jobRepository.getFilteredShortJobs("", null)
+        assertEquals(testData.size, actualUnfiltered.size, "Different number of unfiltered results")
+        val actualUnfilteredIds = actualUnfiltered.map { it.jobId }
+        testData.forEach { assertContains(actualUnfilteredIds, it.jobId, "Missing unfiltered job ID") }
+
+        val expectedTrue = testData
+            .filter { (it.detectedExtensions?.firstOrNull { it is WorkFromHome } as WorkFromHome?)?.isWFH ?: false }
+        val actualTrue = jobRepository.getFilteredShortJobs("", true)
+        assertEquals(expectedTrue.size, actualTrue.size, "Different number of true results")
+        val actualTrueIds = actualTrue.map { it.jobId }
+        expectedTrue.forEach { assertContains(actualTrueIds, it.jobId, "Missing true job ID") }
+
+        val expectedFalse = testData
+            .filter { !((it.detectedExtensions?.firstOrNull { it is WorkFromHome } as WorkFromHome?)?.isWFH ?: true) }
+        val actualFalse = jobRepository.getFilteredShortJobs("", false)
+        assertEquals(expectedFalse.size, actualFalse.size, "Different number of false results")
+        val actualFalseIds = actualFalse.map { it.jobId }
+        expectedFalse.forEach { assertContains(actualFalseIds, it.jobId, "Missing false job ID") }
     }
 
     companion object {
