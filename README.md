@@ -111,19 +111,19 @@ The following command will build and run the app:
 
 #### Open your jobs database
 
-![](img/open_db.gif "Database opening demo")
+![Database opening demo](img/open_db.gif)
 
 #### View job details
 
-![](img/view_details.gif "Job detail view demo")
+![Job detail view demo](img/view_details.gif)
 
 #### Search for jobs with keywords
 
-![](img/search_jobs.gif "Text search demo")
+![Text search demo](img/search_jobs.gif)
 
 #### Filter jobs
 
-![](img/filter_jobs.gif "Apply filters demo")
+![Apply filters demo](img/filter_jobs.gif)
 
 </details>
 
@@ -134,7 +134,7 @@ except for the `job_highlights`, `related_links`, `extensions`, and `detected_ex
 their own tables using `jobId` as a foreign key in order to implement a many-to-one relationship. The QueryDAO table
 tracks what searches returned a particular result also using a `jobId` foreign key many-to-one relationship.
 
-![](img/job_db_diagram.png)
+![Database structure diagram](img/job_db_diagram.png)
 
 ## TODO
 
