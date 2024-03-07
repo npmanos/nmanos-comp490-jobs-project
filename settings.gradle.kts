@@ -2,6 +2,7 @@ pluginManagement {
     repositories {
         mavenCentral()
         gradlePluginPortal()
+        maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     }
 }
 
@@ -10,3 +11,4 @@ plugins {
 }
 
 rootProject.name = "nmanos-jobs-project"
+include("shared", "cli", "gui")

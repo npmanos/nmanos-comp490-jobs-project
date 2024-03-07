@@ -1,0 +1,10 @@
+import edu.bridgew.comp490.proj1.data.SalaryUnit;
+
+CREATE TABLE IF NOT EXISTS SalaryDAO (
+    min REAL NOT NULL,
+    max REAL NOT NULL,
+    unit TEXT AS SalaryUnit NOT NULL,
+    originalJson TEXT NOT NULL,
+    jobId TEXT PRIMARY KEY,
+    FOREIGN KEY (jobId) REFERENCES JobDAO(jobId)
+);

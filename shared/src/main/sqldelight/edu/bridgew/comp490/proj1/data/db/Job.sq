@@ -1,0 +1,136 @@
+import kotlin.Boolean;
+
+CREATE TABLE IF NOT EXISTS JobDAO (
+  title TEXT NOT NULL,
+  companyName TEXT NOT NULL,
+  location TEXT,
+  description TEXT,
+  thumbnail TEXT,
+  isWFH INTEGER AS Boolean,
+  jobId TEXT PRIMARY KEY
+);
+
+getJobCount:
+SELECT COUNT(jobId) AS Int
+FROM JobDAO;
+
+getAllJobs:
+SELECT *
+FROM JobDAO;
+
+getJobsForSearch:
+SELECT *
+FROM JobDAO
+WHERE jobId IN (
+    SELECT jobId
+    FROM QueryDAO
+    WHERE query = :query
+);
+
+getJob:
+SELECT *
+FROM JobDAO
+WHERE jobId = :jobId;
+
+
+getFilteredShortJobs:
+SELECT
+    title,
+    companyName,
+    location,
+    thumbnail,
+    postedAt,
+    jobId
+FROM JobDAO LEFT JOIN (
+    SELECT
+        jobId AS extJobId,
+        value AS postedAt
+    FROM DetectedExtensionDAO
+    WHERE extType = 'posted_at'
+) AS ext ON JobDAO.jobId = ext.extJobId
+WHERE (:keywordFilter = '' OR jobId IN (
+        SELECT jobId
+        FROM JobFTS
+        WHERE JobFTS MATCH :keywordFilter || '*'
+    ))
+   AND (:isWFH IS NULL OR isWFH = :isWFH)
+   AND (:filterLocation = FALSE OR location IN :selectedLocations)
+   AND (:minimumSalary IS NULL OR jobId IN (
+        SELECT jobId
+        FROM SalaryDAO
+        WHERE min >= :minimumSalary
+   ))
+ORDER BY datetime(postedAt) DESC, title;
+
+getLocations:
+SELECT DISTINCT location
+FROM JobDAO
+WHERE location IS NOT NULL
+ORDER BY location;
+
+insertJob:
+INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)
+VALUES (
+:title,
+:companyName,
+:location,
+:description,
+:thumbnail,
+:isWFH,
+:jobId
+);
+
+-- QUERIES --
+insertQuery:
+INSERT OR IGNORE INTO QueryDAO(query, jobId)
+VALUES (:query, :jobId);
+
+-- EXTENSIONS --
+getDetectedExtensions:
+SELECT extType, value
+FROM DetectedExtensionDAO
+WHERE :jobId = jobId;
+
+insertDetectedExtension:
+INSERT OR REPLACE INTO DetectedExtensionDAO(extType, value, jobId)
+VALUES (?, ?, ?);
+
+getExtensions:
+SELECT value
+FROM OtherExtensionDAO
+WHERE :jobId = jobId;
+
+insertExtension:
+INSERT OR IGNORE INTO OtherExtensionDAO(value, jobId)
+VALUES (?, ?);
+
+-- SALARY --
+getSalary:
+SELECT min, max, unit, originalJson
+FROM SalaryDAO
+WHERE jobId = :jobId;
+
+insertSalary:
+INSERT INTO SalaryDAO(min, max, unit, originalJson, jobId)
+VALUES (?, ?, ?, ?, ?);
+
+-- JOB HIGHLIGHTS --
+getHighlights:
+SELECT title, item
+FROM JobHighlightDAO
+WHERE :jobId = jobId;
+
+insertHighlight:
+INSERT OR REPLACE INTO JobHighlightDAO(title, item, jobId)
+VALUES (?, ?, ?);
+
+-- LINKS --
+getLinks:
+SELECT link, `text`
+FROM LinkDAO
+WHERE :jobId = jobId;
+
+insertLink:
+INSERT OR REPLACE INTO LinkDAO
+VALUES (?, ?, ?);
+

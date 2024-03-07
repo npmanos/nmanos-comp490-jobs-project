@@ -14,5 +14,18 @@
         <property name="foreign_keys" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="old_jobs.db" uuid="7054ea86-003d-4ca0-bfac-73733dc85804">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/output/old_jobs.db</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="foreign_keys" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </project>
