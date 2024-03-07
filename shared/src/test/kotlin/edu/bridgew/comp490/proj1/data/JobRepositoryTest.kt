@@ -6,6 +6,11 @@ import app.cash.sqldelight.driver.jdbc.sqlite.JdbcSqliteDriver
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.adapter
 import com.squareup.moshi.addAdapter
+import edu.bridgew.comp490.proj1.data.Currency.Companion.dollars
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.hour
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.month
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.week
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.year
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
 import edu.bridgew.comp490.proj1.data.db.SalaryDAO
 import edu.bridgew.comp490.proj1.data.entities.Extension
@@ -28,6 +33,8 @@ import io.mockk.every
 import io.mockk.impl.annotations.MockK
 import io.mockk.junit5.MockKExtension
 import io.mockk.mockk
+import io.nacular.measured.units.div
+import io.nacular.measured.units.times
 import kotlinx.coroutines.cancel
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.launch
@@ -286,7 +293,7 @@ class JobRepositoryTest {
 
     @ParameterizedTest(name = "{0}")
     @ArgumentsSource(JobTestDataProvider::class)
-    fun `test location retrieval`(testJobSearchResult: JobSearchResult) {
+    fun `test location filter`(testJobSearchResult: JobSearchResult) {
         val testData = testJobSearchResult.jobsResults!!
 
         testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
@@ -295,9 +302,9 @@ class JobRepositoryTest {
         locations.forEach { location ->
             val expectedJobs = testData.filter { it.location == location }
             val actualJobs = jobRepository.getFilteredShortJobs("", locationFilterEnabled = true, selectedLocations = listOf(location))
-            assertEquals(expectedJobs.size, actualJobs.size, "Different number of filtered jobs")
+            assertEquals(expectedJobs.size, actualJobs.size, "Different number of $location jobs")
             val expectedJobIds = expectedJobs.map { it.jobId }
-            actualJobs.forEach { assertContains(expectedJobIds, it.jobId, "Missing filtered job id") }
+            actualJobs.forEach { assertContains(expectedJobIds, it.jobId, "Missing $location job id") }
         }
 
         val expectedAllJobIds = testData.map { it.jobId }
@@ -313,6 +320,34 @@ class JobRepositoryTest {
         val actualNull = jobRepository.getFilteredShortJobs("", locationFilterEnabled = true, selectedLocations = null)
         assertEquals(testData.size, actualNull.size, "Different number of null jobs")
         actualNull.forEach { assertContains(expectedAllJobIds, it.jobId, "Missing null job id") }
+    }
+
+    @ParameterizedTest(name = "{0}")
+    @ArgumentsSource(JobTestDataProvider::class)
+    fun `test minimum salary filter`(testJobSearchResult: JobSearchResult) {
+        val testData = testJobSearchResult.jobsResults!!
+
+        testData.forEach { jobRepository.upsertJob("UNIT_TEST", it) }
+
+        val salaries = listOf(30 * dollars / hour, 1200 * dollars / week, 5200 * dollars / month, 62_400 * dollars / year)
+        salaries.forEach { salary ->
+            val expectedSalaryJobs = testData
+                .filter { ((it.detectedExtensions?.firstOrNull { it is Salary } as Salary?)?.min ?: (-1 * dollars / hour)) >= salary }
+            val actualSalaryJobs = jobRepository.getFilteredShortJobs("", salaryFilterEnabled = true, minSalary = salary)
+            assertEquals(expectedSalaryJobs.size, actualSalaryJobs.size, "Different number of jobs for $salary")
+            val expectedSalaryIds = expectedSalaryJobs.map { it.jobId }
+            expectedSalaryJobs.forEach { assertContains(expectedSalaryIds, it.jobId, "Missing job id for $salary") }
+        }
+
+        val expectedAllJobIds = testData.map { it.jobId }
+
+        val actualFilterDisabled = jobRepository.getFilteredShortJobs("", salaryFilterEnabled = false, minSalary = 30 * dollars / hour)
+        assertEquals(testData.size, actualFilterDisabled.size)
+        actualFilterDisabled.forEach { assertContains(expectedAllJobIds, it.jobId, "Different number of disabled jobs") }
+
+        val actualNull = jobRepository.getFilteredShortJobs("", salaryFilterEnabled = true, minSalary = null)
+        assertEquals(testData.size, actualNull.size)
+        actualNull.forEach { assertContains(expectedAllJobIds, it.jobId, "Different number of disabled jobs") }
     }
 
     companion object {
