@@ -177,7 +177,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
     ): List<ShortJobDAO> = queries.getFilteredShortJobs(
         keywordFilter,
         isWFH,
-        locationFilterEnabled.toLong(),
+        (locationFilterEnabled && !selectedLocations.isNullOrEmpty()).toLong(),
         selectedLocations ?: listOf(),
         salaryFilterEnabled.toLong(),
         minSalary?.`in`(dollars / hour) ?: -1.0,
