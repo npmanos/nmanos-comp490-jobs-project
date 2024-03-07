@@ -100,6 +100,8 @@ class JobRepositoryTest {
             .executeAsList()
             .reduce { acc, s -> "$acc\n$s" }
 
+        println(actualSchema)
+
         assertEquals(jobSearchDDL, actualSchema)
     }
 

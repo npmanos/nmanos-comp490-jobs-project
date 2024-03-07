@@ -8,6 +8,7 @@ import com.kotlinspirit.core.Rules.double
 import com.kotlinspirit.grammar.Grammar
 import edu.bridgew.comp490.proj1.data.SalaryUnit
 import edu.bridgew.comp490.proj1.data.Wage
+import edu.bridgew.comp490.proj1.equalsDelta
 import edu.bridgew.comp490.proj1.foldThousands
 import io.nacular.measured.units.Measure
 import io.nacular.measured.units.times
@@ -109,6 +110,28 @@ data class Salary(val min: Measure<Wage>, val max: Measure<Wage>, val unit: Sala
                     return Salary(min, max, salaryUnit, originalJson.toString()).apply { resetResult() }
                 }
         }.toRule()
+    }
+
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as Salary
+
+        if (!min.amount.equalsDelta(other.min.amount)) return false
+        if (!max.amount.equalsDelta(other.max.amount)) return false
+        if (unit != other.unit) return false
+        if (originalJson != other.originalJson) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = min.hashCode()
+        result = 31 * result + max.hashCode()
+        result = 31 * result + unit.hashCode()
+        result = 31 * result + originalJson.hashCode()
+        return result
     }
 }
 data class WorkFromHome(val isWFH: Boolean) : Extension("work_from_home")

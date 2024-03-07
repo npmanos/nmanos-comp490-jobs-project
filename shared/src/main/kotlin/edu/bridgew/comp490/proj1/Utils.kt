@@ -7,6 +7,8 @@ import org.apache.poi.ss.usermodel.Sheet
 import org.apache.poi.ss.usermodel.Workbook
 import org.ocpsoft.prettytime.PrettyTime
 import java.time.LocalDateTime
+import kotlin.math.abs
+import kotlin.math.max
 import kotlin.math.pow
 
 /**
@@ -88,3 +90,12 @@ fun List<Double>.foldThousands() = foldIndexed(0.0) { idx, acc, next ->
 }
 
 fun Boolean.toLong(): Long = if (this) 1 else 0
+
+/**
+ * See [Exploring Double Equality in Kotlin](https://levelup.gitconnected.com/double-equality-in-kotlin-f99392cba0e4)
+ *
+ * This should really be solved with [BigDecimal][java.math.BigDecimal], but I don't have time right now.
+ *
+ * @author syIsTyping
+ */
+fun Double.equalsDelta(other: Double) = abs(this - other) < max(Math.ulp(this), Math.ulp(other)) * 2
