@@ -27,7 +27,6 @@ import io.github.cdimascio.dotenv.Dotenv
 import org.apache.commons.lang3.SystemUtils
 import org.koin.compose.KoinApplication
 import org.koin.compose.koinInject
-import org.koin.core.logger.Level
 import java.awt.Dimension
 import java.io.File
 
@@ -44,7 +43,6 @@ fun App(dbPath: String) {
 
 fun main() = application {
     KoinApplication(application = {
-        printLogger(Level.INFO)
         modules(guiModule)
     }) {
         val state = rememberWindowState(width = 1280.dp, height = 720.dp)
