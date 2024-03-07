@@ -36,23 +36,18 @@ interface JobXlsxRow {
     /**
      * The minimum salary for the job.
      *
-     * This is represented as a string. The string is empty when [salaryType] is null.
-     *
      * @see salaryMax
      * @see salaryType
      */
-    val salaryMin: String
+    val salaryMin: Double
 
     /**
      * The maximum salary for the job.
      *
-     * This is represented as a string prefixed with a hyphen. The string is empty when
-     * [salaryType] is null or the value in the spreadsheet is `-1`.
-     *
      * @see salaryMin
      * @see salaryType
      */
-    val salaryMax: String
+    val salaryMax: Double
 
     /**
      * The pay period for the listed salary.

@@ -43,7 +43,7 @@ internal class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
             when (key) {
                 "schedule_type" -> extList.add(ScheduleType(nextString()))
                 "posted_at" -> extList.add(PostedAt(toLocalDateTime(nextString())))
-                "salary" -> extList.add(Salary(nextString()))
+                "salary" -> extList.add(Salary.parse(nextString()))
                 "work_from_home" -> extList.add(WorkFromHome(nextBoolean()))
                 else -> extList.add(UnknownExtension(key, nextSource().readUtf8()))
             }
@@ -64,7 +64,7 @@ internal class ExtensionJsonAdapter : JsonAdapter<List<Extension>>() {
             when (extension) {
                 is ScheduleType -> name("schedule_type").value(extension.type)
                 is PostedAt -> name("posted_at").value(extension.date.relativeTimeString)
-                is Salary -> name("salary").value(extension.salaryRange)
+                is Salary -> name("salary").value(extension.originalJson)
                 is WorkFromHome -> name("work_from_home").value(extension.isWFH)
                 is UnknownExtension -> name(extension.extType).value(extension.value)
             }

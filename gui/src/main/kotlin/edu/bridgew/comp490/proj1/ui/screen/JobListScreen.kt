@@ -7,26 +7,28 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.rememberLazyListState
-import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.currentCompositeKeyHash
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.core.screen.uniqueScreenKey
 import cafe.adriel.voyager.koin.getScreenModel
-import edu.bridgew.comp490.proj1.data.entities.Job
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
+import edu.bridgew.comp490.proj1.ui.components.FilledCircularProgressIndicator
+import edu.bridgew.comp490.proj1.ui.components.FilterDialog
 import edu.bridgew.comp490.proj1.ui.components.JobDetails
 import edu.bridgew.comp490.proj1.ui.components.JobList
 import edu.bridgew.comp490.proj1.ui.screenmodel.JobListScreenModel
+import edu.bridgew.comp490.proj1.ui.state.rememberFilterState
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import org.koin.core.parameter.parametersOf
 
@@ -37,9 +39,15 @@ data class JobListScreen(private val dbPath: String) : Screen {
     @Composable
     override fun Content() {
         val screenModel = getScreenModel<JobListScreenModel> { parametersOf(dbPath) }
-        val state by screenModel.state.collectAsState()
-        var selectedJob by remember { mutableStateOf<Job?>(null) }
-        var selectedJobId by remember { mutableStateOf("") }
+        val jobListState by screenModel.state.collectAsState()
+        var jobList by remember { mutableStateOf(listOf<ShortJobDAO>()) }
+        var selectedJob by remember { mutableStateOf<ShortJobDAO?>(null) }
+        val detailLoadState by screenModel.detailState.collectAsState()
+        var searchFilterText by remember { mutableStateOf("") }
+        var showFilterDialog by remember { mutableStateOf(false) }
+        val filterState = rememberFilterState()
+        val listState = rememberLazyListState()
+        val detailScrollState = rememberScrollState()
 
         Row(
             modifier = Modifier.fillMaxSize(),
@@ -51,22 +59,28 @@ data class JobListScreen(private val dbPath: String) : Screen {
                     .weight(0.3f)
                     .padding(start = 16.dp, top = 16.dp, bottom = 16.dp),
             ) {
-                val listState = rememberLazyListState()
-                when (state) {
-                    is JobListScreenModel.State.Init -> {
-                        LaunchedEffect(currentCompositeKeyHash) { screenModel.getJobs() }
-                    }
+                JobList(
+                    jobs = jobList,
+                    selectedJobId = selectedJob?.jobId,
+                    listState = listState,
+                    onSelect = { selectedJob = it },
+                    onSearchFilterTextChange = {
+                        searchFilterText = it.ifBlank { "" }
+                    },
+                    onClearFilterSearchClicked = {
+                        searchFilterText = ""
+                    },
+                    activeFilterCount = filterState.activeFilterCount,
+                    onFilterButtonClick = {
+                        showFilterDialog = true
+                    },
+                )
 
-                    is JobListScreenModel.State.Loading -> LoadingJobs()
-                    is JobListScreenModel.State.Result -> JobList(
-                        jobs = (state as JobListScreenModel.State.Result).jobs,
-                        selectedJobId = selectedJobId,
-                        listState = listState,
-                        onSelect = {
-                            selectedJob = it
-                            selectedJobId = it.jobId
-                        },
-                    )
+                when (jobListState) {
+                    is JobListScreenModel.State.Init,
+                    is JobListScreenModel.State.Loading,
+                    -> FilledCircularProgressIndicator()
+                    is JobListScreenModel.State.Result -> jobList = (jobListState as JobListScreenModel.State.Result).jobs
                 }
             }
 
@@ -74,18 +88,39 @@ data class JobListScreen(private val dbPath: String) : Screen {
 
             Box(modifier = Modifier.weight(0.65f)) {
                 JobDetails(
-                    job = selectedJob,
+                    state = detailLoadState,
                     modifier = Modifier.fillMaxHeight().padding(end = 16.dp, top = 16.dp, bottom = 16.dp),
                     shape = MaterialTheme.shapes.large,
+                    scrollState = detailScrollState,
                 )
             }
-        }
-    }
 
-    @Composable
-    private fun LoadingJobs() {
-        Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-            CircularProgressIndicator()
+            if (showFilterDialog) {
+                FilterDialog(
+                    onApplyRequest = {
+                        showFilterDialog = false
+                    },
+                    onDismissRequest = { showFilterDialog = false },
+                    state = filterState,
+                    allLocations = screenModel.locations,
+                )
+            }
+
+            val filterStateHash by derivedStateOf { filterState.hashCode() }
+
+            LaunchedEffect(
+                searchFilterText,
+                filterStateHash,
+            ) {
+                screenModel.getJobs(
+                    searchFilterText,
+                    filterState,
+                )
+            }
+
+            LaunchedEffect(selectedJob) {
+                selectedJob?.let { screenModel.getFullJob(it) }
+            }
         }
     }
 }

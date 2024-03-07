@@ -14,25 +14,33 @@ import androidx.compose.material3.ListItemDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.util.fastFirstOrNull
-import edu.bridgew.comp490.proj1.data.entities.Job
-import edu.bridgew.comp490.proj1.data.entities.PostedAt
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.ui.utils.HorizontalSpacer
 import edu.bridgew.comp490.proj1.ui.utils.MaterialIcons
 import edu.bridgew.comp490.proj1.ui.utils.relativeTimeStringGui
+import java.time.LocalDateTime
 
 @Composable
 fun JobListItem(
-    job: Job,
+    job: ShortJobDAO,
     selected: Boolean = false,
-    onClick: (Job) -> Unit = {},
+    onClick: (String) -> Unit = {},
 ) {
+    val postedAt by remember(job.postedAt) {
+        derivedStateOf {
+            job.postedAt?.let { LocalDateTime.parse(it) }
+        }
+    }
+
     Card(
-        onClick = { onClick(job) },
+        onClick = { onClick(job.jobId) },
     ) {
         ListItem(
             colors = JobListItemColors(selected),
@@ -92,15 +100,9 @@ fun JobListItem(
                 Row(
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
-                    if (!job.detectedExtensions.isNullOrEmpty()) {
-                        val postedAt: PostedAt? = job.detectedExtensions!!.fastFirstOrNull { it is PostedAt } as PostedAt?
-
-                        postedAt?.date?.let {
-                            Text(
-                                text = it.relativeTimeStringGui,
-                            )
-                        }
-                    }
+                    Text(
+                        text = postedAt?.relativeTimeStringGui ?: "",
+                    )
                 }
             },
         )

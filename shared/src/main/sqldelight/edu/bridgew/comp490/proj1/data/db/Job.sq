@@ -27,6 +27,47 @@ WHERE jobId IN (
     WHERE query = :query
 );
 
+getJob:
+SELECT *
+FROM JobDAO
+WHERE jobId = :jobId;
+
+
+getFilteredShortJobs:
+SELECT
+    title,
+    companyName,
+    location,
+    thumbnail,
+    postedAt,
+    jobId
+FROM JobDAO LEFT JOIN (
+    SELECT
+        jobId AS extJobId,
+        value AS postedAt
+    FROM DetectedExtensionDAO
+    WHERE extType = 'posted_at'
+) AS ext ON JobDAO.jobId = ext.extJobId
+WHERE (:keywordFilter = '' OR jobId IN (
+        SELECT jobId
+        FROM JobFTS
+        WHERE JobFTS MATCH :keywordFilter || '*'
+    ))
+   AND (:isWFH IS NULL OR isWFH = :isWFH)
+   AND (:filterLocation = FALSE OR location IN :selectedLocations)
+   AND (:minimumSalary IS NULL OR jobId IN (
+        SELECT jobId
+        FROM SalaryDAO
+        WHERE min >= :minimumSalary
+   ))
+ORDER BY datetime(postedAt) DESC, title;
+
+getLocations:
+SELECT DISTINCT location
+FROM JobDAO
+WHERE location IS NOT NULL
+ORDER BY location;
+
 insertJob:
 INSERT OR REPLACE INTO JobDAO(title, companyName, location, description, thumbnail, isWFH, jobId)
 VALUES (
@@ -62,6 +103,16 @@ WHERE :jobId = jobId;
 insertExtension:
 INSERT OR IGNORE INTO OtherExtensionDAO(value, jobId)
 VALUES (?, ?);
+
+-- SALARY --
+getSalary:
+SELECT min, max, unit, originalJson
+FROM SalaryDAO
+WHERE jobId = :jobId;
+
+insertSalary:
+INSERT INTO SalaryDAO(min, max, unit, originalJson, jobId)
+VALUES (?, ?, ?, ?, ?);
 
 -- JOB HIGHLIGHTS --
 getHighlights:

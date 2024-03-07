@@ -2,6 +2,8 @@ package edu.bridgew.comp490.proj1.data
 
 import app.cash.sqldelight.coroutines.asFlow
 import app.cash.sqldelight.coroutines.mapToList
+import edu.bridgew.comp490.proj1.data.Currency.Companion.dollars
+import edu.bridgew.comp490.proj1.data.WagePeriod.Companion.hour
 import edu.bridgew.comp490.proj1.data.db.JobDAO
 import edu.bridgew.comp490.proj1.data.db.JobSearchDB
 import edu.bridgew.comp490.proj1.data.entities.Extension
@@ -11,12 +13,16 @@ import edu.bridgew.comp490.proj1.data.entities.Link
 import edu.bridgew.comp490.proj1.data.entities.PostedAt
 import edu.bridgew.comp490.proj1.data.entities.Salary
 import edu.bridgew.comp490.proj1.data.entities.ScheduleType
+import edu.bridgew.comp490.proj1.data.entities.ShortJobDAO
 import edu.bridgew.comp490.proj1.data.entities.UnknownExtension
 import edu.bridgew.comp490.proj1.data.entities.WorkFromHome
 import edu.bridgew.comp490.proj1.executeAsListOrNull
 import edu.bridgew.comp490.proj1.io.JobXlsx
 import edu.bridgew.comp490.proj1.nullIfEmpty
 import edu.bridgew.comp490.proj1.relativeTimeString
+import edu.bridgew.comp490.proj1.toLong
+import io.nacular.measured.units.Measure
+import io.nacular.measured.units.div
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
@@ -81,17 +87,19 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         xlsx.forEach { row ->
             val postedAt = row.postedAt?.let { PostedAt(it) }
 
+            val salaryMaxStr = if (row.salaryMax != -1.0) "-${row.salaryMax}" else ""
+
             val salary = when (row.salaryType) {
-                "hourly" -> Salary("${row.salaryMin}${row.salaryMax} an hour")
-                "weekly" -> Salary("${row.salaryMin}${row.salaryMax} a week")
-                "monthly" -> Salary("${row.salaryMin}${row.salaryMax} a month")
-                "yearly" -> Salary("${row.salaryMin}${row.salaryMax} a year")
+                "hourly" -> Salary.parse("${row.salaryMin}$salaryMaxStr an hour")
+                "weekly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a week")
+                "monthly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a month")
+                "yearly" -> Salary.parse("${row.salaryMin}$salaryMaxStr a year")
                 else -> null
             }
 
             val extensions = mutableListOf<String>().apply {
                 if (postedAt != null) this.add(postedAt.date.relativeTimeString)
-                if (salary != null) this.add(salary.salaryRange)
+                if (salary != null) this.add(salary.originalJson)
             }
 
             val detectedExtensions = mutableListOf<Extension>().apply {
@@ -112,7 +120,7 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         }
     }
 
-    private fun upsertJob(query: String, job: Job) {
+    internal fun upsertJob(query: String, job: Job) {
         queries.transaction {
             val isWFH: Boolean? = (job.detectedExtensions?.firstOrNull { it is WorkFromHome } as WorkFromHome?)?.isWFH
             queries.insertJob(
@@ -139,13 +147,17 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
                 when (it) {
                     is ScheduleType -> queries.insertDetectedExtension(it.extType, it.type, job.jobId)
                     is PostedAt -> queries.insertDetectedExtension(it.extType, it.date.toString(), job.jobId)
-                    is Salary -> queries.insertDetectedExtension(it.extType, it.salaryRange, job.jobId)
+                    is Salary -> queries.insertSalary(it.min `in` dollars / hour, it.max `in` dollars / hour, it.unit, it.originalJson, job.jobId)
                     is WorkFromHome -> return@forEach
                     is UnknownExtension -> queries.insertDetectedExtension(it.extType, it.value, job.jobId)
                 }
             }
         }
     }
+
+    fun getJob(jobId: String): Job = queries.getJob(jobId)
+        .executeAsOne()
+        .transformToJob()
 
     fun getJobs(): List<Job> = queries.getAllJobs()
         .executeAsList()
@@ -154,6 +166,22 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
     fun getJobs(query: String): List<Job> = queries.getJobsForSearch(query)
         .executeAsList()
         .map { it.transformToJob() }
+
+    fun getFilteredShortJobs(
+        keywordFilter: String,
+        isWFH: Boolean? = null,
+        locationFilterEnabled: Boolean = false,
+        selectedLocations: Collection<String>? = null,
+        salaryFilterEnabled: Boolean = false,
+        minSalary: Measure<Wage>? = null,
+    ): List<ShortJobDAO> = queries.getFilteredShortJobs(
+        keywordFilter,
+        isWFH,
+        (locationFilterEnabled && !selectedLocations.isNullOrEmpty()).toLong(),
+        selectedLocations ?: listOf(),
+        if (salaryFilterEnabled) minSalary?.`in`(dollars / hour) else null,
+        ShortJobDAO::build,
+    ).executeAsList()
 
     fun getJobsAsync(): Flow<Job> = queries.getAllJobs()
         .asFlow()
@@ -164,6 +192,8 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
         .asFlow()
         .mapToList(Dispatchers.IO)
         .transformToJobs()
+
+    fun getLocations(): List<String> = queries.getLocations().executeAsList()
 
     private fun JobDAO.transformToJob(): Job {
         val highlights = queries.getHighlights(jobId)
@@ -187,7 +217,8 @@ class JobRepository(private val apiService: GoogleJobSearchServiceImpl, db: JobS
 
     private fun getDetectedExtensions(job: JobDAO): List<Extension>? {
         val extensions: List<Extension> = mutableListOf<Extension>() +
-            queries.getDetectedExtensions(job.jobId, Extension::getById).executeAsList()
+            queries.getDetectedExtensions(job.jobId, Extension::getById).executeAsList() +
+            queries.getSalary(job.jobId) { min, max, unit, originalJson -> Salary(min.hourly() `as` unit.unit, max.hourly() `as` unit.unit, unit, originalJson) }.executeAsList()
 
         if (job.isWFH != null) {
             return extensions + when (job.isWFH) {

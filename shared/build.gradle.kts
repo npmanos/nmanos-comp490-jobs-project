@@ -21,6 +21,8 @@ dependencies {
 
     implementation(libs.bundles.koin)
 
+    implementation(libs.kotlinspirit.core)
+
     implementation(libs.bundles.moshi)
     implementation(libs.retrofit.converter.moshi)
 

@@ -4,8 +4,8 @@
 
 Author: Nick Manos
 
-A small utility to saves job search results from an Excel file and 50 results from a Google job search to a database
-then write them all to a formatted text file.
+A small utility to saves job search results from an Excel file a Google job search to a database
+ and a companion app to browse and filter the data.
 
 ## Installation
 
@@ -37,7 +37,7 @@ then write them all to a formatted text file.
 2. Create the environment file
 
    ```bash
-   cp sample.env .env
+   cp sample.env cli/.env
    ```
 
 3. Add your SerpApi API key to the .env file
@@ -46,15 +46,20 @@ then write them all to a formatted text file.
    JOBSPROJ_API_KEY=your_key_here
    ```
 
-4. Build the project
-
-   ```bash
-   ./gradlew installDist
-   ```
-
 ## Usage
 
-After building the project, run `dist/bin/job-search` in your terminal.
+### job-search CLI
+
+<details>
+    <summary>Instructions</summary>
+
+First build the project
+
+```bash
+./gradlew :cli:installDist
+```
+
+Then run `dist/bin/job-search` in your terminal.
 
 > [!IMPORTANT]
 > There is a known bug which can cause file writing to take a long time. If the application seems to be frozen on
@@ -91,6 +96,36 @@ Options:
   -V, --version          Display version information and exit
   -h, --help             Show this message and exit
 ```
+</details>
+
+### Job Browser App
+
+<details open>
+    <summary>Instructions</summary>
+
+The following command will build and run the app:
+
+```bash
+./gradlew :gui:run
+```
+
+#### Open your jobs database
+
+![Database opening demo](img/open_db.gif)
+
+#### View job details
+
+![Job detail view demo](img/view_details.gif)
+
+#### Search for jobs with keywords
+
+![Text search demo](img/search_jobs.gif)
+
+#### Filter jobs
+
+![Apply filters demo](img/filter_jobs.gif)
+
+</details>
 
 ## Database Structure
 
@@ -99,9 +134,10 @@ except for the `job_highlights`, `related_links`, `extensions`, and `detected_ex
 their own tables using `jobId` as a foreign key in order to implement a many-to-one relationship. The QueryDAO table
 tracks what searches returned a particular result also using a `jobId` foreign key many-to-one relationship.
 
-![Project database structure](img/job_db_diagram.png)
+![Database structure diagram](img/job_db_diagram.png)
 
 ## TODO
 
-- [ ] Prove slow file writing has been fully resolved
-  - [ ] Write a unit test to catch regressions
+- [ ] Display the jobs data on a map
+  - Make sure to display jobs in such a way that users can tell how many jobs are in a given area
+  - This could be using map pins, choropleth maps or some other method
