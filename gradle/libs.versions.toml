@@ -50,7 +50,7 @@ log4j-impl-api = { module = "org.apache.logging.log4j:log4j-api" }
 log4j-impl-slf4j = { module = "org.apache.logging.log4j:log4j-slf4j-impl" }
 log4j-runtime-core = { module = "org.apache.logging.log4j:log4j-core" }
 
-test-mockk = { module = "io.mockk:mockk", version = "1.13.9" }
+test-mockk = { module = "io.mockk:mockk", version = "1.13.11" }
 
 moshi-core = { module = "com.squareup.moshi:moshi", version.ref = "moshi" }
 moshi-ksp = { module = "com.squareup.moshi:moshi-kotlin-codegen", version.ref = "moshi" }
