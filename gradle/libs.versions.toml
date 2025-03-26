@@ -1,7 +1,7 @@
 [versions]
 koin = "3.5.3" # REMEMBER TO UPDATE koin-compose!!!!
 kotlin = "1.9.22"
-ksp = "1.9.22-1.0.17"
+ksp = "2.1.20-1.0.32"
 landscapist = "2.3.1"
 sqldelight = "2.0.1"
 retrofit = "2.9.0"
